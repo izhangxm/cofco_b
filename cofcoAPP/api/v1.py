@@ -47,7 +47,7 @@ def controlSpider(request):
 
         error_ = []
         if action == 'new':
-            spider_type = request.POST.get('spider_type')
+            spider_type = int(request.POST.get('spider_type'))
             uid = request.POST.get('uid')
             uname = request.POST.get('uname')
 
@@ -56,11 +56,9 @@ def controlSpider(request):
             content_thread_num = int(request.POST.get('content_thread_num', spiders.defalt_content_thread_num))
 
             if not kw_id or not uid or not uname:
-                raise Exception('kw_id,uid and uname is required')
-            if spider_type != '1' and spider_type != '2':
-                raise Exception('spider_type is invalided')
+                raise Exception('kw_id, uid and uname is required')
 
-            if spider_type == '1':
+            if spider_type == 1:
                 sfp = SpiderManagerForPubmed(kw_id=kw_id,
                                              ids_thread_num=ids_thread_num,
                                              content_process_num=content_process_num,
@@ -68,7 +66,7 @@ def controlSpider(request):
                                              create_user_id=uid,
                                              create_user_name=uname)
                 sfp.start()
-            elif spider_type == '2':
+            elif spider_type == 2:
                 sfp = SpiderManagerForScience(kw_id=kw_id,
                                               ids_thread_num=ids_thread_num,
                                               content_process_num=content_process_num,
@@ -76,6 +74,8 @@ def controlSpider(request):
                                               create_user_id=uid,
                                               create_user_name=uname)
                 sfp.start()
+            else:
+                raise Exception('Unknown spider type. It must be 1 or 2.')
 
             resp_data['info'] = 'start successful'
         elif action == 'pause':

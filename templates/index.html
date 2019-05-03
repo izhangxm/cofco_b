@@ -35,9 +35,10 @@
         }
     </style>
     <script language="JavaScript">
+        API_URL = ''
         function control_spider(kw_id, action, idsP, contentP) {
             var data = {kw_id: kw_id, action: action,idsP:idsP,contentP:contentP}
-            $.post('/api/v1/controlspider/', data, function (resp) {
+            $.post(API_URL+'/api/v1/controlspider/', data, function (resp) {
                 if (resp['status'] == 1) {
                     updateTipinfo(resp['info'])
                 } else {
@@ -48,7 +49,7 @@
         function new_spider(spider_type) {
             var kw_id = Math.floor(Math.random() * 1000);
             var data = {spider_type: spider_type, kw_id: kw_id, uid: '25', uname: 'izhangxm', action: 'new'}
-            $.post('/api/v1/controlspider/', data, function (resp) {
+            $.post(API_URL+'/api/v1/controlspider/', data, function (resp) {
                 if (resp['status'] == 1) {
                     updateTipinfo(resp['info'])
                 } else {
@@ -141,7 +142,7 @@
             if (!start_update_info) {
                 return
             }
-            $.get('/api/v1/getthreadstatus/', function (resp) {
+            $.get(API_URL+'/api/v1/getthreadstatus/', function (resp) {
                 var data = resp['data'];
                 var thread_title_ele = $('#tr_title_id')[0];
                 var thread_status_list_ele = $('#thread_status_list_id')[0];
