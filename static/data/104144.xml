@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">128620</PMID>
+        <DateCompleted>
+            <Year>1976</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-3085</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>44</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1976</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neurosurgery</Title>
+                <ISOAbbreviation>J. Neurosurg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A new approach to the surgical treatment of lumbar spondylosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>148-55</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The authors discuss routine removal of inferior articular processes and their facets during laminectomy, with wide visualization of the lumbar nerve roots, which has proven to be most successful in relief of the symptoms of lumbar spondylosis. No instance of postoperative vertebral instability has been found. In a consecutive series of 70 patients averaging 58.3 years of age, 91% of patients adequately followed did well. Of six patients who did poorly, three had apparent explanations and, presumably, such errors are avoidable. Despite the generally advanced age of this series (12 patients aged over 70 years) there was no mortality or undue morbidity. Patients previously operated on for disc herniation, as a group, were somewhat younger and the spondylosis tended to be more localized (to the area of previous surgery) than in patients operated on for the first time.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shenkin</LastName>
+                    <ForeName>H A</ForeName>
+                    <Initials>HA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hash</LastName>
+                    <ForeName>C J</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosurg</MedlineTA>
+            <NlmUniqueID>0253357</NlmUniqueID>
+            <ISSNLinking>0022-3085</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001416" MajorTopicYN="N">Back Pain</DescriptorName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007405" MajorTopicYN="N">Intervertebral Disc Displacement</DescriptorName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007796" MajorTopicYN="N">Laminectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008159" MajorTopicYN="N">Lumbar Vertebrae</DescriptorName>
+                <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009192" MajorTopicYN="N">Myelography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010148" MajorTopicYN="N">Pain, Intractable</DescriptorName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011843" MajorTopicYN="N">Radiculopathy</DescriptorName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012008" MajorTopicYN="N">Recurrence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012585" MajorTopicYN="N">Sciatica</DescriptorName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013167" MajorTopicYN="N">Spondylitis, Ankylosing</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1976</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1976</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1976</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">128620</ArticleId>
+            <ArticleId IdType="doi">10.3171/jns.1976.44.2.0148</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
