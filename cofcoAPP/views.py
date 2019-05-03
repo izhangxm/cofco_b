@@ -118,6 +118,7 @@ def controlSpider(request):
                                               ids_thread_num=ids_thread_num,
                                               content_process_num=content_process_num,
                                               content_thread_num=content_thread_num,
+                                              create_user_id=uid,
                                               create_user_name=uname)
                 sfp.start()
 
