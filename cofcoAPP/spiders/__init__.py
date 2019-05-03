@@ -30,6 +30,11 @@ logger = Logger(fp_locker=LOG_FILE_LOCK, file_path=logfile,screen_locker=SCREEN_
 # 定义状态名称
 STATUS_NAME = {-2:'失败', -1: '未初始化', 0: '未运行', 1: '运行中', 2: '已暂停', 3:'已完成', 4:'已终止', 5:'混合状态'}
 
+defalt_ids_thread_num = 4  # ids线程个数
+defalt_content_process_num = 2  # Content进程个数
+defalt_content_thread_num = 16  # 每个Content进程的线程个数
+
+
 ids_max_retry_times = 30
 content_max_retry_times = 10
 defalt_timeout = 2

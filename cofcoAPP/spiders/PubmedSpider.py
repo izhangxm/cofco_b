@@ -31,7 +31,7 @@ from cofcoAPP import spiders
 
 # 任务生成爬虫
 class _pubmedIDWorker(Process):
-    def __init__(self, kw_id, name=None,thread_num=5):
+    def __init__(self, kw_id, name=None,thread_num=4):
         Process.__init__(self)
         self.kw_id = kw_id
         self.name = name
@@ -393,7 +393,7 @@ class _pubmedContendWorker(Process):
 
 # 爬虫对象
 class SpiderManagerForPubmed(object):
-    def __init__(self, content_process_num=2, content_thread_num=8, **kwargs):
+    def __init__(self, ids_thread_num=4, content_process_num=2, content_thread_num=8, **kwargs):
         # 爬虫的状态信息
         self.kw_id = kwargs['kw_id']
         if SPIDERS_STATUS.get(self.kw_id):
@@ -401,10 +401,10 @@ class SpiderManagerForPubmed(object):
         self.TYPE = 'PUBMED_SPIDER'
         self.id_process = None  # ID进程对象
         self.content_process = []  # Content进程对象
+        self.ids_thread_num = ids_thread_num  # ids线程个数
         self.content_process_num = content_process_num  # Content进程个数
         self.content_thread_num = content_thread_num  # 每个Content进程的线程个数
 
-        # self.update_times = kwargs['update_times']  # 更新频率, 可选值为1,2,3,4,5，类型为字符串，暂时不支持
         self.ids_queen = ProcessQueen(maxsize=-1)  # 待爬取的文章ID列表，是个队列
         self.page_Num = Value('i', 0, lock=True)  # 页数
         self.finished_page_Num = Value('i', 0, lock=True)  # 页数
@@ -467,7 +467,7 @@ class SpiderManagerForPubmed(object):
         self.status.value = 1  # 将状态置为开始
 
         # 启动获取pubmedID的进程
-        id_worker = _pubmedIDWorker(kw_id=self.kw_id, name='%s PUBMED_IDS_PROCESS-MAIN' % common_tag)
+        id_worker = _pubmedIDWorker(kw_id=self.kw_id, name='%s PUBMED_IDS_PROCESS-MAIN' % common_tag,thread_num=self.ids_thread_num)
         id_worker.start()
         self.id_process = id_worker
         self.idsP_status.value =1

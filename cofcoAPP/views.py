@@ -21,7 +21,7 @@ from cofcoAPP.spiders import SPIDERS_STATUS
 from cofcoAPP.spiders.PubmedSpider import SpiderManagerForPubmed
 from cofcoAPP.spiders.ScienceDirectSpider import SpiderManagerForScience
 from cofcoAPP.spiders import STATUS_NAME
-
+from cofcoAPP import spiders
 def index(request):
     context = {}
     context['title'] = '爬虫测试'
@@ -87,28 +87,40 @@ def controlSpider(request):
         spider_m = SPIDERS_STATUS.get(kw_id)
         if not spider_m and action != 'new':
             raise Exception('kw_id is invalided')
-        idsP = request.POST.get('idsP',True)
-        contentP = request.POST.get('contentP',True)
+        idsP = bool(int(request.POST.get('idsP',True)))
+        contentP = bool(int(request.POST.get('contentP',True)))
 
         error_ = []
         if action == 'new':
             spider_type = request.POST.get('spider_type')
             uid = request.POST.get('uid')
             uname = request.POST.get('uname')
+
+            ids_thread_num = int(request.POST.get('ids_thread_num', spiders.defalt_ids_thread_num))
+            content_process_num = int(request.POST.get('content_process_num', spiders.defalt_content_process_num))
+            content_thread_num = int(request.POST.get('content_thread_num', spiders.defalt_content_thread_num))
+
             if not kw_id or not uid or not uname:
                 raise Exception('kw_id,uid and uname is required')
             if spider_type != '1' and spider_type != '2':
                 raise Exception('spider_type is invalided')
 
             if spider_type == '1':
-                sfp = SpiderManagerForPubmed(kw_id=kw_id, content_process_num=4, content_thread_num=16, create_user_id=uid,
-                                         create_user_name=uname)
-                sfp.start()
-            elif spider_type == '2':
-                sfp = SpiderManagerForScience(kw_id=kw_id, content_process_num=4, content_thread_num=16,
+                sfp = SpiderManagerForPubmed(kw_id=kw_id,
+                                             ids_thread_num=ids_thread_num,
+                                             content_process_num=content_process_num,
+                                             content_thread_num=content_thread_num,
                                              create_user_id=uid,
                                              create_user_name=uname)
                 sfp.start()
+            elif spider_type == '2':
+                sfp = SpiderManagerForScience(kw_id=kw_id,
+                                              ids_thread_num=ids_thread_num,
+                                              content_process_num=content_process_num,
+                                              content_thread_num=content_thread_num,
+                                              create_user_name=uname)
+                sfp.start()
+
             resp_data['info'] = 'start successful'
         elif action == 'pause':
             error_ = spider_m.pause(idsP=idsP,contentP=contentP)

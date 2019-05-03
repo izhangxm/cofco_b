@@ -31,7 +31,7 @@ from cofcoAPP import spiders
 
 # 任务生成爬虫
 class _scienceIDWorker(Process):
-    def __init__(self, kw_id, name=None,thread_num=5):
+    def __init__(self, kw_id, name=None,thread_num=4):
         Process.__init__(self)
         self.kw_id = kw_id
         self.name = name
@@ -288,7 +288,7 @@ class _scienceContendWorker(Process):
 
 # 爬虫对象
 class SpiderManagerForScience(object):
-    def __init__(self, content_process_num=2, content_thread_num=8, **kwargs):
+    def __init__(self,ids_thread_num=4, content_process_num=2, content_thread_num=8, **kwargs):
         # 爬虫的状态信息
         self.kw_id = kwargs['kw_id']
         if SPIDERS_STATUS.get(self.kw_id):
@@ -296,6 +296,7 @@ class SpiderManagerForScience(object):
         self.TYPE = 'SCIENCE_SPIDER'
         self.id_process = None  # ID进程对象
         self.content_process = []  # Content进程对象
+        self.ids_thread_num = ids_thread_num  # ids线程个数
         self.content_process_num = content_process_num  # Content进程个数
         self.content_thread_num = content_thread_num  # 每个Content进程的线程个数
 
@@ -363,7 +364,7 @@ class SpiderManagerForScience(object):
         self.status.value = 1  # 将状态置为开始
 
         # 启动获取pubmedID的进程
-        id_worker = _scienceIDWorker(kw_id=self.kw_id, name='%s SCIENCE_IDS_PROCESS-MAIN' % common_tag)
+        id_worker = _scienceIDWorker(kw_id=self.kw_id, name='%s SCIENCE_IDS_PROCESS-MAIN' % common_tag, thread_num=self.ids_thread_num)
         id_worker.start()
         self.id_process = id_worker
         self.idsP_status.value =1
