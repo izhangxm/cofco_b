@@ -15,9 +15,10 @@ Including another URLconf
 """
 from django.conf.urls import url
 from cofcoAPP import views
+from cofcoAPP.api import v1
+
 urlpatterns = [
     url(r'^$', views.index),
-    url(r'^getstatus/$', views.getStatus),
-    url(r'^getthreadstatus/$', views.getThreadStatus),
-    url(r'^controlSpider/$', views.controlSpider),
+    url(r'^api/v1/getthreadstatus/$', v1.getThreadStatus),
+    url(r'^api/v1/controlspider/$', v1.controlSpider),
 ]
