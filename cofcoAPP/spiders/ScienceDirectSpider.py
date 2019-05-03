@@ -241,7 +241,7 @@ class _scienceContendWorker(Process):
                     # =============================================================================================
                     self.content_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
                     details_str = self.get_raw_content(article_id=article_id, content_sessionHelper=self.content_sessionHelper,max_retry_times=1)
-                    content_model = ContentHelper.format_scicent_details(details_str)
+                    # content_model = ContentHelper.format_scicent_details(details_str)
                     # TODO 存贮到数据库
                     # content_model.save()
                     # =============================================================================================

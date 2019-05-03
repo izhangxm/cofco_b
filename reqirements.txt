@@ -3,6 +3,8 @@ chardet==3.0.4
 Django==2.2
 fake-useragent==0.1.11
 idna==2.8
+jsonpath==0.81
+mysqlclient==1.4.2.post1
 pytz==2019.1
 requests==2.21.0
 sqlparse==0.3.0
