@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
+    'corsheaders',  # 解决跨域上传失败问题
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'cofcoAPP'
@@ -44,6 +45,7 @@ MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
+    'corsheaders.middleware.CorsMiddleware',  # 解决跨域上传失败问题
     # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
@@ -77,12 +79,12 @@ WSGI_APPLICATION = 'cofco_b.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'cofco_f',
-        'USER': 'cofco',
-        'PASSWORD': 'cofco',
-        'HOST': '127.0.0.1',
-        'PORT': '3306',
+        # 'ENGINE': 'django.db.backends.mysql',
+        # 'NAME': 'cofco_f',
+        # 'USER': 'cofco',
+        # 'PASSWORD': 'cofco',
+        # 'HOST': '127.0.0.1',
+        # 'PORT': '3306',
     }
 }
 
