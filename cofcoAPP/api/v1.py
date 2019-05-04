@@ -27,8 +27,26 @@ from cofcoAPP.heplers import StatusHelper
 #获取进程运行状态，返回值为json
 def getThreadStatus(request):
     resp_data = {'status':1,"code": '0', "info": "ok"}
+    g_name = request.POST.get('g_name', 'ALL')
+    kw_id = request.POST.get('kw_id', 'ALL')
+    data={}
     try:
-        resp_data['data'] = StatusHelper.getThreadStatus()
+        all_data = StatusHelper.getThreadStatus()
+        if g_name == 'ALL' or g_name == '':
+            data = all_data
+        else:
+            data[g_name] = all_data.get(g_name)
+            if not data[g_name]:
+                raise Exception('Unknown g_name. It must be titles，review，statusName，threadlist')
+        if kw_id != 'ALL' and kw_id != '':
+            threadlist = []
+            for thread in data['threadlist']:
+                if thread['kw_id'] == kw_id:
+                    threadlist.append(thread)
+            if len(threadlist) == 0:
+                raise Exception('Unknown kw_id.')
+            data['threadlist'] = threadlist
+        resp_data['data'] = data
     except Exception as e:
         resp_data['status'] = 0
         resp_data['info'] = 'Failed: ' + str(e)
