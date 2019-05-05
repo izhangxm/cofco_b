@@ -180,11 +180,18 @@ class _pubmedIDWorker(Process):
                     response = ids_sessionHelper.post('https://www.ncbi.nlm.nih.gov/pubmed', data=self.data)
                     if response.status_code != 200:
                         raise Exception('Connection Failed')
+                    ids_p = re.compile('<div class="resc"><dl class="rprtid"><dt>PMID:</dt> <dd>([\d]+)</dd>')
+                    ids_list = re.findall(ids_p, response.text)
                     page_num_p = re.compile('Pubmed_Pager.cPage"\sid="pageno"[\s\S]*?last="([\d]+)"', re.I | re.M)
                     r = re.search(page_num_p, response.text)
                     if not r:
-                        raise Exception('Cant find the page_num')
-                    page_num = int(r.group(1)) if r else 0
+                        if len(ids_list) == 0:
+                            raise Exception('Cant find the page_num')
+                        else:
+                            p_result = 1
+                    else:
+                        p_result = r.group(1)
+                    page_num = p_result
                     self.manager.page_Num.value = page_num
                     return page_num, ids_sessionHelper
                 except Exception as e:
