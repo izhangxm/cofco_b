@@ -277,7 +277,7 @@ class _pubmedIDWorker(Process):
                     self.manager.update_finished_page_Num()
                     logger.log(user=self.name, tag='INFO', info=self.manager.ids_queen_size.value, screen=True)
                 except Exception as e:
-                    traceback.print_exc(e)
+                    # traceback.print_exc(e)
                     # 判断是否完成
                     finished_page_Num = self.manager.finished_page_Num.value
                     failed_page_Num = self.manager.failed_page_Num.value
