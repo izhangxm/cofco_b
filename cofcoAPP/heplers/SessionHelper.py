@@ -22,14 +22,15 @@ Session构造器
 """
 import requests
 from cofcoAPP.heplers.ProxyHelper import ProxyHelper
+from cofcoAPP.heplers import  HeadersHelper
 from cofcoAPP import spiders
 
 # 自动随机session生成
 class SessionHelper(object):
-    def __init__(self, header_fun=None, default_verify=spiders.default_verify,default_timeout=spiders.defalt_timeout):
+    def __init__(self, header_fun=None, verify=spiders.default_verify, timeout=spiders.default_timeout):
         self.proxyHelper = ProxyHelper()
-        self.default_verify = default_verify
-        self.default_timeout = default_timeout
+        self.default_verify = verify
+        self.default_timeout = timeout
         self.header_fun = header_fun
         self.lastQueryKey= None
         self.session = self.get_session()
@@ -56,7 +57,7 @@ class SessionHelper(object):
 
 
 if __name__ == '__main__':
-    sessionHelper = SessionHelper()
+    sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_ids_headers)
     rsp = sessionHelper.get('https://wwww.baidu.com')
     print(rsp.text)
     rsp = sessionHelper.post('https://wwww.baidu.com',data={})

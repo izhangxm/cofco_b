@@ -31,21 +31,23 @@ from cofcoAPP import spiders
 
 # 任务生成爬虫
 class _scienceIDWorker(Process):
-    def __init__(self, kw_id, name=None,thread_num=4):
+    def __init__(self, kw_id, name=None,thread_num=4, page_size=spiders.default_science_pagesize):
         Process.__init__(self)
         self.kw_id = kw_id
         self.name = name
         self.thread_num = thread_num
         self.threads = []
+        self.page_size = page_size
         self.pages_queen = ProcessQueen(maxsize=-1)  # 页码queen
 
     class _worker(threading.Thread):
-        def __init__(self, kw_id, name=None, pages_queen=None, ids_sessionHelper=None):
+        def __init__(self, kw_id, name=None, pages_queen=None, ids_sessionHelper=None, page_size=spiders.default_science_pagesize):
             threading.Thread.__init__(self)
             self.kw_id = kw_id
             self.manager = SPIDERS_STATUS[kw_id]
             self.ids_queen = self.manager.ids_queen
             self.name = name
+            self.page_size = page_size
             self.pages_queen = pages_queen
             self.ids_queen = self.manager.ids_queen
             self.ids_sessionHelper = ids_sessionHelper
@@ -64,7 +66,7 @@ class _scienceIDWorker(Process):
                         ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
                     query_str = self.get_kw_query_str(self.kw_id)
                     offset = 0
-                    query_str = "%s&offset=%d&show=%d" % (query_str, offset, 100)
+                    query_str = "%s&offset=%d&show=%d" % (query_str, offset, self.page_size)
                     response = ids_sessionHelper.get('https://www.sciencedirect.com/search?' + query_str)
                     if response.status_code != 200:
                         raise Exception('Connection Failed')
@@ -75,6 +77,7 @@ class _scienceIDWorker(Process):
                         raise Exception('Cant find the page_num')
                     page_num = int(r.group(1)) if r else 0
                     self.manager.page_Num.value = page_num
+                    logger.log(user=self.name, tag='INFO', info='Get pageNum:%d successfully.' % page_num, screen=True)
                     return page_num
                 except Exception as e:
                     logger.log(user=self.name, tag='ERROR', info=e, screen=True)
@@ -85,7 +88,6 @@ class _scienceIDWorker(Process):
             return -1
 
         def run(self):
-            page_size = 100
             if not self.ids_sessionHelper:
                 self.ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
             while True:
@@ -113,8 +115,8 @@ class _scienceIDWorker(Process):
                         currPage, spiders.ids_max_retry_times))
 
                     query_str = self.get_kw_query_str(self.kw_id)
-                    offset = (currPage - 1) * page_size
-                    query_str = "%s&offset=%d&show=%d" % (query_str, offset, page_size)
+                    offset = (currPage - 1) * self.page_size
+                    query_str = "%s&offset=%d&show=%d" % (query_str, offset, self.page_size)
                     response = self.ids_sessionHelper.get('https://www.sciencedirect.com/search?' + query_str)
                     if response.status_code != 200:
                         raise Exception('Connection Failed')
@@ -151,10 +153,9 @@ class _scienceIDWorker(Process):
                         # logger.log(user=self.name, tag='INFO', info='Waiting...', screen=True)
                     self.ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
 
-
     def run(self):
         # 获取页码
-        page_worker = self._worker(self.kw_id, name="%s %s" % (self.name, 'PAGE_THREAD'))
+        page_worker = self._worker(self.kw_id, name="%s %s" % (self.name, 'PAGE_THREAD'), page_size=self.page_size)
         page_Num = page_worker._get_page_Num()
         if page_Num == -1:
             page_worker.manager.idsP_status.value = -2  # 任务失败
@@ -167,7 +168,7 @@ class _scienceIDWorker(Process):
 
         for i in range(self.thread_num):
             name = "%s %s-%02d" % (self.name, 'THREAD', i + 1)
-            dt = self._worker(kw_id=self.kw_id, name=name, pages_queen=self.pages_queen)
+            dt = self._worker(kw_id=self.kw_id, name=name, pages_queen=self.pages_queen, page_size=self.page_size)
             dt.start()
             self.threads.append(dt)
         # 合并到父进程
@@ -288,7 +289,7 @@ class _scienceContendWorker(Process):
 
 # 爬虫对象
 class SpiderManagerForScience(object):
-    def __init__(self,ids_thread_num=4, content_process_num=2, content_thread_num=8, **kwargs):
+    def __init__(self,ids_thread_num=4, content_process_num=2, content_thread_num=8,page_size=spiders.default_science_pagesize,  **kwargs):
         # 爬虫的状态信息
         self.kw_id = kwargs['kw_id']
         if SPIDERS_STATUS.get(self.kw_id):
@@ -303,6 +304,7 @@ class SpiderManagerForScience(object):
         self.ids_queen = ProcessQueen(maxsize=-1)  # 待爬取的文章ID列表，是个队列
         self.ids_queen = ProcessQueen(maxsize=-1)  # 待爬取的文章ID列表，是个队列
         self.page_Num = Value('i', 0, lock=True)  # 页数
+        self.page_size = page_size  # 页面大小
         self.finished_page_Num = Value('i', 0, lock=True)  # 页数
         self.finished_page_Num_locker = Lock()  # Lock()
         self.failed_page_Num = Value('i', 0, lock=True)  # 页数
@@ -364,7 +366,7 @@ class SpiderManagerForScience(object):
         self.status.value = 1  # 将状态置为开始
 
         # 启动获取pubmedID的进程
-        id_worker = _scienceIDWorker(kw_id=self.kw_id, name='%s SCIENCE_IDS_PROCESS-MAIN' % common_tag, thread_num=self.ids_thread_num)
+        id_worker = _scienceIDWorker(kw_id=self.kw_id, name='%s SCIENCE_IDS_PROCESS-MAIN' % common_tag, thread_num=self.ids_thread_num, page_size=self.page_size)
         id_worker.start()
         self.id_process = id_worker
         self.idsP_status.value =1

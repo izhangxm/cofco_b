@@ -1,5 +1,6 @@
 from django.db import models
 
+
 # Create your models here.
 
 class Journal(models.Model):
@@ -46,11 +47,31 @@ class Content(models.Model):
 
 
 class SpiderKeyWord(models.Model):
-
     id = models.AutoField(max_length=11, primary_key=True, auto_created=True)
     keywords = models.TextField()
     value = models.TextField(null=True)
     status = models.IntegerField()
     ctime = models.IntegerField()
+
     class Meta:
         db_table = "hisi_admin_kw"
+
+
+class AdminConfig(models.Model):
+    id = models.AutoField(max_length=11, primary_key=True, auto_created=True)
+    system = models.IntegerField()
+    group = models.TextField(null=False)
+    title = models.TextField(null=False)
+    name = models.TextField(null=False)
+    value = models.TextField(null=False)
+    type = models.TextField(null=False)
+    options = models.TextField(null=False)
+    url = models.TextField(null=False)
+    tips = models.TextField(null=False)
+    sort = models.IntegerField()
+    status = models.IntegerField()
+    ctime = models.IntegerField()
+    mtime = models.IntegerField()
+
+    class Meta:
+        db_table = 'hisi_admin_config'

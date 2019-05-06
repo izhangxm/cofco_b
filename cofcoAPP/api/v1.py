@@ -69,9 +69,9 @@ def controlSpider(request):
             uid = request.POST.get('uid')
             uname = request.POST.get('uname')
 
-            ids_thread_num = int(request.POST.get('ids_thread_num', spiders.defalt_ids_thread_num))
-            content_process_num = int(request.POST.get('content_process_num', spiders.defalt_content_process_num))
-            content_thread_num = int(request.POST.get('content_thread_num', spiders.defalt_content_thread_num))
+            ids_thread_num = int(request.POST.get('ids_thread_num', spiders.default_ids_thread_num))
+            content_process_num = int(request.POST.get('content_process_num', spiders.default_content_process_num))
+            content_thread_num = int(request.POST.get('content_thread_num', spiders.default_content_thread_num))
 
             if not kw_id or not uid or not uname:
                 raise Exception('kw_id, uid and uname is required')

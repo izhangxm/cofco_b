@@ -30,25 +30,22 @@ logger = Logger(fp_locker=LOG_FILE_LOCK, file_path=logfile,screen_locker=SCREEN_
 # 定义状态名称
 STATUS_NAME = {-2:'失败', -1: '未初始化', 0: '未运行', 1: '运行中', 2: '已暂停', 3:'已完成', 4:'已终止', 5:'混合状态'}
 
-defalt_ids_thread_num = 4  # ids线程个数
-defalt_content_process_num = 2  # Content进程个数
-defalt_content_thread_num = 16  # 每个Content进程的线程个数
+default_ids_thread_num = 4  # ids线程个数
+default_content_process_num = 2  # Content进程个数
+default_content_thread_num = 16  # 每个Content进程的线程个数
 
+default_pubmed_pagesize = 20
+default_science_pagesize = 25
 
 ids_max_retry_times = 30
 content_max_retry_times = 10
-defalt_timeout = 2
+default_timeout = 2
 default_verify = True
 
-default_use_proxy=False
-default_proxy_ip="127.0.0.1:1087"
-default_proxy_pool_url="http://39.98.67.159:5555/random"
-# proxy_proxy_pool_url="http://39.98.67.159:5010/get/"
-
-
-
-
-
+default_use_proxy=True
+default_proxy_ips_list=["NqqBMb:Z9gtUJ@146.185.197.167:8000"]
+opt_headers = {}
+default_proxy_pool_url= ''
 
 
 

@@ -17,22 +17,37 @@
 # ==============================================================================
 import requests
 import time
+import re
+import random
 from cofcoAPP import spiders
+from cofcoAPP.spiders import logger
+
+
 class ProxyHelper(object):
-    def __init__(self,use_proxy=spiders.default_use_proxy, proxy_ip=spiders.default_proxy_ip,proxy_pool_url=spiders.default_proxy_pool_url):
+    def __init__(self, use_proxy=spiders.default_use_proxy, proxy_ips=spiders.default_proxy_ips_list,
+                 proxy_pool_url=spiders.default_proxy_pool_url):
         self.use_proxy = use_proxy
-        self.proxy_ip = proxy_ip
+        self.proxy_ips = proxy_ips
         self.proxy_pool_url = proxy_pool_url
+
     def get_proxy(self):
         if not self.use_proxy:
-            return  None
+            return None
         while True:
             try:
-                ip = self.proxy_ip
-                if not self.proxy_ip:
+                if self.proxy_ips and len(self.proxy_ips) > 0:
+                    random.shuffle(self.proxy_ips)
+                    ip = self.proxy_ips[0]
+                elif self.proxy_pool_url and self.proxy_pool_url != '':
                     rsp = requests.get(self.proxy_pool_url)
-                    ip = rsp.text
+                    if len(rsp.text) > 21:
+                        raise Exception('Get Proxy Failed')
+                    else:
+                        ip = re.sub(r"\s", "", rsp.text)
+                else:
+                    return None
                 proxies = {'http': 'http://' + ip, 'https': 'http://' + ip}
                 return proxies
             except Exception as e:
-                time.sleep(0.1)
+                logger.log(user='ProxyHelper', tag='ERROR', info=e, screen=True)
+                time.sleep(2)

@@ -11,7 +11,7 @@
 
 import random
 from fake_useragent import UserAgent
-
+from cofcoAPP import spiders
 ua = UserAgent()
 USER_AGENTS = [
     "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
@@ -117,25 +117,29 @@ HEADER_JOURNAL = {
 
 def pubmed_ids_headers():
     HEADER["User-Agent"] = random.choice(USER_AGENTS)
+    for key, value in spiders.opt_headers.items():
+        HEADER[key] = value
     return HEADER
 
 def pubmed_content_headers():
     tmp_user_agent = ua.random
     HEADER["User-Agent"] = tmp_user_agent
+    for key, value in spiders.opt_headers.items():
+        HEADER[key] = value
     return HEADER
 
 def science_headers():
     HEADER_SCIENCE["User-Agent"] = random.choice(USER_AGENTS)
-    # HEADER_SCIENCE["User-Agent"] = ua.chrome
+    for key, value in spiders.opt_headers.items():
+        HEADER[key] = value
     return HEADER_SCIENCE
 
 def get_header_jounal():
     HEADER_JOURNAL["User-Agent"] = ua.random
     return HEADER_JOURNAL
 
-
 if __name__ == '__main__':
     pass
-    # get_header()
+    print(pubmed_ids_headers())
     # get_header_science()
     # get_header_jounal()

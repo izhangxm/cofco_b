@@ -42,16 +42,17 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',  # 解决跨域上传失败问题
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'corsheaders.middleware.CorsMiddleware',  # 解决跨域上传失败问题
     # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+CORS_ORIGIN_ALLOW_ALL = True # 解决跨域上传失败问题
 ROOT_URLCONF = 'cofco_b.urls'
 
 TEMPLATES = [
@@ -79,12 +80,12 @@ WSGI_APPLICATION = 'cofco_b.wsgi.application'
 
 DATABASES = {
     'default': {
-        # 'ENGINE': 'django.db.backends.mysql',
-        # 'NAME': 'cofco_f',
-        # 'USER': 'cofco',
-        # 'PASSWORD': 'cofco',
-        # 'HOST': '127.0.0.1',
-        # 'PORT': '3306',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'cofco_f',
+        'USER': 'root',
+        'PASSWORD': 'root',
+        'HOST': '127.0.0.1',
+        'PORT': '3306',
     }
 }
 
@@ -127,3 +128,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, "static/"), ]
 STATIC_ROOT = os.path.join(BASE_DIR, "/static/")
+
+
+# 启动自动配置
+from cofcoAPP.heplers.ConfigHelper import AutoUpdateConfig
+AutoUpdateConfig().start()

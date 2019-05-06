@@ -28,13 +28,15 @@ from cofcoAPP.heplers.SessionHelper import SessionHelper
 from cofcoAPP.heplers import ContentHelper, HeadersHelper
 from cofcoAPP.heplers import getFTime
 from cofcoAPP import spiders
+import traceback
 
 # 任务生成爬虫
 class _pubmedIDWorker(Process):
-    def __init__(self, kw_id, name=None,thread_num=4):
+    def __init__(self, kw_id, name=None, thread_num=4, page_size=spiders.default_pubmed_pagesize):
         Process.__init__(self)
         self.kw_id = kw_id
         self.name = name
+        self.page_size = page_size
 
         self.thread_num = thread_num
         self.threads = []
@@ -42,7 +44,7 @@ class _pubmedIDWorker(Process):
         # 获得查询字符串
 
     class _worker(threading.Thread):
-        def __init__(self, kw_id, name=None, pages_queen=None, ids_sessionHelper=None):
+        def __init__(self, kw_id, name=None, pages_queen=None, ids_sessionHelper=None,page_size = spiders.default_pubmed_pagesize):
             threading.Thread.__init__(self)
             self.kw_id = kw_id
             self.manager = SPIDERS_STATUS[kw_id]
@@ -50,13 +52,14 @@ class _pubmedIDWorker(Process):
             self.ids_queen = self.manager.ids_queen
             self.ids_sessionHelper = ids_sessionHelper
             self.name = name
+            self.page_size = page_size
 
             self.data = {
                 "EntrezSystem2.PEntrez.PubMed.Pubmed_PageController.PreviousPageName": "results",
                 "EntrezSystem2.PEntrez.DbConnector.Db": "pubmed",
                 "EntrezSystem2.PEntrez.DbConnector.LastDb": "pubmed",
                 "EntrezSystem2.PEntrez.DbConnector.Cmd": "PageChanged",
-                "EntrezSystem2.PEntrez.DbConnector.Term": "((12) AND 123) AND 123",
+                "EntrezSystem2.PEntrez.DbConnector.Term": "",
                 "CollectionStartIndex": "1",
                 "CitationManagerStartIndex": "1",
                 "CitationManagerCustomRange": "false",
@@ -70,7 +73,7 @@ class _pubmedIDWorker(Process):
                 "EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_DisplayBar.LastPresentation": "docsum",
                 "EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_DisplayBar.Presentation": "docsum",
                 "EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_Pager.cPage": "0",
-                "EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_DisplayBar.email_count": "200",
+                "EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_DisplayBar.email_count": "",
                 "email_start": "201",
                 "email_address": "",
                 "email_subj": "hash+-+PubMed",
@@ -79,7 +82,7 @@ class _pubmedIDWorker(Process):
                 "EmailCheck2": "",
                 "citman_count": "200",
                 "citman_start": "201",
-                "term": "((12) AND 123) AND 123 ",
+                "term": "",
                 "EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_ResultsController.ResultCount": "835",
                 # "EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.EmailTab.EmailHID": "1DkeCYsVvJ14WRSPyel6ij47CPDpKOEE4Tbso3B73KOfYTLrIP_IKZLhDL29CTado55erh-4bm3qGO0p2KLNJJK3ZHDNJ-9g-v",
                 # "EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.TimelineAdPlaceHolder.BlobID": "NCID_1_252738735_130.14.18.48_9001_1556611162_561033717_0MetA0_S_MegaStore_F_1",
@@ -139,70 +142,105 @@ class _pubmedIDWorker(Process):
             retry_times = 1
             while retry_times <= spiders.ids_max_retry_times:  # 最多重试次数
                 try:
-                    logger.log(user=self.name, tag='INFO', info='Trying to get lastQueryKey...:' + str(retry_times),screen=True)
+                    logger.log(user=self.name, tag='INFO', info='Trying to get lastQueryKey...:' + str(retry_times),
+                               screen=True)
                     # 更新会话
                     self.ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_ids_headers)
-                    query_str = self.get_kw_query_str(self.kw_id)
-                    response = self.ids_sessionHelper.get(url='https://www.ncbi.nlm.nih.gov/pubmed/?term=' + query_str)
-                    lastQueryKey_p = re.compile('<input name="EntrezSystem2\.PEntrez\.DbConnector\.lastQueryKey"[\s\S]*?value="([\d])+"',
-                        re.I | re.M)
-                    r = re.search(lastQueryKey_p, response.text)
-                    if not r:
-                        print('Cant find the lastQueryKey')
-                        raise Exception('Cant find the lastQueryKey')
-                    self.ids_sessionHelper.lastQueryKey = r.group(1)
+                    lastQueryKey, self.ids_sessionHelper = self._getLastQueryKey(sessionHelper=self.ids_sessionHelper)
+                    self.ids_sessionHelper.lastQueryKey = lastQueryKey
                     return
                 except Exception as e:
                     logger.log(user=self.name, tag='ERROR', info=e, screen=True)
                     if not isinstance(e, ProxyError):
                         retry_times += 1
 
+        def _findPageNum(self, rsp_text, ids_list):
+            page_num_p = re.compile('Pubmed_Pager.cPage"\sid="pageno"[\s\S]*?last="([\d]+)"', re.I | re.M)
+            r = re.search(page_num_p, rsp_text)
+            if not r:
+                no_result_tip = re.search(re.compile('No documents match your search terms'), rsp_text)
+                if no_result_tip:
+                    p_result = 0
+                elif ids_list and len(ids_list) > 0:
+                    p_result = 1
+                else:
+                    raise Exception('Cant find page number.')
+            else:
+                p_result = int(r.group(1))
+            return p_result
+
+        def _findIdsList(self, rsp_text):
+            ids_p = re.compile('<div class="resc"><dl class="rprtid"><dt>PMID:</dt> <dd>([\d]+)</dd>')
+            ids_list = re.findall(ids_p, rsp_text)
+            return ids_list
+
+        def _isBlocked(self, rsp_text):
+            r = re.search(re.compile('Search results'), rsp_text)
+            return r is None
+
+        def _find_lastQueryKey(self, rsp_text):
+            lastQueryKey_p = re.compile(
+                '<input name="EntrezSystem2\.PEntrez\.DbConnector\.lastQueryKey"[\s\S]*?value="([\d])+"',
+                re.I | re.M)
+            r = re.search(lastQueryKey_p, rsp_text)
+            if not r:
+                raise Exception('Cant find the lastQueryKey')
+            return int(r.group(1))
+
+        def _getLastQueryKey(self, sessionHelper):
+            query_str = self.get_kw_query_str(self.kw_id)
+            data = {
+                'term':query_str,
+                'EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_DisplayBar.PageSize': self.page_size
+            }
+            response = sessionHelper.get(url='https://www.ncbi.nlm.nih.gov/pubmed/', params=data)
+            if response.status_code != 200:
+                raise Exception('Connection Failed')
+            lastQueryKey = self._find_lastQueryKey(response.text)
+            return lastQueryKey, sessionHelper
+
+        def _getPageConent(self, sessionHelper, lastQueryKey=1, currPage=1, page_size=200):
+            self.data["EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_Pager.CurrPage"] = currPage
+            self.data["EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_DisplayBar.PageSize"] = page_size
+            self.data["EntrezSystem2.PEntrez.DbConnector.LastQueryKey"] = int(lastQueryKey)
+            response = sessionHelper.post('https://www.ncbi.nlm.nih.gov/pubmed', data=self.data)
+            if response.status_code != 200:
+                raise Exception('Connection Failed')
+            return response.text
+
         def _get_page_Num(self, ids_sessionHelper=None):
             retry_times = 1
             while retry_times <= spiders.ids_max_retry_times:  # 最多重试次数
                 try:
-                    logger.log(user=self.name, tag='INFO', info='Trying to get pageNum ...:' + str(retry_times), screen=True)
+                    logger.log(user=self.name, tag='INFO', info='Trying to get pageNum ...:' + str(retry_times),screen=True)
                     if not ids_sessionHelper:
-                        ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_ids_headers)
+                        ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_ids_headers, timeout=10)
                     query_str = self.get_kw_query_str(self.kw_id)
-                    response = ids_sessionHelper.get(url='https://www.ncbi.nlm.nih.gov/pubmed/?term=' + query_str)
-                    lastQueryKey_p = re.compile(
-                        '<input name="EntrezSystem2\.PEntrez\.DbConnector\.lastQueryKey"[\s\S]*?value="([\d])+"',
-                        re.I | re.M)
-                    r = re.search(lastQueryKey_p, response.text)
-                    if not r:
-                        print('Cant find the lastQueryKey')
-                        raise Exception('Cant find the lastQueryKey')
-                    ids_sessionHelper.lastQueryKey = r.group(1)
-                    self.data["EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_Pager.CurrPage"] = 1
-                    self.data["EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_DisplayBar.PageSize"] = 200
-                    self.data["EntrezSystem2.PEntrez.DbConnector.LastQueryKey"] = int(ids_sessionHelper.lastQueryKey)
-                    response = ids_sessionHelper.post('https://www.ncbi.nlm.nih.gov/pubmed', data=self.data)
+                    data = {
+                        'term': query_str,
+                        'EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_DisplayBar.PageSize': str(self.page_size)
+                    }
+                    response = ids_sessionHelper.get(url='https://www.ncbi.nlm.nih.gov/pubmed/', params=data)
                     if response.status_code != 200:
                         raise Exception('Connection Failed')
-                    ids_p = re.compile('<div class="resc"><dl class="rprtid"><dt>PMID:</dt> <dd>([\d]+)</dd>')
-                    ids_list = re.findall(ids_p, response.text)
-                    page_num_p = re.compile('Pubmed_Pager.cPage"\sid="pageno"[\s\S]*?last="([\d]+)"', re.I | re.M)
-                    r = re.search(page_num_p, response.text)
-                    if not r:
-                        if len(ids_list) == 0:
-                            raise Exception('Cant find the page_num')
-                        else:
-                            p_result = 1
-                    else:
-                        p_result = r.group(1)
-                    page_num = p_result
+                    rsp_text = response.text
+                    if self._isBlocked(rsp_text):
+                        raise Exception('This request has been recognized as Spider and blocked!')
+                    lastQueryKey = self._find_lastQueryKey(response.text)
+                    ids_list = self._findIdsList(rsp_text)
+                    page_num = self._findPageNum(rsp_text, ids_list)
                     self.manager.page_Num.value = page_num
+                    ids_sessionHelper.lastQueryKey = lastQueryKey # 记得给lastQueryKey 赋值
+                    logger.log(user=self.name, tag='INFO', info='Get pageNum:%d successfully.' % page_num, screen=True)
                     return page_num, ids_sessionHelper
                 except Exception as e:
-                    ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
+                    ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers, timeout=10)
                     logger.log(user=self.name, tag='ERROR', info=e, screen=True)
                     if not isinstance(e, ProxyError):
                         retry_times += 1
             return -1, None
 
         def run(self):
-            page_size = 200
             if not self.ids_sessionHelper:
                 self._updateSpiderInfo()  # 更换Helper
 
@@ -227,21 +265,19 @@ class _pubmedIDWorker(Process):
                     currPage = task_info['currPage']
                     retry_times = task_info['retry_times']
                     if (retry_times >= spiders.ids_max_retry_times):
-                        raise Exception("%s: retry_times=%d! This id is labeled as FAILED!" % (currPage, spiders.ids_max_retry_times))
-                    self.data["EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_Pager.CurrPage"] = currPage
-                    self.data["EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_DisplayBar.PageSize"] = page_size
-                    self.data["EntrezSystem2.PEntrez.DbConnector.LastQueryKey"] = int(self.ids_sessionHelper.lastQueryKey)
-                    response = self.ids_sessionHelper.post('https://www.ncbi.nlm.nih.gov/pubmed', data=self.data)
-                    if response.status_code != 200:
-                        raise Exception('Connection Failed')
-                    ids_p = re.compile('<div class="resc"><dl class="rprtid"><dt>PMID:</dt> <dd>([\d]+)</dd>')
-                    ids_list = re.findall(ids_p, response.text)
+                        raise Exception("%s: retry_times=%d! This id is labeled as FAILED!" % (
+                        currPage, spiders.ids_max_retry_times))
+                    rsp_text = self._getPageConent(sessionHelper=self.ids_sessionHelper,
+                                                   lastQueryKey=self.ids_sessionHelper.lastQueryKey, currPage=currPage,
+                                                   page_size=self.page_size)
+                    ids_list = self._findIdsList(rsp_text=rsp_text)
                     for pubmed_id in ids_list:
                         self.ids_queen.put({'id': pubmed_id, 'retry_times': 0})
                         self.manager.update_ids_qsize(1)
                     self.manager.update_finished_page_Num()
                     logger.log(user=self.name, tag='INFO', info=self.manager.ids_queen_size.value, screen=True)
                 except Exception as e:
+                    traceback.print_exc(e)
                     # 判断是否完成
                     finished_page_Num = self.manager.finished_page_Num.value
                     failed_page_Num = self.manager.failed_page_Num.value
@@ -266,23 +302,32 @@ class _pubmedIDWorker(Process):
                     self._updateSpiderInfo()  # 更换Helper
 
     def run(self):
-        #获取页码
-        ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_ids_headers)
-        page_worker = self._worker(self.kw_id, name="%s %s" % (self.name, 'PAGE_THREAD'),ids_sessionHelper=ids_sessionHelper)
+        ids_sessionHelper = None
+        for i in range(10):
+            try:
+                # 获取页码
+                ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_ids_headers)
+                break
+            except Exception as e:
+                time.sleep(2)
+
+        page_worker = self._worker(self.kw_id, name="%s %s" % (self.name, 'PAGE_THREAD'),
+                                   ids_sessionHelper=ids_sessionHelper)
         page_Num, ids_sessionHelper = page_worker._get_page_Num()
         if page_Num == -1:
             page_worker.manager.idsP_status.value = -2  # 任务失败
-            self.terminate() #结束进程
-            return #结束进程
+            self.terminate()  # 结束进程
+            return  # 结束进程
 
         del page_worker
 
         for cur_p in range(page_Num):
-            self.pages_queen.put({'currPage':(cur_p+1),'retry_times':0})
+            self.pages_queen.put({'currPage': (cur_p + 1), 'retry_times': 0})
 
         for i in range(self.thread_num):
             name = "%s %s-%02d" % (self.name, 'THREAD', i + 1)
-            dt = self._worker(kw_id=self.kw_id, name=name, pages_queen=self.pages_queen, ids_sessionHelper=ids_sessionHelper)
+            dt = self._worker(kw_id=self.kw_id, name=name, pages_queen=self.pages_queen,
+                              ids_sessionHelper=ids_sessionHelper)
             dt.start()
             self.threads.append(dt)
         # 合并到父进程
@@ -314,7 +359,8 @@ class _pubmedContendWorker(Process):
                 try:
                     if not content_sessionHelper:
                         sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_content_headers)
-                    xml_rsp = sessionHelper.get('https://www.ncbi.nlm.nih.gov/pubmed/' + article_id + '?report=xml&format=text')
+                    xml_rsp = sessionHelper.get(
+                        'https://www.ncbi.nlm.nih.gov/pubmed/' + article_id + '?report=xml&format=text')
                     if xml_rsp.status_code != 200:
                         raise Exception('Connection Failed')
                     xml_str = xml_rsp.text
@@ -322,7 +368,7 @@ class _pubmedContendWorker(Process):
                 except Exception as e:
                     if not isinstance(e, ProxyError):
                         retry_times += 1
-                    time.sleep(1.0 * random.randrange(1, 200) / 1000)  # 休息一下
+                    time.sleep(1.0 * random.randrange(1, 2000) / 1000)  # 休息一下
 
         def run(self):
             while True:
@@ -345,14 +391,15 @@ class _pubmedContendWorker(Process):
                     task_info = self.ids_queen.get(timeout=1)
                     pubmed_id = task_info['id']
                     retry_times = task_info['retry_times']
-                    if(retry_times>=5):
+                    if (retry_times >= 5):
                         raise Exception(pubmed_id + ': retry_times>=5! This id is labeled as FAILED!')
 
-                    if ContentHelper.is_in_black_list(pubmed_id): # 判断是否在黑名单当中
+                    if ContentHelper.is_in_black_list(pubmed_id):  # 判断是否在黑名单当中
                         continue
                     # =============================================================================================
                     self.content_sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_content_headers)
-                    xml_str = self.get_raw_content(article_id=pubmed_id, content_sessionHelper=self.content_sessionHelper,max_retry_times=1)
+                    xml_str = self.get_raw_content(article_id=pubmed_id,
+                                                   content_sessionHelper=self.content_sessionHelper, max_retry_times=1)
                     # content_model = ContentSerivice.format_pubmed_xml(xml_str)
                     # TODO 存贮到数据库
                     # content_model.save()
@@ -376,7 +423,7 @@ class _pubmedContendWorker(Process):
                             if not isinstance(e, ProxyError):
                                 task_info['retry_times'] += 1
                             self.ids_queen.put(task_info)
-                        else: # 该任务确认已经失败，进行一些后续操作
+                        else:  # 该任务确认已经失败，进行一些后续操作
                             self.manager.update_failed()
                             # content_model = ContentSerivice.format_pubmed_xml(None)
                             # TODO 存贮到数据库
@@ -400,7 +447,7 @@ class _pubmedContendWorker(Process):
 
 # 爬虫对象
 class SpiderManagerForPubmed(object):
-    def __init__(self, ids_thread_num=4, content_process_num=2, content_thread_num=8, **kwargs):
+    def __init__(self, ids_thread_num=4, content_process_num=2, content_thread_num=8,page_size=spiders.default_pubmed_pagesize, **kwargs):
         # 爬虫的状态信息
         self.kw_id = kwargs['kw_id']
         if SPIDERS_STATUS.get(self.kw_id):
@@ -414,11 +461,11 @@ class SpiderManagerForPubmed(object):
 
         self.ids_queen = ProcessQueen(maxsize=-1)  # 待爬取的文章ID列表，是个队列
         self.page_Num = Value('i', 0, lock=True)  # 页数
+        self.page_size = page_size  # 页面大小
         self.finished_page_Num = Value('i', 0, lock=True)  # 页数
         self.finished_page_Num_locker = Lock()  # Lock()
         self.failed_page_Num = Value('i', 0, lock=True)  # 页数
         self.failed_page_Num_locker = Lock()  # Lock()
-
 
         self.ids_queen_size = Value('i', 0, lock=True)  # 由于qsize的不准确性以及mac平台未实现qsize函数，因此自己实现
         self.ids_queen_size_locker = Lock()  # Lock()
@@ -467,17 +514,17 @@ class SpiderManagerForPubmed(object):
         self.failed_page_Num.value += 1
         self.failed_page_Num_locker.release()
 
-
     def start(self):
         self.start_time = getFTime()
         common_tag = "KWID=%03d uid=%s uname=%s" % (int(self.kw_id), self.create_user_id, self.create_user_name)
         self.status.value = 1  # 将状态置为开始
 
         # 启动获取pubmedID的进程
-        id_worker = _pubmedIDWorker(kw_id=self.kw_id, name='%s PUBMED_IDS_PROCESS-MAIN' % common_tag,thread_num=self.ids_thread_num)
+        id_worker = _pubmedIDWorker(kw_id=self.kw_id, name='%s PUBMED_IDS_PROCESS-MAIN' % common_tag,
+                                    thread_num=self.ids_thread_num, page_size=self.page_size)
         id_worker.start()
         self.id_process = id_worker
-        self.idsP_status.value =1
+        self.idsP_status.value = 1
 
         # 启动获取 content 的进程
         for i in range(self.content_process_num):
@@ -564,4 +611,3 @@ if __name__ == '__main__':
     print(sfp)
     sfp.start()
     print('start successful')
-
