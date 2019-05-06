@@ -10,9 +10,8 @@ class Journal(models.Model):
     impact_factor = models.CharField(max_length=10)
     journal_zone = models.TextField()
 
-    def __getattribute__(self, item):
-        value = object.__getattribute__(self, item)
-        return value
+    class Meta:
+        db_table = 'spiderapp_journal'
 
 
 class Content(models.Model):

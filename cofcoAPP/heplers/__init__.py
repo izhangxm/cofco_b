@@ -45,5 +45,8 @@ class Logger(object):
         self.fp_locker.release()
         if screen:
             self.screen_locker.acquire()
+            output_str = "\033[0;31m%s %s %s %s\033[0m" % (getFTime(), tag, user, info)
+            if tag == 'INFO':
+                output_str = '\033[0;32m%s %s %s %s\033[0m'% (getFTime(), tag, user, info)
             print(output_str)
             self.screen_locker.release()

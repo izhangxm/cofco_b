@@ -49,6 +49,7 @@ def getThreadStatus(request):
         resp_data['data'] = data
     except Exception as e:
         resp_data['status'] = 0
+        resp_data['code'] = 25
         resp_data['info'] = 'Failed: ' + str(e)
     return JsonResponse(resp_data)
 
@@ -110,10 +111,11 @@ def controlSpider(request):
             resp_data['info'] = 'del successful'
         else:
             raise Exception('unknown action')
-        for err in error_:
-            raise Exception(err)
+        # for err in error_:
+        #     raise Exception(err)
     except Exception as e:
         resp_data['status'] = 0
+        resp_data['code'] = 25
         resp_data['info'] = 'Failed: ' + str(e)
     return JsonResponse(resp_data)
 
