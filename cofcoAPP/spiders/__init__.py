@@ -31,8 +31,8 @@ logger = Logger(fp_locker=LOG_FILE_LOCK, file_path=logfile,screen_locker=SCREEN_
 STATUS_NAME = {-2:'失败', -1: '未初始化', 0: '未运行', 1: '运行中', 2: '已暂停', 3:'已完成', 4:'已终止', 5:'混合状态'}
 
 default_ids_thread_num = 4  # ids线程个数
-default_content_process_num = 2  # Content进程个数
-default_content_thread_num = 16  # 每个Content进程的线程个数
+default_content_process_num = 1  # Content进程个数
+default_content_thread_num = 1  # 每个Content进程的线程个数
 
 default_pubmed_pagesize = 20
 default_science_pagesize = 25
@@ -43,7 +43,8 @@ default_timeout = 2
 default_verify = True
 
 default_use_proxy=True
-default_proxy_ips_list=["NqqBMb:Z9gtUJ@146.185.197.167:8000"]
+# default_proxy_ips_list=["NqqBMb:Z9gtUJ@146.185.197.167:8000"]
+default_proxy_ips_list=["127.0.0.1:1087"]
 opt_headers = {}
 default_proxy_pool_url= ''
 

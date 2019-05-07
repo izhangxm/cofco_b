@@ -17,7 +17,7 @@
 # ==============================================================================
 from cofcoAPP.spiders import SPIDERS_STATUS
 from cofcoAPP.spiders import STATUS_NAME
-
+from cofcoAPP.spiders.PubmedSpider import SpiderManagerForPubmed
 # 获取进程运行状态，返回值为json
 def getThreadStatus():
     result = {}
@@ -36,7 +36,7 @@ def getThreadStatus():
     review.append({'key': '完成比例', 'value': finish_rate})
     result['review'] = review
 
-    result['titles'] = {'uid': '用户ID', 'uname': '用户名', 'kw_id': '关键词ID', 'sp_t': '爬虫', 'w_num': '爬虫数目',
+    result['titles'] = {'uid': '用户ID', 'uname': '用户名', 'kw_id': '关键词ID','kw_name':'关键词名称', 'sp_t': '爬虫', 'w_num': '爬虫数目',
                                    'pN': '页数', 'f_pN': '完成页数', 'fail_pN': '失败页数',
                                    'f_num': '完成文章', 'fail_num': '失败文章', 'total_num': '总文章',
                                    'idsP_status': '翻页进程', 'cP_status': '文章获取进程',
@@ -46,7 +46,8 @@ def getThreadStatus():
     for kw_id, spm in SPIDERS_STATUS.items():
         worker_num = spm.content_process_num * spm.content_thread_num
         # spm = SpiderManagerForPubmed()
-        data = {'uid': spm.create_user_id, 'uname': spm.create_user_name, 'kw_id': spm.kw_id, 'sp_t': spm.TYPE,
+        data = {'uid': spm.create_user_id, 'uname': spm.create_user_name, 'kw_id': spm.kw_id, 'kw_name': spm.kw_name,
+                'sp_t': spm.TYPE,
                 'w_num': worker_num,
                 'pN': spm.page_Num.value, 'f_pN': spm.finished_page_Num.value, 'fail_pN': spm.failed_page_Num.value,
                 'f_num': spm.finished_num.value, 'fail_num': spm.failed_num.value,

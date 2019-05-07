@@ -22,13 +22,20 @@ import threading
 import re
 import time
 import random
+import os
 from requests.exceptions import ConnectionError, ProxyError
+
+from  cofco_b.settings import BASE_DIR
 from cofcoAPP.spiders import SPIDERS_STATUS, logger
 from cofcoAPP.heplers.SessionHelper import SessionHelper
 from cofcoAPP.heplers import ContentHelper, HeadersHelper
 from cofcoAPP.heplers import getFTime
 from cofcoAPP import spiders
 import traceback
+import json
+from cofcoAPP.models import SpiderKeyWord
+from urllib.parse import unquote
+
 
 # 任务生成爬虫
 class _pubmedIDWorker(Process):
@@ -134,8 +141,51 @@ class _pubmedIDWorker(Process):
 
         # 获得查询字符串
         def get_kw_query_str(self, kw_id):
+            def reg(ss):
+                ss = ss.replace(' ', '%20')
+                return ss
+
+            def rep(ss1):
+                if ss1 == '1':
+                    ss1 = 'AND'
+                elif ss1 == '2':
+                    ss1 = 'OR'
+                else:
+                    ss1 = 'NOT'
+                return ss1
+
+            # jsons1 ='{"name":"\u5173\u952e\u8bcd\u540d\u79f0","0":{"field":"All Fields","keyword":"1"},"1":{"symbol":"1","field":"Author","keyword":"2"},"2":{"symbol":"2","field":"Author - Corporate","keyword":"3"},"3":{"symbol":"3","field":"All Fields","keyword":"4"}}'
+            def pubpingjie(jsons1):
+                js = json.loads(jsons1)
+                print(js)
+                str = ''
+                for i in range(len(js) - 1):
+                    js['%d' % i]['field'] = reg(js['%d' % i]['field'])
+                    js['%d' % i]['keyword'] = reg(js['%d' % i]['keyword'])
+                    if i == 0:
+                        if js['%d' % i]['field'] != 'All%20Fields':
+                            str = js['%d' % i]['keyword'] + '%5B' + js['%d' % i]['field'] + '%5D'
+                        else:
+                            str = js['0']['keyword']
+                    else:
+                        js['%d' % i]['symbol'] = rep(js['%d' % i]['symbol'])
+                        if js['%d' % i]['field'] != 'All%20Fields':
+                            str = '(' + str + ')' + '%20' + js['%d' % i]['symbol'] + '%20' + js['%d' % i][
+                                'keyword'] + '%5B' + js['%d' % i]['field'] + '%5D'
+                        else:
+                            str = '(' + str + ')' + '%20' + js['%d' % i]['symbol'] + '%20' + js['%d' % i]['keyword']
+
+                return str
             # TODO 根据kw_id，获取当前爬虫的查询字符串
-            return 'hash'
+            # TODO 根据kw_id，获取当前爬虫的查询字符串
+            str = ''
+            try:
+                kw_ = SpiderKeyWord.objects.filter(id=kw_id).values()[0]
+                str = pubpingjie(kw_['value'])
+                str = unquote(str)
+            except Exception as e:
+                logger.log(user=self.name, tag='ERROR', info="Error: unable to fetch data" + str(e), screen=True)
+            return str
 
         # 新建session, 并寻找 lastQueryKey 和 page_num
         def _updateSpiderInfo(self):
@@ -352,6 +402,20 @@ class _pubmedContendWorker(Process):
                 self.manager = SPIDERS_STATUS[kw_id]
                 self.ids_queen = self.manager.ids_queen
 
+        # 当前的内容获取线程应当基于搜索得到的session
+        # 并设置好头信息
+        def _updateSession(self):
+            retry_times = 1
+            while retry_times <= spiders.ids_max_retry_times:  # 最多重试次数
+                try:
+                    return
+                except Exception as e:
+                    logger.log(user=self.name, tag='ERROR', info=e, screen=True)
+                    if not isinstance(e, ProxyError):
+                        retry_times += 1
+            raise Exception('Update the session failed!')
+
+
         def get_raw_content(self, article_id, content_sessionHelper=None, max_retry_times=3):
             sessionHelper = content_sessionHelper
             retry_times = 1
@@ -360,7 +424,7 @@ class _pubmedContendWorker(Process):
                     if not content_sessionHelper:
                         sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_content_headers)
                     xml_rsp = sessionHelper.get(
-                        'https://www.ncbi.nlm.nih.gov/pubmed/' + article_id + '?report=xml&format=text')
+                        'https://www.ncbi.nlm.nih.gov/pubmed/' + str(article_id) + '?report=xml&format=text')
                     if xml_rsp.status_code != 200:
                         raise Exception('Connection Failed')
                     xml_str = xml_rsp.text
@@ -369,6 +433,7 @@ class _pubmedContendWorker(Process):
                     if not isinstance(e, ProxyError):
                         retry_times += 1
                     time.sleep(1.0 * random.randrange(1, 2000) / 1000)  # 休息一下
+            raise Exception('Get raw content failed!')
 
         def run(self):
             while True:
@@ -389,20 +454,29 @@ class _pubmedContendWorker(Process):
                 task_info = None
                 try:
                     task_info = self.ids_queen.get(timeout=1)
-                    pubmed_id = task_info['id']
-                    retry_times = task_info['retry_times']
+                    article_id = str(task_info['id'])
+                    retry_times = int(task_info['retry_times'])
                     if (retry_times >= 5):
-                        raise Exception(pubmed_id + ': retry_times>=5! This id is labeled as FAILED!')
+                        raise Exception(str(article_id) + ': retry_times>=5! This id is labeled as FAILED!')
 
-                    if ContentHelper.is_in_black_list(pubmed_id):  # 判断是否在黑名单当中
+                    if ContentHelper.is_in_black_list(article_id):  # 判断是否在黑名单当中
                         continue
-                    # =============================================================================================
                     self.content_sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_content_headers)
-                    xml_str = self.get_raw_content(article_id=pubmed_id,
+                    details_str = self.get_raw_content(article_id=article_id,
                                                    content_sessionHelper=self.content_sessionHelper, max_retry_times=1)
-                    # content_model = ContentSerivice.format_pubmed_xml(xml_str)
-                    # TODO 存贮到数据库
-                    # content_model.save()
+                    # =============================================================================================
+                    try:
+                        content_model = ContentHelper.format_pubmed_xml(details_str)
+                        # TODO 存贮到数据库
+                        content_model.status = 1
+                        content_model.kw_id = int(self.kw_id)
+                        content_model.project = self.manager.TYPE
+                        content_model.ctime = int(time.time())
+                        content_model.save()
+                    except Exception as e:
+                        txt_path = os.path.join(BASE_DIR,'test/failed_pub',article_id+'.xml')
+                        with open(txt_path,'w+',encoding='utf-8') as f:
+                            f.write(details_str)
                     # =============================================================================================
                     self.manager.update_finish()
                     info = "%s/%s" % (self.manager.finished_num.value, self.manager.ids_queen_size.value)
@@ -452,6 +526,12 @@ class SpiderManagerForPubmed(object):
         self.kw_id = kwargs['kw_id']
         if SPIDERS_STATUS.get(self.kw_id):
             raise Exception('current kw has been existed')
+        try:
+            kw_json = SpiderKeyWord.objects.filter(id=self.kw_id).values()[0]
+            self.kw_name = kw_json['name']
+        except Exception as e:
+            raise Exception('查询关键词名字失败'+str(e))
+
         self.TYPE = 'PUBMED_SPIDER'
         self.id_process = None  # ID进程对象
         self.content_process = []  # Content进程对象

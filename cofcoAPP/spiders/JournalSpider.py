@@ -31,104 +31,104 @@ from cofcoAPP.heplers.SessionHelper import SessionHelper
 from cofcoAPP.heplers import ContentHelper, HeadersHelper
 from cofcoAPP.heplers import getFTime
 from cofcoAPP import spiders
-import mysql_handler as mh
-import agents
-import message as msg
-import config
-
-journal_name_list = mh.read_journal_name_all()  # 数据
-ojournal_name_list = mh.read_ojournal_name_all()  # 读取
-
-
-def journal_name_wash(journal_name_raw):  # 原始名称清洗（主要针对各种括号和标点、解释、注释）
-    re_bracket = re.compile("[\\[\\(](.*?)[\\]\\)]")  # 去处括号解释
-    re_explaination = re.compile(" ??[:=].*")  # 去处冒号后的解释
-    journal_name = journal_name_raw.replace('&amp;', "&").replace(
-        ',', '').replace(".", '')  # &是部分名称中包含的
-    journal_name = re_bracket.sub('', journal_name)
-    journal_name = re_explaination.sub('', journal_name)
-    journal_name = journal_name.upper()  # 清洗过的名称全大写
-    msg.msg("journal name", journal_name_raw, "washed",
-            journal_name, "debug", msg.display)
-    return journal_name
-
-
-def get_official_name(journal_name_raw, proxy=None):  # 查找杂志的全名，支持模糊查询，只输出最符合的那个
-    url = "http://www.letpub.com.cn/journalappAjax.php?querytype=autojournal&term=" + \
-          journal_name_raw.replace("&", "%26").replace(" ", "+")
-    tries = config.request_dp_tries
-    while tries > 0:
-        try:
-            opener = requests.Session()
-            doc = opener.get(url, timeout=20, headers=agents.get_header_jounal()).text
-            list = doc.split('},{')  # 获取列表，但是只有最match的被采纳
-            journal_name_start = list[0].find("label") + 8
-            journal_name_end = list[0].find("\",\"", journal_name_start)
-            journal_name = list[0][journal_name_start:journal_name_end]
-            journal_name = journal_name.upper()  # 查找到的名字也是全大写
-            msg.msg("journal name", journal_name_raw, "web retrieved",
-                    journal_name, "debug", msg.display)
-            return journal_name
-        except Exception, e:
-            msg.msg("journal name", journal_name, "web retrieved",
-                    "retried", "debug", msg.display)
-            msg.msg("journal name", journal_name,
-                    "web retrieved", str(e), "error", msg.log)
-            tries -= 1
-            time.sleep(config.request_refresh_wait)
-    else:
-        msg.msg("journal name", journal_name, "web retrieved",
-                "fail", "error", msg.log, msg.display)
-        return ""
-
-
-def get_journal_info(ojournal_name, proxy=None):  # 查找杂志影响因子、分区, 要求输入精准
-    url = "http://www.letpub.com.cn/index.php?page=journalapp&view=search"
-    search_str = {
-        "searchname": "",
-        "searchissn": "",
-        "searchfield": "",
-        "searchimpactlow": "",
-        "searchimpacthigh": "",
-        "searchscitype": "",
-        "view": "search",
-        "searchcategory1": "",
-        "searchcategory2": "",
-        "searchjcrkind": "",
-        "searchopenaccess": "",
-        "searchsort": "relevance"}
-    search_str["searchname"] = ojournal_name
-    tries = config.request_dp_tries
-    while tries > 0:
-        try:
-            opener = requests.Session()
-            doc = opener.post(url, timeout=20, data=search_str).text
-            selector = etree.HTML(doc.encode("utf-8"))
-            journal_detail_element = selector.xpath(
-                "//td[@style=\"border:1px #DDD solid; border-collapse:collapse; text-align:left; padding:8px 8px 8px 8px;\"]")
-            if len(journal_detail_element):
-                impact_factor = journal_detail_element[2].xpath('string(.)')
-                publication_zone = journal_detail_element[3].xpath('string(.)')[
-                    0]
-            else:
-                impact_factor = ""
-                publication_zone = ""
-            msg.msg("journal info", ojournal_name,
-                    "web retrieved", "succ", "debug", msg.display)
-            return impact_factor, publication_zone
-            break
-        except Exception, e:
-            msg.msg("journal info", ojournal_name, "web retrieved",
-                    "retried", "debug", msg.display)
-            msg.msg("journal info", ojournal_name,
-                    "web retrieved", str(e), "error", msg.log)
-            tries -= 1
-            time.sleep(config.request_refresh_wait)
-    else:
-        msg.msg("journal info", ojournal_name, "web retrieved",
-                "fail", "error", msg.log, msg.display)
-        return "", ""
-
+# import mysql_handler as mh
+# import agents
+# import message as msg
+# import config
+#
+# journal_name_list = mh.read_journal_name_all()  # 数据
+# ojournal_name_list = mh.read_ojournal_name_all()  # 读取
+#
+#
+# def journal_name_wash(journal_name_raw):  # 原始名称清洗（主要针对各种括号和标点、解释、注释）
+#     re_bracket = re.compile("[\\[\\(](.*?)[\\]\\)]")  # 去处括号解释
+#     re_explaination = re.compile(" ??[:=].*")  # 去处冒号后的解释
+#     journal_name = journal_name_raw.replace('&amp;', "&").replace(
+#         ',', '').replace(".", '')  # &是部分名称中包含的
+#     journal_name = re_bracket.sub('', journal_name)
+#     journal_name = re_explaination.sub('', journal_name)
+#     journal_name = journal_name.upper()  # 清洗过的名称全大写
+#     msg.msg("journal name", journal_name_raw, "washed",
+#             journal_name, "debug", msg.display)
+#     return journal_name
+#
+#
+# def get_official_name(journal_name_raw, proxy=None):  # 查找杂志的全名，支持模糊查询，只输出最符合的那个
+#     url = "http://www.letpub.com.cn/journalappAjax.php?querytype=autojournal&term=" + \
+#           journal_name_raw.replace("&", "%26").replace(" ", "+")
+#     tries = config.request_dp_tries
+#     while tries > 0:
+#         try:
+#             opener = requests.Session()
+#             doc = opener.get(url, timeout=20, headers=agents.get_header_jounal()).text
+#             list = doc.split('},{')  # 获取列表，但是只有最match的被采纳
+#             journal_name_start = list[0].find("label") + 8
+#             journal_name_end = list[0].find("\",\"", journal_name_start)
+#             journal_name = list[0][journal_name_start:journal_name_end]
+#             journal_name = journal_name.upper()  # 查找到的名字也是全大写
+#             msg.msg("journal name", journal_name_raw, "web retrieved",
+#                     journal_name, "debug", msg.display)
+#             return journal_name
+#         except Exception, e:
+#             msg.msg("journal name", journal_name, "web retrieved",
+#                     "retried", "debug", msg.display)
+#             msg.msg("journal name", journal_name,
+#                     "web retrieved", str(e), "error", msg.log)
+#             tries -= 1
+#             time.sleep(config.request_refresh_wait)
+#     else:
+#         msg.msg("journal name", journal_name, "web retrieved",
+#                 "fail", "error", msg.log, msg.display)
+#         return ""
+#
+#
+# def get_journal_info(ojournal_name, proxy=None):  # 查找杂志影响因子、分区, 要求输入精准
+#     url = "http://www.letpub.com.cn/index.php?page=journalapp&view=search"
+#     search_str = {
+#         "searchname": "",
+#         "searchissn": "",
+#         "searchfield": "",
+#         "searchimpactlow": "",
+#         "searchimpacthigh": "",
+#         "searchscitype": "",
+#         "view": "search",
+#         "searchcategory1": "",
+#         "searchcategory2": "",
+#         "searchjcrkind": "",
+#         "searchopenaccess": "",
+#         "searchsort": "relevance"}
+#     search_str["searchname"] = ojournal_name
+#     tries = config.request_dp_tries
+#     while tries > 0:
+#         try:
+#             opener = requests.Session()
+#             doc = opener.post(url, timeout=20, data=search_str).text
+#             selector = etree.HTML(doc.encode("utf-8"))
+#             journal_detail_element = selector.xpath(
+#                 "//td[@style=\"border:1px #DDD solid; border-collapse:collapse; text-align:left; padding:8px 8px 8px 8px;\"]")
+#             if len(journal_detail_element):
+#                 impact_factor = journal_detail_element[2].xpath('string(.)')
+#                 publication_zone = journal_detail_element[3].xpath('string(.)')[
+#                     0]
+#             else:
+#                 impact_factor = ""
+#                 publication_zone = ""
+#             msg.msg("journal info", ojournal_name,
+#                     "web retrieved", "succ", "debug", msg.display)
+#             return impact_factor, publication_zone
+#             break
+#         except Exception, e:
+#             msg.msg("journal info", ojournal_name, "web retrieved",
+#                     "retried", "debug", msg.display)
+#             msg.msg("journal info", ojournal_name,
+#                     "web retrieved", str(e), "error", msg.log)
+#             tries -= 1
+#             time.sleep(config.request_refresh_wait)
+#     else:
+#         msg.msg("journal info", ojournal_name, "web retrieved",
+#                 "fail", "error", msg.log, msg.display)
+#         return "", ""
+#
 
 
 def journal_detail(journal_name):
@@ -159,8 +159,8 @@ def journal_detail(journal_name):
 
 
 # 任务生成爬虫
-class _scienceIDWorker(Process):
-    def __init__(self, kw_id, name=None,thread_num=4, page_size=spiders.default_science_pagesize):
+class _letpubIDWorker(Process):
+    def __init__(self, kw_id, name=None,thread_num=4, page_size=spiders.default_letpub_pagesize):
         Process.__init__(self)
         self.kw_id = kw_id
         self.name = name
@@ -170,7 +170,7 @@ class _scienceIDWorker(Process):
         self.pages_queen = ProcessQueen(maxsize=-1)  # 页码queen
 
     class _worker(threading.Thread):
-        def __init__(self, kw_id, name=None, pages_queen=None, ids_sessionHelper=None, page_size=spiders.default_science_pagesize):
+        def __init__(self, kw_id, name=None, pages_queen=None, ids_sessionHelper=None, page_size=spiders.default_letpub_pagesize):
             threading.Thread.__init__(self)
             self.kw_id = kw_id
             self.manager = SPIDERS_STATUS[kw_id]
@@ -192,11 +192,11 @@ class _scienceIDWorker(Process):
                 try:
                     logger.log(user=self.name, tag='INFO', info='Trying to get pageNum ...:' + str(retry_times), screen=True)
                     if not ids_sessionHelper:
-                        ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
+                        ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.letpub_headers)
                     query_str = self.get_kw_query_str(self.kw_id)
                     offset = 0
                     query_str = "%s&offset=%d&show=%d" % (query_str, offset, self.page_size)
-                    response = ids_sessionHelper.get('https://www.sciencedirect.com/search?' + query_str)
+                    response = ids_sessionHelper.get('https://www.letpubdirect.com/search?' + query_str)
                     if response.status_code != 200:
                         raise Exception('Connection Failed')
                     content = response.text.encode().decode('unicode_escape')
@@ -212,13 +212,13 @@ class _scienceIDWorker(Process):
                     logger.log(user=self.name, tag='ERROR', info=e, screen=True)
                     if not isinstance(e, ProxyError):
                         retry_times += 1
-                    ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
+                    ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.letpub_headers)
                     time.sleep(1.0 * random.randrange(1, 1000) / 1000)  # 休息一下
             return -1
 
         def run(self):
             if not self.ids_sessionHelper:
-                self.ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
+                self.ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.letpub_headers)
             while True:
                 # 检查是否被暂停
                 if self.manager.idsP_status.value == 2:
@@ -246,7 +246,7 @@ class _scienceIDWorker(Process):
                     query_str = self.get_kw_query_str(self.kw_id)
                     offset = (currPage - 1) * self.page_size
                     query_str = "%s&offset=%d&show=%d" % (query_str, offset, self.page_size)
-                    response = self.ids_sessionHelper.get('https://www.sciencedirect.com/search?' + query_str)
+                    response = self.ids_sessionHelper.get('https://www.letpubdirect.com/search?' + query_str)
                     if response.status_code != 200:
                         raise Exception('Connection Failed')
                     content = response.text.encode().decode('unicode_escape')
@@ -280,7 +280,7 @@ class _scienceIDWorker(Process):
                     else:
                         pass
                         # logger.log(user=self.name, tag='INFO', info='Waiting...', screen=True)
-                    self.ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
+                    self.ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.letpub_headers)
 
     def run(self):
         # 获取页码
@@ -305,7 +305,7 @@ class _scienceIDWorker(Process):
             t.join()
 
 # 根据article_id爬取文章内容，每个进程有好几个线程
-class _scienceContendWorker(Process):
+class _letpubContendWorker(Process):
     def __init__(self, kw_id, name=None, thread_num=8):
         Process.__init__(self)
         self.kw_id = kw_id
@@ -328,8 +328,8 @@ class _scienceContendWorker(Process):
             while retry_times <= max_retry_times:  # 最多重试次数
                 try:
                     if not content_sessionHelper:
-                        sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
-                    rsp = sessionHelper.get('https://www.sciencedirect.com/science/article/pii/' + article_id)
+                        sessionHelper = SessionHelper(header_fun=HeadersHelper.letpub_headers)
+                    rsp = sessionHelper.get('https://www.letpubdirect.com/letpub/article/pii/' + article_id)
                     if rsp.status_code != 200:
                         raise Exception('Connection Failed')
 
@@ -369,7 +369,7 @@ class _scienceContendWorker(Process):
                     if ContentHelper.is_in_black_list(article_id): # 判断是否在黑名单当中
                         continue
                     # =============================================================================================
-                    self.content_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
+                    self.content_sessionHelper = SessionHelper(header_fun=HeadersHelper.letpub_headers)
                     details_str = self.get_raw_content(article_id=article_id, content_sessionHelper=self.content_sessionHelper,max_retry_times=1)
                     # content_model = ContentHelper.format_scicent_details(details_str)
                     # TODO 存贮到数据库
@@ -417,13 +417,13 @@ class _scienceContendWorker(Process):
 
 
 # 爬虫对象
-class SpiderManagerForScience(object):
-    def __init__(self,ids_thread_num=4, content_process_num=2, content_thread_num=8,page_size=spiders.default_science_pagesize,  **kwargs):
+class SpiderManagerForLetpub(object):
+    def __init__(self,ids_thread_num=4, content_process_num=2, content_thread_num=8,page_size=spiders.default_letpub_pagesize,  **kwargs):
         # 爬虫的状态信息
         self.kw_id = kwargs['kw_id']
         if SPIDERS_STATUS.get(self.kw_id):
             raise Exception('current kw has been existed')
-        self.TYPE = 'SCIENCE_SPIDER'
+        self.TYPE = 'LETPUB_SPIDER'
         self.id_process = None  # ID进程对象
         self.content_process = []  # Content进程对象
         self.ids_thread_num = ids_thread_num  # ids线程个数
@@ -495,15 +495,15 @@ class SpiderManagerForScience(object):
         self.status.value = 1  # 将状态置为开始
 
         # 启动获取pubmedID的进程
-        id_worker = _scienceIDWorker(kw_id=self.kw_id, name='%s SCIENCE_IDS_PROCESS-MAIN' % common_tag, thread_num=self.ids_thread_num, page_size=self.page_size)
+        id_worker = _letpubIDWorker(kw_id=self.kw_id, name='%s LETPUB_IDS_PROCESS-MAIN' % common_tag, thread_num=self.ids_thread_num, page_size=self.page_size)
         id_worker.start()
         self.id_process = id_worker
         self.idsP_status.value =1
 
         # 启动获取 content 的进程
         for i in range(self.content_process_num):
-            name = '%s SCIENCE_CONTEND_PROCESS-%02d' % (common_tag, int(i + 1))
-            content_worker = _scienceContendWorker(kw_id=self.kw_id, name=name)
+            name = '%s LETPUB_CONTEND_PROCESS-%02d' % (common_tag, int(i + 1))
+            content_worker = _letpubContendWorker(kw_id=self.kw_id, name=name)
             content_worker.start()
             self.content_process.append(content_worker)
         self.contentP_status.value = 1
@@ -580,7 +580,7 @@ class SpiderManagerForScience(object):
 
 
 if __name__ == '__main__':
-    sfp = SpiderManagerForScience(kw_id='23', content_process_num=2, content_thread_num=16, update_times='12', create_user_id='uid', create_user_name='uname')
+    sfp = SpiderManagerForLetpub(kw_id='23', content_process_num=2, content_thread_num=16, update_times='12', create_user_id='uid', create_user_name='uname')
     sfp.start()
     print('start successful')
 

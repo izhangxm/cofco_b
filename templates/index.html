@@ -46,8 +46,8 @@
                 }
             })
         }
-        function new_spider(spider_type) {
-            var kw_id = Math.floor(Math.random() * 1000);
+        function new_spider(spider_type,kw_id) {
+            {#var kw_id = Math.floor(Math.random() * 1000);#}
             var data = {spider_type: spider_type, kw_id: kw_id, uid: '25', uname: 'izhangxm', action: 'new'}
             $.post(API_URL+'/api/v1/controlspider/', data, function (resp) {
                 if (resp['status'] == 1) {
@@ -100,9 +100,9 @@
             </div>
             <br>
             <div class="btn-group">
-                <button type="button" class="btn btn-success new_pubmed_spider" onclick="new_spider('1')">新建Pubmed爬虫
+                <button type="button" class="btn btn-success new_pubmed_spider" onclick="new_spider('1',74)">新建Pubmed爬虫
                 </button>
-                <button type="button" class="btn btn-warning new_pubmed_spider" onclick="new_spider('2')">新建Science爬虫
+                <button type="button" class="btn btn-warning new_pubmed_spider" onclick="new_spider('2',75)">新建Science爬虫
                 </button>
 
             </div>

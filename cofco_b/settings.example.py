@@ -83,6 +83,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cofco_f',
         'USER': 'root',
+        'CONN_MAX_AGE': 3600,
         'PASSWORD': 'root',
         'HOST': '127.0.0.1',
         'PORT': '3306',

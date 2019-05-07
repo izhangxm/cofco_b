@@ -23,6 +23,7 @@ import re
 import time
 import random
 import os
+import json
 from requests.exceptions import ConnectionError, ProxyError
 from cofco_b.settings import BASE_DIR
 from cofcoAPP.spiders import SPIDERS_STATUS, logger
@@ -30,6 +31,7 @@ from cofcoAPP.heplers.SessionHelper import SessionHelper
 from cofcoAPP.heplers import ContentHelper, HeadersHelper
 from cofcoAPP.heplers import getFTime
 from cofcoAPP import spiders
+from cofcoAPP.models import SpiderKeyWord
 
 # 任务生成爬虫
 class _scienceIDWorker(Process):
@@ -56,8 +58,36 @@ class _scienceIDWorker(Process):
 
         # 获得查询字符串
         def get_kw_query_str(self, kw_id):
+
+            def reg(ss):
+                ss = ss.replace(' ', '%20')
+                return ss
+
+            # jsons1 ='{"name":"1","qs":"2","pub":"3","date":"2019","authors":"4 5","affiliations":"5","tak":"6","title":"7","volume":"8","issue":"9","page":"10","docId":"11","references":"12","articleTypes":{"REV":"on","COR":"on","PNT":"on"}}'
+            def pingjie(jsons1):
+                js = json.loads(jsons1)
+                str = ''
+                for key in js:
+                    if key != 'name':
+                        if key != 'articleTypes':
+                            js[key] = reg(js[key])
+                            str += key + '=' + js[key] + '&'
+                        else:
+                            str += key + '='
+                            for i in js['articleTypes']:
+                                str += i + '%2C'
+                            str = str[:-3] + '&'
+                str = str + 'show=25&sortBy=relevance'
+                return str
             # TODO 根据kw_id，获取当前爬虫的查询字符串，这里应当去除'&offset=0&show=100'
-            return 'qs=hash%20image%20aa&sortBy=relevance'
+            # TODO 根据kw_id，获取当前爬虫的查询字符串，这里应当去除'&offset=0&show=100'
+            str = ''
+            try:
+                kw_ = SpiderKeyWord.objects.filter(id=kw_id).values()[0]
+                str = pingjie(kw_['value'])
+            except Exception as e:
+                logger.log(user=self.name, tag='ERROR', info="Error: unable to fetch data" + str(e), screen=True)
+            return str
 
         def _get_page_Num(self, ids_sessionHelper=None):
             retry_times = 1
@@ -191,9 +221,57 @@ class _scienceContendWorker(Process):
             threading.Thread.__init__(self)
             self.name = name
             self.kw_id = kw_id
+            self.sessionHelper = None
             if kw_id:
                 self.manager = SPIDERS_STATUS[kw_id]
                 self.ids_queen = self.manager.ids_queen
+
+        # 判断是否被 Forbidden 拒绝服务
+        def _isBlocked(self,rsp_text):
+            r = re.search(re.compile(r'<center><h1>403 Forbidden</h1></center>'),rsp_text)
+            return r is not None
+
+        # 当前的内容获取线程应当基于搜索得到的session
+        # 并设置好头信息
+        def _updateSession(self, ids_max_retry_times=3):
+            retry_times = 1
+            while retry_times <= ids_max_retry_times:  # 最多重试次数
+                try:
+                    logger.log(user=self.name, tag='INFO',
+                               info='Trying to Update the session!...:' + str(retry_times),
+                               screen=True)
+                    query_worker = _scienceIDWorker(kw_id=self.kw_id,name='SciContentUS-Process')._worker(kw_id=self.kw_id,name='SciContentUS-Thread')
+
+                    ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
+                    query_str = query_worker.get_kw_query_str(self.kw_id)
+                    offset = 0
+                    query_str = "%s&offset=%d&show=%d" % (query_str, offset, spiders.default_science_pagesize)
+
+                    response = ids_sessionHelper.get('https://www.sciencedirect.com/search?' + query_str)
+                    if response.status_code != 200:
+                        raise Exception('Connection Failed')
+
+                    rsp_text = response.text.encode().decode('unicode_escape')
+                    if self._isBlocked(rsp_text):
+                        continue
+                    # 设置header: refer
+                    headers = {'Referer': query_str, 'Upgrade-Insecure-Requests': '1'}
+                    ids_sessionHelper.session.headers.update(headers)
+                    self.sessionHelper = ids_sessionHelper
+
+                    logger.log(user=self.name, tag='INFO', info='Update the session successfully.', screen=True)
+                    return self.sessionHelper
+                except Exception as e:
+                    logger.log(user=self.name, tag='ERROR', info=e, screen=True)
+                    if not isinstance(e, ProxyError):
+                        retry_times += 1
+                    time.sleep(1.0 * random.randrange(1, 1000) / 1000)  # 休息一下
+            raise Exception('Update the session failed!')
+
+        def _find_details_str(self,rsp_text):
+            detail_str_p = re.compile('<script type="application/json" data-iso-key="_0">(\{[\s\S]*?\}\})</script>')
+            r = re.search(detail_str_p, rsp_text)
+            return r.group(1)
 
         def get_raw_content(self, article_id, content_sessionHelper=None, max_retry_times=3):
             sessionHelper = content_sessionHelper
@@ -205,17 +283,15 @@ class _scienceContendWorker(Process):
                     rsp = sessionHelper.get('https://www.sciencedirect.com/science/article/pii/' + article_id)
                     if rsp.status_code != 200:
                         raise Exception('Connection Failed')
-
-                    detail_str_p = re.compile('<script type="application/json" data-iso-key="_0">(\{[\s\S]*?\}\})</script>')
-                    r = re.search(detail_str_p, rsp.text)
-
-                    return r.group(1)
+                    return rsp.text
                 except Exception as e:
                     if not isinstance(e, ProxyError):
                         retry_times += 1
                     time.sleep(1.0 * random.randrange(1, 200) / 1000)  # 休息一下
+            raise Exception('Get %s raw content failed!' % (article_id))
 
         def run(self):
+
             while True:
                 # 检查是否被暂停
                 if self.manager.contentP_status.value == 2:  # 任务被暂停
@@ -234,22 +310,36 @@ class _scienceContendWorker(Process):
                 task_info = None
                 try:
                     task_info = self.ids_queen.get(timeout=1)
-                    article_id = task_info['id']
-                    retry_times = task_info['retry_times']
-                    if (retry_times >= spiders.content_max_retry_times):
-                        raise Exception("%s: retry_times=%d! This id is labeled as FAILED!" % ( article_id, spiders.content_max_retry_times))
+                    article_id = str(task_info['id'])
+                    retry_times = int(task_info['retry_times'])
+                    if (retry_times >= 5):
+                        raise Exception(str(article_id) + ': retry_times>=5! This id is labeled as FAILED!')
 
                     if ContentHelper.is_in_black_list(article_id): # 判断是否在黑名单当中
                         continue
+
+                    if not self.sessionHelper:
+                        self._updateSession()  # 更换Helper
+
+                    rsp_text = self.get_raw_content(article_id=article_id, content_sessionHelper=self.sessionHelper,max_retry_times=1)
+                    if self._isBlocked(rsp_text): # 如果被forbidden，就放弃当前的session
+                        self.sessionHelper = None
+                        raise Exception('This session has been blocked!')
+
+                    details_str = self._find_details_str(rsp_text)
                     # =============================================================================================
-                    self.content_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
-                    details_str = self.get_raw_content(article_id=article_id, content_sessionHelper=self.content_sessionHelper,max_retry_times=1)
-                    txt_path = os.path.join(BASE_DIR,'static/science_data',article_id+'.txt')
-                    with open(txt_path,'w+',encoding='utf-8') as f:
-                        f.write(details_str)
-                    # content_model = ContentHelper.format_scicent_details(details_str)
-                    # TODO 存贮到数据库
-                    # content_model.save()
+                    try:
+                        content_model = ContentHelper.format_scicent_details(details_str)
+                        content_model.status = 1
+                        content_model.kw_id = int(self.kw_id)
+                        content_model.project = self.manager.TYPE
+                        content_model.ctime = int(time.time())
+                        # TODO 存贮到数据库
+                        content_model.save()
+                    except Exception as e:
+                        txt_path = os.path.join(BASE_DIR,'test/failed_science',article_id+'.txt')
+                        with open(txt_path,'w+',encoding='utf-8') as f:
+                            f.write(details_str)
                     # =============================================================================================
                     self.manager.update_finish()
                     info = "%s/%s" % (self.manager.finished_num.value, self.manager.ids_queen_size.value)
@@ -280,7 +370,7 @@ class _scienceContendWorker(Process):
                     else:
                         pass
                         # logger.log(user=self.name, tag='INFO', info='Waiting...', screen=True)
-
+                    time.sleep(1.0 * random.randrange(1, 1000) / 1000)  # 休息一下
     def run(self):
         for i in range(self.thread_num):
             name = "%s %s-%02d" % (self.name, 'THREAD', i + 1)
@@ -299,6 +389,11 @@ class SpiderManagerForScience(object):
         self.kw_id = kwargs['kw_id']
         if SPIDERS_STATUS.get(self.kw_id):
             raise Exception('current kw has been existed')
+        try:
+            kw_json = SpiderKeyWord.objects.filter(id=self.kw_id).values()[0]
+            self.kw_name = kw_json['name']
+        except Exception as e:
+            raise Exception('查询关键词名字失败'+str(e))
         self.TYPE = 'SCIENCE_SPIDER'
         self.id_process = None  # ID进程对象
         self.content_process = []  # Content进程对象
