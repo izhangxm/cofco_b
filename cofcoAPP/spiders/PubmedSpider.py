@@ -141,47 +141,21 @@ class _pubmedIDWorker(Process):
 
         # 获得查询字符串
         def get_kw_query_str(self, kw_id):
-            def reg(ss):
-                ss = ss.replace(' ', '%20')
-                return ss
-
-            def rep(ss1):
-                if ss1 == '1':
-                    ss1 = 'AND'
-                elif ss1 == '2':
-                    ss1 = 'OR'
-                else:
-                    ss1 = 'NOT'
-                return ss1
-            def pubpingjie(jsons1):
-                js = json.loads(jsons1)
-                print(js)
-                str = ''
-                for i in range(len(js) - 1):
-                    js['%d' % i]['field'] = reg(js['%d' % i]['field'])
-                    js['%d' % i]['keyword'] = reg(js['%d' % i]['keyword'])
-                    if i == 0:
-                        if js['%d' % i]['field'] != 'All%20Fields':
-                            str = js['%d' % i]['keyword'] + '%5B' + js['%d' % i]['field'] + '%5D'
-                        else:
-                            str = js['0']['keyword']
-                    else:
-                        js['%d' % i]['symbol'] = rep(js['%d' % i]['symbol'])
-                        if js['%d' % i]['field'] != 'All%20Fields':
-                            str = '(' + str + ')' + '%20' + js['%d' % i]['symbol'] + '%20' + js['%d' % i][
-                                'keyword'] + '%5B' + js['%d' % i]['field'] + '%5D'
-                        else:
-                            str = '(' + str + ')' + '%20' + js['%d' % i]['symbol'] + '%20' + js['%d' % i]['keyword']
-
-                return str
-            str = ''
+            query_str = ""
             try:
+                logic_str = {'none':'', '1':'AND ', '2':'OR ', '3':'NOT '}
                 kw_ = SpiderKeyWord.objects.filter(id=kw_id).values()[0]
-                str = pubpingjie(kw_['value'])
-                str = unquote(str)
+                for ele in json.loads(kw_['value']):
+                    if(len(query_str)>0):
+                        query_str = "(%s) " % query_str
+                    query_str += "%s%s" % (logic_str.get(ele['symbol']),ele['keyword'])
+                    if ele['field'] != 'All Fields':
+                        query_str += "[%s]" % ele['field']
+                query_str = unquote(query_str)
+                logger.log(user=self.name, tag='INFO', info="query_str:%s !" % query_str, screen=True)
+                return query_str
             except Exception as e:
-                logger.log(user=self.name, tag='ERROR', info="Error: unable to fetch data" + str(e), screen=True)
-            return str
+                raise Exception('Error: unable to parse the kw_id! %s' % e)
 
         # 新建session, 并寻找 lastQueryKey 和 page_num
         def _updateSpiderInfo(self):
@@ -465,6 +439,7 @@ class _pubmedContendWorker(Process):
                         content_model.status = 1
                         content_model.art_id = article_id
                         content_model.kw_id = int(self.kw_id)
+                        content_model.creater = self.manager.create_user_id
                         content_model.project = self.manager.TYPE
                         ContentHelper.content_save(content_model)
                     except Exception as e:
@@ -498,8 +473,9 @@ class _pubmedContendWorker(Process):
                             content_model = Content()
                             content_model.status = -3
                             content_model.pmid = str(task_info['id'])
-                            content_model.title = '该文章爬取失败:'+str(e)
+                            content_model.title = '该文章爬取失败'
                             content_model.kw_id = int(self.kw_id)
+                            content_model.creater = self.manager.create_user_id
                             content_model.project = self.manager.TYPE
                             ContentHelper.content_save(content_model)
                         logger.log(user=self.name, tag='ERROR', info=e, screen=True)

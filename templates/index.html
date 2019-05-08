@@ -36,9 +36,10 @@
     </style>
     <script language="JavaScript">
         API_URL = ''
+
         function control_spider(kw_id, action, idsP, contentP) {
-            var data = {kw_id: kw_id, action: action,idsP:idsP,contentP:contentP}
-            $.post(API_URL+'/api/v1/controlspider/', data, function (resp) {
+            var data = {kw_id: kw_id, action: action, idsP: idsP, contentP: contentP}
+            $.post(API_URL + '/api/v1/controlspider/', data, function (resp) {
                 if (resp['status'] == 1) {
                     updateTipinfo(resp['info'])
                 } else {
@@ -46,10 +47,11 @@
                 }
             })
         }
-        function new_spider(spider_type,kw_id) {
-            {#var kw_id = Math.floor(Math.random() * 1000);#}
+
+        function new_spider(spider_type) {
+            var kw_id = $('#kw_input_id').val()
             var data = {spider_type: spider_type, kw_id: kw_id, uid: '25', uname: 'izhangxm', action: 'new'}
-            $.post(API_URL+'/api/v1/controlspider/', data, function (resp) {
+            $.post(API_URL + '/api/v1/controlspider/', data, function (resp) {
                 if (resp['status'] == 1) {
                     updateTipinfo(resp['info'])
                 } else {
@@ -99,13 +101,24 @@
                 <button type="button" class="btn btn-info clear_task_info">清除汇总信息</button>
             </div>
             <br>
-            <div class="btn-group">
-                <button type="button" class="btn btn-success new_pubmed_spider" onclick="new_spider('1',74)">新建Pubmed爬虫
-                </button>
-                <button type="button" class="btn btn-warning new_pubmed_spider" onclick="new_spider('2',75)">新建Science爬虫
-                </button>
+            <div class="row">
+                <div class="col-md-2">
+                    <input type="text" class="form-control form-inline" value="" placeholder="关键词ID" style="margin: 10px 20px 10px 0;" id='kw_input_id'/>
+                </div>
+                <div class="col-md-10">
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-success new_pubmed_spider" onclick="new_spider('1')">
+                            新建Pubmed爬虫
+                        </button>
+                        <button type="button" class="btn btn-warning new_pubmed_spider" onclick="new_spider('2')">
+                            新建Science爬虫
+                        </button>
+                    </div>
+                </div>
 
             </div>
+
+
             <br>
             <br>
             <br>
@@ -135,6 +148,7 @@
     function updateTipinfo(txt) {
         $('#op_message').html(txt);
     }
+
     $(function () {
         start_update_info = true;
 
@@ -142,7 +156,7 @@
             if (!start_update_info) {
                 return
             }
-            $.get(API_URL+'/api/v1/getthreadstatus/', function (resp) {
+            $.get(API_URL + '/api/v1/getthreadstatus/', function (resp) {
                 var data = resp['data'];
                 var thread_title_ele = $('#tr_title_id')[0];
                 var thread_status_list_ele = $('#thread_status_list_id')[0];
@@ -154,7 +168,7 @@
                 var threadlist = eval(data.threadlist);
                 var line_html = "";
                 var i = 0;
-                for ( key in titles) {
+                for (key in titles) {
                     line_html += "<th>" + titles[key] + "</th>";
                     $(thread_title_ele).html(line_html);
                 }
@@ -170,14 +184,13 @@
                 for (i = 0; i < threadlist.length; i++) {
                     line_html = "";
                     var thread = threadlist[i];
-                    for(var key in titles){
+                    for (var key in titles) {
                         var txt_ = '';
-                        if(key === 'idsP_status' || key === 'cP_status'|| key === 'status' ){
+                        if (key === 'idsP_status' || key === 'cP_status' || key === 'status') {
                             txt_ = statusName[thread[key]];
-                        } else if(key === 'operation'){
+                        } else if (key === 'operation') {
                             continue
-                        }
-                        else{
+                        } else {
                             txt_ = thread[key];
                         }
                         line_html += "<td>" + txt_ + "</td>";
@@ -199,7 +212,6 @@
                         "<button type=\"button\" class=\"btn btn-xs btn-info resume_pubmed_spider\" onclick=\"control_spider(" + thread['kw_id'] + ", 'resume',0, 1)\">恢复Content</button>\n" +
                         "<button type=\"button\" class=\"btn btn-xs btn-info resume_pubmed_spider\" onclick=\"control_spider(" + thread['kw_id'] + ", 'terminate',0, 1)\">终止Content</button>\n" +
                         "</div>";
-
 
 
                     line_html += "</td>"

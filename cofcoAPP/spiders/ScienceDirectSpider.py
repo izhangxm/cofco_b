@@ -58,36 +58,21 @@ class _scienceIDWorker(Process):
 
         # 获得查询字符串
         def get_kw_query_str(self, kw_id):
-
-            def reg(ss):
-                ss = ss.replace(' ', '%20')
-                return ss
-
-            # jsons1 ='{"name":"1","qs":"2","pub":"3","date":"2019","authors":"4 5","affiliations":"5","tak":"6","title":"7","volume":"8","issue":"9","page":"10","docId":"11","references":"12","articleTypes":{"REV":"on","COR":"on","PNT":"on"}}'
-            def pingjie(jsons1):
-                js = json.loads(jsons1)
-                str = ''
-                for key in js:
-                    if key != 'name':
-                        if key != 'articleTypes':
-                            js[key] = reg(js[key])
-                            str += key + '=' + js[key] + '&'
-                        else:
-                            str += key + '='
-                            for i in js['articleTypes']:
-                                str += i + '%2C'
-                            str = str[:-3] + '&'
-                str = str + 'show=25&sortBy=relevance'
-                return str
-            # TODO 根据kw_id，获取当前爬虫的查询字符串，这里应当去除'&offset=0&show=100'
-            # TODO 根据kw_id，获取当前爬虫的查询字符串，这里应当去除'&offset=0&show=100'
-            str = ''
             try:
                 kw_ = SpiderKeyWord.objects.filter(id=kw_id).values()[0]
-                str = pingjie(kw_['value'])
+                query_str = ""
+                for key,value in json.loads(kw_['value']).items():
+                    if value == '':
+                        continue
+                    if len(query_str) > 0:
+                        query_str += '&'
+                    if key == 'articleTypes':
+                        value = " ".join(value.keys())
+                    query_str += "%s=%s" %(key,value)
+                logger.log(user=self.name, tag='INFO', info="query_str:%s !" % query_str, screen=True)
+                return query_str
             except Exception as e:
-                logger.log(user=self.name, tag='ERROR', info="Error: unable to fetch data" + str(e), screen=True)
-            return str
+                raise Exception('Error: unable to parse the kw_id! %s' % e)
 
         def _get_page_Num(self, ids_sessionHelper=None):
             retry_times = 1
@@ -105,8 +90,6 @@ class _scienceIDWorker(Process):
                     content = response.text.encode().decode('unicode_escape')
                     page_num_p = re.compile('<li>Page <!-- -->[\d]+<!-- -->\sof\s<!-- -->([\d]+)</li>', re.I | re.M)
                     r = re.search(page_num_p, content)
-                    if not r:
-                        raise Exception('Cant find the page_num')
                     page_num = int(r.group(1)) if r else 0
                     self.manager.page_Num.value = page_num
                     logger.log(user=self.name, tag='INFO', info='Get pageNum:%d successfully.' % page_num, screen=True)
@@ -333,6 +316,7 @@ class _scienceContendWorker(Process):
                         content_model.status = 1
                         content_model.art_id = article_id
                         content_model.kw_id = int(self.kw_id)
+                        content_model.creater = self.manager.create_user_id
                         content_model.project = self.manager.TYPE
                         ContentHelper.content_save(content_model)
                     except Exception as e:
@@ -366,8 +350,9 @@ class _scienceContendWorker(Process):
                             content_model = Content()
                             content_model.status = -3
                             content_model.art_id = str(task_info['id'])
-                            content_model.title = '该文章爬取失败:' + str(e)
+                            content_model.title = '该文章爬取失败'
                             content_model.kw_id = int(self.kw_id)
+                            content_model.creater = self.manager.create_user_id
                             content_model.project = self.manager.TYPE
                             ContentHelper.content_save(content_model)
                         logger.log(user=self.name, tag='ERROR', info=e, screen=True)

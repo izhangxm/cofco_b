@@ -26,7 +26,7 @@ class Journal(models.Model):
 
 
 class Content(models.Model):
-    art_id = models.TextField(max_length=11, primary_key=True)
+    art_id = models.TextField(max_length=64, primary_key=True)
     kw_id = models.IntegerField()
     project = models.TextField()
     status = models.IntegerField()  # 状态值，1:详情未爬取，2：详情已爬取，3：审核完毕
@@ -44,11 +44,11 @@ class Content(models.Model):
     institue = models.TextField()
     irank = models.TextField()
     country = models.TextField()
+    creater = models.TextField()
     tabstract = models.TextField(null=True)
 
     class Meta:
         db_table = "spiderapp_content"
-
 
 
 class SpiderKeyWord(models.Model):
