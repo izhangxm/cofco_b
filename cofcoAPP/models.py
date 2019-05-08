@@ -1,7 +1,18 @@
 from django.db import models
+from django.core import serializers
+from django.db.models import QuerySet
+import json
 
-
-# Create your models here.
+def get_json_model(object_s):
+    result = {}
+    if isinstance(object_s,QuerySet):
+        query_set = json.loads(serializers.serialize('json', object_s))
+        result = []
+        for mode_r in query_set:
+            result.append(mode_r['fields'])
+    elif str(object_s.__class__.__bases__[0].__name__) == 'Model':
+        result = json.loads(serializers.serialize('json',[object_s]))[0]['fields']
+    return result
 
 class Journal(models.Model):
     id = models.AutoField(max_length=11, primary_key=True, auto_created=True)
@@ -15,15 +26,12 @@ class Journal(models.Model):
 
 
 class Content(models.Model):
-    id = models.AutoField(max_length=11, primary_key=True, auto_created=True)
-    project = models.TextField()
-    sstr = models.TextField()
+    art_id = models.TextField(max_length=11, primary_key=True)
     kw_id = models.IntegerField()
-    source = models.TextField()
+    project = models.TextField()
     status = models.IntegerField()  # 状态值，1:详情未爬取，2：详情已爬取，3：审核完毕
     doi = models.CharField(max_length=300, default='')
     ctime = models.IntegerField()
-    pmid = models.TextField()
     title = models.TextField()
     author = models.TextField()
     journal = models.TextField()
@@ -36,9 +44,6 @@ class Content(models.Model):
     institue = models.TextField()
     irank = models.TextField()
     country = models.TextField()
-    flink = models.TextField(default='')
-    s_task_id = models.IntegerField(null=True)
-    tag_id = models.IntegerField(null=True)
     tabstract = models.TextField(null=True)
 
     class Meta:

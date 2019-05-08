@@ -31,7 +31,7 @@ from cofcoAPP.heplers.SessionHelper import SessionHelper
 from cofcoAPP.heplers import ContentHelper, HeadersHelper
 from cofcoAPP.heplers import getFTime
 from cofcoAPP import spiders
-from cofcoAPP.models import SpiderKeyWord
+from cofcoAPP.models import SpiderKeyWord,Content
 
 # 任务生成爬虫
 class _scienceIDWorker(Process):
@@ -312,8 +312,8 @@ class _scienceContendWorker(Process):
                     task_info = self.ids_queen.get(timeout=1)
                     article_id = str(task_info['id'])
                     retry_times = int(task_info['retry_times'])
-                    if (retry_times >= 5):
-                        raise Exception(str(article_id) + ': retry_times>=5! This id is labeled as FAILED!')
+                    if (retry_times >= spiders.content_max_retry_times):
+                        raise Exception('%s: retry_times>=%d! This id is labeled as FAILED!'%(article_id, spiders.content_max_retry_times))
 
                     if ContentHelper.is_in_black_list(article_id): # 判断是否在黑名单当中
                         continue
@@ -331,15 +331,15 @@ class _scienceContendWorker(Process):
                     try:
                         content_model = ContentHelper.format_scicent_details(details_str)
                         content_model.status = 1
+                        content_model.art_id = article_id
                         content_model.kw_id = int(self.kw_id)
                         content_model.project = self.manager.TYPE
-                        content_model.ctime = int(time.time())
-                        # TODO 存贮到数据库
-                        content_model.save()
+                        ContentHelper.content_save(content_model)
                     except Exception as e:
                         txt_path = os.path.join(BASE_DIR,'test/failed_science',article_id+'.txt')
                         with open(txt_path,'w+',encoding='utf-8') as f:
                             f.write(details_str)
+                        raise e
                     # =============================================================================================
                     self.manager.update_finish()
                     info = "%s/%s" % (self.manager.finished_num.value, self.manager.ids_queen_size.value)
@@ -357,15 +357,19 @@ class _scienceContendWorker(Process):
                     # 失败后的任务重新放入任务队列，并重新尝试
                     if task_info:
                         retry_times = task_info['retry_times']
-                        if (retry_times < 5):
+                        if (retry_times < spiders.content_max_retry_times):
                             if not isinstance(e, ProxyError):
                                 task_info['retry_times'] += 1
                             self.ids_queen.put(task_info)
                         else: # 该任务确认已经失败，进行一些后续操作
                             self.manager.update_failed()
-                            # content_model = ContentSerivice.format_scicent_details(None)
-                            # TODO 存贮到数据库
-                            # content_model.save()
+                            content_model = Content()
+                            content_model.status = -3
+                            content_model.art_id = str(task_info['id'])
+                            content_model.title = '该文章爬取失败:' + str(e)
+                            content_model.kw_id = int(self.kw_id)
+                            content_model.project = self.manager.TYPE
+                            ContentHelper.content_save(content_model)
                         logger.log(user=self.name, tag='ERROR', info=e, screen=True)
                     else:
                         pass

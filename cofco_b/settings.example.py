@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
-    'django.contrib.admin',
+    # 'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -132,5 +132,5 @@ STATIC_ROOT = os.path.join(BASE_DIR, "/static/")
 
 
 # 启动自动配置
-from cofcoAPP.heplers.ConfigHelper import AutoUpdateConfig
-AutoUpdateConfig().start()
+# from cofcoAPP.heplers.ConfigHelper import AutoUpdateConfig
+# AutoUpdateConfig().start()

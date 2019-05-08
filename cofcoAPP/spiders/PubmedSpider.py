@@ -33,7 +33,7 @@ from cofcoAPP.heplers import getFTime
 from cofcoAPP import spiders
 import traceback
 import json
-from cofcoAPP.models import SpiderKeyWord
+from cofcoAPP.models import SpiderKeyWord, Content
 from urllib.parse import unquote
 
 
@@ -153,8 +153,6 @@ class _pubmedIDWorker(Process):
                 else:
                     ss1 = 'NOT'
                 return ss1
-
-            # jsons1 ='{"name":"\u5173\u952e\u8bcd\u540d\u79f0","0":{"field":"All Fields","keyword":"1"},"1":{"symbol":"1","field":"Author","keyword":"2"},"2":{"symbol":"2","field":"Author - Corporate","keyword":"3"},"3":{"symbol":"3","field":"All Fields","keyword":"4"}}'
             def pubpingjie(jsons1):
                 js = json.loads(jsons1)
                 print(js)
@@ -176,8 +174,6 @@ class _pubmedIDWorker(Process):
                             str = '(' + str + ')' + '%20' + js['%d' % i]['symbol'] + '%20' + js['%d' % i]['keyword']
 
                 return str
-            # TODO 根据kw_id，获取当前爬虫的查询字符串
-            # TODO 根据kw_id，获取当前爬虫的查询字符串
             str = ''
             try:
                 kw_ = SpiderKeyWord.objects.filter(id=kw_id).values()[0]
@@ -450,14 +446,13 @@ class _pubmedContendWorker(Process):
                 # 检查是否时被终止
                 if self.manager.contentP_status.value == 4:
                     break
-
                 task_info = None
                 try:
                     task_info = self.ids_queen.get(timeout=1)
                     article_id = str(task_info['id'])
                     retry_times = int(task_info['retry_times'])
-                    if (retry_times >= 5):
-                        raise Exception(str(article_id) + ': retry_times>=5! This id is labeled as FAILED!')
+                    if (retry_times >= spiders.content_max_retry_times):
+                        raise Exception('%s: retry_times>=%d! This id is labeled as FAILED!' % (article_id, spiders.content_max_retry_times))
 
                     if ContentHelper.is_in_black_list(article_id):  # 判断是否在黑名单当中
                         continue
@@ -467,16 +462,17 @@ class _pubmedContendWorker(Process):
                     # =============================================================================================
                     try:
                         content_model = ContentHelper.format_pubmed_xml(details_str)
-                        # TODO 存贮到数据库
                         content_model.status = 1
+                        content_model.art_id = article_id
                         content_model.kw_id = int(self.kw_id)
                         content_model.project = self.manager.TYPE
-                        content_model.ctime = int(time.time())
-                        content_model.save()
+                        ContentHelper.content_save(content_model)
                     except Exception as e:
                         txt_path = os.path.join(BASE_DIR,'test/failed_pub',article_id+'.xml')
                         with open(txt_path,'w+',encoding='utf-8') as f:
                             f.write(details_str)
+                        raise e
+
                     # =============================================================================================
                     self.manager.update_finish()
                     info = "%s/%s" % (self.manager.finished_num.value, self.manager.ids_queen_size.value)
@@ -493,15 +489,19 @@ class _pubmedContendWorker(Process):
                     # 失败后的任务重新放入任务队列，并重新尝试
                     if task_info:
                         retry_times = task_info['retry_times']
-                        if (retry_times < 5):
+                        if (retry_times < spiders.content_max_retry_times):
                             if not isinstance(e, ProxyError):
                                 task_info['retry_times'] += 1
                             self.ids_queen.put(task_info)
                         else:  # 该任务确认已经失败，进行一些后续操作
                             self.manager.update_failed()
-                            # content_model = ContentSerivice.format_pubmed_xml(None)
-                            # TODO 存贮到数据库
-                            # content_model.save()
+                            content_model = Content()
+                            content_model.status = -3
+                            content_model.pmid = str(task_info['id'])
+                            content_model.title = '该文章爬取失败:'+str(e)
+                            content_model.kw_id = int(self.kw_id)
+                            content_model.project = self.manager.TYPE
+                            ContentHelper.content_save(content_model)
                         logger.log(user=self.name, tag='ERROR', info=e, screen=True)
                     else:
                         pass

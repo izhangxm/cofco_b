@@ -16,36 +16,43 @@
 # limitations under the License.
 # ==============================================================================
 # from cofcoAPP.heplers import  __initDjangoEnvironment
-from cofcoAPP.models import Content
-import jsonpath
 import json
 import html
+import time
+from cofcoAPP.models import Content
+from cofcoAPP import models
+
 try:
     import xml.etree.cElementTree as ET
 except ImportError:
     import xml.etree.ElementTree as ET
-import MySQLdb
-content=[]
-def analyze_json(jsons):
-    if isinstance(jsons, dict):
-        for key in jsons.keys():
-            key_value = jsons.get(key)
-            if isinstance(key_value, dict):
-                analyze_json(key_value)
-            elif isinstance(key_value, list):
-                for json_array in key_value:
-                    analyze_json(json_array)
-            else:
-                # print(str(key) + " = " + str(key_value))
-                if key=='_':
-                    content.append(key_value)
-    elif isinstance(jsons, list):
-        for json_array in jsons:
-            analyze_json(json_array)
-    return content
 
-def dejson(jsoninfo,content_model):
-    js = json.loads(jsoninfo)
+# 解析science_direct 文章详情的json字符串为一个content model对象
+def format_scicent_details(detail_str):
+    # TODO 解析science_direct的文章详情的json字符串，用于下一步的数据库存贮和序列化
+    # TODO detail_str 为None时，构造一个失败结果对象
+    content = []
+    def analyze_json(jsons):
+        if isinstance(jsons, dict):
+            for key in jsons.keys():
+                key_value = jsons.get(key)
+                if isinstance(key_value, dict):
+                    analyze_json(key_value)
+                elif isinstance(key_value, list):
+                    for json_array in key_value:
+                        analyze_json(json_array)
+                else:
+                    if key == '_':
+                        content.append(key_value)
+        elif isinstance(jsons, list):
+            for json_array in jsons:
+                analyze_json(json_array)
+        return content
+
+    #========= 预处理 ==================
+    content_model = Content()
+
+    js = json.loads(detail_str)
     try:
         abstract = ''
         abs = js['abstracts']['content']
@@ -54,15 +61,16 @@ def dejson(jsoninfo,content_model):
             if i != 'Abstract':
                 abstract = abstract + ' ' + str(i)
         abstract = abstract[1:]
-        content = []
     except:
-        abstract = 'wu'
-        content = []
+        abstract = ''
+
     try:
         author = ''
         aut = js['authors']['content'][0]['$$']
         tem1 = 0
         tem2 = 0
+        name = []
+        inco = ''
         for i in aut:
             if i['#name'] == 'author' and tem1 == 0:
                 name = i['$$']
@@ -73,6 +81,9 @@ def dejson(jsoninfo,content_model):
                     if j['#name'] == 'textfn' and tem2 == 0:
                         inco = j['_']
                         tem2 = tem2 + 1
+
+        firstname = ''
+        lastname = ''
         for i in name:
             if i['#name'] == 'given-name':
                 firstname = i['_']
@@ -121,45 +132,15 @@ def dejson(jsoninfo,content_model):
 
     issue = date
 
-    content_model.abstract=abstract
-    content_model.author=author
-    content_model.country=country[1:]
-    content_model.institue=institue
-    content_model.issue=issue
-    content_model.doi=doi
-    content_model.title=title
-    content_model.keyword=keyword
-    return content_model
-def list_dic(list1,list2):
-    '''
-    two lists merge a dict,a list as key,other list as value
-    :param list1:key
-    :param list2:value
-    :return:dict
-    '''
-    dic = dict(map(lambda x,y:[x,y], list1,list2))
-    return dic
-def add(list,content_model):
-    content_model.author=list['Author']
-    content_model.country=list['Country']
-    content_model.issue=list['Year']
-    content_model.abstract=list['AbstractText']
-    content_model.doi=list['ELocationID']
-    content_model.keyword=list['Keyword']
-    content_model.title=list['ArticleTitle']
-    content_model.pmid=list['PMID']
-    content_model.journal = list['Title']
+    content_model.abstract = abstract
+    content_model.author = author
+    content_model.country = country[1:]
+    content_model.institue = institue
+    content_model.issue = issue
+    content_model.doi = doi
+    content_model.title = title
+    content_model.keyword = keyword
 
-    return content_model
-
-# 解析science_direct 文章详情的json字符串为一个content model对象
-def format_scicent_details(detail_str):
-    # TODO 解析science_direct的文章详情的json字符串，用于下一步的数据库存贮和序列化
-    # TODO detail_str 为None时，构造一个失败结果对象
-    #========= 预处理 ==================
-    content_model = Content()
-    jsons1 = detail_str
-    content_model=dejson(jsons1,content_model)
     return content_model
 
 
@@ -172,57 +153,65 @@ def format_pubmed_xml(xml_str):
     content_model = Content()
     root = ET.fromstring(xml_str)
 
-    #========= keywords ===============
-    content = ['ELocationID', 'PMID', 'AbstractText', 'ArticleTitle','Title', 'ForeName', 'LastName', 'Year', 'Keyword', 'Country',
-               'Author']
+    content = ['ELocationID', 'PMID', 'AbstractText', 'ArticleTitle','Title', 'ForeName', 'LastName', 'Year','Month','Day', 'Keyword', 'Country',
+               'Author','time']
     value = []
-    for list in content:
-        keywords_ele = root.findall('.//' + list)
+    for list_ in content:
+        keywords_ele = root.findall('.//' + list_)
         keywords = ''
         i = 0
         for kw_ele in keywords_ele:
-            # print(type(kw_ele))
-            if kw_ele!='Author' and str(kw_ele.text)!='None':
+            if kw_ele!='Author' and kw_ele!='time' and str(kw_ele.text)!='None':
                 keywords += str(kw_ele.text) + ';'
-                if list == 'Year':
+                if list_ == 'Year' or list_ == 'Month' or list_ == 'Day':
                     break
-        # print(keywords)
         value.append(keywords[:-1])
-    list = list_dic(content, value)
-    a = list['ForeName'].split(';')
-    b = list['LastName'].split(';')
+
+    list_ = dict(map(lambda x, y: [x, y], content, value))
+    a = list_['ForeName'].split(';')
+    b = list_['LastName'].split(';')
     author = ''
     for p in range(len(a)):
         author += a[p] + b[p] + ','
-    list['Author'] = author[:-1]
-    content_model=add(list,content_model)
+    list_['Author'] = author[:-1]
+    list_['time']=list_['Year']+list_['Month']+list_['Day']
+
+    content_model.art_id = list_['PMID']
+    content_model.author = list_['Author']
+    content_model.country = list_['Country']
+    content_model.issue = list_['time']
+    content_model.abstract = list_['AbstractText']
+    content_model.doi = list_['ELocationID']
+    content_model.keyword = list_['Keyword']
+    content_model.title = list_['ArticleTitle']
+    content_model.journal = list_['Title']
     return content_model
 
 def is_in_black_list(article_id):
     #TODO 判断是否在黑名单
     return False
 
+
+def is_need_update(art_id):
+    # 判断是否更新
+    # 原则上 1一个月内刚刚爬取的文章不应该更新
+    return True
+
+
+# 保存或更新
+def content_save(content_model):
+    content_model.ctime = int(time.time())
+    query_set = Content.objects.filter(art_id=content_model.art_id)
+    if (len(query_set) > 0):
+        kw_arg = models.get_json_model(content_model)
+        Content.objects.filter(art_id=content_model.art_id).update(**kw_arg)
+    else:
+        content_model.save()
+
 def is_deleted(article_id):
     #TODO 判断是否被删除
     return False
 
-def ke_test():
-    from cofcoAPP.models import SpiderKeyWord
-    a = SpiderKeyWord.objects.filter(id=74).values()
 
 if __name__ == '__main__':
-    # print(format_pubmed_xml('aa').author)
-    model=format_scicent_details('aa')
-    model.save()
-    # db = MySQLdb.connect("localhost", "root", "root", "cofco", charset='utf8')
-    # cursor = db.cursor()
-    # sql = """INSERT INTO spiderapp_content(title)
-    #          VALUES (%s)"""%(model.title)
-    # print(model.title)
-    # try:
-    #     cursor.execute(sql)
-    #     db.commit()
-    # except:
-    #     db.rollback()
-    # db.close()
     pass

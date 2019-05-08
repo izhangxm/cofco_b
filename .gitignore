@@ -54,3 +54,4 @@ docs/_build/
 test/
 cofco_b/settings.py
 cofcoAPP/logs/spiderlog.txt
+cofcoAPP/spiders/__init__.py
