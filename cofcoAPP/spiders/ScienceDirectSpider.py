@@ -177,6 +177,10 @@ class _scienceIDWorker(Process):
             self.terminate() #结束进程
             return #结束进程
 
+        if page_Num == 0:
+            page_worker.manager.idsP_status.value = 3  # 任务完成
+            return  # 结束进程
+
         del page_worker
         for cur_p in range(page_Num):
             self.pages_queen.put({'currPage': (cur_p + 1), 'retry_times': 0})
@@ -392,7 +396,7 @@ class SpiderManagerForScience(object):
 
         self.ids_queen = ProcessQueen(maxsize=-1)  # 待爬取的文章ID列表，是个队列
         self.ids_queen = ProcessQueen(maxsize=-1)  # 待爬取的文章ID列表，是个队列
-        self.page_Num = Value('i', 0, lock=True)  # 页数
+        self.page_Num = Value('i', -1, lock=True)  # 页数
         self.page_size = page_size  # 页面大小
         self.finished_page_Num = Value('i', 0, lock=True)  # 页数
         self.finished_page_Num_locker = Lock()  # Lock()

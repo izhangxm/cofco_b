@@ -339,6 +339,11 @@ class _pubmedIDWorker(Process):
             self.terminate()  # 结束进程
             return  # 结束进程
 
+        if page_Num == 0:
+            page_worker.manager.idsP_status.value = 3  # 任务完成
+            return  # 结束进程
+
+
         del page_worker
 
         for cur_p in range(page_Num):
@@ -516,7 +521,7 @@ class SpiderManagerForPubmed(object):
         self.content_thread_num = content_thread_num  # 每个Content进程的线程个数
 
         self.ids_queen = ProcessQueen(maxsize=-1)  # 待爬取的文章ID列表，是个队列
-        self.page_Num = Value('i', 0, lock=True)  # 页数
+        self.page_Num = Value('i', -1, lock=True)  # 页数
         self.page_size = page_size  # 页面大小
         self.finished_page_Num = Value('i', 0, lock=True)  # 页数
         self.finished_page_Num_locker = Lock()  # Lock()
