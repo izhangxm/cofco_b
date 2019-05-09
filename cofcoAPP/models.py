@@ -22,7 +22,7 @@ class Journal(models.Model):
     journal_zone = models.TextField()
 
     class Meta:
-        db_table = 'spiderapp_journal'
+        db_table = 'cofco_admin_journal'
 
 
 class Content(models.Model):
@@ -48,7 +48,7 @@ class Content(models.Model):
     tabstract = models.TextField(null=True)
 
     class Meta:
-        db_table = "spiderapp_content"
+        db_table = "cofco_admin_content"
 
 
 class SpiderKeyWord(models.Model):
@@ -61,8 +61,7 @@ class SpiderKeyWord(models.Model):
     status = models.IntegerField()
     ctime = models.IntegerField()
     class Meta:
-        db_table = "hisi_admin_kw"
-
+        db_table = "cofco_admin_kw"
 
 class AdminConfig(models.Model):
     id = models.AutoField(max_length=11, primary_key=True, auto_created=True)

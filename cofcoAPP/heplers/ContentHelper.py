@@ -131,12 +131,14 @@ def format_scicent_details(detail_str):
         keyword = ''
 
     issue = date
-
     content_model.abstract = abstract
     content_model.author = author
     content_model.country = country[1:]
     content_model.institue = institue
-    content_model.issue = issue
+    try:
+        content_model.issue = time.strftime('%Y-%m-%d',time.strptime(issue,'%d %B %Y'))
+    except Exception:
+        content_model.issue = issue
     content_model.doi = doi
     content_model.title = title
     content_model.keyword = keyword
@@ -179,7 +181,10 @@ def format_pubmed_xml(xml_str):
     content_model.art_id = list_['PMID']
     content_model.author = list_['Author']
     content_model.country = list_['Country']
-    content_model.issue = list_['time']
+    try:
+        content_model.issue = time.strftime('%Y-%m-%d',time.strptime(list_['time'],'%Y%m%d'))
+    except Exception:
+        content_model.issue = list_['time']
     content_model.abstract = list_['AbstractText']
     content_model.doi = list_['ELocationID']
     content_model.keyword = list_['Keyword']
