@@ -1,0 +1,1112 @@
+JournalDetail.aspx?y=2018&t=NATURE REVIEWS MOLECULAR CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=NATURE REVIEWS GENETICS
+JournalDetail.aspx?y=2018&t=CELL
+JournalDetail.aspx?y=2018&t=NATURE GENETICS
+JournalDetail.aspx?y=2018&t=NATURE REVIEWS MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=NATURE METHODS
+JournalDetail.aspx?y=2018&t=Cell Stem Cell
+JournalDetail.aspx?y=2018&t=Annual Review of Plant Biology
+JournalDetail.aspx?y=2018&t=Annual Review of Biochemistry
+JournalDetail.aspx?y=2018&t=NATURE CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=Cell Metabolism
+JournalDetail.aspx?y=2018&t=Science Translational Medicine
+JournalDetail.aspx?y=2018&t=TRENDS IN ECOLOGY = EVOLUTION
+JournalDetail.aspx?y=2018&t=CELL RESEARCH
+JournalDetail.aspx?y=2018&t=TRENDS IN CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=Cell Host = Microbe
+JournalDetail.aspx?y=2018&t=TRENDS IN BIOCHEMICAL SCIENCES
+JournalDetail.aspx?y=2018&t=MOLECULAR CELL
+JournalDetail.aspx?y=2018&t=Nature Microbiology
+JournalDetail.aspx?y=2018&t=MICROBIOLOGY AND MOLECULAR BIOLOGY REVIEWS
+JournalDetail.aspx?y=2018&t=Nature Chemical Biology
+JournalDetail.aspx?y=2018&t=Annual Review of Entomology
+JournalDetail.aspx?y=2018&t=STUDIES IN MYCOLOGY
+JournalDetail.aspx?y=2018&t=NATURE STRUCTURAL = MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=FEMS MICROBIOLOGY REVIEWS
+JournalDetail.aspx?y=2018&t=Annual Review of Cell and Developmental Biology
+JournalDetail.aspx?y=2018&t=GENOME BIOLOGY
+JournalDetail.aspx?y=2018&t=Physics of Life Reviews
+JournalDetail.aspx?y=2018&t=TRENDS IN PLANT SCIENCE
+JournalDetail.aspx?y=2018&t=FUNGAL DIVERSITY
+JournalDetail.aspx?y=2018&t=Annual Review of Biophysics
+JournalDetail.aspx?y=2018&t=BIOLOGICAL REVIEWS
+JournalDetail.aspx?y=2018&t=GENOME RESEARCH
+JournalDetail.aspx?y=2018&t=Wiley Interdisciplinary Reviews-Computational Molecular Science
+JournalDetail.aspx?y=2018&t=Nature Plants
+JournalDetail.aspx?y=2018&t=TRENDS IN MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=Nature Protocols
+JournalDetail.aspx?y=2018&t=TRENDS IN GENETICS
+JournalDetail.aspx?y=2018&t=NUCLEIC ACIDS RESEARCH
+JournalDetail.aspx?y=2018&t=Annual Review of Genetics
+JournalDetail.aspx?y=2018&t=PROGRESS IN LIPID RESEARCH
+JournalDetail.aspx?y=2018&t=MOLECULAR BIOLOGY AND EVOLUTION
+JournalDetail.aspx?y=2018&t=EMBO JOURNAL
+JournalDetail.aspx?y=2018&t=Annual Review of Microbiology
+JournalDetail.aspx?y=2018&t=Annual Review of Ecology Evolution and Systematics
+JournalDetail.aspx?y=2018&t=GENES = DEVELOPMENT
+JournalDetail.aspx?y=2018&t=Molecular Systems Biology
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=Autophagy
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF HUMAN GENETICS
+JournalDetail.aspx?y=2018&t=DEVELOPMENTAL CELL
+JournalDetail.aspx?y=2018&t=PLOS BIOLOGY
+JournalDetail.aspx?y=2018&t=Cold Spring Harbor Perspectives in Biology
+JournalDetail.aspx?y=2018&t=CURRENT BIOLOGY
+JournalDetail.aspx?y=2018&t=Microbiome
+JournalDetail.aspx?y=2018&t=Cell Systems
+JournalDetail.aspx?y=2018&t=SYSTEMATIC BIOLOGY
+JournalDetail.aspx?y=2018&t=PLANT CELL
+JournalDetail.aspx?y=2018&t=JOURNAL OF CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=Molecular Plant
+JournalDetail.aspx?y=2018&t=EMBO REPORTS
+JournalDetail.aspx?y=2018&t=CELL DEATH AND DIFFERENTIATION
+JournalDetail.aspx?y=2018&t=Cell Reports
+JournalDetail.aspx?y=2018&t=eLife
+JournalDetail.aspx?y=2018&t=NEW PHYTOLOGIST
+JournalDetail.aspx?y=2018&t=Genome Medicine
+JournalDetail.aspx?y=2018&t=GigaScience
+JournalDetail.aspx?y=2018&t=PERSOONIA
+JournalDetail.aspx?y=2018&t=mBio
+JournalDetail.aspx?y=2018&t=Science Signaling
+JournalDetail.aspx?y=2018&t=AGING CELL
+JournalDetail.aspx?y=2018&t=MATRIX BIOLOGY
+JournalDetail.aspx?y=2018&t=ANTIOXIDANTS = REDOX SIGNALING
+JournalDetail.aspx?y=2018&t=GENOMICS PROTEOMICS = BIOINFORMATICS
+JournalDetail.aspx?y=2018&t=PLANT BIOTECHNOLOGY JOURNAL
+JournalDetail.aspx?y=2018&t=BRIEFINGS IN BIOINFORMATICS
+JournalDetail.aspx?y=2018&t=Annual Review of Genomics and Human Genetics
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN CHEMICAL BIOLOGY
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN PLANT BIOLOGY
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN STRUCTURAL BIOLOGY
+JournalDetail.aspx?y=2018&t=CRITICAL REVIEWS IN BIOCHEMISTRY AND MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=PLoS Pathogens
+JournalDetail.aspx?y=2018&t=CYTOKINE = GROWTH FACTOR REVIEWS
+JournalDetail.aspx?y=2018&t=Redox Biology
+JournalDetail.aspx?y=2018&t=Molecular Ecology Resources
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=BMC BIOLOGY
+JournalDetail.aspx?y=2018&t=CRITICAL REVIEWS IN MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=PLANT PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=QUARTERLY REVIEWS OF BIOPHYSICS
+JournalDetail.aspx?y=2018&t=BIOINFORMATICS
+JournalDetail.aspx?y=2018&t=PLoS Genetics
+JournalDetail.aspx?y=2018&t=Cell Chemical Biology
+JournalDetail.aspx?y=2018&t=CELLULAR AND MOLECULAR LIFE SCIENCES
+JournalDetail.aspx?y=2018&t=MOLECULAR ECOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Molecular Cell Biology
+JournalDetail.aspx?y=2018&t=SEMINARS IN CELL = DEVELOPMENTAL BIOLOGY
+JournalDetail.aspx?y=2018&t=CRITICAL REVIEWS IN PLANT SCIENCES
+JournalDetail.aspx?y=2018&t=PLANT CELL AND ENVIRONMENT
+JournalDetail.aspx?y=2018&t=MOLECULAR = CELLULAR PROTEOMICS
+JournalDetail.aspx?y=2018&t=PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=DEVELOPMENT
+JournalDetail.aspx?y=2018&t=mSystems
+JournalDetail.aspx?y=2018&t=PLANT JOURNAL
+JournalDetail.aspx?y=2018&t=Cell Death = Disease
+JournalDetail.aspx?y=2018&t=JOURNAL OF EXPERIMENTAL BOTANY
+JournalDetail.aspx?y=2018&t=ACS Synthetic Biology
+JournalDetail.aspx?y=2018&t=Oceanography and Marine Biology
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN GENETICS = DEVELOPMENT
+JournalDetail.aspx?y=2018&t=FASEB JOURNAL
+JournalDetail.aspx?y=2018&t=ENVIRONMENTAL MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=HUMAN MOLECULAR GENETICS
+JournalDetail.aspx?y=2018&t=Global Change Biology Bioenergy
+JournalDetail.aspx?y=2018&t=DNA RESEARCH
+JournalDetail.aspx?y=2018&t=MUTATION RESEARCH-REVIEWS IN MUTATION RESEARCH
+JournalDetail.aspx?y=2018&t=Annual Review of Animal Biosciences
+JournalDetail.aspx?y=2018&t=BIOCHIMICA ET BIOPHYSICA ACTA-MOLECULAR BASIS OF DISEASE
+JournalDetail.aspx?y=2018&t=WILDLIFE MONOGRAPHS
+JournalDetail.aspx?y=2018&t=Biochimica et Biophysica Acta-Gene Regulatory Mechanisms
+JournalDetail.aspx?y=2018&t=BIOSCIENCE
+JournalDetail.aspx?y=2018&t=Protein = Cell
+JournalDetail.aspx?y=2018&t=Epigenetics = Chromatin
+JournalDetail.aspx?y=2018&t=BIOCHIMICA ET BIOPHYSICA ACTA-MOLECULAR AND CELL BIOLOGY OF LIPIDS
+JournalDetail.aspx?y=2018&t=CELLULAR PHYSIOLOGY AND BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=Wiley Interdisciplinary Reviews-RNA
+JournalDetail.aspx?y=2018&t=CLADISTICS
+JournalDetail.aspx?y=2018&t=STRUCTURE
+JournalDetail.aspx?y=2018&t=Evolutionary Applications
+JournalDetail.aspx?y=2018&t=ADDICTION BIOLOGY
+JournalDetail.aspx?y=2018&t=ACS Chemical Biology
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Forensic Science International-Genetics
+JournalDetail.aspx?y=2018&t=Cells
+JournalDetail.aspx?y=2018&t=Advances in Applied Microbiology
+JournalDetail.aspx?y=2018&t=BIOCHIMICA ET BIOPHYSICA ACTA-MOLECULAR CELL RESEARCH
+JournalDetail.aspx?y=2018&t=Wiley Interdisciplinary Reviews-Developmental Biology
+JournalDetail.aspx?y=2018&t=Epigenetics
+JournalDetail.aspx?y=2018&t=BIOCHIMICA ET BIOPHYSICA ACTA-BIOENERGETICS
+JournalDetail.aspx?y=2018&t=Advances in Genetics
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=Virulence
+JournalDetail.aspx?y=2018&t=Aging-US
+JournalDetail.aspx?y=2018&t=Oxidative Medicine and Cellular Longevity
+JournalDetail.aspx?y=2018&t=BIOCONJUGATE CHEMISTRY
+JournalDetail.aspx?y=2018&t=HUMAN GENETICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF LIPID RESEARCH
+JournalDetail.aspx?y=2018&t=BIOESSAYS
+JournalDetail.aspx?y=2018&t=Epigenomics
+JournalDetail.aspx?y=2018&t=JOURNAL OF CELL SCIENCE
+JournalDetail.aspx?y=2018&t=IMA Fungus
+JournalDetail.aspx?y=2018&t=BIOCHIMICA ET BIOPHYSICA ACTA-GENERAL SUBJECTS
+JournalDetail.aspx?y=2018&t=RNA
+JournalDetail.aspx?y=2018&t=CELLULAR MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=Cell Discovery
+JournalDetail.aspx?y=2018&t=GENETICS
+JournalDetail.aspx?y=2018&t=RNA Biology
+JournalDetail.aspx?y=2018&t=PLANT AND CELL PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=PLoS Computational Biology
+JournalDetail.aspx?y=2018&t=Cell Communication and Signaling
+JournalDetail.aspx?y=2018&t=Journal of Tissue Engineering and Regenerative Medicine
+JournalDetail.aspx?y=2018&t=CHROMOSOMA
+JournalDetail.aspx?y=2018&t=FEBS Journal
+JournalDetail.aspx?y=2018&t=Mobile DNA
+JournalDetail.aspx?y=2018&t=JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=MOLECULAR AND CELLULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=MOLECULAR PHYLOGENETICS AND EVOLUTION
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF HUMAN GENETICS
+JournalDetail.aspx?y=2018&t=Frontiers in Plant Science
+JournalDetail.aspx?y=2018&t=Computational and Structural Biotechnology Journal
+JournalDetail.aspx?y=2018&t=Algal Research-Biomass Biofuels and Bioproducts
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOLOGICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF PROTEOME RESEARCH
+JournalDetail.aspx?y=2018&t=npj Biofilms and Microbiomes
+JournalDetail.aspx?y=2018&t=NITRIC OXIDE-BIOLOGY AND CHEMISTRY
+JournalDetail.aspx?y=2018&t=Frontiers in Microbiology
+JournalDetail.aspx?y=2018&t=TRAFFIC
+JournalDetail.aspx?y=2018&t=JOURNAL OF CELLULAR PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=CELL PROLIFERATION
+JournalDetail.aspx?y=2018&t=Journal of Genetics and Genomics
+JournalDetail.aspx?y=2018&t=MOLECULAR PLANT-MICROBE INTERACTIONS
+JournalDetail.aspx?y=2018&t=SYSTEMATIC ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=Genome Biology and Evolution
+JournalDetail.aspx?y=2018&t=DNA REPAIR
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF RESPIRATORY CELL AND MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=THEORETICAL AND APPLIED GENETICS
+JournalDetail.aspx?y=2018&t=Journal of Biological Engineering
+JournalDetail.aspx?y=2018&t=Journal of Biophotonics
+JournalDetail.aspx?y=2018&t=International Journal of Biological Sciences
+JournalDetail.aspx?y=2018&t=Frontiers in Genetics
+JournalDetail.aspx?y=2018&t=Current Topics in Developmental Biology
+JournalDetail.aspx?y=2018&t=COLLOIDS AND SURFACES B-BIOINTERFACES
+JournalDetail.aspx?y=2018&t=Stem Cell Research
+JournalDetail.aspx?y=2018&t=JOURNAL OF HUMAN EVOLUTION
+JournalDetail.aspx?y=2018&t=ANNALS OF BOTANY
+JournalDetail.aspx?y=2018&t=MAMMAL REVIEW
+JournalDetail.aspx?y=2018&t=PROTEOMICS
+JournalDetail.aspx?y=2018&t=HEREDITY
+JournalDetail.aspx?y=2018&t=CELLULAR SIGNALLING
+JournalDetail.aspx?y=2018&t=Open Biology
+JournalDetail.aspx?y=2018&t=Metallomics
+JournalDetail.aspx?y=2018&t=BMC PLANT BIOLOGY
+JournalDetail.aspx?y=2018&t=SYSTEMATIC AND APPLIED MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Proteomics
+JournalDetail.aspx?y=2018&t=Biofuels Bioproducts = Biorefining-Biofpr
+JournalDetail.aspx?y=2018&t=MOLECULAR MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=Microbial Biotechnology
+JournalDetail.aspx?y=2018&t=APOPTOSIS
+JournalDetail.aspx?y=2018&t=BMC GENOMICS
+JournalDetail.aspx?y=2018&t=METHODS
+JournalDetail.aspx?y=2018&t=APPLIED AND ENVIRONMENTAL MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=MOLECULAR BIOLOGY OF THE CELL
+JournalDetail.aspx?y=2018&t=JOURNAL OF PEST SCIENCE
+JournalDetail.aspx?y=2018&t=Plant Methods
+JournalDetail.aspx?y=2018&t=BIOCHEMICAL JOURNAL
+JournalDetail.aspx?y=2018&t=Geobiology
+JournalDetail.aspx?y=2018&t=INSECT BIOCHEMISTRY AND MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=PHOTOSYNTHESIS RESEARCH
+JournalDetail.aspx?y=2018&t=Briefings in Functional Genomics
+JournalDetail.aspx?y=2018&t=MOLECULAR HUMAN REPRODUCTION
+JournalDetail.aspx?y=2018&t=Biotechnology Journal
+JournalDetail.aspx?y=2018&t=TISSUE ENGINEERING
+JournalDetail.aspx?y=2018&t=Cell Division
+JournalDetail.aspx?y=2018&t=JOURNAL OF NATURAL PRODUCTS
+JournalDetail.aspx?y=2018&t=PLANT MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=CELL CYCLE
+JournalDetail.aspx?y=2018&t=BIOPHYSICAL JOURNAL
+JournalDetail.aspx?y=2018&t=BIOFACTORS
+JournalDetail.aspx?y=2018&t=FEMS MICROBIOLOGY ECOLOGY
+JournalDetail.aspx?y=2018&t=Cell Adhesion = Migration
+JournalDetail.aspx?y=2018&t=mSphere
+JournalDetail.aspx?y=2018&t=Journal of Integrative Plant Biology
+JournalDetail.aspx?y=2018&t=CURRENT GENETICS
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF BIOLOGICAL MACROMOLECULES
+JournalDetail.aspx?y=2018&t=BIOELECTROCHEMISTRY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF BIOCHEMISTRY = CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=MOLECULAR GENETICS AND METABOLISM
+JournalDetail.aspx?y=2018&t=BIOCHIMICA ET BIOPHYSICA ACTA-BIOMEMBRANES
+JournalDetail.aspx?y=2018&t=MITOCHONDRION
+JournalDetail.aspx?y=2018&t=PLANT SCIENCE
+JournalDetail.aspx?y=2018&t=MICROBIAL ECOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PHYSIOLOGY-CELL PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=QUARTERLY REVIEW OF BIOLOGY
+JournalDetail.aspx?y=2018&t=Fungal Biology Reviews
+JournalDetail.aspx?y=2018&t=International Review of Cell and Molecular Biology
+JournalDetail.aspx?y=2018&t=Expert Review of Proteomics
+JournalDetail.aspx?y=2018&t=CURRENT ISSUES IN MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=Current Opinion in Insect Science
+JournalDetail.aspx?y=2018&t=npj Genomic Medicine
+JournalDetail.aspx?y=2018&t=Current Topics in Membranes
+JournalDetail.aspx?y=2018&t=CELL CALCIUM
+JournalDetail.aspx?y=2018&t=MACROMOLECULAR BIOSCIENCE
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOLOGICAL RHYTHMS
+JournalDetail.aspx?y=2018&t=EVOLUTION AND HUMAN BEHAVIOR
+JournalDetail.aspx?y=2018&t=Future Microbiology
+JournalDetail.aspx?y=2018&t=FEBS LETTERS
+JournalDetail.aspx?y=2018&t=BIOLOGY OF REPRODUCTION
+JournalDetail.aspx?y=2018&t=GLYCOBIOLOGY
+JournalDetail.aspx?y=2018&t=Genes
+JournalDetail.aspx?y=2018&t=FRESHWATER BIOLOGY
+JournalDetail.aspx?y=2018&t=PHYTOCHEMISTRY REVIEWS
+JournalDetail.aspx?y=2018&t=Integrative Biology
+JournalDetail.aspx?y=2018&t=Database-The Journal of Biological Databases and Curation
+JournalDetail.aspx?y=2018&t=HARMFUL ALGAE
+JournalDetail.aspx?y=2018&t=Toxins
+JournalDetail.aspx?y=2018&t=Movement Ecology
+JournalDetail.aspx?y=2018&t=PLANTA
+JournalDetail.aspx?y=2018&t=AMYLOID-JOURNAL OF PROTEIN FOLDING DISORDERS
+JournalDetail.aspx?y=2018&t=Environmental Microbiology Reports
+JournalDetail.aspx?y=2018&t=Advances in Microbial Physiology
+JournalDetail.aspx?y=2018&t=CYTOMETRY PART A
+JournalDetail.aspx?y=2018&t=BMC EVOLUTIONARY BIOLOGY
+JournalDetail.aspx?y=2018&t=FUNCTIONAL = INTEGRATIVE GENOMICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF INORGANIC BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=GENETICS SELECTION EVOLUTION
+JournalDetail.aspx?y=2018&t=Cell and Bioscience
+JournalDetail.aspx?y=2018&t=JOURNAL OF BACTERIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CELLULAR BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=FUNGAL GENETICS AND BIOLOGY
+JournalDetail.aspx?y=2018&t=Frontiers in Zoology
+JournalDetail.aspx?y=2018&t=PHYSIOLOGIA PLANTARUM
+JournalDetail.aspx?y=2018&t=Progress in Molecular Biology and Translational Science
+JournalDetail.aspx?y=2018&t=JOURNAL OF EXPERIMENTAL BIOLOGY
+JournalDetail.aspx?y=2018&t=REPRODUCTION
+JournalDetail.aspx?y=2018&t=DEVELOPMENTAL BIOLOGY
+JournalDetail.aspx?y=2018&t=BIOCHIMIE
+JournalDetail.aspx?y=2018&t=EvoDevo
+JournalDetail.aspx?y=2018&t=AMINO ACIDS
+JournalDetail.aspx?y=2018&t=Biology Letters
+JournalDetail.aspx?y=2018&t=PROGRESS IN BIOPHYSICS = MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=FREE RADICAL RESEARCH
+JournalDetail.aspx?y=2018&t=PHYTOCHEMISTRY
+JournalDetail.aspx?y=2018&t=Plant Genome
+JournalDetail.aspx?y=2018&t=ANIMAL BEHAVIOUR
+JournalDetail.aspx?y=2018&t=ARCHIVES OF BIOCHEMISTRY AND BIOPHYSICS
+JournalDetail.aspx?y=2018&t=Advances in Insect Physiology
+JournalDetail.aspx?y=2018&t=MYCORRHIZA
+JournalDetail.aspx?y=2018&t=CHEMICO-BIOLOGICAL INTERACTIONS
+JournalDetail.aspx?y=2018&t=IUBMB LIFE
+JournalDetail.aspx?y=2018&t=CHEMISTRY AND PHYSICS OF LIPIDS
+JournalDetail.aspx?y=2018&t=BIOLOGICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=CORAL REEFS
+JournalDetail.aspx?y=2018&t=BMB Reports
+JournalDetail.aspx?y=2018&t=INTERNATIONAL BIODETERIORATION = BIODEGRADATION
+JournalDetail.aspx?y=2018&t=PLANT CELL REPORTS
+JournalDetail.aspx?y=2018&t=Essays in Biochemistry
+JournalDetail.aspx?y=2018&t=JOURNAL OF PLANT PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=Organogenesis
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY B-BIOLOGY
+JournalDetail.aspx?y=2018&t=BIOFOULING
+JournalDetail.aspx?y=2018&t=ASTROBIOLOGY
+JournalDetail.aspx?y=2018&t=BIOCHEMICAL SOCIETY TRANSACTIONS
+JournalDetail.aspx?y=2018&t=BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=MOLECULES AND CELLS
+JournalDetail.aspx?y=2018&t=CELL AND TISSUE RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF STRUCTURAL BIOLOGY
+JournalDetail.aspx?y=2018&t=CHRONOBIOLOGY INTERNATIONAL
+JournalDetail.aspx?y=2018&t=GM Crops = Food-Biotechnology in Agriculture and the Food Chain
+JournalDetail.aspx?y=2018&t=BioEnergy Research
+JournalDetail.aspx?y=2018&t=Zoological Letters
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF BOTANY
+JournalDetail.aspx?y=2018&t=PLoS One
+JournalDetail.aspx?y=2018&t=ZOOLOGICA SCRIPTA
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPUTER-AIDED MOLECULAR DESIGN
+JournalDetail.aspx?y=2018&t=CELLULAR IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=MICROBIOLOGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=PROSTAGLANDINS = OTHER LIPID MEDIATORS
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOMOLECULAR STRUCTURE = DYNAMICS
+JournalDetail.aspx?y=2018&t=Biology Direct
+JournalDetail.aspx?y=2018&t=G3-Genes Genomes Genetics
+JournalDetail.aspx?y=2018&t=CHEMBIOCHEM
+JournalDetail.aspx?y=2018&t=Interface Focus
+JournalDetail.aspx?y=2018&t=BIOLOGY OF THE CELL
+JournalDetail.aspx?y=2018&t=PESTICIDE BIOCHEMISTRY AND PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=PRESLIA
+JournalDetail.aspx?y=2018&t=Genes and Nutrition
+JournalDetail.aspx?y=2018&t=BIOCHIMICA ET BIOPHYSICA ACTA-PROTEINS AND PROTEOMICS
+JournalDetail.aspx?y=2018&t=PROTIST
+JournalDetail.aspx?y=2018&t=FEMS YEAST RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOMOLECULAR NMR
+JournalDetail.aspx?y=2018&t=PLANT PHYSIOLOGY AND BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=Molecular BioSystems
+JournalDetail.aspx?y=2018&t=Journal of Cell Communication and Signaling
+JournalDetail.aspx?y=2018&t=MOLECULAR GENETICS AND GENOMICS
+JournalDetail.aspx?y=2018&t=CBE-Life Sciences Education
+JournalDetail.aspx?y=2018&t=BIOSCIENCE REPORTS
+JournalDetail.aspx?y=2018&t=INSECT MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=Science China-Life Sciences
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHYCOLOGY
+JournalDetail.aspx?y=2018&t=MycoKeys
+JournalDetail.aspx?y=2018&t=GENOMICS
+JournalDetail.aspx?y=2018&t=INTEGRATIVE AND COMPARATIVE BIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF EVOLUTIONARY BIOLOGY
+JournalDetail.aspx?y=2018&t=ENZYME AND MICROBIAL TECHNOLOGY
+JournalDetail.aspx?y=2018&t=BMC MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=TAXON
+JournalDetail.aspx?y=2018&t=Comparative Biochemistry and Physiology D-Genomics = Proteomics
+JournalDetail.aspx?y=2018&t=JOURNAL OF MICROBIOLOGY IMMUNOLOGY AND INFECTION
+JournalDetail.aspx?y=2018&t=OMICS-A JOURNAL OF INTEGRATIVE BIOLOGY
+JournalDetail.aspx?y=2018&t=PROTEIN SCIENCE
+JournalDetail.aspx?y=2018&t=JOURNAL OF EUKARYOTIC MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=Bioanalysis
+JournalDetail.aspx?y=2018&t=MYCOLOGIA
+JournalDetail.aspx?y=2018&t=BOTANICAL JOURNAL OF THE LINNEAN SOCIETY
+JournalDetail.aspx?y=2018&t=JOURNAL OF HUMAN GENETICS
+JournalDetail.aspx?y=2018&t=CHROMOSOME RESEARCH
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+JournalDetail.aspx?y=2018&t=MOLECULAR AND CELLULAR BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=Biomicrofluidics
+JournalDetail.aspx?y=2018&t=Plant Reproduction
+JournalDetail.aspx?y=2018&t=ELECTROPHORESIS
+JournalDetail.aspx?y=2018&t=BMC CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=Acta Crystallographica Section D-Structural Biology
+JournalDetail.aspx?y=2018&t=DIFFERENTIATION
+JournalDetail.aspx?y=2018&t=CURRENT PROTEIN = PEPTIDE SCIENCE
+JournalDetail.aspx?y=2018&t=ZOOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+JournalDetail.aspx?y=2018&t=BEHAVIOR GENETICS
+JournalDetail.aspx?y=2018&t=HYSTRIX-Italian Journal of Mammalogy
+JournalDetail.aspx?y=2018&t=PROTOPLASMA
+JournalDetail.aspx?y=2018&t=MUTAGENESIS
+JournalDetail.aspx?y=2018&t=PROCESS BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=Annals of Clinical Microbiology and Antimicrobials
+JournalDetail.aspx?y=2018&t=MicrobiologyOpen
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOENERGETICS AND BIOMEMBRANES
+JournalDetail.aspx?y=2018&t=MOLECULAR REPRODUCTION AND DEVELOPMENT
+JournalDetail.aspx?y=2018&t=CELL STRESS = CHAPERONES
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF PROTISTOLOGY
+JournalDetail.aspx?y=2018&t=Mycotoxin Research
+JournalDetail.aspx?y=2018&t=JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOMECHANICS
+JournalDetail.aspx?y=2018&t=HISTOCHEMISTRY AND CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=Innate Immunity
+JournalDetail.aspx?y=2018&t=SAUDI JOURNAL OF BIOLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=PHOTOCHEMICAL = PHOTOBIOLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=JOURNAL OF HISTOCHEMISTRY = CYTOCHEMISTRY
+JournalDetail.aspx?y=2018&t=MICROBES AND ENVIRONMENTS
+JournalDetail.aspx?y=2018&t=ANAEROBE
+JournalDetail.aspx?y=2018&t=DNA AND CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=Current Molecular Pharmacology
+JournalDetail.aspx?y=2018&t=BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+JournalDetail.aspx?y=2018&t=ANNALS OF THE MISSOURI BOTANICAL GARDEN
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED PHYCOLOGY
+JournalDetail.aspx?y=2018&t=Frontiers in Bioscience-Landmark
+JournalDetail.aspx?y=2018&t=Ecology and Evolution
+JournalDetail.aspx?y=2018&t=MAMMALIAN GENOME
+JournalDetail.aspx?y=2018&t=JOURNAL OF MAMMALIAN EVOLUTION
+JournalDetail.aspx?y=2018&t=Neural Development
+JournalDetail.aspx?y=2018&t=BMC MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHYSIOLOGY AND BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=GENE
+JournalDetail.aspx?y=2018&t=JOURNAL OF INSECT PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=Biomed Research International
+JournalDetail.aspx?y=2018&t=BIOLOGICAL PROCEDURES ONLINE
+JournalDetail.aspx?y=2018&t=ANIMAL COGNITION
+JournalDetail.aspx?y=2018&t=AoB Plants
+JournalDetail.aspx?y=2018&t=PHYTOCHEMICAL ANALYSIS
+JournalDetail.aspx?y=2018&t=ARCHAEA-AN INTERNATIONAL MICROBIOLOGICAL JOURNAL
+JournalDetail.aspx?y=2018&t=Freshwater Science
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF PHYCOLOGY
+JournalDetail.aspx?y=2018&t=BMC BIOINFORMATICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF INVERTEBRATE PATHOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF HEREDITY
+JournalDetail.aspx?y=2018&t=RESEARCH IN MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS
+JournalDetail.aspx?y=2018&t=PLANT GROWTH REGULATION
+JournalDetail.aspx?y=2018&t=Nucleus
+JournalDetail.aspx?y=2018&t=BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+JournalDetail.aspx?y=2018&t=SLAS Discovery
+JournalDetail.aspx?y=2018&t=DEVELOPMENTAL PSYCHOBIOLOGY
+JournalDetail.aspx?y=2018&t=Fungal Biology
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR HISTOLOGY
+JournalDetail.aspx?y=2018&t=GENESIS
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF HISTOCHEMISTRY
+JournalDetail.aspx?y=2018&t=Cytoskeleton
+JournalDetail.aspx?y=2018&t=JOURNAL OF AVIAN BIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF EXPERIMENTAL ZOOLOGY PART B-MOLECULAR AND DEVELOPMENTAL EVOLUTION
+JournalDetail.aspx?y=2018&t=REPRODUCTION FERTILITY AND DEVELOPMENT
+JournalDetail.aspx?y=2018&t=BMC GENETICS
+JournalDetail.aspx?y=2018&t=Lipids in Health and Disease
+JournalDetail.aspx?y=2018&t=ANALYTICAL BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=REDOX REPORT
+JournalDetail.aspx?y=2018&t=Journal of Systematics and Evolution
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=MUTATION RESEARCH-FUNDAMENTAL AND MOLECULAR MECHANISMS OF MUTAGENESIS
+JournalDetail.aspx?y=2018&t=BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+JournalDetail.aspx?y=2018&t=BMC DEVELOPMENTAL BIOLOGY
+JournalDetail.aspx?y=2018&t=CONDOR
+JournalDetail.aspx?y=2018&t=Prion
+JournalDetail.aspx?y=2018&t=BIOMETALS
+JournalDetail.aspx?y=2018&t=DEVELOPMENTAL DYNAMICS
+JournalDetail.aspx?y=2018&t=MARINE BIOLOGY
+JournalDetail.aspx?y=2018&t=APIDOLOGIE
+JournalDetail.aspx?y=2018&t=FUNCTIONAL PLANT BIOLOGY
+JournalDetail.aspx?y=2018&t=Insect Science
+JournalDetail.aspx?y=2018&t=EUROPEAN CYTOKINE NETWORK
+JournalDetail.aspx?y=2018&t=BIOPHYSICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+JournalDetail.aspx?y=2018&t=Evolutionary Biology
+JournalDetail.aspx?y=2018&t=TRANSGENIC RESEARCH
+JournalDetail.aspx?y=2018&t=Channels
+JournalDetail.aspx?y=2018&t=EXTREMOPHILES
+JournalDetail.aspx?y=2018&t=GLYCOCONJUGATE JOURNAL
+JournalDetail.aspx?y=2018&t=BMC Systems Biology
+JournalDetail.aspx?y=2018&t=Cellular and Molecular Bioengineering
+JournalDetail.aspx?y=2018&t=BIOLOGICAL TRACE ELEMENT RESEARCH
+JournalDetail.aspx?y=2018&t=ACTA BIOCHIMICA ET BIOPHYSICA SINICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPARATIVE PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=YEAST
+JournalDetail.aspx?y=2018&t=GENES TO CELLS
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF SYSTEMATIC AND EVOLUTIONARY MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=PeerJ
+JournalDetail.aspx?y=2018&t=PLANT BIOLOGY
+JournalDetail.aspx?y=2018&t=Biology Open
+JournalDetail.aspx?y=2018&t=CURRENT GENOMICS
+JournalDetail.aspx?y=2018&t=BIOLOGICAL CONTROL
+JournalDetail.aspx?y=2018&t=ORGANISMS DIVERSITY = EVOLUTION
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=EVOLUTION = DEVELOPMENT
+JournalDetail.aspx?y=2018&t=AUK
+JournalDetail.aspx?y=2018&t=PHYSIOLOGICAL AND BIOCHEMICAL ZOOLOGY
+JournalDetail.aspx?y=2018&t=HERPETOLOGICAL MONOGRAPHS
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PRIMATOLOGY
+JournalDetail.aspx?y=2018&t=PLANT CELL TISSUE AND ORGAN CULTURE
+JournalDetail.aspx?y=2018&t=CELL BIOCHEMISTRY AND FUNCTION
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPARATIVE PHYSIOLOGY A-NEUROETHOLOGY SENSORY NEURAL AND BEHAVIORAL PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=MOLECULAR VISION
+JournalDetail.aspx?y=2018&t=MUTATION RESEARCH-GENETIC TOXICOLOGY AND ENVIRONMENTAL MUTAGENESIS
+JournalDetail.aspx?y=2018&t=Alpine Botany
+JournalDetail.aspx?y=2018&t=Journal of Comparative Physiology B-Biochemical Systems and Environmental Physiology
+JournalDetail.aspx?y=2018&t=JOURNAL OF LIPOSOME RESEARCH
+JournalDetail.aspx?y=2018&t=PHOTOCHEMISTRY AND PHOTOBIOLOGY
+JournalDetail.aspx?y=2018&t=Current Zoology
+JournalDetail.aspx?y=2018&t=IBIS
+JournalDetail.aspx?y=2018&t=Insect Conservation and Diversity
+JournalDetail.aspx?y=2018&t=PROTEIN ENGINEERING DESIGN = SELECTION
+JournalDetail.aspx?y=2018&t=JOURNAL OF PLANT GROWTH REGULATION
+JournalDetail.aspx?y=2018&t=MICROBIOLOGY-SGM
+JournalDetail.aspx?y=2018&t=HYDROBIOLOGIA
+JournalDetail.aspx?y=2018&t=CELL STRUCTURE AND FUNCTION
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR EVOLUTION
+JournalDetail.aspx?y=2018&t=JOURNAL OF MUSCLE RESEARCH AND CELL MOTILITY
+JournalDetail.aspx?y=2018&t=JOURNAL OF GREAT LAKES RESEARCH
+JournalDetail.aspx?y=2018&t=Advances in Marine Biology
+JournalDetail.aspx?y=2018&t=BOTANICAL REVIEW
+JournalDetail.aspx?y=2018&t=ANNALS OF APPLIED BIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOCHEMICAL AND MOLECULAR TOXICOLOGY
+JournalDetail.aspx?y=2018&t=Zebrafish
+JournalDetail.aspx?y=2018&t=BIOPOLYMERS
+JournalDetail.aspx?y=2018&t=International Journal of Genomics
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR RECOGNITION
+JournalDetail.aspx?y=2018&t=COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY A-MOLECULAR = INTEGRATIVE PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=PLANT MOLECULAR BIOLOGY REPORTER
+JournalDetail.aspx?y=2018&t=DEVELOPMENT GENES AND EVOLUTION
+JournalDetail.aspx?y=2018&t=DEVELOPMENT GROWTH = DIFFERENTIATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF PLANKTON RESEARCH
+JournalDetail.aspx?y=2018&t=FEBS Open Bio
+JournalDetail.aspx?y=2018&t=World Mycotoxin Journal
+JournalDetail.aspx?y=2018&t=JOURNAL OF THEORETICAL BIOLOGY
+JournalDetail.aspx?y=2018&t=Physica Medica-European Journal of Medical Physics
+JournalDetail.aspx?y=2018&t=INVERTEBRATE SYSTEMATICS
+JournalDetail.aspx?y=2018&t=CELL COMMUNICATION AND ADHESION
+JournalDetail.aspx?y=2018&t=CRYOBIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ZOOLOGY
+JournalDetail.aspx?y=2018&t=Human Cell
+JournalDetail.aspx?y=2018&t=Methods in Enzymology
+JournalDetail.aspx?y=2018&t=HISTOLOGY AND HISTOPATHOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF PEPTIDE SCIENCE
+JournalDetail.aspx?y=2018&t=Proteome Science
+JournalDetail.aspx?y=2018&t=JOURNAL OF THERMAL BIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=Advances in Protein Chemistry and Structural Biology
+JournalDetail.aspx?y=2018&t=CONNECTIVE TISSUE RESEARCH
+JournalDetail.aspx?y=2018&t=ANIMAL HEALTH RESEARCH REVIEWS
+JournalDetail.aspx?y=2018&t=JOURNAL OF EXPERIMENTAL PSYCHOLOGY-ANIMAL LEARNING AND COGNITION
+JournalDetail.aspx?y=2018&t=LIPIDS
+JournalDetail.aspx?y=2018&t=Mitochondrial DNA Part A
+JournalDetail.aspx?y=2018&t=Marine Genomics
+JournalDetail.aspx?y=2018&t=JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOMECHANICAL ENGINEERING-TRANSACTIONS OF THE ASME
+JournalDetail.aspx?y=2018&t=Arthropod Systematics = Phylogeny
+JournalDetail.aspx?y=2018&t=ECOLOGICAL ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=Biochemistry and Cell Biology
+JournalDetail.aspx?y=2018&t=BMC Biophysics
+JournalDetail.aspx?y=2018&t=Integrative Zoology
+JournalDetail.aspx?y=2018&t=PHYSIOLOGICAL MEASUREMENT
+JournalDetail.aspx?y=2018&t=POLAR BIOLOGY
+JournalDetail.aspx?y=2018&t=BIOCONTROL
+JournalDetail.aspx?y=2018&t=Tree Genetics = Genomes
+JournalDetail.aspx?y=2018&t=JOURNAL OF PLANT RESEARCH
+JournalDetail.aspx?y=2018&t=Insects
+JournalDetail.aspx?y=2018&t=CYTOPATHOLOGY
+JournalDetail.aspx?y=2018&t=BIOELECTROMAGNETICS
+JournalDetail.aspx?y=2018&t=PLASMID
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL AND APPLIED ACAROLOGY
+JournalDetail.aspx?y=2018&t=CRYPTOGAMIE MYCOLOGIE
+JournalDetail.aspx?y=2018&t=Journal of Plant Ecology
+JournalDetail.aspx?y=2018&t=CONTRIBUTIONS TO ZOOLOGY
+JournalDetail.aspx?y=2018&t=Acta Naturae
+JournalDetail.aspx?y=2018&t=ANIMAL GENETICS
+JournalDetail.aspx?y=2018&t=CELL BIOLOGY INTERNATIONAL
+JournalDetail.aspx?y=2018&t=MOLECULAR BIOLOGY REPORTS
+JournalDetail.aspx?y=2018&t=BIOSTATISTICS
+JournalDetail.aspx?y=2018&t=BIOLOGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF ECONOMIC ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=Plant Ecology = Diversity
+JournalDetail.aspx?y=2018&t=FEMS MICROBIOLOGY LETTERS
+JournalDetail.aspx?y=2018&t=JOURNAL OF MICROBIOLOGICAL METHODS
+JournalDetail.aspx?y=2018&t=AQUATIC BOTANY
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED GENETICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICAL ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=Biopreservation and Biobanking
+JournalDetail.aspx?y=2018&t=MOLECULAR MEMBRANE BIOLOGY
+JournalDetail.aspx?y=2018&t=ANTONIE VAN LEEUWENHOEK INTERNATIONAL JOURNAL OF GENERAL AND MOLECULAR MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MAMMALOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEMBRANE BIOLOGY
+JournalDetail.aspx?y=2018&t=Endangered Species Research
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR GRAPHICS = MODELLING
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF DEVELOPMENTAL BIOLOGY
+JournalDetail.aspx?y=2018&t=SEED SCIENCE RESEARCH
+JournalDetail.aspx?y=2018&t=MECHANISMS OF DEVELOPMENT
+JournalDetail.aspx?y=2018&t=PHYCOLOGIA
+JournalDetail.aspx?y=2018&t=BULLETIN OF ENTOMOLOGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=INTERNATIONAL REVIEW OF HYDROBIOLOGY
+JournalDetail.aspx?y=2018&t=MARINE MAMMAL SCIENCE
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF HUMAN BIOLOGY
+JournalDetail.aspx?y=2018&t=Probiotics and Antimicrobial Proteins
+JournalDetail.aspx?y=2018&t=PHYTOCOENOLOGIA
+JournalDetail.aspx?y=2018&t=Bioengineered
+JournalDetail.aspx?y=2018&t=CYTOTECHNOLOGY
+JournalDetail.aspx?y=2018&t=EXCLI Journal
+JournalDetail.aspx?y=2018&t=JOURNAL OF RECEPTORS AND SIGNAL TRANSDUCTION
+JournalDetail.aspx?y=2018&t=Biomedical Journal
+JournalDetail.aspx?y=2018&t=BIOLOGICALS
+JournalDetail.aspx?y=2018&t=ZOOLOGY
+JournalDetail.aspx?y=2018&t=Molecular Imaging
+JournalDetail.aspx?y=2018&t=JOURNAL OF STORED PRODUCTS RESEARCH
+JournalDetail.aspx?y=2018&t=MYCOLOGICAL PROGRESS
+JournalDetail.aspx?y=2018&t=COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY B-BIOCHEMISTRY = MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MICROBIOLOGY AND BIOTECHNOLOGY
+JournalDetail.aspx?y=2018&t=ANNALS OF HUMAN GENETICS
+JournalDetail.aspx?y=2018&t=BioData Mining
+JournalDetail.aspx?y=2018&t=JOURNAL OF MATHEMATICAL BIOLOGY
+JournalDetail.aspx?y=2018&t=BIOMEDICAL CHROMATOGRAPHY
+JournalDetail.aspx?y=2018&t=Journal of Nutrigenetics and Nutrigenomics
+JournalDetail.aspx?y=2018&t=BMC STRUCTURAL BIOLOGY
+JournalDetail.aspx?y=2018&t=GENOME
+JournalDetail.aspx?y=2018&t=BIOLOGICAL BULLETIN
+JournalDetail.aspx?y=2018&t=ARCHIVES OF MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPUTATIONAL NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=PHYSICAL BIOLOGY
+JournalDetail.aspx?y=2018&t=BioScience Trends
+JournalDetail.aspx?y=2018&t=BIOACOUSTICS-THE INTERNATIONAL JOURNAL OF ANIMAL SOUND AND ITS RECORDING
+JournalDetail.aspx?y=2018&t=MYCOPATHOLOGIA
+JournalDetail.aspx?y=2018&t=Fottea
+JournalDetail.aspx?y=2018&t=EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS
+JournalDetail.aspx?y=2018&t=JOURNAL OF ORNITHOLOGY
+JournalDetail.aspx?y=2018&t=ETHOLOGY
+JournalDetail.aspx?y=2018&t=PHOTOSYNTHETICA
+JournalDetail.aspx?y=2018&t=ARTHROPOD STRUCTURE = DEVELOPMENT
+JournalDetail.aspx?y=2018&t=Aquatic Biology
+JournalDetail.aspx?y=2018&t=Journal of Zhejiang University-SCIENCE B
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=Evolutionary Bioinformatics
+JournalDetail.aspx?y=2018&t=BIOSYSTEMS
+JournalDetail.aspx?y=2018&t=Algorithms for Molecular Biology
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF PLANT SCIENCES
+JournalDetail.aspx?y=2018&t=ALGAE
+JournalDetail.aspx?y=2018&t=BIOCHEMISTRY-MOSCOW
+JournalDetail.aspx?y=2018&t=Reproductive Biology
+JournalDetail.aspx?y=2018&t=MOLECULAR AND CELLULAR PROBES
+JournalDetail.aspx?y=2018&t=INSECTES SOCIAUX
+JournalDetail.aspx?y=2018&t=BIOLOGIA PLANTARUM
+JournalDetail.aspx?y=2018&t=LUMINESCENCE
+JournalDetail.aspx?y=2018&t=BEHAVIOURAL PROCESSES
+JournalDetail.aspx?y=2018&t=BRYOLOGIST
+JournalDetail.aspx?y=2018&t=New Microbiologica
+JournalDetail.aspx?y=2018&t=JOURNAL OF BASIC MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=CYTOGENETIC AND GENOME RESEARCH
+JournalDetail.aspx?y=2018&t=ENVIRONMENTAL ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF PLANT BIOLOGY
+JournalDetail.aspx?y=2018&t=Rice Science
+JournalDetail.aspx?y=2018&t=DIATOM RESEARCH
+JournalDetail.aspx?y=2018&t=Advances in Anatomy Embryology and Cell Biology
+JournalDetail.aspx?y=2018&t=SYSTEMATIC AND APPLIED ACAROLOGY
+JournalDetail.aspx?y=2018&t=LABORATORY ANIMALS
+JournalDetail.aspx?y=2018&t=JOURNAL OF REPRODUCTION AND DEVELOPMENT
+JournalDetail.aspx?y=2018&t=ETHOLOGY ECOLOGY = EVOLUTION
+JournalDetail.aspx?y=2018&t=Theoretical Biology and Medical Modelling
+JournalDetail.aspx?y=2018&t=Arthropod-Plant Interactions
+JournalDetail.aspx?y=2018&t=Journal of Plant Interactions
+JournalDetail.aspx?y=2018&t=JOURNAL OF FISH BIOLOGY
+JournalDetail.aspx?y=2018&t=MAMMALIAN BIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF APICULTURAL RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF INSECT CONSERVATION
+JournalDetail.aspx?y=2018&t=BIOCHEMICAL GENETICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR MICROBIOLOGY AND BIOTECHNOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF FIELD ORNITHOLOGY
+JournalDetail.aspx?y=2018&t=CELL BIOCHEMISTRY AND BIOPHYSICS
+JournalDetail.aspx?y=2018&t=MATHEMATICAL MEDICINE AND BIOLOGY-A JOURNAL OF THE IMA
+JournalDetail.aspx?y=2018&t=JOURNAL OF HELMINTHOLOGY
+JournalDetail.aspx?y=2018&t=Wulfenia
+JournalDetail.aspx?y=2018&t=Standards in Genomic Sciences
+JournalDetail.aspx?y=2018&t=LICHENOLOGIST
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOSCIENCES
+JournalDetail.aspx?y=2018&t=BMC BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=ACTA PHYSIOLOGIAE PLANTARUM
+JournalDetail.aspx?y=2018&t=ACTA HISTOCHEMICA
+JournalDetail.aspx?y=2018&t=Phytochemistry Letters
+JournalDetail.aspx?y=2018&t=ANNALS OF HUMAN BIOLOGY
+JournalDetail.aspx?y=2018&t=WILDLIFE BIOLOGY
+JournalDetail.aspx?y=2018&t=THEORETICAL POPULATION BIOLOGY
+JournalDetail.aspx?y=2018&t=CELLULAR = MOLECULAR BIOLOGY LETTERS
+JournalDetail.aspx?y=2018&t=SYMBIOSIS
+JournalDetail.aspx?y=2018&t=ACTA ETHOLOGICA
+JournalDetail.aspx?y=2018&t=PLANT SPECIES BIOLOGY
+JournalDetail.aspx?y=2018&t=CURRENT MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=BIOMETRICS
+JournalDetail.aspx?y=2018&t=Plant Biotechnology Reports
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF PRIMATOLOGY
+JournalDetail.aspx?y=2018&t=ARCHIVES OF INSECT BIOCHEMISTRY AND PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=BEHAVIOUR
+JournalDetail.aspx?y=2018&t=ECONOMIC BOTANY
+JournalDetail.aspx?y=2018&t=Plant Signaling = Behavior
+JournalDetail.aspx?y=2018&t=GENE EXPRESSION PATTERNS
+JournalDetail.aspx?y=2018&t=Cellular Reprogramming
+JournalDetail.aspx?y=2018&t=Molecular Cytogenetics
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF WILDLIFE RESEARCH
+JournalDetail.aspx?y=2018&t=SOUTH AFRICAN JOURNAL OF BOTANY
+JournalDetail.aspx?y=2018&t=CRYPTOGAMIE ALGOLOGIE
+JournalDetail.aspx?y=2018&t=JOURNAL OF VECTOR ECOLOGY
+JournalDetail.aspx?y=2018&t=PROTEIN EXPRESSION AND PURIFICATION
+JournalDetail.aspx?y=2018&t=FLORA
+JournalDetail.aspx?y=2018&t=BULLETIN OF MATHEMATICAL BIOLOGY
+JournalDetail.aspx?y=2018&t=HEREDITAS
+JournalDetail.aspx?y=2018&t=ENTOMOLOGIA EXPERIMENTALIS ET APPLICATA
+JournalDetail.aspx?y=2018&t=ZOOLOGISCHER ANZEIGER
+JournalDetail.aspx?y=2018&t=PLANT SYSTEMATICS AND EVOLUTION
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF ZOOLOGY
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=FOLIA HISTOCHEMICA ET CYTOBIOLOGICA
+JournalDetail.aspx?y=2018&t=PHYCOLOGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=Botanical Studies
+JournalDetail.aspx?y=2018&t=ACTA PROTOZOOLOGICA
+JournalDetail.aspx?y=2018&t=MATHEMATICAL BIOSCIENCES
+JournalDetail.aspx?y=2018&t=Journal of Biological Dynamics
+JournalDetail.aspx?y=2018&t=INSECT SYSTEMATICS = EVOLUTION
+JournalDetail.aspx?y=2018&t=Methods in Cell Biology
+JournalDetail.aspx?y=2018&t=Comparative Cytogenetics
+JournalDetail.aspx?y=2018&t=GENETICS AND MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=SALAMANDRA
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF EXPERIMENTAL BIOLOGY
+JournalDetail.aspx?y=2018&t=PHYSIOLOGICAL ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=PLANT BIOSYSTEMS
+JournalDetail.aspx?y=2018&t=TISSUE = CELL
+JournalDetail.aspx?y=2018&t=ANNALS OF THE ENTOMOLOGICAL SOCIETY OF AMERICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLLUSCAN STUDIES
+JournalDetail.aspx?y=2018&t=GENETICA
+JournalDetail.aspx?y=2018&t=BioChip Journal
+JournalDetail.aspx?y=2018&t=SYSTEMATIC BOTANY
+JournalDetail.aspx?y=2018&t=3 Biotech
+JournalDetail.aspx?y=2018&t=ELECTROMAGNETIC BIOLOGY AND MEDICINE
+JournalDetail.aspx?y=2018&t=INVERTEBRATE NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=MALACOLOGIA
+JournalDetail.aspx?y=2018&t=NEW GENETICS AND SOCIETY
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL ANIMALS
+JournalDetail.aspx?y=2018&t=AMPHIBIA-REPTILIA
+JournalDetail.aspx?y=2018&t=Advances in Botanical Research
+JournalDetail.aspx?y=2018&t=ANIMAL SCIENCE JOURNAL
+JournalDetail.aspx?y=2018&t=BRAZILIAN JOURNAL OF MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=Austral Entomology
+JournalDetail.aspx?y=2018&t=REVISTA IBEROAMERICANA DE MICOLOGIA
+JournalDetail.aspx?y=2018&t=ANNALS OF MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPUTATIONAL BIOLOGY
+JournalDetail.aspx?y=2018&t=COMPUTATIONAL BIOLOGY AND CHEMISTRY
+JournalDetail.aspx?y=2018&t=Journal of Experimental Zoology Part A-Ecological and Integrative Physiology
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPARATIVE PATHOLOGY
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=Genetic Testing and Molecular Biomarkers
+JournalDetail.aspx?y=2018&t=PHYTOPATHOLOGIA MEDITERRANEA
+JournalDetail.aspx?y=2018&t=BIOSCIENCE BIOTECHNOLOGY AND BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=Botany
+JournalDetail.aspx?y=2018&t=Marine Biology Research
+JournalDetail.aspx?y=2018&t=FOLIA GEOBOTANICA
+JournalDetail.aspx?y=2018&t=WILDLIFE RESEARCH
+JournalDetail.aspx?y=2018&t=ZOOMORPHOLOGY
+JournalDetail.aspx?y=2018&t=HERPETOLOGICA
+JournalDetail.aspx?y=2018&t=Tropical Plant Biology
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOLOGICAL PHYSICS
+JournalDetail.aspx?y=2018&t=CRYPTOGAMIE BRYOLOGIE
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEMATOLOGY
+JournalDetail.aspx?y=2018&t=ORIGINS OF LIFE AND EVOLUTION OF BIOSPHERES
+JournalDetail.aspx?y=2018&t=Applications in Plant Sciences
+JournalDetail.aspx?y=2018&t=ACTA BIOCHIMICA POLONICA
+JournalDetail.aspx?y=2018&t=BIRD CONSERVATION INTERNATIONAL
+JournalDetail.aspx?y=2018&t=Tropical Conservation Science
+JournalDetail.aspx?y=2018&t=Marine Ecology-An Evolutionary Perspective
+JournalDetail.aspx?y=2018&t=GENERAL PHYSIOLOGY AND BIOPHYSICS
+JournalDetail.aspx?y=2018&t=PRIMATES
+JournalDetail.aspx?y=2018&t=ZYGOTE
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE MARINE BIOLOGICAL ASSOCIATION OF THE UNITED KINGDOM
+JournalDetail.aspx?y=2018&t=INVERTEBRATE BIOLOGY
+JournalDetail.aspx?y=2018&t=Phytotaxa
+JournalDetail.aspx?y=2018&t=PhytoKeys
+JournalDetail.aspx?y=2018&t=ORNIS FENNICA
+JournalDetail.aspx?y=2018&t=BOTANICA MARINA
+JournalDetail.aspx?y=2018&t=COMPTES RENDUS BIOLOGIES
+JournalDetail.aspx?y=2018&t=ENTOMOLOGICAL SCIENCE
+JournalDetail.aspx?y=2018&t=Journal of Biomaterials and Tissue Engineering
+JournalDetail.aspx?y=2018&t=MYCOSCIENCE
+JournalDetail.aspx?y=2018&t=Mycosphere
+JournalDetail.aspx?y=2018&t=PHYSIOLOGY AND MOLECULAR BIOLOGY OF PLANTS
+JournalDetail.aspx?y=2018&t=JOURNAL OF FOOD BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=SCIENTIA MARINA
+JournalDetail.aspx?y=2018&t=JOURNAL OF ETHNOBIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF BRYOLOGY
+JournalDetail.aspx?y=2018&t=COPEIA
+JournalDetail.aspx?y=2018&t=NEMATOLOGY
+JournalDetail.aspx?y=2018&t=Neotropical Ichthyology
+JournalDetail.aspx?y=2018&t=THEORY IN BIOSCIENCES
+JournalDetail.aspx?y=2018&t=Journal of the American Association for Laboratory Animal Science
+JournalDetail.aspx?y=2018&t=IN VITRO CELLULAR = DEVELOPMENTAL BIOLOGY-ANIMAL
+JournalDetail.aspx?y=2018&t=Plant Ecology and Evolution
+JournalDetail.aspx?y=2018&t=PROTEIN JOURNAL
+JournalDetail.aspx?y=2018&t=HUMAN HEREDITY
+JournalDetail.aspx?y=2018&t=TURKISH JOURNAL OF BOTANY
+JournalDetail.aspx?y=2018&t=AUSTRALIAN JOURNAL OF BOTANY
+JournalDetail.aspx?y=2018&t=CELLS TISSUES ORGANS
+JournalDetail.aspx?y=2018&t=ACTA ZOOLOGICA
+JournalDetail.aspx?y=2018&t=Mammal Research
+JournalDetail.aspx?y=2018&t=TUEXENIA
+JournalDetail.aspx?y=2018&t=Invasive Plant Science and Management
+JournalDetail.aspx?y=2018&t=ACTA CHIROPTEROLOGICA
+JournalDetail.aspx?y=2018&t=IN VITRO CELLULAR = DEVELOPMENTAL BIOLOGY-PLANT
+JournalDetail.aspx?y=2018&t=BULLETIN OF INSECTOLOGY
+JournalDetail.aspx?y=2018&t=CANADIAN ENTOMOLOGIST
+JournalDetail.aspx?y=2018&t=ICHNOS-AN INTERNATIONAL JOURNAL FOR PLANT AND ANIMAL TRACES
+JournalDetail.aspx?y=2018&t=BIOTECHNIC = HISTOCHEMISTRY
+JournalDetail.aspx?y=2018&t=AFRICAN JOURNAL OF MARINE SCIENCE
+JournalDetail.aspx?y=2018&t=Journal of Biological Research-Thessaloniki
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CRUSTACEAN BIOLOGY
+JournalDetail.aspx?y=2018&t=EMU
+JournalDetail.aspx?y=2018&t=GRANA
+JournalDetail.aspx?y=2018&t=JOURNAL OF PLANT BIOCHEMISTRY AND BIOTECHNOLOGY
+JournalDetail.aspx?y=2018&t=PROTEIN AND PEPTIDE LETTERS
+JournalDetail.aspx?y=2018&t=HERPETOZOA
+JournalDetail.aspx?y=2018&t=URSUS
+JournalDetail.aspx?y=2018&t=ARDEA
+JournalDetail.aspx?y=2018&t=ZooKeys
+JournalDetail.aspx?y=2018&t=ICHTHYOLOGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=WILDLIFE SOCIETY BULLETIN
+JournalDetail.aspx?y=2018&t=JOURNAL OF ETHOLOGY
+JournalDetail.aspx?y=2018&t=ANNALES ZOOLOGICI FENNICI
+JournalDetail.aspx?y=2018&t=AUSTRALIAN SYSTEMATIC BOTANY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=FLY
+JournalDetail.aspx?y=2018&t=ACTA SOCIETATIS BOTANICORUM POLONIAE
+JournalDetail.aspx?y=2018&t=FLORIDA ENTOMOLOGIST
+JournalDetail.aspx?y=2018&t=AMPHIBIAN = REPTILE CONSERVATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED BOTANY AND FOOD QUALITY
+JournalDetail.aspx?y=2018&t=HERPETOLOGICAL JOURNAL
+JournalDetail.aspx?y=2018&t=GENES = GENETIC SYSTEMS
+JournalDetail.aspx?y=2018&t=ZOOLOGICAL STUDIES
+JournalDetail.aspx?y=2018&t=International Journal of Peptide Research and Therapeutics
+JournalDetail.aspx?y=2018&t=BIRD STUDY
+JournalDetail.aspx?y=2018&t=Records of Natural Products
+JournalDetail.aspx?y=2018&t=JOURNAL OF MICROPALAEONTOLOGY
+JournalDetail.aspx?y=2018&t=ARCHIV FUR MOLLUSKENKUNDE
+JournalDetail.aspx?y=2018&t=AUSTRALIAN MAMMALOGY
+JournalDetail.aspx?y=2018&t=PHYTOPARASITICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF INSECT BEHAVIOR
+JournalDetail.aspx?y=2018&t=JOURNAL OF ARACHNOLOGY
+JournalDetail.aspx?y=2018&t=ZOOTAXA
+JournalDetail.aspx?y=2018&t=CELLULAR AND MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=Theoretical and Experimental Plant Physiology
+JournalDetail.aspx?y=2018&t=PACIFIC SCIENCE
+JournalDetail.aspx?y=2018&t=Biosemiotics
+JournalDetail.aspx?y=2018&t=BIOMETRICAL JOURNAL
+JournalDetail.aspx?y=2018&t=TURKISH JOURNAL OF BIOLOGY
+JournalDetail.aspx?y=2018&t=ANNALES ZOOLOGICI
+JournalDetail.aspx?y=2018&t=APPLIED ENTOMOLOGY AND ZOOLOGY
+JournalDetail.aspx?y=2018&t=Botany Letters
+JournalDetail.aspx?y=2018&t=JOURNAL OF INSECT SCIENCE
+JournalDetail.aspx?y=2018&t=JOURNAL OF HERPETOLOGY
+JournalDetail.aspx?y=2018&t=BIOCATALYSIS AND BIOTRANSFORMATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF GENETICS
+JournalDetail.aspx?y=2018&t=NEW ZEALAND JOURNAL OF MARINE AND FRESHWATER RESEARCH
+JournalDetail.aspx?y=2018&t=NEW ZEALAND JOURNAL OF BOTANY
+JournalDetail.aspx?y=2018&t=BIOCHEMICAL SYSTEMATICS AND ECOLOGY
+JournalDetail.aspx?y=2018&t=ACTA ORNITHOLOGICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF ASIA-PACIFIC ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=Vertebrate Zoology
+JournalDetail.aspx?y=2018&t=Statistical Applications in Genetics and Molecular Biology
+JournalDetail.aspx?y=2018&t=NOVA HEDWIGIA
+JournalDetail.aspx?y=2018&t=Genetics Research
+JournalDetail.aspx?y=2018&t=JOURNAL OF NATURAL HISTORY
+JournalDetail.aspx?y=2018&t=JOURNAL OF AGRICULTURAL BIOLOGICAL AND ENVIRONMENTAL STATISTICS
+JournalDetail.aspx?y=2018&t=FOLIA PRIMATOLOGICA
+JournalDetail.aspx?y=2018&t=Indian Journal of Traditional Knowledge
+JournalDetail.aspx?y=2018&t=Frontiers in Life Science
+JournalDetail.aspx?y=2018&t=Ardeola-International Journal of Ornithology
+JournalDetail.aspx?y=2018&t=MYCOBIOLOGY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF ACAROLOGY
+JournalDetail.aspx?y=2018&t=AQUATIC MAMMALS
+JournalDetail.aspx?y=2018&t=ZOO BIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF GENERAL AND APPLIED MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=BIOCONTROL SCIENCE AND TECHNOLOGY
+JournalDetail.aspx?y=2018&t=IET Systems Biology
+JournalDetail.aspx?y=2018&t=Willdenowia
+JournalDetail.aspx?y=2018&t=Methods in Microbiology
+JournalDetail.aspx?y=2018&t=ACTA HISTOCHEMICA ET CYTOCHEMICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE TORREY BOTANICAL SOCIETY
+JournalDetail.aspx?y=2018&t=Acta of Bioengineering and Biomechanics
+JournalDetail.aspx?y=2018&t=JOURNAL OF FRESHWATER ECOLOGY
+JournalDetail.aspx?y=2018&t=ACAROLOGIA
+JournalDetail.aspx?y=2018&t=Asian Myrmecology
+JournalDetail.aspx?y=2018&t=NORDIC JOURNAL OF BOTANY
+JournalDetail.aspx?y=2018&t=MARINE AND FRESHWATER BEHAVIOUR AND PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=ACTA MICROBIOLOGICA ET IMMUNOLOGICA HUNGARICA
+JournalDetail.aspx?y=2018&t=Zoosystematics and Evolution
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE HISTORY OF BIOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Bioinformatics and Computational Biology
+JournalDetail.aspx?y=2018&t=South American Journal of Herpetology
+JournalDetail.aspx?y=2018&t=NUCLEOSIDES NUCLEOTIDES = NUCLEIC ACIDS
+JournalDetail.aspx?y=2018&t=SYDOWIA
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN MOSQUITO CONTROL ASSOCIATION
+JournalDetail.aspx?y=2018&t=MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF SHELLFISH RESEARCH
+JournalDetail.aspx?y=2018&t=RAFFLES BULLETIN OF ZOOLOGY
+JournalDetail.aspx?y=2018&t=CIENCIAS MARINAS
+JournalDetail.aspx?y=2018&t=AMERICAN MALACOLOGICAL BULLETIN
+JournalDetail.aspx?y=2018&t=PLANT PROTECTION SCIENCE
+JournalDetail.aspx?y=2018&t=JOURNAL OF HYMENOPTERA RESEARCH
+JournalDetail.aspx?y=2018&t=NEOTROPICAL ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=ZOOLOGICAL SCIENCE
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF PLANT SCIENCE
+JournalDetail.aspx?y=2018&t=Acta Crystallographica Section F-Structural Biology Communications
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR NATURFORSCHUNG SECTION C-A JOURNAL OF BIOSCIENCES
+JournalDetail.aspx?y=2018&t=Open Life Sciences
+JournalDetail.aspx?y=2018&t=Interdisciplinary Sciences-Computational Life Sciences
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED ICHTHYOLOGY
+JournalDetail.aspx?y=2018&t=ENTOMOLOGIA GENERALIS
+JournalDetail.aspx?y=2018&t=HERZOGIA
+JournalDetail.aspx?y=2018&t=European Journal of Taxonomy
+JournalDetail.aspx?y=2018&t=Romanian Journal of Morphology and Embryology
+JournalDetail.aspx?y=2018&t=MOLECULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=ISJ-Invertebrate Survival Journal
+JournalDetail.aspx?y=2018&t=INVERTEBRATE REPRODUCTION = DEVELOPMENT
+JournalDetail.aspx?y=2018&t=ANNALES BOTANICI FENNICI
+JournalDetail.aspx?y=2018&t=European Zoological Journal
+JournalDetail.aspx?y=2018&t=ICHTHYOLOGICAL EXPLORATION OF FRESHWATERS
+JournalDetail.aspx?y=2018&t=ACTA BIOTHEORETICA
+JournalDetail.aspx?y=2018&t=Brazilian Journal of Botany
+JournalDetail.aspx?y=2018&t=Herpetological Conservation and Biology
+JournalDetail.aspx?y=2018&t=ANTHROPOLOGICAL SCIENCE
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF PLANT PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=Avian Research
+JournalDetail.aspx?y=2018&t=HUMAN BIOLOGY
+JournalDetail.aspx?y=2018&t=Polish Journal of Microbiology
+JournalDetail.aspx?y=2018&t=ANIMAL BIOLOGY
+JournalDetail.aspx?y=2018&t=REVISTA BRASILEIRA DE ENTOMOLOGIA
+JournalDetail.aspx?y=2018&t=CHELONIAN CONSERVATION AND BIOLOGY
+JournalDetail.aspx?y=2018&t=BIOCONTROL SCIENCE
+JournalDetail.aspx?y=2018&t=TURKISH JOURNAL OF ZOOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF RAPTOR RESEARCH
+JournalDetail.aspx?y=2018&t=BRITTONIA
+JournalDetail.aspx?y=2018&t=Plant Biotechnology
+JournalDetail.aspx?y=2018&t=BELGIAN JOURNAL OF ZOOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICAL PRIMATOLOGY
+JournalDetail.aspx?y=2018&t=BIOLOGIA
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF BIOCHEMISTRY = BIOPHYSICS
+JournalDetail.aspx?y=2018&t=CRYOLETTERS
+JournalDetail.aspx?y=2018&t=BIOCHEMISTRY AND MOLECULAR BIOLOGY EDUCATION
+JournalDetail.aspx?y=2018&t=AUSTRALIAN JOURNAL OF ZOOLOGY
+JournalDetail.aspx?y=2018&t=Entomologica Americana
+JournalDetail.aspx?y=2018&t=AMERICAN FERN JOURNAL
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF PEST MANAGEMENT
+JournalDetail.aspx?y=2018&t=AFRICAN ZOOLOGY
+JournalDetail.aspx?y=2018&t=PAKISTAN JOURNAL OF BOTANY
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOLOGICAL EDUCATION
+JournalDetail.aspx?y=2018&t=ANIMAL SCIENCE PAPERS AND REPORTS
+JournalDetail.aspx?y=2018&t=MAMMALIA
+JournalDetail.aspx?y=2018&t=DEUTSCHE ENTOMOLOGISCHE ZEITSCHRIFT
+JournalDetail.aspx?y=2018&t=NEW ZEALAND ENTOMOLOGIST
+JournalDetail.aspx?y=2018&t=Acta Botanica Brasilica
+JournalDetail.aspx?y=2018&t=JOURNAL OF APICULTURAL SCIENCE
+JournalDetail.aspx?y=2018&t=APPLIED BIOCHEMISTRY AND MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=EVOLUTIONARY ECOLOGY RESEARCH
+JournalDetail.aspx?y=2018&t=BIOLOGICAL RHYTHM RESEARCH
+JournalDetail.aspx?y=2018&t=ODONATOLOGICA
+JournalDetail.aspx?y=2018&t=SOCIOBIOLOGY
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE BIOLOGICAL SOCIETY OF WASHINGTON
+JournalDetail.aspx?y=2018&t=NEW ZEALAND JOURNAL OF ZOOLOGY
+JournalDetail.aspx?y=2018&t=MIKROBIYOLOJI BULTENI
+JournalDetail.aspx?y=2018&t=TROPICAL ZOOLOGY
+JournalDetail.aspx?y=2018&t=MYCOTAXON
+JournalDetail.aspx?y=2018&t=Zoologia
+JournalDetail.aspx?y=2018&t=REVISTA ARGENTINA DE MICROBIOLOGIA
+JournalDetail.aspx?y=2018&t=Genes = Genomics
+JournalDetail.aspx?y=2018&t=Statistics in Biopharmaceutical Research
+JournalDetail.aspx?y=2018&t=CRUSTACEANA
+JournalDetail.aspx?y=2018&t=ACTA BIOLOGICA CRACOVIENSIA SERIES BOTANICA
+JournalDetail.aspx?y=2018&t=Current Bioinformatics
+JournalDetail.aspx?y=2018&t=ARTHROPODA SELECTA
+JournalDetail.aspx?y=2018&t=Acta Herpetologica
+JournalDetail.aspx?y=2018&t=North-Western Journal of Zoology
+JournalDetail.aspx?y=2018&t=OSTRICH
+JournalDetail.aspx?y=2018&t=WATERBIRDS
+JournalDetail.aspx?y=2018&t=AFRICAN INVERTEBRATES
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF ODONATOLOGY
+JournalDetail.aspx?y=2018&t=AFRICAN ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=ACTA BOTANICA CROATICA
+JournalDetail.aspx?y=2018&t=SPIXIANA
+JournalDetail.aspx?y=2018&t=BRAZILIAN JOURNAL OF BIOLOGY
+JournalDetail.aspx?y=2018&t=RECORDS OF THE AUSTRALIAN MUSEUM
+JournalDetail.aspx?y=2018&t=International Journal of Data Mining and Bioinformatics
+JournalDetail.aspx?y=2018&t=FOLIA ZOOLOGICA
+JournalDetail.aspx?y=2018&t=BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY
+JournalDetail.aspx?y=2018&t=MOLLUSCAN RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF ENTOMOLOGICAL SCIENCE
+JournalDetail.aspx?y=2018&t=Plant Genetic Resources-Characterization and Utilization
+JournalDetail.aspx?y=2018&t=BLUMEA
+JournalDetail.aspx?y=2018&t=Biomolecular NMR Assignments
+JournalDetail.aspx?y=2018&t=ACTA ZOOLOGICA ACADEMIAE SCIENTIARUM HUNGARICAE
+JournalDetail.aspx?y=2018&t=COLEOPTERISTS BULLETIN
+JournalDetail.aspx?y=2018&t=Wilson Journal of Ornithology
+JournalDetail.aspx?y=2018&t=ZOOLOGY IN THE MIDDLE EAST
+JournalDetail.aspx?y=2018&t=Botanical Sciences
+JournalDetail.aspx?y=2018&t=PTERIDINES
+JournalDetail.aspx?y=2018&t=Conservation Genetics Resources
+JournalDetail.aspx?y=2018&t=ISRAEL JOURNAL OF PLANT SCIENCES
+JournalDetail.aspx?y=2018&t=CAHIERS DE BIOLOGIE MARINE
+JournalDetail.aspx?y=2018&t=Plankton = Benthos Research
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE ENTOMOLOGICAL SOCIETY OF WASHINGTON
+JournalDetail.aspx?y=2018&t=CYTOLOGIA
+JournalDetail.aspx?y=2018&t=CARYOLOGIA
+JournalDetail.aspx?y=2018&t=ZOOSYSTEMA
+JournalDetail.aspx?y=2018&t=ANNALES DE LA SOCIETE ENTOMOLOGIQUE DE FRANCE
+JournalDetail.aspx?y=2018&t=KEW BULLETIN
+JournalDetail.aspx?y=2018&t=NAUTILUS
+JournalDetail.aspx?y=2018&t=ACTA ADRIATICA
+JournalDetail.aspx?y=2018&t=Notulae Botanicae Horti Agrobotanici Cluj-Napoca
+JournalDetail.aspx?y=2018&t=ACTA BIOLOGICA COLOMBIANA
+JournalDetail.aspx?y=2018&t=CURRENT HERPETOLOGY
+JournalDetail.aspx?y=2018&t=REVUE SUISSE DE ZOOLOGIE
+JournalDetail.aspx?y=2018&t=ANALES DEL JARDIN BOTANICO DE MADRID
+JournalDetail.aspx?y=2018&t=ORNITHOLOGICAL SCIENCE
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF TROPICAL INSECT SCIENCE
+JournalDetail.aspx?y=2018&t=ACTA BIOLOGICA HUNGARICA
+JournalDetail.aspx?y=2018&t=Russian Journal of Marine Biology
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF NEMATOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOLOGICAL SYSTEMS
+JournalDetail.aspx?y=2018&t=PAKISTAN JOURNAL OF ZOOLOGY
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF GENETICS
+JournalDetail.aspx?y=2018&t=HELMINTHOLOGIA
+JournalDetail.aspx?y=2018&t=Journal of Essential Oil Bearing Plants
+JournalDetail.aspx?y=2018&t=MAMMAL STUDY
+JournalDetail.aspx?y=2018&t=Asian Herpetological Research
+JournalDetail.aspx?y=2018&t=Doklady Biochemistry and Biophysics
+JournalDetail.aspx?y=2018&t=Mitochondrial DNA Part B-Resources
+JournalDetail.aspx?y=2018&t=REVISTA DE BIOLOGIA TROPICAL
+JournalDetail.aspx?y=2018&t=AFRICAN JOURNAL OF HERPETOLOGY
+JournalDetail.aspx?y=2018&t=SOUTHWESTERN ENTOMOLOGIST
+JournalDetail.aspx?y=2018&t=STUDIES ON NEOTROPICAL FAUNA AND ENVIRONMENT
+JournalDetail.aspx?y=2018&t=CYBIUM
+JournalDetail.aspx?y=2018&t=Animal Cells and Systems
+JournalDetail.aspx?y=2018&t=Planta Daninha
+JournalDetail.aspx?y=2018&t=PAN-PACIFIC ENTOMOLOGIST
+JournalDetail.aspx?y=2018&t=TURKIYE ENTOMOLOJI DERGISI-TURKISH JOURNAL OF ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=TRANSACTIONS OF THE AMERICAN ENTOMOLOGICAL SOCIETY
+JournalDetail.aspx?y=2018&t=Archives of Biological Sciences
+JournalDetail.aspx?y=2018&t=NOVON
+JournalDetail.aspx?y=2018&t=BOTHALIA
+JournalDetail.aspx?y=2018&t=Acta Botanica Mexicana
+JournalDetail.aspx?y=2018&t=Journal of Hard Tissue Biology
+JournalDetail.aspx?y=2018&t=TRENDS IN GLYCOSCIENCE AND GLYCOTECHNOLOGY
+JournalDetail.aspx?y=2018&t=Revista Brasileira de Ornitologia
+JournalDetail.aspx?y=2018&t=CANDOLLEA
+JournalDetail.aspx?y=2018&t=Acta Phytotaxonomica et Geobotanica
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE LEPIDOPTERISTS SOCIETY
+JournalDetail.aspx?y=2018&t=Russian Journal of Developmental Biology
+JournalDetail.aspx?y=2018&t=PHYTON-ANNALES REI BOTANICAE
+JournalDetail.aspx?y=2018&t=TRACE ELEMENTS AND ELECTROLYTES
+JournalDetail.aspx?y=2018&t=Bradleya
+JournalDetail.aspx?y=2018&t=TAIWANIA
+JournalDetail.aspx?y=2018&t=ADANSONIA
+JournalDetail.aspx?y=2018&t=GAYANA
+JournalDetail.aspx?y=2018&t=AQUATIC INSECTS
+JournalDetail.aspx?y=2018&t=JOURNAL OF CONCHOLOGY
+JournalDetail.aspx?y=2018&t=CASTANEA
+JournalDetail.aspx?y=2018&t=REDIA-GIORNALE DI ZOOLOGIA
+JournalDetail.aspx?y=2018&t=JOURNAL OF EVOLUTIONARY BIOCHEMISTRY AND PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=JAPANESE JOURNAL OF APPLIED ENTOMOLOGY AND ZOOLOGY
+JournalDetail.aspx?y=2018&t=TELOPEA
+JournalDetail.aspx?y=2018&t=HASELTONIA
+JournalDetail.aspx?y=2018&t=EPIDEMIOLOGIE MIKROBIOLOGIE IMUNOLOGIE
+JournalDetail.aspx?y=2018&t=REVISTA DE LA SOCIEDAD ENTOMOLOGICA ARGENTINA
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF HERPETOLOGY
+JournalDetail.aspx?y=2018&t=REVISTA DE BIOLOGIA MARINA Y OCEANOGRAFIA
+JournalDetail.aspx?y=2018&t=Romanian Biotechnological Letters
+JournalDetail.aspx?y=2018&t=ACTA ZOOLOGICA BULGARICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE KANSAS ENTOMOLOGICAL SOCIETY
+JournalDetail.aspx?y=2018&t=PHYLLOMEDUSA
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF GENETICS AND PLANT BREEDING
+JournalDetail.aspx?y=2018&t=RHODORA
+JournalDetail.aspx?y=2018&t=BIOLOGY BULLETIN
+JournalDetail.aspx?y=2018&t=ENTOMOLOGICAL NEWS
+JournalDetail.aspx?y=2018&t=Bangladesh Journal of Plant Taxonomy
+JournalDetail.aspx?y=2018&t=GAYANA BOTANICA
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF BIOTECHNOLOGY
+JournalDetail.aspx?y=2018&t=Iranian Journal of Biotechnology
+JournalDetail.aspx?y=2018&t=JOURNAL OF AQUATIC PLANT MANAGEMENT
+JournalDetail.aspx?y=2018&t=IHERINGIA SERIE ZOOLOGIA
+JournalDetail.aspx?y=2018&t=ENTOMOLOGICA FENNICA
+JournalDetail.aspx?y=2018&t=Cytology and Genetics
+JournalDetail.aspx?y=2018&t=Postepy Mikrobiologii
+JournalDetail.aspx?y=2018&t=SHILAP-REVISTA DE LEPIDOPTEROLOGIA
+JournalDetail.aspx?y=2018&t=Bioscience Journal
+JournalDetail.aspx?y=2018&t=Theoretical Biology Forum
+JournalDetail.aspx?y=2018&t=MINERVA BIOTECNOLOGICA
+JournalDetail.aspx?y=2018&t=PROGRESS IN BIOCHEMISTRY AND BIOPHYSICS
+JournalDetail.aspx?y=2018&t=Boletin de la Sociedad Argentina de Botanica
+JournalDetail.aspx?y=2018&t=AMERICAN BIOLOGY TEACHER
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF HUMAN GENETICS
+JournalDetail.aspx?y=2018&t=BIOCELL
+JournalDetail.aspx?y=2018&t=ORIENTAL INSECTS
+JournalDetail.aspx?y=2018&t=CALDASIA
+JournalDetail.aspx?y=2018&t=Hidrobiologica
+JournalDetail.aspx?y=2018&t=Inland Water Biology
+JournalDetail.aspx?y=2018&t=BANGLADESH JOURNAL OF BOTANY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE ENTOMOLOGICAL RESEARCH SOCIETY
+JournalDetail.aspx?y=2018&t=ZHURNAL OBSHCHEI BIOLOGII
+JournalDetail.aspx?y=2018&t=ORNITOLOGIA NEOTROPICAL
+JournalDetail.aspx?y=2018&t=NEMATROPICA
+JournalDetail.aspx?y=2018&t=Molecular Genetics Microbiology and Virology
+JournalDetail.aspx?y=2018&t=Turkish Journal of Biochemistry-Turk Biyokimya Dergisi
+JournalDetail.aspx?y=2018&t=REVISTA COLOMBIANA DE ENTOMOLOGIA
+JournalDetail.aspx?y=2018&t=PERIODICUM BIOLOGORUM
+JournalDetail.aspx?y=2018&t=PHYTON-INTERNATIONAL JOURNAL OF EXPERIMENTAL BOTANY
+JournalDetail.aspx?y=2018&t=IHERINGIA SERIE BOTANICA
+JournalDetail.aspx?y=2018&t=Egyptian Journal of Biological Pest Control
+JournalDetail.aspx?y=2018&t=Legume Research
+JournalDetail.aspx?y=2018&t=FORKTAIL
+JournalDetail.aspx?y=2018&t=ZOOLOGICHESKY ZHURNAL
+JournalDetail.aspx?y=2018&t=Gorteria
+JournalDetail.aspx?y=2018&t=Medizinische Genetik
+JournalDetail.aspx?y=2018&t=Zeitschrift fur Arznei- = Gewurzpflanzen
+JournalDetail.aspx?y=2018&t=BIOLOGICHESKIE MEMBRANY
+JournalDetail.aspx?y=2018&t=POSTEPY BIOLOGII KOMORKI
+JournalDetail.aspx?y=2018&t=JOURNAL OF HISTOTECHNOLOGY
+JournalDetail.aspx?y=2018&t=BULLETIN MENSUEL DE LA SOCIETE LINNEENNE DE LYON
+JournalDetail.aspx?y=2018&t=TIJDSCHRIFT VOOR DIERGENEESKUNDE

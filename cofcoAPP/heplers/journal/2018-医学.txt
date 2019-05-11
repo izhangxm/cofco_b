@@ -1,0 +1,3297 @@
+JournalDetail.aspx?y=2018&t=CA-A CANCER JOURNAL FOR CLINICIANS
+JournalDetail.aspx?y=2018&t=NEW ENGLAND JOURNAL OF MEDICINE
+JournalDetail.aspx?y=2018&t=NATURE REVIEWS DRUG DISCOVERY
+JournalDetail.aspx?y=2018&t=LANCET
+JournalDetail.aspx?y=2018&t=JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+JournalDetail.aspx?y=2018&t=NATURE REVIEWS IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=NATURE REVIEWS CANCER
+JournalDetail.aspx?y=2018&t=LANCET ONCOLOGY
+JournalDetail.aspx?y=2018&t=NATURE MEDICINE
+JournalDetail.aspx?y=2018&t=NATURE REVIEWS NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=Annual Review of Immunology
+JournalDetail.aspx?y=2018&t=PHYSIOLOGICAL REVIEWS
+JournalDetail.aspx?y=2018&t=LANCET NEUROLOGY
+JournalDetail.aspx?y=2018&t=World Psychiatry
+JournalDetail.aspx?y=2018&t=CANCER CELL
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL ONCOLOGY
+JournalDetail.aspx?y=2018&t=IMMUNITY
+JournalDetail.aspx?y=2018&t=Annual Review of Pathology-Mechanisms of Disease
+JournalDetail.aspx?y=2018&t=LANCET INFECTIOUS DISEASES
+JournalDetail.aspx?y=2018&t=Cancer Discovery
+JournalDetail.aspx?y=2018&t=Nature Reviews Clinical Oncology
+JournalDetail.aspx?y=2018&t=BMJ-British Medical Journal
+JournalDetail.aspx?y=2018&t=NATURE IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Annual Review of Psychology
+JournalDetail.aspx?y=2018&t=EUROPEAN HEART JOURNAL
+JournalDetail.aspx?y=2018&t=Nature Reviews Neurology
+JournalDetail.aspx?y=2018&t=GASTROENTEROLOGY
+JournalDetail.aspx?y=2018&t=CLINICAL MICROBIOLOGY REVIEWS
+JournalDetail.aspx?y=2018&t=JAMA Oncology
+JournalDetail.aspx?y=2018&t=Lancet Respiratory Medicine
+JournalDetail.aspx?y=2018&t=CIRCULATION
+JournalDetail.aspx?y=2018&t=Lancet Diabetes = Endocrinology
+JournalDetail.aspx?y=2018&t=PHARMACOLOGICAL REVIEWS
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN COLLEGE OF CARDIOLOGY
+JournalDetail.aspx?y=2018&t=NATURE NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=Nature Reviews Endocrinology
+JournalDetail.aspx?y=2018&t=ANNALS OF INTERNAL MEDICINE
+JournalDetail.aspx?y=2018&t=Lancet Global Health
+JournalDetail.aspx?y=2018&t=JAMA Internal Medicine
+JournalDetail.aspx?y=2018&t=BEHAVIORAL AND BRAIN SCIENCES
+JournalDetail.aspx?y=2018&t=EUROPEAN UROLOGY
+JournalDetail.aspx?y=2018&t=TRENDS IN COGNITIVE SCIENCES
+JournalDetail.aspx?y=2018&t=GUT
+JournalDetail.aspx?y=2018&t=JAMA Psychiatry
+JournalDetail.aspx?y=2018&t=ENDOCRINE REVIEWS
+JournalDetail.aspx?y=2018&t=Nature Reviews Gastroenterology = Hepatology
+JournalDetail.aspx?y=2018&t=PSYCHOLOGICAL BULLETIN
+JournalDetail.aspx?y=2018&t=Annual Review of Neuroscience
+JournalDetail.aspx?y=2018&t=NEURON
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+JournalDetail.aspx?y=2018&t=Annual Review of Physiology
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PSYCHIATRY
+JournalDetail.aspx?y=2018&t=ADVANCED DRUG DELIVERY REVIEWS
+JournalDetail.aspx?y=2018&t=Annual Review of Pharmacology and Toxicology
+JournalDetail.aspx?y=2018&t=CIRCULATION RESEARCH
+JournalDetail.aspx?y=2018&t=PROGRESS IN NEUROBIOLOGY
+JournalDetail.aspx?y=2018&t=BLOOD
+JournalDetail.aspx?y=2018&t=Nature Reviews Cardiology
+JournalDetail.aspx?y=2018&t=Annual Review of Medicine
+JournalDetail.aspx?y=2018&t=ACTA NEUROPATHOLOGICA
+JournalDetail.aspx?y=2018&t=HEPATOLOGY
+JournalDetail.aspx?y=2018&t=TRENDS IN IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL INVESTIGATION
+JournalDetail.aspx?y=2018&t=Nature Reviews Rheumatology
+JournalDetail.aspx?y=2018&t=MOLECULAR PSYCHIATRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF HEPATOLOGY
+JournalDetail.aspx?y=2018&t=Annual Review of Clinical Psychology
+JournalDetail.aspx?y=2018&t=ANNALS OF THE RHEUMATIC DISEASES
+JournalDetail.aspx?y=2018&t=INTENSIVE CARE MEDICINE
+JournalDetail.aspx?y=2018&t=PLOS MEDICINE
+JournalDetail.aspx?y=2018&t=TRENDS IN PHARMACOLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Nature Reviews Nephrology
+JournalDetail.aspx?y=2018&t=JNCI-Journal of the National Cancer Institute
+JournalDetail.aspx?y=2018&t=TRENDS IN NEUROSCIENCES
+JournalDetail.aspx?y=2018&t=ANNALS OF ONCOLOGY
+JournalDetail.aspx?y=2018&t=MMWR-MORBIDITY AND MORTALITY WEEKLY REPORT
+JournalDetail.aspx?y=2018&t=HUMAN REPRODUCTION UPDATE
+JournalDetail.aspx?y=2018&t=BIOLOGICAL PSYCHIATRY
+JournalDetail.aspx?y=2018&t=DIABETES CARE
+JournalDetail.aspx?y=2018&t=JOURNAL OF EXPERIMENTAL MEDICINE
+JournalDetail.aspx?y=2018&t=Alzheimers = Dementia
+JournalDetail.aspx?y=2018&t=LEUKEMIA
+JournalDetail.aspx?y=2018&t=Nature Reviews Disease Primers
+JournalDetail.aspx?y=2018&t=PROGRESS IN RETINAL AND EYE RESEARCH
+JournalDetail.aspx?y=2018&t=Lancet Psychiatry
+JournalDetail.aspx?y=2018&t=PHARMACOLOGY = THERAPEUTICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF PINEAL RESEARCH
+JournalDetail.aspx?y=2018&t=BRAIN
+JournalDetail.aspx?y=2018&t=EUROPEAN RESPIRATORY JOURNAL
+JournalDetail.aspx?y=2018&t=TRENDS IN MOLECULAR MEDICINE
+JournalDetail.aspx?y=2018&t=TRENDS IN ENDOCRINOLOGY AND METABOLISM
+JournalDetail.aspx?y=2018&t=JAMA Pediatrics
+JournalDetail.aspx?y=2018&t=DRUG RESISTANCE UPDATES
+JournalDetail.aspx?y=2018&t=JAMA Cardiology
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF GASTROENTEROLOGY
+JournalDetail.aspx?y=2018&t=Journal of Cachexia Sarcopenia and Muscle
+JournalDetail.aspx?y=2018&t=Annual Review of Public Health
+JournalDetail.aspx?y=2018&t=ANNALS OF NEUROLOGY
+JournalDetail.aspx?y=2018&t=JAMA Neurology
+JournalDetail.aspx?y=2018&t=PSYCHOTHERAPY AND PSYCHOSOMATICS
+JournalDetail.aspx?y=2018&t=Lancet HIV
+JournalDetail.aspx?y=2018&t=SEMINARS IN CANCER BIOLOGY
+JournalDetail.aspx?y=2018&t=EMBO Molecular Medicine
+JournalDetail.aspx?y=2018&t=CLINICAL CANCER RESEARCH
+JournalDetail.aspx?y=2018&t=IMMUNOLOGICAL REVIEWS
+JournalDetail.aspx?y=2018&t=JACC-Cardiovascular Imaging
+JournalDetail.aspx?y=2018&t=SLEEP MEDICINE REVIEWS
+JournalDetail.aspx?y=2018&t=CANCER RESEARCH
+JournalDetail.aspx?y=2018&t=ANNALS OF SURGERY
+JournalDetail.aspx?y=2018&t=JACC-Cardiovascular Interventions
+JournalDetail.aspx?y=2018&t=AUTOIMMUNITY REVIEWS
+JournalDetail.aspx?y=2018&t=MEDICINAL RESEARCH REVIEWS
+JournalDetail.aspx?y=2018&t=Theranostics
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN SOCIETY OF NEPHROLOGY
+JournalDetail.aspx?y=2018&t=CLINICAL INFECTIOUS DISEASES
+JournalDetail.aspx?y=2018&t=THORAX
+JournalDetail.aspx?y=2018&t=GENETICS IN MEDICINE
+JournalDetail.aspx?y=2018&t=BIOCHIMICA ET BIOPHYSICA ACTA-REVIEWS ON CANCER
+JournalDetail.aspx?y=2018&t=SEMINARS IN IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Bone Research
+JournalDetail.aspx?y=2018&t=BMC Medicine
+JournalDetail.aspx?y=2018&t=FRONTIERS IN NEUROENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=Journal for ImmunoTherapy of Cancer
+JournalDetail.aspx?y=2018&t=NEUROSCIENCE AND BIOBEHAVIORAL REVIEWS
+JournalDetail.aspx?y=2018&t=DIABETES
+JournalDetail.aspx?y=2018&t=Annual Review of Nutrition
+JournalDetail.aspx?y=2018&t=CANCER TREATMENT REVIEWS
+JournalDetail.aspx?y=2018&t=NEUROLOGY
+JournalDetail.aspx?y=2018&t=NEURO-ONCOLOGY
+JournalDetail.aspx?y=2018&t=KIDNEY INTERNATIONAL
+JournalDetail.aspx?y=2018&t=Cancer Immunology Research
+JournalDetail.aspx?y=2018&t=CLINICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=EPIDEMIOLOGIC REVIEWS
+JournalDetail.aspx?y=2018&t=AGEING RESEARCH REVIEWS
+JournalDetail.aspx?y=2018&t=JACC-Heart Failure
+JournalDetail.aspx?y=2018&t=MOLECULAR ASPECTS OF MEDICINE
+JournalDetail.aspx?y=2018&t=Obesity Reviews
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=HAEMATOLOGICA
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Particle and Fibre Toxicology
+JournalDetail.aspx?y=2018&t=JOURNAL OF CONTROLLED RELEASE
+JournalDetail.aspx?y=2018&t=JOURNAL OF AUTOIMMUNITY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF HEART FAILURE
+JournalDetail.aspx?y=2018&t=Clinical Gastroenterology and Hepatology
+JournalDetail.aspx?y=2018&t=Lancet Haematology
+JournalDetail.aspx?y=2018&t=EMERGING INFECTIOUS DISEASES
+JournalDetail.aspx?y=2018&t=JOURNAL OF HEART AND LUNG TRANSPLANTATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF INTERNAL MEDICINE
+JournalDetail.aspx?y=2018&t=PSYCHOLOGICAL REVIEW
+JournalDetail.aspx?y=2018&t=OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=ONCOGENE
+JournalDetail.aspx?y=2018&t=SCHIZOPHRENIA BULLETIN
+JournalDetail.aspx?y=2018&t=Arthritis = Rheumatology
+JournalDetail.aspx?y=2018&t=NEUROSCIENTIST
+JournalDetail.aspx?y=2018&t=JAMA Surgery
+JournalDetail.aspx?y=2018&t=Journal of Thoracic Oncology
+JournalDetail.aspx?y=2018&t=Nature Reviews Urology
+JournalDetail.aspx?y=2018&t=RADIOLOGY
+JournalDetail.aspx?y=2018&t=TRENDS IN PARASITOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF KIDNEY DISEASES
+JournalDetail.aspx?y=2018&t=MOVEMENT DISORDERS
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=CEREBRAL CORTEX
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF SPORTS MEDICINE
+JournalDetail.aspx?y=2018&t=Trends in Cancer
+JournalDetail.aspx?y=2018&t=CRITICAL CARE MEDICINE
+JournalDetail.aspx?y=2018&t=CLINICAL PHARMACOLOGY = THERAPEUTICS
+JournalDetail.aspx?y=2018&t=ALIMENTARY PHARMACOLOGY = THERAPEUTICS
+JournalDetail.aspx?y=2018&t=Mucosal Immunology
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROLOGY NEUROSURGERY AND PSYCHIATRY
+JournalDetail.aspx?y=2018&t=Stem Cell Reports
+JournalDetail.aspx?y=2018&t=OncoImmunology
+JournalDetail.aspx?y=2018&t=MOLECULAR THERAPY
+JournalDetail.aspx?y=2018&t=JOURNAL OF PATHOLOGY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF NUCLEAR MEDICINE AND MOLECULAR IMAGING
+JournalDetail.aspx?y=2018&t=CANADIAN MEDICAL ASSOCIATION JOURNAL
+JournalDetail.aspx?y=2018&t=Eurosurveillance
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF CLINICAL NUTRITION
+JournalDetail.aspx?y=2018&t=Nanotoxicology
+JournalDetail.aspx?y=2018&t=HYPERTENSION
+JournalDetail.aspx?y=2018&t=Journal of Hematology = Oncology
+JournalDetail.aspx?y=2018&t=CHEST
+JournalDetail.aspx?y=2018&t=JOURNAL OF NUCLEAR MEDICINE
+JournalDetail.aspx?y=2018&t=GASTROINTESTINAL ENDOSCOPY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY
+JournalDetail.aspx?y=2018&t=Molecular Cancer
+JournalDetail.aspx?y=2018&t=MAYO CLINIC PROCEEDINGS
+JournalDetail.aspx?y=2018&t=ALLERGY
+JournalDetail.aspx?y=2018&t=Molecular Neurodegeneration
+JournalDetail.aspx?y=2018&t=JOURNAL OF INVESTIGATIVE DERMATOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN ACADEMY OF DERMATOLOGY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF CANCER
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF CANCER
+JournalDetail.aspx?y=2018&t=NEUROPSYCHOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHILD PSYCHOLOGY AND PSYCHIATRY
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF PSYCHIATRY
+JournalDetail.aspx?y=2018&t=Translational Stroke Research
+JournalDetail.aspx?y=2018&t=Comprehensive Physiology
+JournalDetail.aspx?y=2018&t=Journal of Crohns = Colitis
+JournalDetail.aspx?y=2018&t=JAMA Dermatology
+JournalDetail.aspx?y=2018&t=DIABETES OBESITY = METABOLISM
+JournalDetail.aspx?y=2018&t=Circulation-Heart Failure
+JournalDetail.aspx?y=2018&t=CANCER LETTERS
+JournalDetail.aspx?y=2018&t=Circulation-Cardiovascular Interventions
+JournalDetail.aspx?y=2018&t=Circulation-Cardiovascular Imaging
+JournalDetail.aspx?y=2018&t=ARTERIOSCLEROSIS THROMBOSIS AND VASCULAR BIOLOGY
+JournalDetail.aspx?y=2018&t=Blood Cancer Journal
+JournalDetail.aspx?y=2018&t=Epilepsy Currents
+JournalDetail.aspx?y=2018&t=BLOOD REVIEWS
+JournalDetail.aspx?y=2018&t=PROGRESS IN CARDIOVASCULAR DISEASES
+JournalDetail.aspx?y=2018&t=SPORTS MEDICINE
+JournalDetail.aspx?y=2018&t=Advances in Immunology
+JournalDetail.aspx?y=2018&t=Cochrane Database of Systematic Reviews
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN NEUROBIOLOGY
+JournalDetail.aspx?y=2018&t=EXERCISE IMMUNOLOGY REVIEW
+JournalDetail.aspx?y=2018&t=DRUG DISCOVERY TODAY
+JournalDetail.aspx?y=2018&t=Cellular = Molecular Immunology
+JournalDetail.aspx?y=2018&t=European Heart Journal-Cardiovascular Imaging
+JournalDetail.aspx?y=2018&t=PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=EBioMedicine
+JournalDetail.aspx?y=2018&t=Molecular Metabolism
+JournalDetail.aspx?y=2018&t=BMJ Quality = Safety
+JournalDetail.aspx?y=2018&t=ENDOSCOPY
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF ANAESTHESIA
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF TRANSPLANTATION
+JournalDetail.aspx?y=2018&t=DIABETOLOGIA
+JournalDetail.aspx?y=2018&t=ARCHIVES OF TOXICOLOGY
+JournalDetail.aspx?y=2018&t=CANCER
+JournalDetail.aspx?y=2018&t=JOURNAL OF BONE AND MINERAL RESEARCH
+JournalDetail.aspx?y=2018&t=BRAIN BEHAVIOR AND IMMUNITY
+JournalDetail.aspx?y=2018&t=Seminars in Immunopathology
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICINAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=BRAIN PATHOLOGY
+JournalDetail.aspx?y=2018&t=STROKE
+JournalDetail.aspx?y=2018&t=GLIA
+JournalDetail.aspx?y=2018&t=Acta Pharmaceutica Sinica B
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN SOCIETY OF ECHOCARDIOGRAPHY
+JournalDetail.aspx?y=2018&t=ACTA PSYCHIATRICA SCANDINAVICA
+JournalDetail.aspx?y=2018&t=Nanomedicine-Nanotechnology Biology and Medicine
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=MODERN PATHOLOGY
+JournalDetail.aspx?y=2018&t=ANESTHESIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF INFECTIOUS DISEASES
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF BIOETHICS
+JournalDetail.aspx?y=2018&t=Journal of the American Medical Directors Association
+JournalDetail.aspx?y=2018&t=Journal of Allergy and Clinical Immunology-In Practice
+JournalDetail.aspx?y=2018&t=JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART B-CRITICAL REVIEWS
+JournalDetail.aspx?y=2018&t=BREAST CANCER RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of the International AIDS Society
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF CANCER
+JournalDetail.aspx?y=2018&t=Frontiers in Immunology
+JournalDetail.aspx?y=2018&t=CARDIOVASCULAR RESEARCH
+JournalDetail.aspx?y=2018&t=Translational Neurodegeneration
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Advances in Cancer Research
+JournalDetail.aspx?y=2018&t=FREE RADICAL BIOLOGY AND MEDICINE
+JournalDetail.aspx?y=2018&t=NEUROPSYCHOLOGY REVIEW
+JournalDetail.aspx?y=2018&t=Advances in Nutrition
+JournalDetail.aspx?y=2018&t=HEART
+JournalDetail.aspx?y=2018&t=Molecular Therapy-Nucleic Acids
+JournalDetail.aspx?y=2018&t=STEM CELLS
+JournalDetail.aspx?y=2018&t=BASIC RESEARCH IN CARDIOLOGY
+JournalDetail.aspx?y=2018&t=EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=World Allergy Organization Journal
+JournalDetail.aspx?y=2018&t=CLINICAL REVIEWS IN ALLERGY = IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Brain Stimulation
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF SURGERY
+JournalDetail.aspx?y=2018&t=THYROID
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICAL GENETICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF CARDIOVASCULAR MAGNETIC RESONANCE
+JournalDetail.aspx?y=2018&t=ADDICTION
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL ENDOCRINOLOGY = METABOLISM
+JournalDetail.aspx?y=2018&t=Journal of Clinical Medicine
+JournalDetail.aspx?y=2018&t=CRITICAL CARE
+JournalDetail.aspx?y=2018&t=NEUROIMAGE
+JournalDetail.aspx?y=2018&t=MOLECULAR CANCER THERAPEUTICS
+JournalDetail.aspx?y=2018&t=NUTRITION REVIEWS
+JournalDetail.aspx?y=2018&t=MOLECULAR NEUROBIOLOGY
+JournalDetail.aspx?y=2018&t=Expert Opinion on Drug Delivery
+JournalDetail.aspx?y=2018&t=JAMA Ophthalmology
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF HAEMATOLOGY
+JournalDetail.aspx?y=2018&t=BULLETIN OF THE WORLD HEALTH ORGANIZATION
+JournalDetail.aspx?y=2018&t=PAIN
+JournalDetail.aspx?y=2018&t=RESUSCITATION
+JournalDetail.aspx?y=2018&t=Therapeutic Advances in Medical Oncology
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=PEDIATRICS
+JournalDetail.aspx?y=2018&t=Alzheimers Research = Therapy
+JournalDetail.aspx?y=2018&t=JOURNALS OF GERONTOLOGY SERIES A-BIOLOGICAL SCIENCES AND MEDICAL SCIENCES
+JournalDetail.aspx?y=2018&t=INVESTIGATIVE RADIOLOGY
+JournalDetail.aspx?y=2018&t=Clinical Epidemiology
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF MEDICINE
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF SPORTS MEDICINE
+JournalDetail.aspx?y=2018&t=Acta Neuropathologica Communications
+JournalDetail.aspx?y=2018&t=PSYCHOLOGICAL MEDICINE
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF SURGICAL PATHOLOGY
+JournalDetail.aspx?y=2018&t=METABOLISM-CLINICAL AND EXPERIMENTAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF PSYCHIATRY = NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=CANCER AND METASTASIS REVIEWS
+JournalDetail.aspx?y=2018&t=JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM
+JournalDetail.aspx?y=2018&t=Current Opinion in Virology
+JournalDetail.aspx?y=2018&t=CLINICAL AND EXPERIMENTAL ALLERGY
+JournalDetail.aspx?y=2018&t=CRITICAL REVIEWS IN CLINICAL LABORATORY SCIENCES
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF OBESITY
+JournalDetail.aspx?y=2018&t=Cancers
+JournalDetail.aspx?y=2018&t=Kidney International Supplements
+JournalDetail.aspx?y=2018&t=Molecular Oncology
+JournalDetail.aspx?y=2018&t=TOBACCO CONTROL
+JournalDetail.aspx?y=2018&t=CRITICAL REVIEWS IN TOXICOLOGY
+JournalDetail.aspx?y=2018&t=NEUROPATHOLOGY AND APPLIED NEUROBIOLOGY
+JournalDetail.aspx?y=2018&t=OBSTETRICS AND GYNECOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR AND CELLULAR CARDIOLOGY
+JournalDetail.aspx?y=2018&t=THROMBOSIS AND HAEMOSTASIS
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL AND MOLECULAR MEDICINE
+JournalDetail.aspx?y=2018&t=JOURNAL OF EXPERIMENTAL = CLINICAL CANCER RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+JournalDetail.aspx?y=2018&t=Molecular Autism
+JournalDetail.aspx?y=2018&t=Emerging Microbes = Infections
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF OBSTETRICS AND GYNECOLOGY
+JournalDetail.aspx?y=2018&t=Advances in Wound Care
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF HEMATOLOGY
+JournalDetail.aspx?y=2018&t=Neurotherapeutics
+JournalDetail.aspx?y=2018&t=Pigment Cell = Melanoma Research
+JournalDetail.aspx?y=2018&t=Journal of the National Comprehensive Cancer Network
+JournalDetail.aspx?y=2018&t=Clinical Epigenetics
+JournalDetail.aspx?y=2018&t=ANNALS OF EMERGENCY MEDICINE
+JournalDetail.aspx?y=2018&t=SEMINARS IN LIVER DISEASE
+JournalDetail.aspx?y=2018&t=Clinical Journal of the American Society of Nephrology
+JournalDetail.aspx?y=2018&t=MILBANK QUARTERLY
+JournalDetail.aspx?y=2018&t=CLINICAL MICROBIOLOGY AND INFECTION
+JournalDetail.aspx?y=2018&t=PERIODONTOLOGY 2000
+JournalDetail.aspx?y=2018&t=JOURNAL OF UROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ANTIMICROBIAL CHEMOTHERAPY
+JournalDetail.aspx?y=2018&t=Wiley Interdisciplinary Reviews-Nanomedicine and Nanobiotechnology
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+JournalDetail.aspx?y=2018&t=CLINICAL SCIENCE
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF DERMATOLOGY
+JournalDetail.aspx?y=2018&t=CLINICAL NUCLEAR MEDICINE
+JournalDetail.aspx?y=2018&t=Journal of Stroke
+JournalDetail.aspx?y=2018&t=SEMINARS IN ONCOLOGY
+JournalDetail.aspx?y=2018&t=NEUROBIOLOGY OF DISEASE
+JournalDetail.aspx?y=2018&t=ENDOCRINE-RELATED CANCER
+JournalDetail.aspx?y=2018&t=EPILEPSIA
+JournalDetail.aspx?y=2018&t=ONCOLOGIST
+JournalDetail.aspx?y=2018&t=HEALTH AFFAIRS
+JournalDetail.aspx?y=2018&t=CARCINOGENESIS
+JournalDetail.aspx?y=2018&t=HUMAN MUTATION
+JournalDetail.aspx?y=2018&t=DEPRESSION AND ANXIETY
+JournalDetail.aspx?y=2018&t=Journal of Neuroinflammation
+JournalDetail.aspx?y=2018&t=Translational Psychiatry
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL PSYCHIATRY
+JournalDetail.aspx?y=2018&t=Gastric Cancer
+JournalDetail.aspx?y=2018&t=REVIEWS IN ENDOCRINE = METABOLIC DISORDERS
+JournalDetail.aspx?y=2018&t=Acta Physiologica
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF CARDIOLOGY
+JournalDetail.aspx?y=2018&t=SLEEP
+JournalDetail.aspx?y=2018&t=Advances in Virus Research
+JournalDetail.aspx?y=2018&t=Multiple Sclerosis Journal
+JournalDetail.aspx?y=2018&t=REVIEWS IN MEDICAL VIROLOGY
+JournalDetail.aspx?y=2018&t=ALTEX-Alternatives to Animal Experimentation
+JournalDetail.aspx?y=2018&t=JOURNAL OF DENTAL RESEARCH
+JournalDetail.aspx?y=2018&t=Brain Structure = Function
+JournalDetail.aspx?y=2018&t=OSTEOARTHRITIS AND CARTILAGE
+JournalDetail.aspx?y=2018&t=NEUROBIOLOGY OF AGING
+JournalDetail.aspx?y=2018&t=Therapeutic Advances in Chronic Disease
+JournalDetail.aspx?y=2018&t=HUMAN REPRODUCTION
+JournalDetail.aspx?y=2018&t=Nanomedicine
+JournalDetail.aspx?y=2018&t=ULTRASOUND IN OBSTETRICS = GYNECOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR DIAGNOSTICS
+JournalDetail.aspx?y=2018&t=RHEUMATOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF BONE AND JOINT SURGERY-AMERICAN VOLUME
+JournalDetail.aspx?y=2018&t=DRUGS
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROTRAUMA
+JournalDetail.aspx?y=2018&t=Circulation-Arrhythmia and Electrophysiology
+JournalDetail.aspx?y=2018&t=ANNALS OF FAMILY MEDICINE
+JournalDetail.aspx?y=2018&t=CLINICAL NUTRITION
+JournalDetail.aspx?y=2018&t=Cardiovascular Diabetology
+JournalDetail.aspx?y=2018&t=CLINICAL PHARMACOKINETICS
+JournalDetail.aspx?y=2018&t=NEOPLASIA
+JournalDetail.aspx?y=2018&t=CRITICAL REVIEWS IN ONCOLOGY HEMATOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR MEDICINE-JMM
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE NUTRITION SOCIETY
+JournalDetail.aspx?y=2018&t=JOURNAL OF GASTROENTEROLOGY
+JournalDetail.aspx?y=2018&t=CRITICAL REVIEWS IN THERAPEUTIC DRUG CARRIER SYSTEMS
+JournalDetail.aspx?y=2018&t=HUMAN BRAIN MAPPING
+JournalDetail.aspx?y=2018&t=Ocular Surface
+JournalDetail.aspx?y=2018&t=JOURNAL OF IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICAL INTERNET RESEARCH
+JournalDetail.aspx?y=2018&t=AIDS
+JournalDetail.aspx?y=2018&t=DRUG DELIVERY
+JournalDetail.aspx?y=2018&t=CONTACT DERMATITIS
+JournalDetail.aspx?y=2018&t=Journal of Clinical Lipidology
+JournalDetail.aspx?y=2018&t=EXPERT OPINION ON THERAPEUTIC TARGETS
+JournalDetail.aspx?y=2018&t=ACADEMIC MEDICINE
+JournalDetail.aspx?y=2018&t=REVISTA ESPANOLA DE CARDIOLOGIA
+JournalDetail.aspx?y=2018&t=PSYCHONEUROENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=Circulation-Cardiovascular Genetics
+JournalDetail.aspx?y=2018&t=NEUROPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=PHARMACOLOGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=Frontiers in Molecular Neuroscience
+JournalDetail.aspx?y=2018&t=MEDICAL IMAGE ANALYSIS
+JournalDetail.aspx?y=2018&t=Translational Research
+JournalDetail.aspx?y=2018&t=RADIOTHERAPY AND ONCOLOGY
+JournalDetail.aspx?y=2018&t=MOLECULAR CANCER RESEARCH
+JournalDetail.aspx?y=2018&t=BJOG-AN INTERNATIONAL JOURNAL OF OBSTETRICS AND GYNAECOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHYSIOLOGY-LONDON
+JournalDetail.aspx?y=2018&t=Journal of the American Heart Association
+JournalDetail.aspx?y=2018&t=EXPERT REVIEWS IN MOLECULAR MEDICINE
+JournalDetail.aspx?y=2018&t=ANAESTHESIA
+JournalDetail.aspx?y=2018&t=HEART RHYTHM
+JournalDetail.aspx?y=2018&t=BEST PRACTICE = RESEARCH CLINICAL ENDOCRINOLOGY = METABOLISM
+JournalDetail.aspx?y=2018&t=EXERCISE AND SPORT SCIENCES REVIEWS
+JournalDetail.aspx?y=2018&t=International Journal of Behavioral Nutrition and Physical Activity
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=BIOCHEMICAL PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=ANGIOGENESIS
+JournalDetail.aspx?y=2018&t=BIPOLAR DISORDERS
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF MEDICAL GENETICS PART C-SEMINARS IN MEDICAL GENETICS
+JournalDetail.aspx?y=2018&t=Oncogenesis
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL NEUROLOGY
+JournalDetail.aspx?y=2018&t=Circulation-Cardiovascular Quality and Outcomes
+JournalDetail.aspx?y=2018&t=JOURNAL OF PAIN
+JournalDetail.aspx?y=2018&t=IEEE TRANSACTIONS ON MEDICAL IMAGING
+JournalDetail.aspx?y=2018&t=Cancer Biology = Medicine
+JournalDetail.aspx?y=2018&t=CANCER IMMUNOLOGY IMMUNOTHERAPY
+JournalDetail.aspx?y=2018&t=EUROPACE
+JournalDetail.aspx?y=2018&t=JMIR mHealth and uHealth
+JournalDetail.aspx?y=2018&t=JOURNAL OF CELLULAR AND MOLECULAR MEDICINE
+JournalDetail.aspx?y=2018&t=TRANSFUSION MEDICINE REVIEWS
+JournalDetail.aspx?y=2018&t=ORAL ONCOLOGY
+JournalDetail.aspx?y=2018&t=GYNECOLOGIC ONCOLOGY
+JournalDetail.aspx?y=2018&t=Asian Journal of Pharmaceutical Sciences
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=Stem Cell Research = Therapy
+JournalDetail.aspx?y=2018&t=FERTILITY AND STERILITY
+JournalDetail.aspx?y=2018&t=JOURNAL OF VIROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF NUTRITIONAL BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=Journal of Oncology
+JournalDetail.aspx?y=2018&t=Current Topics in Microbiology and Immunology
+JournalDetail.aspx?y=2018&t=VALUE IN HEALTH
+JournalDetail.aspx?y=2018&t=CEPHALALGIA
+JournalDetail.aspx?y=2018&t=Clinical Research in Cardiology
+JournalDetail.aspx?y=2018&t=Journal of Biomedical Nanotechnology
+JournalDetail.aspx?y=2018&t=BJU INTERNATIONAL
+JournalDetail.aspx?y=2018&t=CNS DRUGS
+JournalDetail.aspx?y=2018&t=CORTEX
+JournalDetail.aspx?y=2018&t=ANTIVIRAL RESEARCH
+JournalDetail.aspx?y=2018&t=NUTRITION RESEARCH REVIEWS
+JournalDetail.aspx?y=2018&t=EuroIntervention
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF HYGIENE AND ENVIRONMENTAL HEALTH
+JournalDetail.aspx?y=2018&t=Frontiers in Cellular Neuroscience
+JournalDetail.aspx?y=2018&t=Disease Models = Mechanisms
+JournalDetail.aspx?y=2018&t=Aging and Disease
+JournalDetail.aspx?y=2018&t=MOLECULAR PHARMACEUTICS
+JournalDetail.aspx?y=2018&t=Reviews of Physiology Biochemistry and Pharmacology
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN COLLEGE OF SURGEONS
+JournalDetail.aspx?y=2018&t=LABORATORY INVESTIGATION
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN LIPIDOLOGY
+JournalDetail.aspx?y=2018&t=Frontiers in Oncology
+JournalDetail.aspx?y=2018&t=JOURNAL OF HYPERTENSION
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF MEDICINAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=INFLAMMATORY BOWEL DISEASES
+JournalDetail.aspx?y=2018&t=JOURNAL OF ENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF INFECTION
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN NEUROLOGY
+JournalDetail.aspx?y=2018&t=Stem Cells Translational Medicine
+JournalDetail.aspx?y=2018&t=BIOLOGY OF BLOOD AND MARROW TRANSPLANTATION
+JournalDetail.aspx?y=2018&t=NEPHROLOGY DIALYSIS TRANSPLANTATION
+JournalDetail.aspx?y=2018&t=NEUROSURGERY
+JournalDetail.aspx?y=2018&t=World Journal of Stem Cells
+JournalDetail.aspx?y=2018&t=Developmental Cognitive Neuroscience
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PHYSIOLOGY-LUNG CELLULAR AND MOLECULAR PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=LIVER INTERNATIONAL
+JournalDetail.aspx?y=2018&t=DRUG METABOLISM REVIEWS
+JournalDetail.aspx?y=2018&t=Advances in Parasitology
+JournalDetail.aspx?y=2018&t=INFECTIOUS DISEASE CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=Frontiers in Cellular and Infection Microbiology
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF NEUROPSYCHOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=PARKINSONISM = RELATED DISORDERS
+JournalDetail.aspx?y=2018&t=International Journal of Nanomedicine
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN RHEUMATOLOGY
+JournalDetail.aspx?y=2018&t=ANTIMICROBIAL AGENTS AND CHEMOTHERAPY
+JournalDetail.aspx?y=2018&t=SEMINARS IN RADIATION ONCOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN HEART JOURNAL
+JournalDetail.aspx?y=2018&t=NEUROREHABILITATION AND NEURAL REPAIR
+JournalDetail.aspx?y=2018&t=Current Opinion in HIV and AIDS
+JournalDetail.aspx?y=2018&t=Annual Review of Virology
+JournalDetail.aspx?y=2018&t=Annals of Clinical and Translational Neurology
+JournalDetail.aspx?y=2018&t=IMMUNOLOGY AND CELL BIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THORACIC AND CARDIOVASCULAR SURGERY
+JournalDetail.aspx?y=2018&t=Cold Spring Harbor Perspectives in Medicine
+JournalDetail.aspx?y=2018&t=HEALTH TECHNOLOGY ASSESSMENT
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PREVENTIVE MEDICINE
+JournalDetail.aspx?y=2018&t=SEMINARS IN ARTHRITIS AND RHEUMATISM
+JournalDetail.aspx?y=2018&t=EUROPEAN NEUROPSYCHOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Epidemiology and Psychiatric Sciences
+JournalDetail.aspx?y=2018&t=MOLECULAR CARCINOGENESIS
+JournalDetail.aspx?y=2018&t=PROGRESS IN NEURO-PSYCHOPHARMACOLOGY = BIOLOGICAL PSYCHIATRY
+JournalDetail.aspx?y=2018&t=ULTRASCHALL IN DER MEDIZIN
+JournalDetail.aspx?y=2018&t=NICOTINE = TOBACCO RESEARCH
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF ANTIMICROBIAL AGENTS
+JournalDetail.aspx?y=2018&t=AUSTRALIAN AND NEW ZEALAND JOURNAL OF PSYCHIATRY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Frontiers in Pharmacology
+JournalDetail.aspx?y=2018&t=JOURNAL OF PSYCHIATRIC RESEARCH
+JournalDetail.aspx?y=2018&t=ATHEROSCLEROSIS
+JournalDetail.aspx?y=2018&t=TRENDS IN CARDIOVASCULAR MEDICINE
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF PHARMACEUTICS AND BIOPHARMACEUTICS
+JournalDetail.aspx?y=2018&t=Journal of Physiotherapy
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN CLINICAL NUTRITION AND METABOLIC CARE
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF NEUROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF PSYCHOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=LUNG CANCER
+JournalDetail.aspx?y=2018&t=JOURNAL OF VIRAL HEPATITIS
+JournalDetail.aspx?y=2018&t=Social Cognitive and Affective Neuroscience
+JournalDetail.aspx?y=2018&t=DIABETES = METABOLISM
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROCHEMISTRY
+JournalDetail.aspx?y=2018&t=AGE AND AGEING
+JournalDetail.aspx?y=2018&t=HUMAN GENE THERAPY
+JournalDetail.aspx?y=2018&t=MEDICINE AND SCIENCE IN SPORTS AND EXERCISE
+JournalDetail.aspx?y=2018&t=XENOTRANSPLANTATION
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN INFECTIOUS DISEASES
+JournalDetail.aspx?y=2018&t=ACS Chemical Neuroscience
+JournalDetail.aspx?y=2018&t=Journal of Cystic Fibrosis
+JournalDetail.aspx?y=2018&t=Frontiers in Aging Neuroscience
+JournalDetail.aspx?y=2018&t=JOURNAL OF LEUKOCYTE BIOLOGY
+JournalDetail.aspx?y=2018&t=SEMINARS IN HEMATOLOGY
+JournalDetail.aspx?y=2018&t=ENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=SCHIZOPHRENIA RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF GENERAL PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN GERIATRICS SOCIETY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PUBLIC HEALTH
+JournalDetail.aspx?y=2018&t=ARTHRITIS RESEARCH = THERAPY
+JournalDetail.aspx?y=2018&t=ARTHROSCOPY-THE JOURNAL OF ARTHROSCOPIC AND RELATED SURGERY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PATHOLOGY
+JournalDetail.aspx?y=2018&t=BONE
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF ENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=EXPERT OPINION ON INVESTIGATIONAL DRUGS
+JournalDetail.aspx?y=2018&t=CANCER EPIDEMIOLOGY BIOMARKERS = PREVENTION
+JournalDetail.aspx?y=2018&t=JOURNAL OF NUTRITION
+JournalDetail.aspx?y=2018&t=CANCER SCIENCE
+JournalDetail.aspx?y=2018&t=PLoS Neglected Tropical Diseases
+JournalDetail.aspx?y=2018&t=TOXICOLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Current HIV/AIDS Reports
+JournalDetail.aspx?y=2018&t=CELLULAR ONCOLOGY
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN PSYCHIATRY
+JournalDetail.aspx?y=2018&t=NeuroImage-Clinical
+JournalDetail.aspx?y=2018&t=Expert Opinion on Drug Discovery
+JournalDetail.aspx?y=2018&t=Expert Review of Vaccines
+JournalDetail.aspx?y=2018&t=Journal of Innate Immunity
+JournalDetail.aspx?y=2018&t=DENTAL MATERIALS
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF CARDIOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Ginseng Research
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF NUTRITION
+JournalDetail.aspx?y=2018&t=Archives of Disease in Childhood-Fetal and Neonatal Edition
+JournalDetail.aspx?y=2018&t=Annals of the American Thoracic Society
+JournalDetail.aspx?y=2018&t=Clinical and Translational Gastroenterology
+JournalDetail.aspx?y=2018&t=BONE MARROW TRANSPLANTATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF PARENTERAL AND ENTERAL NUTRITION
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PHYSIOLOGY-ENDOCRINOLOGY AND METABOLISM
+JournalDetail.aspx?y=2018&t=HIPPOCAMPUS
+JournalDetail.aspx?y=2018&t=Journal of Breath Research
+JournalDetail.aspx?y=2018&t=INTERNATIONAL IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Annals of Intensive Care
+JournalDetail.aspx?y=2018&t=Surgery for Obesity and Related Diseases
+JournalDetail.aspx?y=2018&t=Therapeutic Advances in Endocrinology and Metabolism
+JournalDetail.aspx?y=2018&t=JOURNAL OF ADOLESCENT HEALTH
+JournalDetail.aspx?y=2018&t=Cancer Prevention Research
+JournalDetail.aspx?y=2018&t=ACS Infectious Diseases
+JournalDetail.aspx?y=2018&t=Deutsches Arzteblatt International
+JournalDetail.aspx?y=2018&t=PEDIATRIC ALLERGY AND IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES
+JournalDetail.aspx?y=2018&t=MOLECULAR PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROSURGERY
+JournalDetail.aspx?y=2018&t=MAGNETIC RESONANCE IN MEDICINE
+JournalDetail.aspx?y=2018&t=MEDICAL EDUCATION
+JournalDetail.aspx?y=2018&t=EPMA Journal
+JournalDetail.aspx?y=2018&t=Therapeutic Advances in Gastroenterology
+JournalDetail.aspx?y=2018&t=PALLIATIVE MEDICINE
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN ONCOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Translational Medicine
+JournalDetail.aspx?y=2018&t=EUROPEAN RADIOLOGY
+JournalDetail.aspx?y=2018&t=PROSTATE CANCER AND PROSTATIC DISEASES
+JournalDetail.aspx?y=2018&t=OCCUPATIONAL AND ENVIRONMENTAL MEDICINE
+JournalDetail.aspx?y=2018&t=LIVER TRANSPLANTATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF INHERITED METABOLIC DISEASE
+JournalDetail.aspx?y=2018&t=Journal of Oral Microbiology
+JournalDetail.aspx?y=2018&t=International Journal for Parasitology-Drugs and Drug Resistance
+JournalDetail.aspx?y=2018&t=Therapeutic Advances in Neurological Disorders
+JournalDetail.aspx?y=2018&t=CLINICAL IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Frontiers in Physiology
+JournalDetail.aspx?y=2018&t=ANNALS OF SURGICAL ONCOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF SCIENCE AND MEDICINE IN SPORT
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF EATING DISORDERS
+JournalDetail.aspx?y=2018&t=WORLD JOURNAL OF BIOLOGICAL PSYCHIATRY
+JournalDetail.aspx?y=2018&t=Obesity
+JournalDetail.aspx?y=2018&t=European Journal of Preventive Cardiology
+JournalDetail.aspx?y=2018&t=Nutrients
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF PHARMACEUTICS
+JournalDetail.aspx?y=2018&t=Forensic Toxicology
+JournalDetail.aspx?y=2018&t=Annual Review of Vision Science
+JournalDetail.aspx?y=2018&t=HELICOBACTER
+JournalDetail.aspx?y=2018&t=Dialogues in Clinical Neuroscience
+JournalDetail.aspx?y=2018&t=Clinical Colorectal Cancer
+JournalDetail.aspx?y=2018&t=JOURNAL OF IMMUNOTHERAPY
+JournalDetail.aspx?y=2018&t=JOURNAL OF EPIDEMIOLOGY AND COMMUNITY HEALTH
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL PERIODONTOLOGY
+JournalDetail.aspx?y=2018&t=CNS Neuroscience = Therapeutics
+JournalDetail.aspx?y=2018&t=JOURNAL OF PEDIATRICS
+JournalDetail.aspx?y=2018&t=Experimental Neurobiology
+JournalDetail.aspx?y=2018&t=PHARMACOGENOMICS JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
+JournalDetail.aspx?y=2018&t=CLINICAL ORAL IMPLANTS RESEARCH
+JournalDetail.aspx?y=2018&t=Brain Imaging and Behavior
+JournalDetail.aspx?y=2018&t=COGNITIVE PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ENZYME INHIBITION AND MEDICINAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=REGIONAL ANESTHESIA AND PAIN MEDICINE
+JournalDetail.aspx?y=2018&t=RESPIRATORY RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHARMACOLOGY AND EXPERIMENTAL THERAPEUTICS
+JournalDetail.aspx?y=2018&t=Cancer Management and Research
+JournalDetail.aspx?y=2018&t=TRANSPLANTATION
+JournalDetail.aspx?y=2018&t=BREAST CANCER RESEARCH AND TREATMENT
+JournalDetail.aspx?y=2018&t=PSYCHOSOMATIC MEDICINE
+JournalDetail.aspx?y=2018&t=ANESTHESIA AND ANALGESIA
+JournalDetail.aspx?y=2018&t=EUROPEAN ARCHIVES OF PSYCHIATRY AND CLINICAL NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=Best Practice = Research Clinical Gastroenterology
+JournalDetail.aspx?y=2018&t=Retrovirology
+JournalDetail.aspx?y=2018&t=MEDICAL JOURNAL OF AUSTRALIA
+JournalDetail.aspx?y=2018&t=Advances in Clinical Chemistry
+JournalDetail.aspx?y=2018&t=TOXICOLOGY AND APPLIED PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Cancer Research and Treatment
+JournalDetail.aspx?y=2018&t=Pharmaceutics
+JournalDetail.aspx?y=2018&t=CANCER JOURNAL
+JournalDetail.aspx?y=2018&t=Marine Drugs
+JournalDetail.aspx?y=2018&t=Stem Cells International
+JournalDetail.aspx?y=2018&t=NEUROENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF GENERAL INTERNAL MEDICINE
+JournalDetail.aspx?y=2018&t=HEART FAILURE REVIEWS
+JournalDetail.aspx?y=2018&t=Current Neuropharmacology
+JournalDetail.aspx?y=2018&t=OBESITY SURGERY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF ANAESTHESIOLOGY
+JournalDetail.aspx?y=2018&t=MOLECULAR AND CELLULAR ENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=EUROPEAN PSYCHIATRY
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF CLINICAL PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF DERMATOLOGICAL SCIENCE
+JournalDetail.aspx?y=2018&t=IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=HORMONES AND BEHAVIOR
+JournalDetail.aspx?y=2018&t=Diabetes = Metabolism Journal
+JournalDetail.aspx?y=2018&t=JOURNAL OF ALZHEIMERS DISEASE
+JournalDetail.aspx?y=2018&t=CLINICAL ORTHOPAEDICS AND RELATED RESEARCH
+JournalDetail.aspx?y=2018&t=Clinics in Liver Disease
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEMORY AND LANGUAGE
+JournalDetail.aspx?y=2018&t=MOLECULAR ENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=EXPERT OPINION ON BIOLOGICAL THERAPY
+JournalDetail.aspx?y=2018&t=DRUG METABOLISM AND DISPOSITION
+JournalDetail.aspx?y=2018&t=Pediatric Obesity
+JournalDetail.aspx?y=2018&t=Skeletal Muscle
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL FOR PARASITOLOGY
+JournalDetail.aspx?y=2018&t=AAPS Journal
+JournalDetail.aspx?y=2018&t=SEMINARS IN NUCLEAR MEDICINE
+JournalDetail.aspx?y=2018&t=Journal of the Academy of Nutrition and Dietetics
+JournalDetail.aspx?y=2018&t=GENES CHROMOSOMES = CANCER
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF PHARMACEUTICAL SCIENCES
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF NURSING STUDIES
+JournalDetail.aspx?y=2018&t=JOURNAL OF CARDIAC FAILURE
+JournalDetail.aspx?y=2018&t=Journal of Neuropsychology
+JournalDetail.aspx?y=2018&t=PROSTATE
+JournalDetail.aspx?y=2018&t=CLINICAL TOXICOLOGY
+JournalDetail.aspx?y=2018&t=PEDIATRIC DIABETES
+JournalDetail.aspx?y=2018&t=CLINICAL NEUROPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=Implementation Science
+JournalDetail.aspx?y=2018&t=Journal of Neuroimmune Pharmacology
+JournalDetail.aspx?y=2018&t=ACS Medicinal Chemistry Letters
+JournalDetail.aspx?y=2018&t=OSTEOPOROSIS INTERNATIONAL
+JournalDetail.aspx?y=2018&t=GERONTOLOGY
+JournalDetail.aspx?y=2018&t=DISEASES OF THE COLON = RECTUM
+JournalDetail.aspx?y=2018&t=STATISTICAL METHODS IN MEDICAL RESEARCH
+JournalDetail.aspx?y=2018&t=Future Medicinal Chemistry
+JournalDetail.aspx?y=2018&t=JOURNAL OF NUCLEAR CARDIOLOGY
+JournalDetail.aspx?y=2018&t=CANCER CYTOPATHOLOGY
+JournalDetail.aspx?y=2018&t=Metabolomics
+JournalDetail.aspx?y=2018&t=AIDS PATIENT CARE AND STDS
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF VASCULAR AND ENDOVASCULAR SURGERY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE EUROPEAN ACADEMY OF DERMATOLOGY AND VENEREOLOGY
+JournalDetail.aspx?y=2018&t=Frontiers in Neuroscience
+JournalDetail.aspx?y=2018&t=Infection and Drug Resistance
+JournalDetail.aspx?y=2018&t=CYTOTHERAPY
+JournalDetail.aspx?y=2018&t=Frontiers in Endocrinology
+JournalDetail.aspx?y=2018&t=JOURNAL OF AFFECTIVE DISORDERS
+JournalDetail.aspx?y=2018&t=SURGERY
+JournalDetail.aspx?y=2018&t=NEUROGASTROENTEROLOGY AND MOTILITY
+JournalDetail.aspx?y=2018&t=RETINA-THE JOURNAL OF RETINAL AND VITREOUS DISEASES
+JournalDetail.aspx?y=2018&t=Chinese Journal of Cancer
+JournalDetail.aspx?y=2018&t=RESPIROLOGY
+JournalDetail.aspx?y=2018&t=CLINICAL GENETICS
+JournalDetail.aspx?y=2018&t=ARTHRITIS CARE = RESEARCH
+JournalDetail.aspx?y=2018&t=American Journal of Cancer Research
+JournalDetail.aspx?y=2018&t=CNS SPECTRUMS
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF NUTRITION
+JournalDetail.aspx?y=2018&t=Clinical Lung Cancer
+JournalDetail.aspx?y=2018&t=TOXICOLOGY
+JournalDetail.aspx?y=2018&t=International Journal of Oral Science
+JournalDetail.aspx?y=2018&t=SCANDINAVIAN JOURNAL OF WORK ENVIRONMENT = HEALTH
+JournalDetail.aspx?y=2018&t=Artificial Cells Nanomedicine and Biotechnology
+JournalDetail.aspx?y=2018&t=STEM CELLS AND DEVELOPMENT
+JournalDetail.aspx?y=2018&t=Molecular Brain
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF MEDICAL MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=Autism Research
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=CIRCULATION JOURNAL
+JournalDetail.aspx?y=2018&t=Journal of Global Health
+JournalDetail.aspx?y=2018&t=PLASTIC AND RECONSTRUCTIVE SURGERY
+JournalDetail.aspx?y=2018&t=TOXICOLOGY LETTERS
+JournalDetail.aspx?y=2018&t=Targeted Oncology
+JournalDetail.aspx?y=2018&t=GENES BRAIN AND BEHAVIOR
+JournalDetail.aspx?y=2018&t=ANNALS OF THORACIC SURGERY
+JournalDetail.aspx?y=2018&t=ANNALS OF MEDICINE
+JournalDetail.aspx?y=2018&t=JOURNAL OF HEADACHE AND PAIN
+JournalDetail.aspx?y=2018&t=SEMINARS IN THROMBOSIS AND HEMOSTASIS
+JournalDetail.aspx?y=2018&t=ANNALS OF ALLERGY ASTHMA = IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=INFECTION AND IMMUNITY
+JournalDetail.aspx?y=2018&t=CLINICS IN CHEST MEDICINE
+JournalDetail.aspx?y=2018&t=Journal of Attention Disorders
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROPATHOLOGY AND EXPERIMENTAL NEUROLOGY
+JournalDetail.aspx?y=2018&t=ACTA DERMATO-VENEREOLOGICA
+JournalDetail.aspx?y=2018&t=Biology of Sex Differences
+JournalDetail.aspx?y=2018&t=SURGICAL ENDOSCOPY AND OTHER INTERVENTIONAL TECHNIQUES
+JournalDetail.aspx?y=2018&t=NUTRITION METABOLISM AND CARDIOVASCULAR DISEASES
+JournalDetail.aspx?y=2018&t=Orphanet Journal of Rare Diseases
+JournalDetail.aspx?y=2018&t=ACTA ONCOLOGICA
+JournalDetail.aspx?y=2018&t=Hepatobiliary Surgery and Nutrition
+JournalDetail.aspx?y=2018&t=Proteomics Clinical Applications
+JournalDetail.aspx?y=2018&t=JOURNAL OF DENTISTRY
+JournalDetail.aspx?y=2018&t=ONCOLOGY-NEW YORK
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF NEURORADIOLOGY
+JournalDetail.aspx?y=2018&t=MOLECULAR MEDICINE
+JournalDetail.aspx?y=2018&t=Neurophotonics
+JournalDetail.aspx?y=2018&t=INFECTION CONTROL AND HOSPITAL EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=Annals of Physical and Rehabilitation Medicine
+JournalDetail.aspx?y=2018&t=DRUG SAFETY
+JournalDetail.aspx?y=2018&t=JOURNAL OF VASCULAR SURGERY
+JournalDetail.aspx?y=2018&t=Viruses-Basel
+JournalDetail.aspx?y=2018&t=INVESTIGATIONAL NEW DRUGS
+JournalDetail.aspx?y=2018&t=Clinical Proteomics
+JournalDetail.aspx?y=2018&t=JOURNAL OF GASTROENTEROLOGY AND HEPATOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Behavioral Addictions
+JournalDetail.aspx?y=2018&t=NEUROCHEMISTRY INTERNATIONAL
+JournalDetail.aspx?y=2018&t=HEALTH PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=Frontiers in Neurology
+JournalDetail.aspx?y=2018&t=Journal of Cancer Survivorship
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PHYSIOLOGY-HEART AND CIRCULATORY PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL CELL RESEARCH
+JournalDetail.aspx?y=2018&t=DIABETES-METABOLISM RESEARCH AND REVIEWS
+JournalDetail.aspx?y=2018&t=CANCER GENE THERAPY
+JournalDetail.aspx?y=2018&t=HYPERTENSION RESEARCH
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=NEUROBIOLOGY OF LEARNING AND MEMORY
+JournalDetail.aspx?y=2018&t=International Journal of Stroke
+JournalDetail.aspx?y=2018&t=EXPERT OPINION ON PHARMACOTHERAPY
+JournalDetail.aspx?y=2018&t=SEMINARS IN NEPHROLOGY
+JournalDetail.aspx?y=2018&t=Current Diabetes Reports
+JournalDetail.aspx?y=2018&t=INTERNATIONAL REVIEWS OF IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=EXPERT OPINION ON THERAPEUTIC PATENTS
+JournalDetail.aspx?y=2018&t=Current Psychiatry Reports
+JournalDetail.aspx?y=2018&t=SURVEY OF OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=Therapeutic Advances in Musculoskeletal Disease
+JournalDetail.aspx?y=2018&t=Current Osteoporosis Reports
+JournalDetail.aspx?y=2018&t=CURRENT ALLERGY AND ASTHMA REPORTS
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN GASTROENTEROLOGY
+JournalDetail.aspx?y=2018&t=HISTOPATHOLOGY
+JournalDetail.aspx?y=2018&t=Human Genomics
+JournalDetail.aspx?y=2018&t=PHARMACOECONOMICS
+JournalDetail.aspx?y=2018&t=MEDIATORS OF INFLAMMATION
+JournalDetail.aspx?y=2018&t=Clinical Implant Dentistry and Related Research
+JournalDetail.aspx?y=2018&t=EUROPEAN CHILD = ADOLESCENT PSYCHIATRY
+JournalDetail.aspx?y=2018&t=BIOGERONTOLOGY
+JournalDetail.aspx?y=2018&t=CURRENT MEDICINAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=Clinical and Translational Allergy
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PHYSIOLOGY-RENAL PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=Biomedical Optics Express
+JournalDetail.aspx?y=2018&t=EJSO
+JournalDetail.aspx?y=2018&t=JOURNAL OF COGNITIVE NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=SLEEP MEDICINE
+JournalDetail.aspx?y=2018&t=INVESTIGATIVE OPHTHALMOLOGY = VISUAL SCIENCE
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN NEPHROLOGY AND HYPERTENSION
+JournalDetail.aspx?y=2018&t=CLINICAL AND EXPERIMENTAL IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROSURGICAL ANESTHESIOLOGY
+JournalDetail.aspx?y=2018&t=Current Opinion in Endocrinology Diabetes and Obesity
+JournalDetail.aspx?y=2018&t=United European Gastroenterology Journal
+JournalDetail.aspx?y=2018&t=PHYTOMEDICINE
+JournalDetail.aspx?y=2018&t=PSYCHOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF CARDIO-THORACIC SURGERY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF HYPERTHERMIA
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PHYSIOLOGY-GASTROINTESTINAL AND LIVER PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=BEST PRACTICE = RESEARCH IN CLINICAL RHEUMATOLOGY
+JournalDetail.aspx?y=2018&t=Nutrition Journal
+JournalDetail.aspx?y=2018&t=Journal of NeuroInterventional Surgery
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=DEVELOPMENTAL MEDICINE AND CHILD NEUROLOGY
+JournalDetail.aspx?y=2018&t=Frontiers in Neural Circuits
+JournalDetail.aspx?y=2018&t=CLINICAL CHEMISTRY AND LABORATORY MEDICINE
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPARATIVE NEUROLOGY
+JournalDetail.aspx?y=2018&t=MOLECULAR AND CELLULAR NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=NUTRITION
+JournalDetail.aspx?y=2018&t=Frontiers in Neuroinformatics
+JournalDetail.aspx?y=2018&t=UROLOGIC ONCOLOGY-SEMINARS AND ORIGINAL INVESTIGATIONS
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF PSYCHIATRY-REVUE CANADIENNE DE PSYCHIATRIE
+JournalDetail.aspx?y=2018&t=SCANDINAVIAN JOURNAL OF MEDICINE = SCIENCE IN SPORTS
+JournalDetail.aspx?y=2018&t=ACTA PHARMACOLOGICA SINICA
+JournalDetail.aspx?y=2018&t=NEUROUROLOGY AND URODYNAMICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF MAGNETIC RESONANCE IMAGING
+JournalDetail.aspx?y=2018&t=JOURNAL OF HEAD TRAUMA REHABILITATION
+JournalDetail.aspx?y=2018&t=CYTOKINE
+JournalDetail.aspx?y=2018&t=VACCINE
+JournalDetail.aspx?y=2018&t=NEUROMOLECULAR MEDICINE
+JournalDetail.aspx?y=2018&t=VIROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CANCER RESEARCH AND CLINICAL ONCOLOGY
+JournalDetail.aspx?y=2018&t=NEUROINFORMATICS
+JournalDetail.aspx?y=2018&t=Conflict and Health
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL GERONTOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Trauma and Acute Care Surgery
+JournalDetail.aspx?y=2018&t=DRUG AND ALCOHOL DEPENDENCE
+JournalDetail.aspx?y=2018&t=CLINICAL ENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=Journal of Neurodevelopmental Disorders
+JournalDetail.aspx?y=2018&t=JOURNAL OF RHEUMATOLOGY
+JournalDetail.aspx?y=2018&t=TRANSFUSION
+JournalDetail.aspx?y=2018&t=BMC CANCER
+JournalDetail.aspx?y=2018&t=VASCULAR PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Immunology Research
+JournalDetail.aspx?y=2018&t=BRAIN TOPOGRAPHY
+JournalDetail.aspx?y=2018&t=Expert Review of Anti-Infective Therapy
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR ENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=PREVENTIVE MEDICINE
+JournalDetail.aspx?y=2018&t=Molecular Pain
+JournalDetail.aspx?y=2018&t=PSYCHO-ONCOLOGY
+JournalDetail.aspx?y=2018&t=HEMATOLOGICAL ONCOLOGY
+JournalDetail.aspx?y=2018&t=DEMENTIA AND GERIATRIC COGNITIVE DISORDERS
+JournalDetail.aspx?y=2018&t=Journal of NeuroEngineering and Rehabilitation
+JournalDetail.aspx?y=2018&t=MOLECULAR IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Diabetes = Vascular Disease Research
+JournalDetail.aspx?y=2018&t=JOURNAL OF SLEEP RESEARCH
+JournalDetail.aspx?y=2018&t=NEUROGENETICS
+JournalDetail.aspx?y=2018&t=Current Neurology and Neuroscience Reports
+JournalDetail.aspx?y=2018&t=NEURAL PLASTICITY
+JournalDetail.aspx?y=2018&t=Current Opinion in Allergy and Clinical Immunology
+JournalDetail.aspx?y=2018&t=Journal of Cancer
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF HYPERTENSION
+JournalDetail.aspx?y=2018&t=EXPERT REVIEW OF MOLECULAR DIAGNOSTICS
+JournalDetail.aspx?y=2018&t=ARCHIVES OF DISEASE IN CHILDHOOD
+JournalDetail.aspx?y=2018&t=DEVELOPMENTAL AND COMPARATIVE IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Nutrition = Metabolism
+JournalDetail.aspx?y=2018&t=CHEMICAL RESEARCH IN TOXICOLOGY
+JournalDetail.aspx?y=2018&t=MECHANISMS OF AGEING AND DEVELOPMENT
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF CARDIOLOGY
+JournalDetail.aspx?y=2018&t=Open Forum Infectious Diseases
+JournalDetail.aspx?y=2018&t=Frontiers in Human Neuroscience
+JournalDetail.aspx?y=2018&t=REJUVENATION RESEARCH
+JournalDetail.aspx?y=2018&t=APPETITE
+JournalDetail.aspx?y=2018&t=Travel Medicine and Infectious Disease
+JournalDetail.aspx?y=2018&t=NUTRITIONAL NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=MATURITAS
+JournalDetail.aspx?y=2018&t=Stem Cell Reviews and Reports
+JournalDetail.aspx?y=2018&t=Frontiers in Neuroanatomy
+JournalDetail.aspx?y=2018&t=JOURNAL OF REFRACTIVE SURGERY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF MEDICAL GENETICS PART B-NEUROPSYCHIATRIC GENETICS
+JournalDetail.aspx?y=2018&t=MOLECULAR IMAGING AND BIOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF CLINICAL ONCOLOGY-CANCER CLINICAL TRIALS
+JournalDetail.aspx?y=2018&t=IMMUNOLOGY AND ALLERGY CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=RHEUMATIC DISEASE CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=Biochemia Medica
+JournalDetail.aspx?y=2018&t=Frontiers in Behavioral Neuroscience
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=PHARMACEUTICAL RESEARCH
+JournalDetail.aspx?y=2018&t=ALLERGOLOGY INTERNATIONAL
+JournalDetail.aspx?y=2018&t=ENDOCRINE
+JournalDetail.aspx?y=2018&t=CANCER BIOLOGY = THERAPY
+JournalDetail.aspx?y=2018&t=Cancer Cell International
+JournalDetail.aspx?y=2018&t=Frontiers in Psychiatry
+JournalDetail.aspx?y=2018&t=JOINT BONE SPINE
+JournalDetail.aspx?y=2018&t=PFLUGERS ARCHIV-EUROPEAN JOURNAL OF PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=SEXUALLY TRANSMITTED INFECTIONS
+JournalDetail.aspx?y=2018&t=Seminars in Fetal = Neonatal Medicine
+JournalDetail.aspx?y=2018&t=GENE THERAPY
+JournalDetail.aspx?y=2018&t=Emergencias
+JournalDetail.aspx?y=2018&t=ACTA DIABETOLOGICA
+JournalDetail.aspx?y=2018&t=Journal of Clinical Sleep Medicine
+JournalDetail.aspx?y=2018&t=KNEE SURGERY SPORTS TRAUMATOLOGY ARTHROSCOPY
+JournalDetail.aspx?y=2018&t=Advances in the Study of Behavior
+JournalDetail.aspx?y=2018&t=HIV MEDICINE
+JournalDetail.aspx?y=2018&t=JOURNAL OF TRACE ELEMENTS IN MEDICINE AND BIOLOGY
+JournalDetail.aspx?y=2018&t=BIODRUGS
+JournalDetail.aspx?y=2018&t=Contrast Media = Molecular Imaging
+JournalDetail.aspx?y=2018&t=ACTA OPHTHALMOLOGICA
+JournalDetail.aspx?y=2018&t=ENDOCRINOLOGY AND METABOLISM CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=CLINICAL ONCOLOGY
+JournalDetail.aspx?y=2018&t=Expert Opinion On Drug Safety
+JournalDetail.aspx?y=2018&t=RESPIRATORY MEDICINE
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL EYE RESEARCH
+JournalDetail.aspx?y=2018&t=Cancer Medicine
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF GERIATRIC PSYCHIATRY
+JournalDetail.aspx?y=2018&t=ASN Neuro
+JournalDetail.aspx?y=2018&t=CALCIFIED TISSUE INTERNATIONAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL GASTROENTEROLOGY
+JournalDetail.aspx?y=2018&t=Hormones = Cancer
+JournalDetail.aspx?y=2018&t=WORLD JOURNAL OF GASTROENTEROLOGY
+JournalDetail.aspx?y=2018&t=Molecular Therapy-Methods = Clinical Development
+JournalDetail.aspx?y=2018&t=Parasites = Vectors
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF ONCOLOGY
+JournalDetail.aspx?y=2018&t=npj Vaccines
+JournalDetail.aspx?y=2018&t=Expert Review of Neurotherapeutics
+JournalDetail.aspx?y=2018&t=World Journal of Gastrointestinal Oncology
+JournalDetail.aspx?y=2018&t=CLINICAL JOURNAL OF PAIN
+JournalDetail.aspx?y=2018&t=BIOORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=ARCHIVES OF PHYSICAL MEDICINE AND REHABILITATION
+JournalDetail.aspx?y=2018&t=EUROPEAN UROLOGY SUPPLEMENTS
+JournalDetail.aspx?y=2018&t=Purinergic Signalling
+JournalDetail.aspx?y=2018&t=Transplantation Reviews
+JournalDetail.aspx?y=2018&t=Current Alzheimer Research
+JournalDetail.aspx?y=2018&t=CURRENT HYPERTENSION REPORTS
+JournalDetail.aspx?y=2018&t=CURRENT DRUG TARGETS
+JournalDetail.aspx?y=2018&t=SURGICAL ONCOLOGY-OXFORD
+JournalDetail.aspx?y=2018&t=NEUROEPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN HEMATOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MAMMARY GLAND BIOLOGY AND NEOPLASIA
+JournalDetail.aspx?y=2018&t=HPB
+JournalDetail.aspx?y=2018&t=DIABETIC MEDICINE
+JournalDetail.aspx?y=2018&t=Digestive Endoscopy
+JournalDetail.aspx?y=2018&t=CLINICAL = EXPERIMENTAL METASTASIS
+JournalDetail.aspx?y=2018&t=CURRENT CANCER DRUG TARGETS
+JournalDetail.aspx?y=2018&t=BRITISH MEDICAL BULLETIN
+JournalDetail.aspx?y=2018&t=Drug Testing and Analysis
+JournalDetail.aspx?y=2018&t=CELL TRANSPLANTATION
+JournalDetail.aspx?y=2018&t=MEDICAL CARE
+JournalDetail.aspx?y=2018&t=Journal of the American College of Radiology
+JournalDetail.aspx?y=2018&t=TOXICOLOGY IN VITRO
+JournalDetail.aspx?y=2018&t=Expert Review of Clinical Immunology
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF CHINESE MEDICINE
+JournalDetail.aspx?y=2018&t=JOURNAL OF DRUG TARGETING
+JournalDetail.aspx?y=2018&t=HEARING RESEARCH
+JournalDetail.aspx?y=2018&t=ATHEROSCLEROSIS SUPPLEMENTS
+JournalDetail.aspx?y=2018&t=Antimicrobial Resistance and Infection Control
+JournalDetail.aspx?y=2018&t=NEUROTOXICITY RESEARCH
+JournalDetail.aspx?y=2018&t=Maternal and Child Nutrition
+JournalDetail.aspx?y=2018&t=JOURNAL OF PERIODONTOLOGY
+JournalDetail.aspx?y=2018&t=CEREBROVASCULAR DISEASES
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHARMACEUTICAL AND BIOMEDICAL ANALYSIS
+JournalDetail.aspx?y=2018&t=Pediatric Critical Care Medicine
+JournalDetail.aspx?y=2018&t=DIABETES RESEARCH AND CLINICAL PRACTICE
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PHYSIOLOGY-REGULATORY INTEGRATIVE AND COMPARATIVE PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=ChemMedChem
+JournalDetail.aspx?y=2018&t=ARCHIVES OF PATHOLOGY = LABORATORY MEDICINE
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOMEDICAL SCIENCE
+JournalDetail.aspx?y=2018&t=RADIOGRAPHICS
+JournalDetail.aspx?y=2018&t=BIOLOGICAL PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=GASTROENTEROLOGY CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=Bone = Joint Journal
+JournalDetail.aspx?y=2018&t=BEHAVIOURAL BRAIN RESEARCH
+JournalDetail.aspx?y=2018&t=Translational Oncology
+JournalDetail.aspx?y=2018&t=SHOCK
+JournalDetail.aspx?y=2018&t=CELLULAR AND MOLECULAR NEUROBIOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Sexual Medicine
+JournalDetail.aspx?y=2018&t=QJM-AN INTERNATIONAL JOURNAL OF MEDICINE
+JournalDetail.aspx?y=2018&t=JOURNAL OF ETHNOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Exposure Science and Environmental Epidemiology
+JournalDetail.aspx?y=2018&t=Acta Orthopaedica
+JournalDetail.aspx?y=2018&t=Current Opinion in Critical Care
+JournalDetail.aspx?y=2018&t=CURRENT TOPICS IN MEDICINAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=PHYTOTHERAPY RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF HOSPITAL INFECTION
+JournalDetail.aspx?y=2018&t=PPAR Research
+JournalDetail.aspx?y=2018&t=HEMATOLOGY-ONCOLOGY CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=Wiley Interdisciplinary Reviews-Systems Biology and Medicine
+JournalDetail.aspx?y=2018&t=International Journal of Chronic Obstructive Pulmonary Disease
+JournalDetail.aspx?y=2018&t=TRANSPLANT INTERNATIONAL
+JournalDetail.aspx?y=2018&t=Adipocyte
+JournalDetail.aspx?y=2018&t=International Journal of Sports Physiology and Performance
+JournalDetail.aspx?y=2018&t=NEUROPSYCHOLOGIA
+JournalDetail.aspx?y=2018&t=Allergy Asthma = Immunology Research
+JournalDetail.aspx?y=2018&t=DIGESTIVE AND LIVER DISEASE
+JournalDetail.aspx?y=2018&t=CLINICAL THERAPEUTICS
+JournalDetail.aspx?y=2018&t=Nutrition = Diabetes
+JournalDetail.aspx?y=2018&t=BRAIN RESEARCH BULLETIN
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF GENERAL PRACTICE
+JournalDetail.aspx?y=2018&t=ANGIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CARDIOVASCULAR ELECTROPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=American Journal of Translational Research
+JournalDetail.aspx?y=2018&t=JOURNAL OF SURGICAL ONCOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL PSYCHOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=REPRODUCTIVE BIOMEDICINE ONLINE
+JournalDetail.aspx?y=2018&t=KIDNEY = BLOOD PRESSURE RESEARCH
+JournalDetail.aspx?y=2018&t=HAEMOPHILIA
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROVIROLOGY
+JournalDetail.aspx?y=2018&t=Journal of Gynecologic Oncology
+JournalDetail.aspx?y=2018&t=Recent Patents on Anti-Cancer Drug Discovery
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN PULMONARY MEDICINE
+JournalDetail.aspx?y=2018&t=JAMA Otolaryngology-Head = Neck Surgery
+JournalDetail.aspx?y=2018&t=ANNALS OF HEMATOLOGY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF CLINICAL NUTRITION
+JournalDetail.aspx?y=2018&t=Immunity = Ageing
+JournalDetail.aspx?y=2018&t=BASIC = CLINICAL PHARMACOLOGY = TOXICOLOGY
+JournalDetail.aspx?y=2018&t=JOURNALS OF GERONTOLOGY SERIES B-PSYCHOLOGICAL SCIENCES AND SOCIAL SCIENCES
+JournalDetail.aspx?y=2018&t=HUMAN PATHOLOGY
+JournalDetail.aspx?y=2018&t=Current Rheumatology Reports
+JournalDetail.aspx?y=2018&t=NEUROTOXICOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ORTHOPAEDIC RESEARCH
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF PAIN
+JournalDetail.aspx?y=2018&t=JOURNAL OF ARTHROPLASTY
+JournalDetail.aspx?y=2018&t=ASIAN JOURNAL OF ANDROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL DENSITOMETRY
+JournalDetail.aspx?y=2018&t=BMC Medical Genomics
+JournalDetail.aspx?y=2018&t=Chinese Journal of Cancer Research
+JournalDetail.aspx?y=2018&t=NMR IN BIOMEDICINE
+JournalDetail.aspx?y=2018&t=Diabetes Metabolic Syndrome and Obesity-Targets and Therapy
+JournalDetail.aspx?y=2018&t=BMC Medical Research Methodology
+JournalDetail.aspx?y=2018&t=INTERNATIONAL ENDODONTIC JOURNAL
+JournalDetail.aspx?y=2018&t=HEADACHE
+JournalDetail.aspx?y=2018&t=NEUROPSYCHOLOGY
+JournalDetail.aspx?y=2018&t=CEREBELLUM
+JournalDetail.aspx?y=2018&t=PSYCHOPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF CLINICAL DERMATOLOGY
+JournalDetail.aspx?y=2018&t=LIFE SCIENCES
+JournalDetail.aspx?y=2018&t=Cognitive Computation
+JournalDetail.aspx?y=2018&t=Endoscopic Ultrasound
+JournalDetail.aspx?y=2018&t=ONCOLOGY RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of Nutrition Health = Aging
+JournalDetail.aspx?y=2018&t=European Journal of Internal Medicine
+JournalDetail.aspx?y=2018&t=Molecular Oral Microbiology
+JournalDetail.aspx?y=2018&t=Pain Physician
+JournalDetail.aspx?y=2018&t=JOURNAL OF PAIN AND SYMPTOM MANAGEMENT
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL VIROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEURO-ONCOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED TOXICOLOGY
+JournalDetail.aspx?y=2018&t=CARDIOVASCULAR DRUGS AND THERAPY
+JournalDetail.aspx?y=2018&t=Expert Opinion on Drug Metabolism = Toxicology
+JournalDetail.aspx?y=2018&t=ACTA NEUROLOGICA SCANDINAVICA
+JournalDetail.aspx?y=2018&t=PEDIATRIC PULMONOLOGY
+JournalDetail.aspx?y=2018&t=PEDIATRIC RESEARCH
+JournalDetail.aspx?y=2018&t=CLINICAL AND EXPERIMENTAL OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=EXPERT OPINION ON EMERGING DRUGS
+JournalDetail.aspx?y=2018&t=CLINICS IN PERINATOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Diabetes
+JournalDetail.aspx?y=2018&t=Journal of Cardiovascular Computed Tomography
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=PATHOLOGY
+JournalDetail.aspx?y=2018&t=Spine Journal
+JournalDetail.aspx?y=2018&t=BIOORGANIC = MEDICINAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=Journal of Hepato-Biliary-Pancreatic Sciences
+JournalDetail.aspx?y=2018&t=ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of Parkinsons Disease
+JournalDetail.aspx?y=2018&t=PHARMACOTHERAPY
+JournalDetail.aspx?y=2018&t=COGNITIVE AFFECTIVE = BEHAVIORAL NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration
+JournalDetail.aspx?y=2018&t=European Journal of Oral Implantology
+JournalDetail.aspx?y=2018&t=JOURNAL OF ENDOVASCULAR THERAPY
+JournalDetail.aspx?y=2018&t=JOURNAL OF INVESTIGATIONAL ALLERGOLOGY AND CLINICAL IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF REPRODUCTIVE IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=PANCREAS
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF GERIATRIC PSYCHIATRY
+JournalDetail.aspx?y=2018&t=MALARIA JOURNAL
+JournalDetail.aspx?y=2018&t=Drug Design Development and Therapy
+JournalDetail.aspx?y=2018&t=INTERNATIONAL IMMUNOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Therapeutic Advances in Respiratory Disease
+JournalDetail.aspx?y=2018&t=Current Opinion in Organ Transplantation
+JournalDetail.aspx?y=2018&t=HEALTH SERVICES RESEARCH
+JournalDetail.aspx?y=2018&t=WOUND REPAIR AND REGENERATION
+JournalDetail.aspx?y=2018&t=Pituitary
+JournalDetail.aspx?y=2018&t=SOCIAL SCIENCE = MEDICINE
+JournalDetail.aspx?y=2018&t=Anatomical Sciences Education
+JournalDetail.aspx?y=2018&t=HEAD AND NECK-JOURNAL FOR THE SCIENCES AND SPECIALTIES OF THE HEAD AND NECK
+JournalDetail.aspx?y=2018&t=Clinical Breast Cancer
+JournalDetail.aspx?y=2018&t=CLINICA CHIMICA ACTA
+JournalDetail.aspx?y=2018&t=MEDICAL MICROBIOLOGY AND IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ENDODONTICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF PSYCHOSOMATIC RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF GASTROINTESTINAL SURGERY
+JournalDetail.aspx?y=2018&t=Archives of Womens Mental Health
+JournalDetail.aspx?y=2018&t=MENOPAUSE-THE JOURNAL OF THE NORTH AMERICAN MENOPAUSE SOCIETY
+JournalDetail.aspx?y=2018&t=HARVARD REVIEW OF PSYCHIATRY
+JournalDetail.aspx?y=2018&t=CELL BIOLOGY AND TOXICOLOGY
+JournalDetail.aspx?y=2018&t=Neurodegenerative Diseases
+JournalDetail.aspx?y=2018&t=NEUROMUSCULAR DISORDERS
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF ROENTGENOLOGY
+JournalDetail.aspx?y=2018&t=CONTRACEPTION
+JournalDetail.aspx?y=2018&t=CLINICAL AND EXPERIMENTAL MEDICINE
+JournalDetail.aspx?y=2018&t=TUBERCULOSIS
+JournalDetail.aspx?y=2018&t=JOURNAL OF GENERAL VIROLOGY
+JournalDetail.aspx?y=2018&t=BIOMEDICINE = PHARMACOTHERAPY
+JournalDetail.aspx?y=2018&t=Journal of the American Society of Hypertension
+JournalDetail.aspx?y=2018&t=Beneficial Microbes
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF METHODS IN PSYCHIATRIC RESEARCH
+JournalDetail.aspx?y=2018&t=Ticks and Tick-Borne Diseases
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+JournalDetail.aspx?y=2018&t=Journal of Minimally Invasive Gynecology
+JournalDetail.aspx?y=2018&t=CURRENT TREATMENT OPTIONS IN ONCOLOGY
+JournalDetail.aspx?y=2018&t=Expert Review of Gastroenterology = Hepatology
+JournalDetail.aspx?y=2018&t=Journal of Aerosol Medicine and Pulmonary Drug Delivery
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL PATHOLOGY
+JournalDetail.aspx?y=2018&t=LEUKEMIA = LYMPHOMA
+JournalDetail.aspx?y=2018&t=BREAST
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF CLINICAL INVESTIGATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF DIABETES AND ITS COMPLICATIONS
+JournalDetail.aspx?y=2018&t=Journal of Diabetes Investigation
+JournalDetail.aspx?y=2018&t=EAR AND HEARING
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN ACADEMY OF ORTHOPAEDIC SURGEONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF CARDIOVASCULAR PHARMACOLOGY AND THERAPEUTICS
+JournalDetail.aspx?y=2018&t=LEARNING = MEMORY
+JournalDetail.aspx?y=2018&t=Journal of Geriatric Oncology
+JournalDetail.aspx?y=2018&t=JOURNAL OF ORTHOPAEDIC = SPORTS PHYSICAL THERAPY
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=Regenerative Medicine
+JournalDetail.aspx?y=2018&t=INFLAMMATION
+JournalDetail.aspx?y=2018&t=CURRENT PROBLEMS IN CARDIOLOGY
+JournalDetail.aspx?y=2018&t=PHYSIOLOGICAL GENOMICS
+JournalDetail.aspx?y=2018&t=BRAIN RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHARMACEUTICAL SCIENCES
+JournalDetail.aspx?y=2018&t=ADDICTIVE BEHAVIORS
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF MATHEMATICAL = STATISTICAL PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=CURRENT PHARMACEUTICAL DESIGN
+JournalDetail.aspx?y=2018&t=Journal of Clinical Hypertension
+JournalDetail.aspx?y=2018&t=VIRCHOWS ARCHIV
+JournalDetail.aspx?y=2018&t=Neurocritical Care
+JournalDetail.aspx?y=2018&t=JOURNAL OF CATARACT AND REFRACTIVE SURGERY
+JournalDetail.aspx?y=2018&t=Current Oncology Reports
+JournalDetail.aspx?y=2018&t=Gut Pathogens
+JournalDetail.aspx?y=2018&t=Drug Delivery and Translational Research
+JournalDetail.aspx?y=2018&t=IMMUNOBIOLOGY
+JournalDetail.aspx?y=2018&t=Endocrine Connections
+JournalDetail.aspx?y=2018&t=CANCER CHEMOTHERAPY AND PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=PRENATAL DIAGNOSIS
+JournalDetail.aspx?y=2018&t=REVIEWS IN THE NEUROSCIENCES
+JournalDetail.aspx?y=2018&t=Neurosurgical Focus
+JournalDetail.aspx?y=2018&t=International Journal for Parasitology-Parasites and Wildlife
+JournalDetail.aspx?y=2018&t=CLINICAL AND EXPERIMENTAL RHEUMATOLOGY
+JournalDetail.aspx?y=2018&t=BRAIN AND LANGUAGE
+JournalDetail.aspx?y=2018&t=IMMUNOLOGIC RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF REPRODUCTIVE IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=International Journal of Stem Cells
+JournalDetail.aspx?y=2018&t=ADVANCES IN THERAPY
+JournalDetail.aspx?y=2018&t=Current Atherosclerosis Reports
+JournalDetail.aspx?y=2018&t=ENVIRONMENTAL TOXICOLOGY
+JournalDetail.aspx?y=2018&t=Clinical Neuroradiology
+JournalDetail.aspx?y=2018&t=PSYCHOLOGY OF SPORT AND EXERCISE
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF CLINICAL PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=OCULAR IMMUNOLOGY AND INFLAMMATION
+JournalDetail.aspx?y=2018&t=MEDICAL DECISION MAKING
+JournalDetail.aspx?y=2018&t=Immunotherapy
+JournalDetail.aspx?y=2018&t=CHEMICAL SENSES
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=PROSTAGLANDINS LEUKOTRIENES AND ESSENTIAL FATTY ACIDS
+JournalDetail.aspx?y=2018&t=HEPATOLOGY RESEARCH
+JournalDetail.aspx?y=2018&t=Endocrine Practice
+JournalDetail.aspx?y=2018&t=Discovery Medicine
+JournalDetail.aspx?y=2018&t=PHYSICS IN MEDICINE AND BIOLOGY
+JournalDetail.aspx?y=2018&t=Early Intervention in Psychiatry
+JournalDetail.aspx?y=2018&t=DIGESTIVE DISEASES AND SCIENCES
+JournalDetail.aspx?y=2018&t=INFLAMMATION RESEARCH
+JournalDetail.aspx?y=2018&t=SEMINARS IN PERINATOLOGY
+JournalDetail.aspx?y=2018&t=JARO-JOURNAL OF THE ASSOCIATION FOR RESEARCH IN OTOLARYNGOLOGY
+JournalDetail.aspx?y=2018&t=INFLAMMOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=AUTOIMMUNITY
+JournalDetail.aspx?y=2018&t=PAEDIATRIC AND PERINATAL EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=Expert Review of Clinical Pharmacology
+JournalDetail.aspx?y=2018&t=PLACENTA
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHYSIOLOGY AND PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=PEPTIDES
+JournalDetail.aspx?y=2018&t=PARASITOLOGY
+JournalDetail.aspx?y=2018&t=CURRENT DRUG METABOLISM
+JournalDetail.aspx?y=2018&t=CLINICAL REHABILITATION
+JournalDetail.aspx?y=2018&t=PHYSICAL THERAPY
+JournalDetail.aspx?y=2018&t=MINI-REVIEWS IN MEDICINAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=NEUROPEPTIDES
+JournalDetail.aspx?y=2018&t=ONCOLOGY REPORTS
+JournalDetail.aspx?y=2018&t=WORLD JOURNAL OF UROLOGY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF CLINICAL MICROBIOLOGY = INFECTIOUS DISEASES
+JournalDetail.aspx?y=2018&t=JOURNAL DER DEUTSCHEN DERMATOLOGISCHEN GESELLSCHAFT
+JournalDetail.aspx?y=2018&t=SEMINARS IN RESPIRATORY AND CRITICAL CARE MEDICINE
+JournalDetail.aspx?y=2018&t=JOURNAL OF VASCULAR AND INTERVENTIONAL RADIOLOGY
+JournalDetail.aspx?y=2018&t=Globalization and Health
+JournalDetail.aspx?y=2018&t=Neuroscience Bulletin
+JournalDetail.aspx?y=2018&t=Developmental Neurobiology
+JournalDetail.aspx?y=2018&t=ADVANCES IN CHRONIC KIDNEY DISEASE
+JournalDetail.aspx?y=2018&t=STRAHLENTHERAPIE UND ONKOLOGIE
+JournalDetail.aspx?y=2018&t=RADIATION RESEARCH
+JournalDetail.aspx?y=2018&t=AIDS REVIEWS
+JournalDetail.aspx?y=2018&t=Molecular Genetics = Genomic Medicine
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOMEDICAL INFORMATICS
+JournalDetail.aspx?y=2018&t=Sports Health-A Multidisciplinary Approach
+JournalDetail.aspx?y=2018&t=BMC INFECTIOUS DISEASES
+JournalDetail.aspx?y=2018&t=ACADEMIC EMERGENCY MEDICINE
+JournalDetail.aspx?y=2018&t=CURRENT MEDICAL RESEARCH AND OPINION
+JournalDetail.aspx?y=2018&t=DEVELOPMENTAL NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=Gastroenterology Report
+JournalDetail.aspx?y=2018&t=JOURNAL OF HUMAN HYPERTENSION
+JournalDetail.aspx?y=2018&t=Journal of Cardiology
+JournalDetail.aspx?y=2018&t=CYTOMETRY PART B-CLINICAL CYTOMETRY
+JournalDetail.aspx?y=2018&t=International Journal of Health Geographics
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF PSYCHOPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=MEDICAL ONCOLOGY
+JournalDetail.aspx?y=2018&t=Neonatology
+JournalDetail.aspx?y=2018&t=PLATELETS
+JournalDetail.aspx?y=2018&t=Journal of Diabetes Research
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF NEPHROLOGY
+JournalDetail.aspx?y=2018&t=Aesthetic Surgery Journal
+JournalDetail.aspx?y=2018&t=INFECTION GENETICS AND EVOLUTION
+JournalDetail.aspx?y=2018&t=STRESS-THE INTERNATIONAL JOURNAL ON THE BIOLOGY OF STRESS
+JournalDetail.aspx?y=2018&t=Infectious Diseases of Poverty
+JournalDetail.aspx?y=2018&t=RESPIRATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF PERIODONTAL RESEARCH
+JournalDetail.aspx?y=2018&t=Influenza and Other Respiratory Viruses
+JournalDetail.aspx?y=2018&t=MEDICAL PHYSICS
+JournalDetail.aspx?y=2018&t=SCANDINAVIAN JOURNAL OF RHEUMATOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEURORADIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF SHOULDER AND ELBOW SURGERY
+JournalDetail.aspx?y=2018&t=HEALTH = PLACE
+JournalDetail.aspx?y=2018&t=International Review of Neurobiology
+JournalDetail.aspx?y=2018&t=Polish Archives of Internal Medicine-Polskie Archiwum Medycyny Wewnetrznej
+JournalDetail.aspx?y=2018&t=MELANOMA RESEARCH
+JournalDetail.aspx?y=2018&t=NUTRITION RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF CRITICAL CARE
+JournalDetail.aspx?y=2018&t=Academic Pediatrics
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF PUBLIC HEALTH
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF INFECTIOUS DISEASES
+JournalDetail.aspx?y=2018&t=WORLD JOURNAL OF SURGERY
+JournalDetail.aspx?y=2018&t=JOURNAL OF HEALTH ECONOMICS
+JournalDetail.aspx?y=2018&t=Journal of Neurologic Physical Therapy
+JournalDetail.aspx?y=2018&t=JOURNAL OF PEDIATRIC GASTROENTEROLOGY AND NUTRITION
+JournalDetail.aspx?y=2018&t=Physiotherapy
+JournalDetail.aspx?y=2018&t=ANNALS OF NUTRITION AND METABOLISM
+JournalDetail.aspx?y=2018&t=JOURNAL OF INTENSIVE CARE MEDICINE
+JournalDetail.aspx?y=2018&t=PAIN MEDICINE
+JournalDetail.aspx?y=2018&t=CLINICAL CARDIOLOGY
+JournalDetail.aspx?y=2018&t=Colorectal Disease
+JournalDetail.aspx?y=2018&t=CANCER CAUSES = CONTROL
+JournalDetail.aspx?y=2018&t=HEART AND VESSELS
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROIMMUNOLOGY
+JournalDetail.aspx?y=2018&t=TROPICAL MEDICINE = INTERNATIONAL HEALTH
+JournalDetail.aspx?y=2018&t=SUPPORTIVE CARE IN CANCER
+JournalDetail.aspx?y=2018&t=European Journal of Cardiovascular Nursing
+JournalDetail.aspx?y=2018&t=JOURNAL OF HUMAN NUTRITION AND DIETETICS
+JournalDetail.aspx?y=2018&t=PSYCHIATRY-INTERPERSONAL AND BIOLOGICAL PROCESSES
+JournalDetail.aspx?y=2018&t=Substance Abuse
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF RADIOLOGY
+JournalDetail.aspx?y=2018&t=Radiation Oncology
+JournalDetail.aspx?y=2018&t=Journal of Atherosclerosis and Thrombosis
+JournalDetail.aspx?y=2018&t=JOURNAL OF FOOD AND DRUG ANALYSIS
+JournalDetail.aspx?y=2018&t=Anti-Cancer Agents in Medicinal Chemistry
+JournalDetail.aspx?y=2018&t=Cancer Epidemiology
+JournalDetail.aspx?y=2018&t=PULMONARY PHARMACOLOGY = THERAPEUTICS
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF CANCER PREVENTION
+JournalDetail.aspx?y=2018&t=Journal of Cardiovascular Translational Research
+JournalDetail.aspx?y=2018&t=Critical Care and Resuscitation
+JournalDetail.aspx?y=2018&t=ALCOHOL AND ALCOHOLISM
+JournalDetail.aspx?y=2018&t=BMC Geriatrics
+JournalDetail.aspx?y=2018&t=Reproductive Biology and Endocrinology
+JournalDetail.aspx?y=2018&t=ADVANCES IN ANATOMIC PATHOLOGY
+JournalDetail.aspx?y=2018&t=CLINICAL OTOLARYNGOLOGY
+JournalDetail.aspx?y=2018&t=OPERATIVE DENTISTRY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL ARCHIVES OF ALLERGY AND IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROSCIENCE RESEARCH
+JournalDetail.aspx?y=2018&t=Canadian Journal of Anesthesia-Journal canadien d anesthesie
+JournalDetail.aspx?y=2018&t=NEUROCHEMICAL RESEARCH
+JournalDetail.aspx?y=2018&t=PHARMACOLOGY BIOCHEMISTRY AND BEHAVIOR
+JournalDetail.aspx?y=2018&t=International Wound Journal
+JournalDetail.aspx?y=2018&t=MEDICAL MYCOLOGY
+JournalDetail.aspx?y=2018&t=Diabetes Technology = Therapeutics
+JournalDetail.aspx?y=2018&t=GENERAL AND COMPARATIVE ENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL DERMATOLOGY
+JournalDetail.aspx?y=2018&t=MUSCLE = NERVE
+JournalDetail.aspx?y=2018&t=Human Gene Therapy Clinical Development
+JournalDetail.aspx?y=2018&t=NEUROMODULATION
+JournalDetail.aspx?y=2018&t=PEDIATRIC BLOOD = CANCER
+JournalDetail.aspx?y=2018&t=JOURNAL OF ENDOCRINOLOGICAL INVESTIGATION
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF HAEMATOLOGY
+JournalDetail.aspx?y=2018&t=IMMUNOLOGY LETTERS
+JournalDetail.aspx?y=2018&t=Nucleic Acid Therapeutics
+JournalDetail.aspx?y=2018&t=PHARMACOEPIDEMIOLOGY AND DRUG SAFETY
+JournalDetail.aspx?y=2018&t=REPRODUCTIVE TOXICOLOGY
+JournalDetail.aspx?y=2018&t=Behavioral Sleep Medicine
+JournalDetail.aspx?y=2018&t=MICROCIRCULATION
+JournalDetail.aspx?y=2018&t=Cardiovascular Toxicology
+JournalDetail.aspx?y=2018&t=JOURNAL OF EXPERIMENTAL PSYCHOLOGY-LEARNING MEMORY AND COGNITION
+JournalDetail.aspx?y=2018&t=DRUGS = AGING
+JournalDetail.aspx?y=2018&t=Obesity Facts
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEURAL TRANSMISSION
+JournalDetail.aspx?y=2018&t=BEST PRACTICE = RESEARCH CLINICAL OBSTETRICS = GYNAECOLOGY
+JournalDetail.aspx?y=2018&t=THROMBOSIS RESEARCH
+JournalDetail.aspx?y=2018&t=PANCREATOLOGY
+JournalDetail.aspx?y=2018&t=FITOTERAPIA
+JournalDetail.aspx?y=2018&t=American Journal of Cardiovascular Drugs
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHROMATOGRAPHY B-ANALYTICAL TECHNOLOGIES IN THE BIOMEDICAL AND LIFE SCIENCES
+JournalDetail.aspx?y=2018&t=SPINE
+JournalDetail.aspx?y=2018&t=ANNALS OF EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Neurogastroenterology and Motility
+JournalDetail.aspx?y=2018&t=NEUROTOXICOLOGY AND TERATOLOGY
+JournalDetail.aspx?y=2018&t=Translational Behavioral Medicine
+JournalDetail.aspx?y=2018&t=International Journal of Public Health
+JournalDetail.aspx?y=2018&t=NEUROLOGIC CLINICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES
+JournalDetail.aspx?y=2018&t=DERMATOLOGIC CLINICS
+JournalDetail.aspx?y=2018&t=Andrology
+JournalDetail.aspx?y=2018&t=Clinical Genitourinary Cancer
+JournalDetail.aspx?y=2018&t=INTERNATIONAL CLINICAL PSYCHOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Cognitive Neuroscience
+JournalDetail.aspx?y=2018&t=ANTIVIRAL THERAPY
+JournalDetail.aspx?y=2018&t=BEHAVIORAL NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=GENERAL HOSPITAL PSYCHIATRY
+JournalDetail.aspx?y=2018&t=SAUDI PHARMACEUTICAL JOURNAL
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL BIOLOGY AND MEDICINE
+JournalDetail.aspx?y=2018&t=ALCOHOL
+JournalDetail.aspx?y=2018&t=VIRUS RESEARCH
+JournalDetail.aspx?y=2018&t=ANNALS OF PHARMACOTHERAPY
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL AND MOLECULAR PATHOLOGY
+JournalDetail.aspx?y=2018&t=Pharmacological Reports
+JournalDetail.aspx?y=2018&t=EUROPEAN ADDICTION RESEARCH
+JournalDetail.aspx?y=2018&t=Social Neuroscience
+JournalDetail.aspx?y=2018&t=BMC Psychiatry
+JournalDetail.aspx?y=2018&t=Journal of Patient Safety
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE INTERNATIONAL NEUROPSYCHOLOGICAL SOCIETY
+JournalDetail.aspx?y=2018&t=Journal of Pain Research
+JournalDetail.aspx?y=2018&t=Zoonoses and Public Health
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROSURGERY-SPINE
+JournalDetail.aspx?y=2018&t=Clinical and Vaccine Immunology
+JournalDetail.aspx?y=2018&t=Immune Network
+JournalDetail.aspx?y=2018&t=CLIMACTERIC
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+JournalDetail.aspx?y=2018&t=EPILEPSY = BEHAVIOR
+JournalDetail.aspx?y=2018&t=Patient-Patient Centered Outcomes Research
+JournalDetail.aspx?y=2018&t=Journal of Prosthodontic Research
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF LEGAL MEDICINE
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL HEMATOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=LUPUS
+JournalDetail.aspx?y=2018&t=OncoTargets and Therapy
+JournalDetail.aspx?y=2018&t=ALLERGY AND ASTHMA PROCEEDINGS
+JournalDetail.aspx?y=2018&t=INFECTION
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF OBSTETRIC ANESTHESIA
+JournalDetail.aspx?y=2018&t=Journal of Oncology Practice
+JournalDetail.aspx?y=2018&t=Chemical Biology = Drug Design
+JournalDetail.aspx?y=2018&t=Photodiagnosis and Photodynamic Therapy
+JournalDetail.aspx?y=2018&t=GeroScience
+JournalDetail.aspx?y=2018&t=Gut and Liver
+JournalDetail.aspx?y=2018&t=JOURNAL OF EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=CURRENT MOLECULAR MEDICINE
+JournalDetail.aspx?y=2018&t=Progress in Brain Research
+JournalDetail.aspx?y=2018&t=Current Stem Cell Research = Therapy
+JournalDetail.aspx?y=2018&t=ARCHIVUM IMMUNOLOGIAE ET THERAPIAE EXPERIMENTALIS
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHILD AND ADOLESCENT PSYCHOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Augmentative and Alternative Communication
+JournalDetail.aspx?y=2018&t=BMC Pulmonary Medicine
+JournalDetail.aspx?y=2018&t=PEDIATRIC NEPHROLOGY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF MOLECULAR MEDICINE
+JournalDetail.aspx?y=2018&t=PEDIATRIC CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=CURRENT GENE THERAPY
+JournalDetail.aspx?y=2018&t=HUMAN PSYCHOPHARMACOLOGY-CLINICAL AND EXPERIMENTAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOMEDICAL OPTICS
+JournalDetail.aspx?y=2018&t=PATIENT EDUCATION AND COUNSELING
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL FOR QUALITY IN HEALTH CARE
+JournalDetail.aspx?y=2018&t=ULTRASOUND IN MEDICINE AND BIOLOGY
+JournalDetail.aspx?y=2018&t=CHILD NEUROPSYCHOLOGY
+JournalDetail.aspx?y=2018&t=DISEASE MARKERS
+JournalDetail.aspx?y=2018&t=AGGRESSIVE BEHAVIOR
+JournalDetail.aspx?y=2018&t=PSYCHIATRIC SERVICES
+JournalDetail.aspx?y=2018&t=SEMINARS IN REPRODUCTIVE MEDICINE
+JournalDetail.aspx?y=2018&t=LEUKEMIA RESEARCH
+JournalDetail.aspx?y=2018&t=Molecular Therapy-Oncolytics
+JournalDetail.aspx?y=2018&t=Reproductive Sciences
+JournalDetail.aspx?y=2018&t=DISEASES OF THE ESOPHAGUS
+JournalDetail.aspx?y=2018&t=JOURNAL OF GENE MEDICINE
+JournalDetail.aspx?y=2018&t=Surgical Oncology Clinics of North America
+JournalDetail.aspx?y=2018&t=JOURNAL OF SPORTS SCIENCES
+JournalDetail.aspx?y=2018&t=Hepatology International
+JournalDetail.aspx?y=2018&t=BRAIN AND COGNITION
+JournalDetail.aspx?y=2018&t=CLINICAL BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=SEIZURE-EUROPEAN JOURNAL OF EPILEPSY
+JournalDetail.aspx?y=2018&t=COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY C-TOXICOLOGY = PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=CATHETERIZATION AND CARDIOVASCULAR INTERVENTIONS
+JournalDetail.aspx?y=2018&t=Bone = Joint Research
+JournalDetail.aspx?y=2018&t=ARCHIVOS DE BRONCONEUMOLOGIA
+JournalDetail.aspx?y=2018&t=BIOORGANIC = MEDICINAL CHEMISTRY LETTERS
+JournalDetail.aspx?y=2018&t=Hematology-American Society of Hematology Education Program
+JournalDetail.aspx?y=2018&t=PEDIATRIC INFECTIOUS DISEASE JOURNAL
+JournalDetail.aspx?y=2018&t=MYCOSES
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN OBSTETRICS = GYNECOLOGY
+JournalDetail.aspx?y=2018&t=Journal of the Pediatric Infectious Diseases Society
+JournalDetail.aspx?y=2018&t=MICROBES AND INFECTION
+JournalDetail.aspx?y=2018&t=MEDICAL CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=PHARMACOGENOMICS
+JournalDetail.aspx?y=2018&t=SCANDINAVIAN JOURNAL OF GASTROENTEROLOGY
+JournalDetail.aspx?y=2018&t=Minerva Anestesiologica
+JournalDetail.aspx?y=2018&t=BMJ Open
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF COLORECTAL DISEASE
+JournalDetail.aspx?y=2018&t=METABOLIC BRAIN DISEASE
+JournalDetail.aspx?y=2018&t=COPD-Journal of Chronic Obstructive Pulmonary Disease
+JournalDetail.aspx?y=2018&t=GENES AND IMMUNITY
+JournalDetail.aspx?y=2018&t=Journal of Ovarian Research
+JournalDetail.aspx?y=2018&t=JOURNAL OF ANALYTICAL TOXICOLOGY
+JournalDetail.aspx?y=2018&t=EUROPEAN SPINE JOURNAL
+JournalDetail.aspx?y=2018&t=npj Primary Care Respiratory Medicine
+JournalDetail.aspx?y=2018&t=Journal of Clinical Neurology
+JournalDetail.aspx?y=2018&t=ACTA OBSTETRICIA ET GYNECOLOGICA SCANDINAVICA
+JournalDetail.aspx?y=2018&t=PHYSIOLOGY = BEHAVIOR
+JournalDetail.aspx?y=2018&t=Childhood Obesity
+JournalDetail.aspx?y=2018&t=STEROIDS
+JournalDetail.aspx?y=2018&t=JOURNAL OF NUTRITION EDUCATION AND BEHAVIOR
+JournalDetail.aspx?y=2018&t=Journal of Studies on Alcohol and Drugs
+JournalDetail.aspx?y=2018&t=MEDICAL TEACHER
+JournalDetail.aspx?y=2018&t=SEXUALLY TRANSMITTED DISEASES
+JournalDetail.aspx?y=2018&t=HEALTH POLICY AND PLANNING
+JournalDetail.aspx?y=2018&t=Pharmacogenetics and Genomics
+JournalDetail.aspx?y=2018&t=RESTORATIVE NEUROLOGY AND NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=PSYCHIATRY AND CLINICAL NEUROSCIENCES
+JournalDetail.aspx?y=2018&t=INTERNATIONAL ORTHOPAEDICS
+JournalDetail.aspx?y=2018&t=Clinical Trials
+JournalDetail.aspx?y=2018&t=JOURNAL OF VISION
+JournalDetail.aspx?y=2018&t=ENVIRONMENTAL TOXICOLOGY AND PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROSCIENCE METHODS
+JournalDetail.aspx?y=2018&t=NEUROIMMUNOMODULATION
+JournalDetail.aspx?y=2018&t=MedChemComm
+JournalDetail.aspx?y=2018&t=Dermatitis
+JournalDetail.aspx?y=2018&t=REGULATORY TOXICOLOGY AND PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=QUARTERLY JOURNAL OF NUCLEAR MEDICINE AND MOLECULAR IMAGING
+JournalDetail.aspx?y=2018&t=BMC IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Pregnancy Hypertension-An International Journal of Womens Cardiovascular Health
+JournalDetail.aspx?y=2018&t=PARASITE IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=VIROLOGICA SINICA
+JournalDetail.aspx?y=2018&t=PUBLIC HEALTH NUTRITION
+JournalDetail.aspx?y=2018&t=Journal of Mathematical Neuroscience
+JournalDetail.aspx?y=2018&t=JOURNAL OF SPORT = EXERCISE PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=Geriatrics = Gerontology International
+JournalDetail.aspx?y=2018&t=Epidemics
+JournalDetail.aspx?y=2018&t=Molecular Diagnosis = Therapy
+JournalDetail.aspx?y=2018&t=MEMORIAS DO INSTITUTO OSWALDO CRUZ
+JournalDetail.aspx?y=2018&t=International Journal of Endocrinology
+JournalDetail.aspx?y=2018&t=Clinical Interventions in Aging
+JournalDetail.aspx?y=2018&t=SKIN PHARMACOLOGY AND PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=PSYCHIATRY RESEARCH
+JournalDetail.aspx?y=2018&t=Expert Review of Respiratory Medicine
+JournalDetail.aspx?y=2018&t=NUTRITION IN CLINICAL PRACTICE
+JournalDetail.aspx?y=2018&t=FETAL DIAGNOSIS AND THERAPY
+JournalDetail.aspx?y=2018&t=JOURNAL OF BONE AND MINERAL METABOLISM
+JournalDetail.aspx?y=2018&t=NEUROPSYCHOLOGICAL REHABILITATION
+JournalDetail.aspx?y=2018&t=Allergy Asthma and Clinical Immunology
+JournalDetail.aspx?y=2018&t=World Neurosurgery
+JournalDetail.aspx?y=2018&t=DIAGNOSTIC MICROBIOLOGY AND INFECTIOUS DISEASE
+JournalDetail.aspx?y=2018&t=JOURNAL OF NURSING SCHOLARSHIP
+JournalDetail.aspx?y=2018&t=LARYNGOSCOPE
+JournalDetail.aspx?y=2018&t=AGING = MENTAL HEALTH
+JournalDetail.aspx?y=2018&t=Microbial Drug Resistance
+JournalDetail.aspx?y=2018&t=MEDICAL CARE RESEARCH AND REVIEW
+JournalDetail.aspx?y=2018&t=Cancer Control
+JournalDetail.aspx?y=2018&t=LASERS IN SURGERY AND MEDICINE
+JournalDetail.aspx?y=2018&t=NAUNYN-SCHMIEDEBERGS ARCHIVES OF PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE PERIPHERAL NERVOUS SYSTEM
+JournalDetail.aspx?y=2018&t=Current Treatment Options in Neurology
+JournalDetail.aspx?y=2018&t=QUALITY OF LIFE RESEARCH
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF SURGERY
+JournalDetail.aspx?y=2018&t=Pathogens and Disease
+JournalDetail.aspx?y=2018&t=BMJ Supportive = Palliative Care
+JournalDetail.aspx?y=2018&t=MICROVASCULAR RESEARCH
+JournalDetail.aspx?y=2018&t=Internal and Emergency Medicine
+JournalDetail.aspx?y=2018&t=OPHTHALMIC AND PHYSIOLOGICAL OPTICS
+JournalDetail.aspx?y=2018&t=Cancer Genomics = Proteomics
+JournalDetail.aspx?y=2018&t=Clinical Lymphoma Myeloma = Leukemia
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN PEDIATRICS
+JournalDetail.aspx?y=2018&t=Trends in Hearing
+JournalDetail.aspx?y=2018&t=ACTA TROPICA
+JournalDetail.aspx?y=2018&t=Paediatric Respiratory Reviews
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHARMACOLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=EPILEPSY RESEARCH
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF CLINICAL PATHOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Inflammation-London
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHARMACY AND PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=AAPS PHARMSCITECH
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF SPORTS MEDICINE
+JournalDetail.aspx?y=2018&t=Prehospital Emergency Care
+JournalDetail.aspx?y=2018&t=World Journal of Emergency Surgery
+JournalDetail.aspx?y=2018&t=ARCHIVES OF PHARMACAL RESEARCH
+JournalDetail.aspx?y=2018&t=Cardiology in Review
+JournalDetail.aspx?y=2018&t=NUCLEAR MEDICINE AND BIOLOGY
+JournalDetail.aspx?y=2018&t=European Journal of Sport Science
+JournalDetail.aspx?y=2018&t=HEALTH EXPECTATIONS
+JournalDetail.aspx?y=2018&t=CARDIOVASCULAR PATHOLOGY
+JournalDetail.aspx?y=2018&t=BMC GASTROENTEROLOGY
+JournalDetail.aspx?y=2018&t=Techniques in Coloproctology
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=JOURNAL OF RENAL NUTRITION
+JournalDetail.aspx?y=2018&t=Journal of the International Society of Sports Nutrition
+JournalDetail.aspx?y=2018&t=Diabetes Therapy
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+JournalDetail.aspx?y=2018&t=JOURNAL OF EXPERIMENTAL PSYCHOLOGY-HUMAN PERCEPTION AND PERFORMANCE
+JournalDetail.aspx?y=2018&t=Pain Practice
+JournalDetail.aspx?y=2018&t=Journal of Physiological Sciences
+JournalDetail.aspx?y=2018&t=GENETIC EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=SEMINARS IN DIAGNOSTIC PATHOLOGY
+JournalDetail.aspx?y=2018&t=BMC Nephrology
+JournalDetail.aspx?y=2018&t=Archives of Cardiovascular Diseases
+JournalDetail.aspx?y=2018&t=Pediatric Rheumatology
+JournalDetail.aspx?y=2018&t=RHINOLOGY
+JournalDetail.aspx?y=2018&t=EYE
+JournalDetail.aspx?y=2018&t=Cardiovascular Therapeutics
+JournalDetail.aspx?y=2018&t=Virology Journal
+JournalDetail.aspx?y=2018&t=International Journal of Rheumatic Diseases
+JournalDetail.aspx?y=2018&t=ARCHIVES OF MEDICAL RESEARCH
+JournalDetail.aspx?y=2018&t=VOX SANGUINIS
+JournalDetail.aspx?y=2018&t=NUTRITION AND CANCER-AN INTERNATIONAL JOURNAL
+JournalDetail.aspx?y=2018&t=NURSING OUTLOOK
+JournalDetail.aspx?y=2018&t=International Forum of Allergy = Rhinology
+JournalDetail.aspx?y=2018&t=JOURNAL OF CARDIOVASCULAR PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF INTERFERON AND CYTOKINE RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of Oral = Facial Pain and Headache
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF DEVELOPMENTAL NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=International Journal of Medical Sciences
+JournalDetail.aspx?y=2018&t=JOURNAL OF DEVELOPMENTAL AND BEHAVIORAL PEDIATRICS
+JournalDetail.aspx?y=2018&t=PARASITOLOGY RESEARCH
+JournalDetail.aspx?y=2018&t=GAIT = POSTURE
+JournalDetail.aspx?y=2018&t=INTERNATIONAL PSYCHOGERIATRICS
+JournalDetail.aspx?y=2018&t=Clinical Oral Investigations
+JournalDetail.aspx?y=2018&t=International Breastfeeding Journal
+JournalDetail.aspx?y=2018&t=BMC PUBLIC HEALTH
+JournalDetail.aspx?y=2018&t=CANCER IMAGING
+JournalDetail.aspx?y=2018&t=JOURNAL OF ATHLETIC TRAINING
+JournalDetail.aspx?y=2018&t=Diabetology = Metabolic Syndrome
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE NEUROLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Foodborne Pathogens and Disease
+JournalDetail.aspx?y=2018&t=ADVANCES IN HEALTH SCIENCES EDUCATION
+JournalDetail.aspx?y=2018&t=ALZHEIMER DISEASE = ASSOCIATED DISORDERS
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF APPLIED PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=Biomolecules = Therapeutics
+JournalDetail.aspx?y=2018&t=HORMONE AND METABOLIC RESEARCH
+JournalDetail.aspx?y=2018&t=Obesity Research = Clinical Practice
+JournalDetail.aspx?y=2018&t=SCANDINAVIAN JOURNAL OF IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=JAMA Facial Plastic Surgery
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICAL SYSTEMS
+JournalDetail.aspx?y=2018&t=LGBT Health
+JournalDetail.aspx?y=2018&t=PLANTA MEDICA
+JournalDetail.aspx?y=2018&t=FUNDAMENTAL = CLINICAL PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Clinical = Translational Oncology
+JournalDetail.aspx?y=2018&t=KOREAN JOURNAL OF RADIOLOGY
+JournalDetail.aspx?y=2018&t=Clinics and Research in Hepatology and Gastroenterology
+JournalDetail.aspx?y=2018&t=JOURNAL OF ANATOMY
+JournalDetail.aspx?y=2018&t=PSYCHIATRY RESEARCH-NEUROIMAGING
+JournalDetail.aspx?y=2018&t=JOURNAL OF ASSISTED REPRODUCTION AND GENETICS
+JournalDetail.aspx?y=2018&t=Journal of Sport and Health Science
+JournalDetail.aspx?y=2018&t=Contemporary Clinical Trials
+JournalDetail.aspx?y=2018&t=UROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICAL ECONOMICS
+JournalDetail.aspx?y=2018&t=BMC NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=CNS = Neurological Disorders-Drug Targets
+JournalDetail.aspx?y=2018&t=Health Reports
+JournalDetail.aspx?y=2018&t=BMC Pregnancy and Childbirth
+JournalDetail.aspx?y=2018&t=HEALTH ECONOMICS
+JournalDetail.aspx?y=2018&t=MAGNETIC RESONANCE IMAGING
+JournalDetail.aspx?y=2018&t=CLINICAL PHYSIOLOGY AND FUNCTIONAL IMAGING
+JournalDetail.aspx?y=2018&t=Frontiers in Pediatrics
+JournalDetail.aspx?y=2018&t=DERMATOLOGIC SURGERY
+JournalDetail.aspx?y=2018&t=ACTA ANAESTHESIOLOGICA SCANDINAVICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF PALLIATIVE MEDICINE
+JournalDetail.aspx?y=2018&t=OTOLARYNGOLOGY-HEAD AND NECK SURGERY
+JournalDetail.aspx?y=2018&t=TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE
+JournalDetail.aspx?y=2018&t=Archives of Osteoporosis
+JournalDetail.aspx?y=2018&t=PEDIATRIC ANESTHESIA
+JournalDetail.aspx?y=2018&t=CLINICAL JOURNAL OF SPORT MEDICINE
+JournalDetail.aspx?y=2018&t=Clinical Respiratory Journal
+JournalDetail.aspx?y=2018&t=BIRTH-ISSUES IN PERINATAL CARE
+JournalDetail.aspx?y=2018&t=NEURORADIOLOGY
+JournalDetail.aspx?y=2018&t=LASERS IN MEDICAL SCIENCE
+JournalDetail.aspx?y=2018&t=Journal of Hand Surgery-European Volume
+JournalDetail.aspx?y=2018&t=SURGEON-JOURNAL OF THE ROYAL COLLEGES OF SURGEONS OF EDINBURGH AND IRELAND
+JournalDetail.aspx?y=2018&t=Multiple Sclerosis and Related Disorders
+JournalDetail.aspx?y=2018&t=Quantitative Imaging in Medicine and Surgery
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF SPORT NUTRITION AND EXERCISE METABOLISM
+JournalDetail.aspx?y=2018&t=Pulmonary Circulation
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL AND CLINICAL PSYCHOPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=JMIR SERIOUS GAMES
+JournalDetail.aspx?y=2018&t=Journal of Hospital Medicine
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF GYNECOLOGICAL CANCER
+JournalDetail.aspx?y=2018&t=CLINICS IN DERMATOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL APHERESIS
+JournalDetail.aspx?y=2018&t=Scandinavian Journal of Trauma Resuscitation = Emergency Medicine
+JournalDetail.aspx?y=2018&t=ULTRASONICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHARMACOLOGICAL AND TOXICOLOGICAL METHODS
+JournalDetail.aspx?y=2018&t=Sleep and Breathing
+JournalDetail.aspx?y=2018&t=LANGENBECKS ARCHIVES OF SURGERY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THROMBOSIS AND THROMBOLYSIS
+JournalDetail.aspx?y=2018&t=Breast Journal
+JournalDetail.aspx?y=2018&t=EPIDEMIOLOGY AND INFECTION
+JournalDetail.aspx?y=2018&t=Health and Quality of Life Outcomes
+JournalDetail.aspx?y=2018&t=Future Oncology
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE ROYAL SOCIETY OF MEDICINE
+JournalDetail.aspx?y=2018&t=Translational Vision Science = Technology
+JournalDetail.aspx?y=2018&t=ARCHIVES OF DERMATOLOGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=Cancer Genetics
+JournalDetail.aspx?y=2018&t=European Review of Aging and Physical Activity
+JournalDetail.aspx?y=2018&t=DRUG DEVELOPMENT AND INDUSTRIAL PHARMACY
+JournalDetail.aspx?y=2018&t=Journal of Addiction Medicine
+JournalDetail.aspx?y=2018&t=Current Opinion in Anesthesiology
+JournalDetail.aspx?y=2018&t=Current Vascular Pharmacology
+JournalDetail.aspx?y=2018&t=Current Pain and Headache Reports
+JournalDetail.aspx?y=2018&t=Expert Review of Anticancer Therapy
+JournalDetail.aspx?y=2018&t=Expert Review of Hematology
+JournalDetail.aspx?y=2018&t=Frontiers of Hormone Research
+JournalDetail.aspx?y=2018&t=GRAEFES ARCHIVE FOR CLINICAL AND EXPERIMENTAL OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=BEST PRACTICE = RESEARCH CLINICAL HAEMATOLOGY
+JournalDetail.aspx?y=2018&t=TOXICON
+JournalDetail.aspx?y=2018&t=Diagnostic and Interventional Imaging
+JournalDetail.aspx?y=2018&t=Journal of Perinatology
+JournalDetail.aspx?y=2018&t=Canadian Journal of Diabetes
+JournalDetail.aspx?y=2018&t=CLINICAL RADIOLOGY
+JournalDetail.aspx?y=2018&t=BEHAVIORAL MEDICINE
+JournalDetail.aspx?y=2018&t=Current Hematologic Malignancy Reports
+JournalDetail.aspx?y=2018&t=International Journal of Surgery
+JournalDetail.aspx?y=2018&t=JOURNAL OF ORTHOPAEDIC TRAUMA
+JournalDetail.aspx?y=2018&t=CLINICAL RHEUMATOLOGY
+JournalDetail.aspx?y=2018&t=Frontiers in Computational Neuroscience
+JournalDetail.aspx?y=2018&t=CARDIOVASCULAR AND INTERVENTIONAL RADIOLOGY
+JournalDetail.aspx?y=2018&t=Biomarkers in Medicine
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICAL MICROBIOLOGY
+JournalDetail.aspx?y=2018&t=Human Vaccines = Immunotherapeutics
+JournalDetail.aspx?y=2018&t=COMMUNITY DENTISTRY AND ORAL EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN COLLEGE OF NUTRITION
+JournalDetail.aspx?y=2018&t=SYNAPSE
+JournalDetail.aspx?y=2018&t=Journal of Breast Cancer
+JournalDetail.aspx?y=2018&t=CURRENT PROBLEMS IN SURGERY
+JournalDetail.aspx?y=2018&t=ARTIFICIAL ORGANS
+JournalDetail.aspx?y=2018&t=Brain and Behavior
+JournalDetail.aspx?y=2018&t=Journal of Ethnobiology and Ethnomedicine
+JournalDetail.aspx?y=2018&t=PHOTODERMATOLOGY PHOTOIMMUNOLOGY = PHOTOMEDICINE
+JournalDetail.aspx?y=2018&t=IMMUNOGENETICS
+JournalDetail.aspx?y=2018&t=Clinical Spine Surgery
+JournalDetail.aspx?y=2018&t=Economics = Human Biology
+JournalDetail.aspx?y=2018&t=NEUROSURGICAL REVIEW
+JournalDetail.aspx?y=2018&t=International Journal of Clinical Oncology
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHARMACY AND PHARMACEUTICAL SCIENCES
+JournalDetail.aspx?y=2018&t=ARCHIVES OF VIROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF FLUENCY DISORDERS
+JournalDetail.aspx?y=2018&t=JOURNAL OF DERMATOLOGY
+JournalDetail.aspx?y=2018&t=Journal of the American Board of Family Medicine
+JournalDetail.aspx?y=2018&t=Food and Environmental Virology
+JournalDetail.aspx?y=2018&t=ANTI-CANCER DRUGS
+JournalDetail.aspx?y=2018&t=AUTONOMIC NEUROSCIENCE-BASIC = CLINICAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF WOMENS HEALTH
+JournalDetail.aspx?y=2018&t=Applied Physiology Nutrition and Metabolism
+JournalDetail.aspx?y=2018&t=QUARTERLY JOURNAL OF EXPERIMENTAL PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=BLOOD CELLS MOLECULES AND DISEASES
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL MONITORING AND COMPUTING
+JournalDetail.aspx?y=2018&t=HEALTH POLICY
+JournalDetail.aspx?y=2018&t=NEUROSCIENCE LETTERS
+JournalDetail.aspx?y=2018&t=JOURNAL OF ANTIBIOTICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE FORMOSAN MEDICAL ASSOCIATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF SURGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=HUMAN IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Health Informatics Journal
+JournalDetail.aspx?y=2018&t=JOURNAL OF TELEMEDICINE AND TELECARE
+JournalDetail.aspx?y=2018&t=EJNMMI Research
+JournalDetail.aspx?y=2018&t=FOOT = ANKLE INTERNATIONAL
+JournalDetail.aspx?y=2018&t=Medicinal Chemistry
+JournalDetail.aspx?y=2018&t=JOURNAL OF GERIATRIC PSYCHIATRY AND NEUROLOGY
+JournalDetail.aspx?y=2018&t=Journal of Surgical Education
+JournalDetail.aspx?y=2018&t=JOURNAL OF ENDOUROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN DENTAL ASSOCIATION
+JournalDetail.aspx?y=2018&t=Hernia
+JournalDetail.aspx?y=2018&t=Cancer Biomarkers
+JournalDetail.aspx?y=2018&t=Brachytherapy
+JournalDetail.aspx?y=2018&t=Parasite
+JournalDetail.aspx?y=2018&t=INTERNATIONAL ARCHIVES OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+JournalDetail.aspx?y=2018&t=BMC Complementary and Alternative Medicine
+JournalDetail.aspx?y=2018&t=CURRENT EYE RESEARCH
+JournalDetail.aspx?y=2018&t=Dose-Response
+JournalDetail.aspx?y=2018&t=Behavioral and Brain Functions
+JournalDetail.aspx?y=2018&t=Journal of Cardiovascular Nursing
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF CLINICAL PRACTICE
+JournalDetail.aspx?y=2018&t=COMPREHENSIVE PSYCHIATRY
+JournalDetail.aspx?y=2018&t=THERAPEUTIC DRUG MONITORING
+JournalDetail.aspx?y=2018&t=JOURNAL OF STRENGTH AND CONDITIONING RESEARCH
+JournalDetail.aspx?y=2018&t=Vitamins and Hormones
+JournalDetail.aspx?y=2018&t=DYSPHAGIA
+JournalDetail.aspx?y=2018&t=Musculoskeletal Science and Practice
+JournalDetail.aspx?y=2018&t=Journal of Evidence-Based Dental Practice
+JournalDetail.aspx?y=2018&t=International Journal of Laboratory Hematology
+JournalDetail.aspx?y=2018&t=MOLECULAR AND BIOCHEMICAL PARASITOLOGY
+JournalDetail.aspx?y=2018&t=NEUROSCIENCE RESEARCH
+JournalDetail.aspx?y=2018&t=ARCHIV DER PHARMAZIE
+JournalDetail.aspx?y=2018&t=ASAIO JOURNAL
+JournalDetail.aspx?y=2018&t=REVISTA BRASILEIRA DE PSIQUIATRIA
+JournalDetail.aspx?y=2018&t=ORAL DISEASES
+JournalDetail.aspx?y=2018&t=Diagnostic Pathology
+JournalDetail.aspx?y=2018&t=TOXICOLOGIC PATHOLOGY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF CANCER CARE
+JournalDetail.aspx?y=2018&t=CORNEA
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICAL SCREENING
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF PAEDIATRIC NEUROLOGY
+JournalDetail.aspx?y=2018&t=ARCHIVES OF GERONTOLOGY AND GERIATRICS
+JournalDetail.aspx?y=2018&t=ENDOCRINE PATHOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF HEALTH-SYSTEM PHARMACY
+JournalDetail.aspx?y=2018&t=CANCER INVESTIGATION
+JournalDetail.aspx?y=2018&t=INTEGRATIVE CANCER THERAPIES
+JournalDetail.aspx?y=2018&t=Islets
+JournalDetail.aspx?y=2018&t=PEDIATRIC NEUROLOGY
+JournalDetail.aspx?y=2018&t=MICROSURGERY
+JournalDetail.aspx?y=2018&t=BLOOD PRESSURE
+JournalDetail.aspx?y=2018&t=CARIES RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of Visceral Surgery
+JournalDetail.aspx?y=2018&t=ACTA PAEDIATRICA
+JournalDetail.aspx?y=2018&t=Journal of Family Nursing
+JournalDetail.aspx?y=2018&t=Neuropsychiatric Disease and Treatment
+JournalDetail.aspx?y=2018&t=Reproductive Health
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF DERMATOLOGY
+JournalDetail.aspx?y=2018&t=ONCOLOGY NURSING FORUM
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN CARDIOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Orthopaedic Translation
+JournalDetail.aspx?y=2018&t=CRITICAL REVIEWS IN IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=MICROBIAL PATHOGENESIS
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEPHROLOGY
+JournalDetail.aspx?y=2018&t=BIOPHARMACEUTICS = DRUG DISPOSITION
+JournalDetail.aspx?y=2018&t=PEDIATRIC DRUGS
+JournalDetail.aspx?y=2018&t=SURGICAL CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+JournalDetail.aspx?y=2018&t=BMC Medical Genetics
+JournalDetail.aspx?y=2018&t=UROLOGIC CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=ACADEMIC RADIOLOGY
+JournalDetail.aspx?y=2018&t=IMMUNOLOGICAL INVESTIGATIONS
+JournalDetail.aspx?y=2018&t=ULTRASONIC IMAGING
+JournalDetail.aspx?y=2018&t=NURSE EDUCATION TODAY
+JournalDetail.aspx?y=2018&t=MAGNETIC RESONANCE MATERIALS IN PHYSICS BIOLOGY AND MEDICINE
+JournalDetail.aspx?y=2018&t=Current Opinion in Supportive and Palliative Care
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL BIOCHEMISTRY AND NUTRITION
+JournalDetail.aspx?y=2018&t=BMC Pharmacology = Toxicology
+JournalDetail.aspx?y=2018&t=JOURNAL OF ADVANCED NURSING
+JournalDetail.aspx?y=2018&t=JOURNAL OF ECT
+JournalDetail.aspx?y=2018&t=VECTOR-BORNE AND ZOONOTIC DISEASES
+JournalDetail.aspx?y=2018&t=JAPANESE JOURNAL OF CLINICAL ONCOLOGY
+JournalDetail.aspx?y=2018&t=OTOLOGY = NEUROTOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF IMMUNOLOGICAL METHODS
+JournalDetail.aspx?y=2018&t=JOURNAL OF ORAL PATHOLOGY = MEDICINE
+JournalDetail.aspx?y=2018&t=BMC Neurology
+JournalDetail.aspx?y=2018&t=CURRENT NEUROVASCULAR RESEARCH
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF INFECTION CONTROL
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROPSYCHIATRY AND CLINICAL NEUROSCIENCES
+JournalDetail.aspx?y=2018&t=ANNALS OF CLINICAL BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=Archives of Medical Science
+JournalDetail.aspx?y=2018&t=Human Gene Therapy Methods
+JournalDetail.aspx?y=2018&t=Revista de Psiquiatria y Salud Mental
+JournalDetail.aspx?y=2018&t=EARLY HUMAN DEVELOPMENT
+JournalDetail.aspx?y=2018&t=JOURNAL OF GLAUCOMA
+JournalDetail.aspx?y=2018&t=CLINICAL AND EXPERIMENTAL PHARMACOLOGY AND PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=Aging Male
+JournalDetail.aspx?y=2018&t=UPSALA JOURNAL OF MEDICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Therapeutics and Clinical Risk Management
+JournalDetail.aspx?y=2018&t=European Journal of Physical and Rehabilitation Medicine
+JournalDetail.aspx?y=2018&t=BURNS
+JournalDetail.aspx?y=2018&t=DEVELOPMENTAL NEUROPSYCHOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Neurosurgery-Pediatrics
+JournalDetail.aspx?y=2018&t=Expert Review of Medical Devices
+JournalDetail.aspx?y=2018&t=CURRENT PHARMACEUTICAL BIOTECHNOLOGY
+JournalDetail.aspx?y=2018&t=Canadian Journal of Gastroenterology and Hepatology
+JournalDetail.aspx?y=2018&t=JOURNAL OF HUMAN LACTATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF ORAL REHABILITATION
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF GASTROENTEROLOGY = HEPATOLOGY
+JournalDetail.aspx?y=2018&t=TRANSFUSION MEDICINE AND HEMOTHERAPY
+JournalDetail.aspx?y=2018&t=BEHAVIOURAL PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Abdominal Radiology
+JournalDetail.aspx?y=2018&t=JOURNAL OF INVESTIGATIVE MEDICINE
+JournalDetail.aspx?y=2018&t=Sexual Development
+JournalDetail.aspx?y=2018&t=Scandinavian Journal of Surgery
+JournalDetail.aspx?y=2018&t=BMC Endocrine Disorders
+JournalDetail.aspx?y=2018&t=Current Drug Delivery
+JournalDetail.aspx?y=2018&t=TECHNOLOGY IN CANCER RESEARCH = TREATMENT
+JournalDetail.aspx?y=2018&t=CRITICAL CARE CLINICS
+JournalDetail.aspx?y=2018&t=COMPLEMENTARY THERAPIES IN MEDICINE
+JournalDetail.aspx?y=2018&t=POSTGRADUATE MEDICINE
+JournalDetail.aspx?y=2018&t=Acupuncture in Medicine
+JournalDetail.aspx?y=2018&t=Toxicology Research
+JournalDetail.aspx?y=2018&t=Journal of Developmental Origins of Health and Disease
+JournalDetail.aspx?y=2018&t=LUNG
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF SURGERY
+JournalDetail.aspx?y=2018&t=DIGESTION
+JournalDetail.aspx?y=2018&t=Worldviews on Evidence-Based Nursing
+JournalDetail.aspx?y=2018&t=ARCHIVES OF GYNECOLOGY AND OBSTETRICS
+JournalDetail.aspx?y=2018&t=INJURY-INTERNATIONAL JOURNAL OF THE CARE OF THE INJURED
+JournalDetail.aspx?y=2018&t=ORTHOPEDIC CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=BIOMARKERS
+JournalDetail.aspx?y=2018&t=Drug Metabolism and Pharmacokinetics
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF CRITICAL CARE
+JournalDetail.aspx?y=2018&t=Telemedicine and e-Health
+JournalDetail.aspx?y=2018&t=CLINICS IN LABORATORY MEDICINE
+JournalDetail.aspx?y=2018&t=AIDS RESEARCH AND HUMAN RETROVIRUSES
+JournalDetail.aspx?y=2018&t=MINERVA MEDICA
+JournalDetail.aspx?y=2018&t=DARU-Journal of Pharmaceutical Sciences
+JournalDetail.aspx?y=2018&t=JOURNAL OF VASCULAR RESEARCH
+JournalDetail.aspx?y=2018&t=MEDICINE
+JournalDetail.aspx?y=2018&t=Annals of Laboratory Medicine
+JournalDetail.aspx?y=2018&t=JOURNAL OF PROSTHETIC DENTISTRY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF PEDIATRICS
+JournalDetail.aspx?y=2018&t=European Journal of Medical Genetics
+JournalDetail.aspx?y=2018&t=Journal of Plastic Reconstructive and Aesthetic Surgery
+JournalDetail.aspx?y=2018&t=World Journal of Mens Health
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF IMMUNOPATHOLOGY AND PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=BMC Pediatrics
+JournalDetail.aspx?y=2018&t=CLINICAL AND APPLIED THROMBOSIS-HEMOSTASIS
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICAL VIROLOGY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF GYNECOLOGY = OBSTETRICS
+JournalDetail.aspx?y=2018&t=Journal of Bone Oncology
+JournalDetail.aspx?y=2018&t=CLINICS IN GERIATRIC MEDICINE
+JournalDetail.aspx?y=2018&t=FORENSIC SCIENCE INTERNATIONAL
+JournalDetail.aspx?y=2018&t=Paediatrics = Child Health
+JournalDetail.aspx?y=2018&t=Endocrine Metabolic = Immune Disorders-Drug Targets
+JournalDetail.aspx?y=2018&t=Trials
+JournalDetail.aspx?y=2018&t=JOURNAL OF DERMATOLOGICAL TREATMENT
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHEMICAL NEUROANATOMY
+JournalDetail.aspx?y=2018&t=Adicciones
+JournalDetail.aspx?y=2018&t=PSYCHOSOMATICS
+JournalDetail.aspx?y=2018&t=American Journal of Rhinology = Allergy
+JournalDetail.aspx?y=2018&t=BRAIN INJURY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL UROGYNECOLOGY JOURNAL
+JournalDetail.aspx?y=2018&t=Current Cardiology Reports
+JournalDetail.aspx?y=2018&t=International Journal of Mental Health Nursing
+JournalDetail.aspx?y=2018&t=Current Oncology
+JournalDetail.aspx?y=2018&t=ACTA RADIOLOGICA
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF EXPERIMENTAL PATHOLOGY
+JournalDetail.aspx?y=2018&t=Current Problems in Pediatric and Adolescent Health Care
+JournalDetail.aspx?y=2018&t=JOURNAL OF PEDIATRIC SURGERY
+JournalDetail.aspx?y=2018&t=Preventing Chronic Disease
+JournalDetail.aspx?y=2018&t=Jornal de Pediatria
+JournalDetail.aspx?y=2018&t=CLINICAL EEG AND NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=NEUROLOGIA
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF ORAL = MAXILLOFACIAL IMPLANTS
+JournalDetail.aspx?y=2018&t=BMC Medical Informatics and Decision Making
+JournalDetail.aspx?y=2018&t=Journal of Thoracic Disease
+JournalDetail.aspx?y=2018&t=NEUROLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=VISION RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF RECONSTRUCTIVE MICROSURGERY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE EXPERIMENTAL ANALYSIS OF BEHAVIOR
+JournalDetail.aspx?y=2018&t=JOURNAL OF PUBLIC HEALTH
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF CARDIOVASCULAR IMAGING
+JournalDetail.aspx?y=2018&t=Heart Failure Clinics
+JournalDetail.aspx?y=2018&t=NEPHRON
+JournalDetail.aspx?y=2018&t=Metabolic Syndrome and Related Disorders
+JournalDetail.aspx?y=2018&t=SCIENCE = JUSTICE
+JournalDetail.aspx?y=2018&t=World Journal of Clinical Cases
+JournalDetail.aspx?y=2018&t=RESEARCH QUARTERLY FOR EXERCISE AND SPORT
+JournalDetail.aspx?y=2018&t=International Heart Journal
+JournalDetail.aspx?y=2018&t=European Journal of Emergency Medicine
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL BRAIN RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of Pharmaceutical Innovation
+JournalDetail.aspx?y=2018&t=DISABILITY AND REHABILITATION
+JournalDetail.aspx?y=2018&t=Forensic Science Medicine and Pathology
+JournalDetail.aspx?y=2018&t=CardioRenal Medicine
+JournalDetail.aspx?y=2018&t=APMIS
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICINAL FOOD
+JournalDetail.aspx?y=2018&t=Cartilage
+JournalDetail.aspx?y=2018&t=JOURNAL OF URBAN HEALTH-BULLETIN OF THE NEW YORK ACADEMY OF MEDICINE
+JournalDetail.aspx?y=2018&t=EMERGENCY MEDICINE JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF AGING AND PHYSICAL ACTIVITY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF RADIATION BIOLOGY
+JournalDetail.aspx?y=2018&t=European Review for Medical and Pharmacological Sciences
+JournalDetail.aspx?y=2018&t=MEDICAL AND VETERINARY ENTOMOLOGY
+JournalDetail.aspx?y=2018&t=Chronic Respiratory Disease
+JournalDetail.aspx?y=2018&t=COMPARATIVE IMMUNOLOGY MICROBIOLOGY AND INFECTIOUS DISEASES
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF PHYSIOLOGY AND PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Evidence-based Complementary and Alternative Medicine
+JournalDetail.aspx?y=2018&t=Respiratory Care
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEURO-OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=ETHNICITY = HEALTH
+JournalDetail.aspx?y=2018&t=Clinical and Experimental Nephrology
+JournalDetail.aspx?y=2018&t=DOCUMENTA OPHTHALMOLOGICA
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL AND TOXICOLOGIC PATHOLOGY
+JournalDetail.aspx?y=2018&t=Child and Adolescent Psychiatry and Mental Health
+JournalDetail.aspx?y=2018&t=Current Urology Reports
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF RADIOLOGY
+JournalDetail.aspx?y=2018&t=STRESS AND HEALTH
+JournalDetail.aspx?y=2018&t=ANTICANCER RESEARCH
+JournalDetail.aspx?y=2018&t=VASCULAR MEDICINE
+JournalDetail.aspx?y=2018&t=Familial Cancer
+JournalDetail.aspx?y=2018&t=Journal of Gastrointestinal and Liver Diseases
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROGENETICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHARMACOKINETICS AND PHARMACODYNAMICS
+JournalDetail.aspx?y=2018&t=AMERICAN FAMILY PHYSICIAN
+JournalDetail.aspx?y=2018&t=BRAIN BEHAVIOR AND EVOLUTION
+JournalDetail.aspx?y=2018&t=Journal of Genetic Counseling
+JournalDetail.aspx?y=2018&t=Language Cognition and Neuroscience
+JournalDetail.aspx?y=2018&t=Indian Journal of Dermatology Venereology = Leprology
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF UROLOGY
+JournalDetail.aspx?y=2018&t=PARASITOLOGY INTERNATIONAL
+JournalDetail.aspx?y=2018&t=Birth Defects Research
+JournalDetail.aspx?y=2018&t=Applied Health Economics and Health Policy
+JournalDetail.aspx?y=2018&t=International Journal of Computer Assisted Radiology and Surgery
+JournalDetail.aspx?y=2018&t=Advances in Experimental Medicine and Biology
+JournalDetail.aspx?y=2018&t=ARCHIVES OF CLINICAL NEUROPSYCHOLOGY
+JournalDetail.aspx?y=2018&t=AUDIOLOGY AND NEURO-OTOLOGY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF ORAL AND MAXILLOFACIAL SURGERY
+JournalDetail.aspx?y=2018&t=GROWTH HORMONE = IGF RESEARCH
+JournalDetail.aspx?y=2018&t=ENDOCRINE JOURNAL
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PHYSICAL MEDICINE = REHABILITATION
+JournalDetail.aspx?y=2018&t=Simulation in Healthcare-Journal of the Society for Simulation in Healthcare
+JournalDetail.aspx?y=2018&t=JOURNAL OF NERVOUS AND MENTAL DISEASE
+JournalDetail.aspx?y=2018&t=HEALTH PROMOTION INTERNATIONAL
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN UROLOGY
+JournalDetail.aspx?y=2018&t=International Journal of Integrated Care
+JournalDetail.aspx?y=2018&t=Modern Rheumatology
+JournalDetail.aspx?y=2018&t=JOURNAL OF ASTHMA
+JournalDetail.aspx?y=2018&t=BMC Palliative Care
+JournalDetail.aspx?y=2018&t=PATHOLOGY = ONCOLOGY RESEARCH
+JournalDetail.aspx?y=2018&t=Hormone Research in Paediatrics
+JournalDetail.aspx?y=2018&t=SEMINARS IN NEUROLOGY
+JournalDetail.aspx?y=2018&t=MIDWIFERY
+JournalDetail.aspx?y=2018&t=INJURY PREVENTION
+JournalDetail.aspx?y=2018&t=Clinical Psychopharmacology and Neuroscience
+JournalDetail.aspx?y=2018&t=POSTGRADUATE MEDICAL JOURNAL
+JournalDetail.aspx?y=2018&t=INHALATION TOXICOLOGY
+JournalDetail.aspx?y=2018&t=CLINICAL DRUG INVESTIGATION
+JournalDetail.aspx?y=2018&t=SURGERY TODAY
+JournalDetail.aspx?y=2018&t=Journal of Natural Medicines
+JournalDetail.aspx?y=2018&t=Tobacco Induced Diseases
+JournalDetail.aspx?y=2018&t=BMC Cardiovascular Disorders
+JournalDetail.aspx?y=2018&t=COMPUTERIZED MEDICAL IMAGING AND GRAPHICS
+JournalDetail.aspx?y=2018&t=Parkinsons Disease
+JournalDetail.aspx?y=2018&t=KOREAN JOURNAL OF INTERNAL MEDICINE
+JournalDetail.aspx?y=2018&t=DRUG DEVELOPMENT RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of Nursing Management
+JournalDetail.aspx?y=2018&t=NEPHROLOGY
+JournalDetail.aspx?y=2018&t=VISUAL NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=ARCHIVES OF ORAL BIOLOGY
+JournalDetail.aspx?y=2018&t=NEOPLASMA
+JournalDetail.aspx?y=2018&t=CANCER NURSING
+JournalDetail.aspx?y=2018&t=Heart Lung and Circulation
+JournalDetail.aspx?y=2018&t=Frontiers of Medicine
+JournalDetail.aspx?y=2018&t=XENOBIOTICA
+JournalDetail.aspx?y=2018&t=NURSING RESEARCH
+JournalDetail.aspx?y=2018&t=Zeitschrift fur Medizinische Physik
+JournalDetail.aspx?y=2018&t=Journal of Immunotoxicology
+JournalDetail.aspx?y=2018&t=NEUROSURGERY CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=FAMILY PRACTICE
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF LANGUAGE = COMMUNICATION DISORDERS
+JournalDetail.aspx?y=2018&t=Current Infectious Disease Reports
+JournalDetail.aspx?y=2018&t=GROWTH FACTORS
+JournalDetail.aspx?y=2018&t=Women and Birth
+JournalDetail.aspx?y=2018&t=Molecular Informatics
+JournalDetail.aspx?y=2018&t=RHEUMATOLOGY INTERNATIONAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF TRAVEL MEDICINE
+JournalDetail.aspx?y=2018&t=Noise = Health
+JournalDetail.aspx?y=2018&t=JOURNAL OF ONCOLOGY PHARMACY PRACTICE
+JournalDetail.aspx?y=2018&t=Gastroenterology Research and Practice
+JournalDetail.aspx?y=2018&t=ADVANCES IN PHYSIOLOGY EDUCATION
+JournalDetail.aspx?y=2018&t=Journal of Interprofessional Care
+JournalDetail.aspx?y=2018&t=CARDIOLOGY
+JournalDetail.aspx?y=2018&t=ASSAY AND DRUG DEVELOPMENT TECHNOLOGIES
+JournalDetail.aspx?y=2018&t=Journal of Geriatric Physical Therapy
+JournalDetail.aspx?y=2018&t=Netherlands Heart Journal
+JournalDetail.aspx?y=2018&t=BMC Medical Ethics
+JournalDetail.aspx?y=2018&t=ACTA NEUROCHIRURGICA
+JournalDetail.aspx?y=2018&t=BMC Family Practice
+JournalDetail.aspx?y=2018&t=DIGESTIVE SURGERY
+JournalDetail.aspx?y=2018&t=BMC MUSCULOSKELETAL DISORDERS
+JournalDetail.aspx?y=2018&t=Hepatitis Monthly
+JournalDetail.aspx?y=2018&t=Global Health Action
+JournalDetail.aspx?y=2018&t=JOURNAL OF BEHAVIORAL HEALTH SERVICES = RESEARCH
+JournalDetail.aspx?y=2018&t=CLINICAL HEMORHEOLOGY AND MICROCIRCULATION
+JournalDetail.aspx?y=2018&t=Journal of Psychiatric Practice
+JournalDetail.aspx?y=2018&t=ARCHIVES OF ORTHOPAEDIC AND TRAUMA SURGERY
+JournalDetail.aspx?y=2018&t=SEMINARS IN DIALYSIS
+JournalDetail.aspx?y=2018&t=PANMINERVA MEDICA
+JournalDetail.aspx?y=2018&t=Contact Lens = Anterior Eye
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF HEMATOLOGY
+JournalDetail.aspx?y=2018&t=SAMJ SOUTH AFRICAN MEDICAL JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL AND EXPERIMENTAL NEUROPSYCHOLOGY
+JournalDetail.aspx?y=2018&t=PSYCHOLOGY AND PSYCHOTHERAPY-THEORY RESEARCH AND PRACTICE
+JournalDetail.aspx?y=2018&t=RADIOLOGIC CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=PHARMACEUTICAL BIOLOGY
+JournalDetail.aspx?y=2018&t=AIDS Research and Therapy
+JournalDetail.aspx?y=2018&t=CLINICAL BIOMECHANICS
+JournalDetail.aspx?y=2018&t=PHARMACEUTICAL DEVELOPMENT AND TECHNOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF MATHEMATICAL PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=HLA
+JournalDetail.aspx?y=2018&t=DENTOMAXILLOFACIAL RADIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THORACIC IMAGING
+JournalDetail.aspx?y=2018&t=JOURNAL OF RADIATION RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF OCULAR PHARMACOLOGY AND THERAPEUTICS
+JournalDetail.aspx?y=2018&t=SPINAL CORD
+JournalDetail.aspx?y=2018&t=Multisensory Research
+JournalDetail.aspx?y=2018&t=NEUROLOGY INDIA
+JournalDetail.aspx?y=2018&t=JOURNAL OF ORAL AND MAXILLOFACIAL SURGERY
+JournalDetail.aspx?y=2018&t=STATISTICS IN MEDICINE
+JournalDetail.aspx?y=2018&t=CANADIAN FAMILY PHYSICIAN
+JournalDetail.aspx?y=2018&t=KNEE
+JournalDetail.aspx?y=2018&t=Attention Perception = Psychophysics
+JournalDetail.aspx?y=2018&t=Twin Research and Human Genetics
+JournalDetail.aspx?y=2018&t=Australian Critical Care
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=PHYSICAL THERAPY IN SPORT
+JournalDetail.aspx?y=2018&t=Urolithiasis
+JournalDetail.aspx?y=2018&t=PHARMACOPSYCHIATRY
+JournalDetail.aspx?y=2018&t=OBSTETRICAL = GYNECOLOGICAL SURVEY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ADHESIVE DENTISTRY
+JournalDetail.aspx?y=2018&t=PM=R
+JournalDetail.aspx?y=2018&t=ACTA NEUROLOGICA BELGICA
+JournalDetail.aspx?y=2018&t=Journal of Managed Care = Specialty Pharmacy
+JournalDetail.aspx?y=2018&t=HUMAN MOVEMENT SCIENCE
+JournalDetail.aspx?y=2018&t=Seminars in Pediatric Surgery
+JournalDetail.aspx?y=2018&t=BMC HEALTH SERVICES RESEARCH
+JournalDetail.aspx?y=2018&t=Cell Journal
+JournalDetail.aspx?y=2018&t=Brain Tumor Pathology
+JournalDetail.aspx?y=2018&t=Thoracic Surgery Clinics
+JournalDetail.aspx?y=2018&t=Infectious Agents and Cancer
+JournalDetail.aspx?y=2018&t=Blood Transfusion
+JournalDetail.aspx?y=2018&t=European Journal of Oncology Nursing
+JournalDetail.aspx?y=2018&t=Public Health Genomics
+JournalDetail.aspx?y=2018&t=Patient Preference and Adherence
+JournalDetail.aspx?y=2018&t=HUMAN = EXPERIMENTAL TOXICOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROIMAGING
+JournalDetail.aspx?y=2018&t=Therapeutic Hypothermia and Temperature Management
+JournalDetail.aspx?y=2018&t=JOURNAL OF SCHOOL HEALTH
+JournalDetail.aspx?y=2018&t=APPLIED IMMUNOHISTOCHEMISTRY = MOLECULAR MORPHOLOGY
+JournalDetail.aspx?y=2018&t=CLINICAL TRANSPLANTATION
+JournalDetail.aspx?y=2018&t=NEUROPATHOLOGY
+JournalDetail.aspx?y=2018&t=Breast Care
+JournalDetail.aspx?y=2018&t=RESPIRATORY PHYSIOLOGY = NEUROBIOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Sports Science and Medicine
+JournalDetail.aspx?y=2018&t=INTERNAL MEDICINE JOURNAL
+JournalDetail.aspx?y=2018&t=Lymphatic Research and Biology
+JournalDetail.aspx?y=2018&t=PUBLIC HEALTH REPORTS
+JournalDetail.aspx?y=2018&t=Expert Review of Pharmacoeconomics = Outcomes Research
+JournalDetail.aspx?y=2018&t=AUSTRALIAN AND NEW ZEALAND JOURNAL OF PUBLIC HEALTH
+JournalDetail.aspx?y=2018&t=JOURNAL OF SPEECH LANGUAGE AND HEARING RESEARCH
+JournalDetail.aspx?y=2018&t=International Health
+JournalDetail.aspx?y=2018&t=MOLECULAR BIOTECHNOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF THE MEDICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Eating and Weight Disorders-Studies on Anorexia Bulimia and Obesity
+JournalDetail.aspx?y=2018&t=JOURNAL OF MEDICAL ETHICS
+JournalDetail.aspx?y=2018&t=Seminars in Pediatric Neurology
+JournalDetail.aspx?y=2018&t=Asia-Pacific Journal of Clinical Oncology
+JournalDetail.aspx?y=2018&t=Molecular Medicine Reports
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL PHARMACY AND THERAPEUTICS
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF AUDIOLOGY
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL PARASITOLOGY
+JournalDetail.aspx?y=2018&t=Hereditary Cancer in Clinical Practice
+JournalDetail.aspx?y=2018&t=ANASTHESIOLOGIE = INTENSIVMEDIZIN
+JournalDetail.aspx?y=2018&t=DIABETES EDUCATOR
+JournalDetail.aspx?y=2018&t=Journal of Digestive Diseases
+JournalDetail.aspx?y=2018&t=Annals of Global Health
+JournalDetail.aspx?y=2018&t=Radiology and Oncology
+JournalDetail.aspx?y=2018&t=European Journal of Obstetrics = Gynecology and Reproductive Biology
+JournalDetail.aspx?y=2018&t=Radiologia Medica
+JournalDetail.aspx?y=2018&t=JOURNAL OF CRANIO-MAXILLOFACIAL SURGERY
+JournalDetail.aspx?y=2018&t=Journal of Cardiopulmonary Rehabilitation and Prevention
+JournalDetail.aspx?y=2018&t=SWISS MEDICAL WEEKLY
+JournalDetail.aspx?y=2018&t=BMC Urology
+JournalDetail.aspx?y=2018&t=NEUROPHYSIOLOGIE CLINIQUE-CLINICAL NEUROPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=IMMUNOPHARMACOLOGY AND IMMUNOTOXICOLOGY
+JournalDetail.aspx?y=2018&t=AUSTRALIAN = NEW ZEALAND JOURNAL OF OBSTETRICS = GYNAECOLOGY
+JournalDetail.aspx?y=2018&t=HIV CLINICAL TRIALS
+JournalDetail.aspx?y=2018&t=NURSING ETHICS
+JournalDetail.aspx?y=2018&t=Research in Sports Medicine
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF ORTHODONTICS
+JournalDetail.aspx?y=2018&t=Journal of Cardiovascular Medicine
+JournalDetail.aspx?y=2018&t=RESEARCH IN NURSING = HEALTH
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF INDUSTRIAL MEDICINE
+JournalDetail.aspx?y=2018&t=JOURNAL OF SPINAL CORD MEDICINE
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF BIOMEDICAL SCIENCE
+JournalDetail.aspx?y=2018&t=SCANDINAVIAN JOURNAL OF PRIMARY HEALTH CARE
+JournalDetail.aspx?y=2018&t=CANCER BIOTHERAPY AND RADIOPHARMACEUTICALS
+JournalDetail.aspx?y=2018&t=HIGH ALTITUDE MEDICINE = BIOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF MEDICAL QUALITY
+JournalDetail.aspx?y=2018&t=CORONARY ARTERY DISEASE
+JournalDetail.aspx?y=2018&t=American Journal of Alzheimers Disease and Other Dementias
+JournalDetail.aspx?y=2018&t=JOURNAL OF REHABILITATION MEDICINE
+JournalDetail.aspx?y=2018&t=MEDECINE ET MALADIES INFECTIEUSES
+JournalDetail.aspx?y=2018&t=KOREAN JOURNAL OF PHYSIOLOGY = PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=FOOD AND NUTRITION BULLETIN
+JournalDetail.aspx?y=2018&t=Annals of Hepatology
+JournalDetail.aspx?y=2018&t=Annals of Work Exposures and Health
+JournalDetail.aspx?y=2018&t=Disability and Health Journal
+JournalDetail.aspx?y=2018&t=TOXICOLOGY MECHANISMS AND METHODS
+JournalDetail.aspx?y=2018&t=Italian Journal of Pediatrics
+JournalDetail.aspx?y=2018&t=Journal of Contemporary Brachytherapy
+JournalDetail.aspx?y=2018&t=CLINICAL ANATOMY
+JournalDetail.aspx?y=2018&t=Transplant Infectious Disease
+JournalDetail.aspx?y=2018&t=Chinese Journal of Natural Medicines
+JournalDetail.aspx?y=2018&t=Magnetic Resonance Imaging Clinics of North America
+JournalDetail.aspx?y=2018&t=TRANSFUSION MEDICINE
+JournalDetail.aspx?y=2018&t=ACTA NEUROPSYCHIATRICA
+JournalDetail.aspx?y=2018&t=STEREOTACTIC AND FUNCTIONAL NEUROSURGERY
+JournalDetail.aspx?y=2018&t=BEHAVIOURAL NEUROLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF INFECTION AND CHEMOTHERAPY
+JournalDetail.aspx?y=2018&t=PATHOBIOLOGY
+JournalDetail.aspx?y=2018&t=ANNALS OF ANATOMY-ANATOMISCHER ANZEIGER
+JournalDetail.aspx?y=2018&t=JOURNAL OF INTERVENTIONAL CARDIAC ELECTROPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF HAND SURGERY-AMERICAN VOLUME
+JournalDetail.aspx?y=2018&t=Operative Neurosurgery
+JournalDetail.aspx?y=2018&t=EVALUATION = THE HEALTH PROFESSIONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF CARDIOVASCULAR SURGERY
+JournalDetail.aspx?y=2018&t=DERMATOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF ORTHODONTICS AND DENTOFACIAL ORTHOPEDICS
+JournalDetail.aspx?y=2018&t=OBSTETRICS AND GYNECOLOGY CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=Seminars in Oncology Nursing
+JournalDetail.aspx?y=2018&t=Journal of Maternal-Fetal = Neonatal Medicine
+JournalDetail.aspx?y=2018&t=ANNALS OF NONINVASIVE ELECTROCARDIOLOGY
+JournalDetail.aspx?y=2018&t=Pain Research = Management
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL AND CLINICAL ENDOCRINOLOGY = DIABETES
+JournalDetail.aspx?y=2018&t=BIOETHICS
+JournalDetail.aspx?y=2018&t=Neural Regeneration Research
+JournalDetail.aspx?y=2018&t=Infectious Diseases
+JournalDetail.aspx?y=2018&t=Brazilian Journal of Infectious Diseases
+JournalDetail.aspx?y=2018&t=JOURNAL OF VIROLOGICAL METHODS
+JournalDetail.aspx?y=2018&t=CLEVELAND CLINIC JOURNAL OF MEDICINE
+JournalDetail.aspx?y=2018&t=METHODS OF INFORMATION IN MEDICINE
+JournalDetail.aspx?y=2018&t=CRITICAL REVIEWS IN EUKARYOTIC GENE EXPRESSION
+JournalDetail.aspx?y=2018&t=BIOLOGICAL = PHARMACEUTICAL BULLETIN
+JournalDetail.aspx?y=2018&t=ENFERMEDADES INFECCIOSAS Y MICROBIOLOGIA CLINICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE RENIN-ANGIOTENSIN-ALDOSTERONE SYSTEM
+JournalDetail.aspx?y=2018&t=Interactive Cardiovascular and Thoracic Surgery
+JournalDetail.aspx?y=2018&t=Breastfeeding Medicine
+JournalDetail.aspx?y=2018&t=Journal of Neurosurgical Sciences
+JournalDetail.aspx?y=2018&t=JOURNAL OF INTERVENTIONAL CARDIOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Pediatric and Adolescent Gynecology
+JournalDetail.aspx?y=2018&t=JOURNAL OF PERINATAL MEDICINE
+JournalDetail.aspx?y=2018&t=PHOTOMEDICINE AND LASER SURGERY
+JournalDetail.aspx?y=2018&t=CLINICAL NEUROPSYCHOLOGIST
+JournalDetail.aspx?y=2018&t=SKIN RESEARCH AND TECHNOLOGY
+JournalDetail.aspx?y=2018&t=Diagnostic and Interventional Radiology
+JournalDetail.aspx?y=2018&t=DRUG AND CHEMICAL TOXICOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Knee Surgery
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF COSMETIC SCIENCE
+JournalDetail.aspx?y=2018&t=OPHTHALMIC RESEARCH
+JournalDetail.aspx?y=2018&t=CHILD CARE HEALTH AND DEVELOPMENT
+JournalDetail.aspx?y=2018&t=Chinese Medicine
+JournalDetail.aspx?y=2018&t=JOURNAL OF MORPHOLOGY
+JournalDetail.aspx?y=2018&t=MEDICAL SCIENCE MONITOR
+JournalDetail.aspx?y=2018&t=Pathogens and Global Health
+JournalDetail.aspx?y=2018&t=AGING CLINICAL AND EXPERIMENTAL RESEARCH
+JournalDetail.aspx?y=2018&t=PSYCHIATRIC GENETICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF PEDIATRIC ORTHOPAEDICS
+JournalDetail.aspx?y=2018&t=Hepatobiliary = Pancreatic Diseases International
+JournalDetail.aspx?y=2018&t=PERITONEAL DIALYSIS INTERNATIONAL
+JournalDetail.aspx?y=2018&t=ROFO-FORTSCHRITTE AUF DEM GEBIET DER RONTGENSTRAHLEN UND DER BILDGEBENDEN VERFAHREN
+JournalDetail.aspx?y=2018&t=OPHTHALMOLOGICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED SPORT PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=BLOOD PURIFICATION
+JournalDetail.aspx?y=2018&t=Gaceta Sanitaria
+JournalDetail.aspx?y=2018&t=Journal of Ophthalmology
+JournalDetail.aspx?y=2018&t=JOURNAL OF FAMILY PLANNING AND REPRODUCTIVE HEALTH CARE
+JournalDetail.aspx?y=2018&t=International Journal of Hypertension
+JournalDetail.aspx?y=2018&t=BRAIN = DEVELOPMENT
+JournalDetail.aspx?y=2018&t=Journal of Tissue Viability
+JournalDetail.aspx?y=2018&t=Australian Occupational Therapy Journal
+JournalDetail.aspx?y=2018&t=JOURNAL OF OCCUPATIONAL AND ENVIRONMENTAL MEDICINE
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF MEDICAL RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF SPORT REHABILITATION
+JournalDetail.aspx?y=2018&t=EUROPEAN ARCHIVES OF OTO-RHINO-LARYNGOLOGY
+JournalDetail.aspx?y=2018&t=Orthodontics = Craniofacial Research
+JournalDetail.aspx?y=2018&t=SKELETAL RADIOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Occupational Medicine and Toxicology
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+JournalDetail.aspx?y=2018&t=Annals of Clinical Psychiatry
+JournalDetail.aspx?y=2018&t=Surgical Innovation
+JournalDetail.aspx?y=2018&t=PEDIATRIC RADIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF VESTIBULAR RESEARCH-EQUILIBRIUM = ORIENTATION
+JournalDetail.aspx?y=2018&t=International Neurourology Journal
+JournalDetail.aspx?y=2018&t=JAPANESE JOURNAL OF OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF ORAL SCIENCES
+JournalDetail.aspx?y=2018&t=JOURNAL OF CARDIOTHORACIC AND VASCULAR ANESTHESIA
+JournalDetail.aspx?y=2018&t=Journal of Otolaryngology-Head = Neck Surgery
+JournalDetail.aspx?y=2018&t=Journal of Geriatric Cardiology
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL ANESTHESIA
+JournalDetail.aspx?y=2018&t=JOURNAL OF MUSCULOSKELETAL = NEURONAL INTERACTIONS
+JournalDetail.aspx?y=2018&t=ALLERGOLOGIA ET IMMUNOPATHOLOGIA
+JournalDetail.aspx?y=2018&t=Journal of Drugs in Dermatology
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PERINATOLOGY
+JournalDetail.aspx?y=2018&t=Libyan Journal of Medicine
+JournalDetail.aspx?y=2018&t=TRANSPLANT IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Infection and Public Health
+JournalDetail.aspx?y=2018&t=CLINICS IN PLASTIC SURGERY
+JournalDetail.aspx?y=2018&t=OPHTHALMIC GENETICS
+JournalDetail.aspx?y=2018&t=CURRENT HIV RESEARCH
+JournalDetail.aspx?y=2018&t=Biological Research for Nursing
+JournalDetail.aspx?y=2018&t=BMC Womens Health
+JournalDetail.aspx?y=2018&t=Annals of General Psychiatry
+JournalDetail.aspx?y=2018&t=NEUROREHABILITATION
+JournalDetail.aspx?y=2018&t=Journal of Applied Biomedicine
+JournalDetail.aspx?y=2018&t=Hamostaseologie
+JournalDetail.aspx?y=2018&t=HEART = LUNG
+JournalDetail.aspx?y=2018&t=JOURNAL OF VENOMOUS ANIMALS AND TOXINS INCLUDING TROPICAL DISEASES
+JournalDetail.aspx?y=2018&t=Journal of Pediatric Urology
+JournalDetail.aspx?y=2018&t=Journal of Stroke = Cerebrovascular Diseases
+JournalDetail.aspx?y=2018&t=Cardiovascular Ultrasound
+JournalDetail.aspx?y=2018&t=Journal of Adolescent and Young Adult Oncology
+JournalDetail.aspx?y=2018&t=JOURNAL OF LABELLED COMPOUNDS = RADIOPHARMACEUTICALS
+JournalDetail.aspx?y=2018&t=EDUCATIONAL AND PSYCHOLOGICAL MEASUREMENT
+JournalDetail.aspx?y=2018&t=International Journal of Clinical and Experimental Pathology
+JournalDetail.aspx?y=2018&t=ANAESTHESIA AND INTENSIVE CARE
+JournalDetail.aspx?y=2018&t=PEDIATRIC CARDIOLOGY
+JournalDetail.aspx?y=2018&t=World Journal of Surgical Oncology
+JournalDetail.aspx?y=2018&t=NEUROPSYCHOBIOLOGY
+JournalDetail.aspx?y=2018&t=ANNALS OF PLASTIC SURGERY
+JournalDetail.aspx?y=2018&t=EUROPEAN NEUROLOGY
+JournalDetail.aspx?y=2018&t=Annals of Dermatology
+JournalDetail.aspx?y=2018&t=Primary Care Diabetes
+JournalDetail.aspx?y=2018&t=Critical Care Nurse
+JournalDetail.aspx?y=2018&t=Revista Portuguesa de Pneumologia
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL LUNG RESEARCH
+JournalDetail.aspx?y=2018&t=Archives of Endocrinology Metabolism
+JournalDetail.aspx?y=2018&t=Current Research in Translational Medicine
+JournalDetail.aspx?y=2018&t=Journal of Burn Care = Research
+JournalDetail.aspx?y=2018&t=Advances in Medical Sciences
+JournalDetail.aspx?y=2018&t=Journal of Lower Genital Tract Disease
+JournalDetail.aspx?y=2018&t=BMC Anesthesiology
+JournalDetail.aspx?y=2018&t=PATHOLOGY INTERNATIONAL
+JournalDetail.aspx?y=2018&t=OPHTHALMIC EPIDEMIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ULTRASOUND IN MEDICINE
+JournalDetail.aspx?y=2018&t=Physical Medicine and Rehabilitation Clinics of North America
+JournalDetail.aspx?y=2018&t=JOURNAL OF ELECTROMYOGRAPHY AND KINESIOLOGY
+JournalDetail.aspx?y=2018&t=Oncology Research and Treatment
+JournalDetail.aspx?y=2018&t=Odontology
+JournalDetail.aspx?y=2018&t=International Journal of Medical Robotics and Computer Assisted Surgery
+JournalDetail.aspx?y=2018&t=Child and Adolescent Mental Health
+JournalDetail.aspx?y=2018&t=BMC Ophthalmology
+JournalDetail.aspx?y=2018&t=Cognitive Neuropsychiatry
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR GASTROENTEROLOGIE
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL NEUROSCIENCE
+JournalDetail.aspx?y=2018&t=BMC Surgery
+JournalDetail.aspx?y=2018&t=JOURNAL OF PUBLIC HEALTH POLICY
+JournalDetail.aspx?y=2018&t=JOURNAL OF OCCUPATIONAL HEALTH
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF GYNECOLOGICAL PATHOLOGY
+JournalDetail.aspx?y=2018&t=Topics in Stroke Rehabilitation
+JournalDetail.aspx?y=2018&t=CLINICAL NEUROPHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Foot and Ankle Research
+JournalDetail.aspx?y=2018&t=Current Opinion in Otolaryngology = Head and Neck Surgery
+JournalDetail.aspx?y=2018&t=ARCHIVES OF PHYSIOLOGY AND BIOCHEMISTRY
+JournalDetail.aspx?y=2018&t=PSYCHOPATHOLOGY
+JournalDetail.aspx?y=2018&t=PEDIATRIC EXERCISE SCIENCE
+JournalDetail.aspx?y=2018&t=CLINICAL MEDICINE
+JournalDetail.aspx?y=2018&t=INTERNATIONAL UROLOGY AND NEPHROLOGY
+JournalDetail.aspx?y=2018&t=HASTINGS CENTER REPORT
+JournalDetail.aspx?y=2018&t=REVISTA DE SAUDE PUBLICA
+JournalDetail.aspx?y=2018&t=ADAPTED PHYSICAL ACTIVITY QUARTERLY
+JournalDetail.aspx?y=2018&t=PUBLIC HEALTH
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL NEUROPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=Scandinavian Journal of Urology
+JournalDetail.aspx?y=2018&t=JCR-JOURNAL OF CLINICAL RHEUMATOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF PSYCHOSOMATIC OBSTETRICS = GYNECOLOGY
+JournalDetail.aspx?y=2018&t=ANGLE ORTHODONTIST
+JournalDetail.aspx?y=2018&t=Oncology Letters
+JournalDetail.aspx?y=2018&t=JOURNAL OF RURAL HEALTH
+JournalDetail.aspx?y=2018&t=Breast Cancer
+JournalDetail.aspx?y=2018&t=Journal of Pediatric Health Care
+JournalDetail.aspx?y=2018&t=CROATIAN MEDICAL JOURNAL
+JournalDetail.aspx?y=2018&t=ANNALS OF NUCLEAR MEDICINE
+JournalDetail.aspx?y=2018&t=Health Promotion and Chronic Disease Prevention in Canada-Research Policy and Practice
+JournalDetail.aspx?y=2018&t=GERODONTOLOGY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF DERMATOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ALTERNATIVE AND COMPLEMENTARY MEDICINE
+JournalDetail.aspx?y=2018&t=PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF NURSING
+JournalDetail.aspx?y=2018&t=ASIA PACIFIC JOURNAL OF CLINICAL NUTRITION
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF ENVIRONMENTAL HEALTH RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF PAEDIATRICS AND CHILD HEALTH
+JournalDetail.aspx?y=2018&t=Postepy Dermatologii i Alergologii
+JournalDetail.aspx?y=2018&t=PHLEBOLOGY
+JournalDetail.aspx?y=2018&t=REVISTA ESPANOLA DE ENFERMEDADES DIGESTIVAS
+JournalDetail.aspx?y=2018&t=ANDROLOGIA
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF MEDICAL RESEARCH
+JournalDetail.aspx?y=2018&t=Thoracic Cancer
+JournalDetail.aspx?y=2018&t=Congenital Heart Disease
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHILD NEUROLOGY
+JournalDetail.aspx?y=2018&t=VIRAL IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=MICROBIOLOGY AND IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=APHASIOLOGY
+JournalDetail.aspx?y=2018&t=NEUROPEDIATRICS
+JournalDetail.aspx?y=2018&t=Psychiatria Danubina
+JournalDetail.aspx?y=2018&t=GYNECOLOGICAL ENDOCRINOLOGY
+JournalDetail.aspx?y=2018&t=CLINICS IN SPORTS MEDICINE
+JournalDetail.aspx?y=2018&t=NORDIC JOURNAL OF PSYCHIATRY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF DRUG METABOLISM AND PHARMACOKINETICS
+JournalDetail.aspx?y=2018&t=Eye = Contact Lens-Science and Clinical Practice
+JournalDetail.aspx?y=2018&t=Psychology Health = Medicine
+JournalDetail.aspx?y=2018&t=Paediatrics and International Child Health
+JournalDetail.aspx?y=2018&t=UROLOGIA INTERNATIONALIS
+JournalDetail.aspx?y=2018&t=Journal of Physiological Anthropology
+JournalDetail.aspx?y=2018&t=PHYSIOLOGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=Ophthalmic Surgery Lasers = Imaging Retina
+JournalDetail.aspx?y=2018&t=THERAPEUTIC APHERESIS AND DIALYSIS
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF CONTRACEPTION AND REPRODUCTIVE HEALTH CARE
+JournalDetail.aspx?y=2018&t=SPORTS MEDICINE AND ARTHROSCOPY REVIEW
+JournalDetail.aspx?y=2018&t=NUCLEAR MEDICINE COMMUNICATIONS
+JournalDetail.aspx?y=2018&t=Journal of Cosmetic Dermatology
+JournalDetail.aspx?y=2018&t=Anaesthesia Critical Care = Pain Medicine
+JournalDetail.aspx?y=2018&t=ACTA NEUROBIOLOGIAE EXPERIMENTALIS
+JournalDetail.aspx?y=2018&t=SCANDINAVIAN JOURNAL OF CLINICAL = LABORATORY INVESTIGATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOTOR BEHAVIOR
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOLOGICAL REGULATORS AND HOMEOSTATIC AGENTS
+JournalDetail.aspx?y=2018&t=AUSTRALIAN DENTAL JOURNAL
+JournalDetail.aspx?y=2018&t=Journal of Obsessive-Compulsive and Related Disorders
+JournalDetail.aspx?y=2018&t=ENDOCRINE RESEARCH
+JournalDetail.aspx?y=2018&t=International Journal of Clinical Pharmacy
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHEMOTHERAPY
+JournalDetail.aspx?y=2018&t=PATHOLOGY RESEARCH AND PRACTICE
+JournalDetail.aspx?y=2018&t=Oral Surgery Oral Medicine Oral Pathology Oral Radiology
+JournalDetail.aspx?y=2018&t=BMC Medical Education
+JournalDetail.aspx?y=2018&t=Annals of Diagnostic Pathology
+JournalDetail.aspx?y=2018&t=CLINICAL AND EXPERIMENTAL DERMATOLOGY
+JournalDetail.aspx?y=2018&t=COGNITIVE NEUROPSYCHOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Global Antimicrobial Resistance
+JournalDetail.aspx?y=2018&t=Hormones-International Journal of Endocrinology and Metabolism
+JournalDetail.aspx?y=2018&t=JOURNAL OF TOXICOLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL LABORATORY ANALYSIS
+JournalDetail.aspx?y=2018&t=Journal of Orthopaedic Surgery and Research
+JournalDetail.aspx?y=2018&t=PACE-PACING AND CLINICAL ELECTROPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=BMC MEDICAL IMAGING
+JournalDetail.aspx?y=2018&t=OPTOMETRY AND VISION SCIENCE
+JournalDetail.aspx?y=2018&t=JOURNAL OF DIGITAL IMAGING
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF MANAGED CARE
+JournalDetail.aspx?y=2018&t=JOURNAL OF MANIPULATIVE AND PHYSIOLOGICAL THERAPEUTICS
+JournalDetail.aspx?y=2018&t=Psychiatry Investigation
+JournalDetail.aspx?y=2018&t=Journal of Prosthodontics-Implant Esthetic and Reconstructive Dentistry
+JournalDetail.aspx?y=2018&t=Sexual Medicine
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMMUNICATION DISORDERS
+JournalDetail.aspx?y=2018&t=Journal of Wound Care
+JournalDetail.aspx?y=2018&t=TOXICOLOGY AND INDUSTRIAL HEALTH
+JournalDetail.aspx?y=2018&t=MEDICINAL CHEMISTRY RESEARCH
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF OPHTHALMOLOGY-JOURNAL CANADIEN D OPHTALMOLOGIE
+JournalDetail.aspx?y=2018&t=Progress in Tumor Research
+JournalDetail.aspx?y=2018&t=International Journal of Computerized Dentistry
+JournalDetail.aspx?y=2018&t=CLINICAL NEUROLOGY AND NEUROSURGERY
+JournalDetail.aspx?y=2018&t=Anatomical Record-Advances in Integrative Anatomy and Evolutionary Biology
+JournalDetail.aspx?y=2018&t=SARCOIDOSIS VASCULITIS AND DIFFUSE LUNG DISEASES
+JournalDetail.aspx?y=2018&t=JOURNAL OF KOREAN MEDICAL SCIENCE
+JournalDetail.aspx?y=2018&t=SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+JournalDetail.aspx?y=2018&t=BIOLOGY OF SPORT
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF SPEECH-LANGUAGE PATHOLOGY
+JournalDetail.aspx?y=2018&t=Complementary Therapies in Clinical Practice
+JournalDetail.aspx?y=2018&t=BMC Oral Health
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF EMERGENCY MEDICINE
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=Pain Management Nursing
+JournalDetail.aspx?y=2018&t=CLINICAL OBSTETRICS AND GYNECOLOGY
+JournalDetail.aspx?y=2018&t=Clinical Simulation in Nursing
+JournalDetail.aspx?y=2018&t=Rehabilitation Nursing
+JournalDetail.aspx?y=2018&t=Orthopaedics = Traumatology-Surgery = Research
+JournalDetail.aspx?y=2018&t=GYNECOLOGIC AND OBSTETRIC INVESTIGATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF MIDWIFERY = WOMENS HEALTH
+JournalDetail.aspx?y=2018&t=JOURNAL OF CUTANEOUS PATHOLOGY
+JournalDetail.aspx?y=2018&t=VIRUS GENES
+JournalDetail.aspx?y=2018&t=ANZ JOURNAL OF SURGERY
+JournalDetail.aspx?y=2018&t=Acta Otorhinolaryngologica Italica
+JournalDetail.aspx?y=2018&t=YONSEI MEDICAL JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROLINGUISTICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF CANCER EDUCATION
+JournalDetail.aspx?y=2018&t=NEUROLOGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL NURSING
+JournalDetail.aspx?y=2018&t=Iranian Journal of Pharmaceutical Research
+JournalDetail.aspx?y=2018&t=MEDICC Review
+JournalDetail.aspx?y=2018&t=JOURNAL OF ELECTROCARDIOLOGY
+JournalDetail.aspx?y=2018&t=International Journal of Paediatric Dentistry
+JournalDetail.aspx?y=2018&t=BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of Herbal Medicine
+JournalDetail.aspx?y=2018&t=AUSTRALASIAN JOURNAL OF DERMATOLOGY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF IMPOTENCE RESEARCH
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF PROSTHODONTICS
+JournalDetail.aspx?y=2018&t=Saudi Journal of Gastroenterology
+JournalDetail.aspx?y=2018&t=Journal of Gastric Cancer
+JournalDetail.aspx?y=2018&t=Journal of Anesthesia
+JournalDetail.aspx?y=2018&t=Intensive and Critical Care Nursing
+JournalDetail.aspx?y=2018&t=Population Health Management
+JournalDetail.aspx?y=2018&t=Journal of Comparative Effectiveness Research
+JournalDetail.aspx?y=2018&t=Medicina Intensiva
+JournalDetail.aspx?y=2018&t=Hellenic Journal of Cardiology
+JournalDetail.aspx?y=2018&t=CLINICAL AUTONOMIC RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of Applied Oral Science
+JournalDetail.aspx?y=2018&t=MEDICAL PRINCIPLES AND PRACTICE
+JournalDetail.aspx?y=2018&t=Annals of Thoracic Medicine
+JournalDetail.aspx?y=2018&t=Iranian Journal of Basic Medical Sciences
+JournalDetail.aspx?y=2018&t=NEUROIMAGING CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPUTER ASSISTED TOMOGRAPHY
+JournalDetail.aspx?y=2018&t=DENTAL TRAUMATOLOGY
+JournalDetail.aspx?y=2018&t=ANNALS OF THE ROYAL COLLEGE OF SURGEONS OF ENGLAND
+JournalDetail.aspx?y=2018&t=Journal of the American Academy of Audiology
+JournalDetail.aspx?y=2018&t=Surgical Infections
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF STD = AIDS
+JournalDetail.aspx?y=2018&t=Archives of Disease in Childhood-Education and Practice Edition
+JournalDetail.aspx?y=2018&t=Clinical Nursing Research
+JournalDetail.aspx?y=2018&t=JANAC-JOURNAL OF THE ASSOCIATION OF NURSES IN AIDS CARE
+JournalDetail.aspx?y=2018&t=Geospatial Health
+JournalDetail.aspx?y=2018&t=International Journal of Lower Extremity Wounds
+JournalDetail.aspx?y=2018&t=INTERVIROLOGY
+JournalDetail.aspx?y=2018&t=Translational Cancer Research
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF BIOLOGICAL MARKERS
+JournalDetail.aspx?y=2018&t=JOURNAL OF PARASITOLOGY
+JournalDetail.aspx?y=2018&t=American Journal of Hospice = Palliative Medicine
+JournalDetail.aspx?y=2018&t=JOURNAL OF DRUG DELIVERY SCIENCE AND TECHNOLOGY
+JournalDetail.aspx?y=2018&t=CELL AND TISSUE BANKING
+JournalDetail.aspx?y=2018&t=Developmental Neurorehabilitation
+JournalDetail.aspx?y=2018&t=Current Sports Medicine Reports
+JournalDetail.aspx?y=2018&t=INTERNATIONAL NURSING REVIEW
+JournalDetail.aspx?y=2018&t=Hemodialysis International
+JournalDetail.aspx?y=2018&t=Journal of Applied Clinical Medical Physics
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF PEDIATRIC SURGERY
+JournalDetail.aspx?y=2018&t=ANNALS OF OTOLOGY RHINOLOGY AND LARYNGOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF HEALTH POLITICS POLICY AND LAW
+JournalDetail.aspx?y=2018&t=Emergency Medicine Australasia
+JournalDetail.aspx?y=2018&t=OCCUPATIONAL MEDICINE-OXFORD
+JournalDetail.aspx?y=2018&t=European Journal of General Practice
+JournalDetail.aspx?y=2018&t=Female Pelvic Medicine and Reconstructive Surgery
+JournalDetail.aspx?y=2018&t=JOURNAL OF INVASIVE CARDIOLOGY
+JournalDetail.aspx?y=2018&t=Jornal Brasileiro de Pneumologia
+JournalDetail.aspx?y=2018&t=OTOLARYNGOLOGIC CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=Clinical Child Psychology and Psychiatry
+JournalDetail.aspx?y=2018&t=SEMINARS IN MUSCULOSKELETAL RADIOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Esthetic and Restorative Dentistry
+JournalDetail.aspx?y=2018&t=MINIMALLY INVASIVE THERAPY = ALLIED TECHNOLOGIES
+JournalDetail.aspx?y=2018&t=Homeopathy
+JournalDetail.aspx?y=2018&t=Journal for Healthcare Quality
+JournalDetail.aspx?y=2018&t=TRANSFUSION AND APHERESIS SCIENCE
+JournalDetail.aspx?y=2018&t=FARMACIA
+JournalDetail.aspx?y=2018&t=JOURNAL OF ARTIFICIAL ORGANS
+JournalDetail.aspx?y=2018&t=Asian Journal of Surgery
+JournalDetail.aspx?y=2018&t=NEUROREPORT
+JournalDetail.aspx?y=2018&t=International Journal of Older People Nursing
+JournalDetail.aspx?y=2018&t=JOURNAL OF PUBLIC HEALTH DENTISTRY
+JournalDetail.aspx?y=2018&t=Avian Conservation and Ecology
+JournalDetail.aspx?y=2018&t=Journal of BUON
+JournalDetail.aspx?y=2018&t=TOHOKU JOURNAL OF EXPERIMENTAL MEDICINE
+JournalDetail.aspx?y=2018&t=Magnetic Resonance in Medical Sciences
+JournalDetail.aspx?y=2018&t=PHYSICIAN AND SPORTSMEDICINE
+JournalDetail.aspx?y=2018&t=PRIMARY CARE
+JournalDetail.aspx?y=2018&t=LYMPHOLOGY
+JournalDetail.aspx?y=2018&t=Legal Medicine
+JournalDetail.aspx?y=2018&t=Journal of Hand Therapy
+JournalDetail.aspx?y=2018&t=CARDIOLOGY CLINICS
+JournalDetail.aspx?y=2018&t=Journal of Pediatric Nursing-Nursing Care of Children = Families
+JournalDetail.aspx?y=2018&t=Systems Biology in Reproductive Medicine
+JournalDetail.aspx?y=2018&t=Korean Journal of Orthodontics
+JournalDetail.aspx?y=2018&t=Pediatric Endocrinology Reviews PER
+JournalDetail.aspx?y=2018&t=PEDIATRIC TRANSPLANTATION
+JournalDetail.aspx?y=2018&t=Applied Clinical Informatics
+JournalDetail.aspx?y=2018&t=Experimental and Therapeutic Medicine
+JournalDetail.aspx?y=2018&t=Hematology
+JournalDetail.aspx?y=2018&t=ECHOCARDIOGRAPHY-A JOURNAL OF CARDIOVASCULAR ULTRASOUND AND ALLIED TECHNIQUES
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF REHABILITATION RESEARCH
+JournalDetail.aspx?y=2018&t=Cognitive and Behavioral Neurology
+JournalDetail.aspx?y=2018&t=JOURNAL OF ENVIRONMENTAL PATHOLOGY TOXICOLOGY AND ONCOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Oral Implantology
+JournalDetail.aspx?y=2018&t=ACTA ODONTOLOGICA SCANDINAVICA
+JournalDetail.aspx?y=2018&t=Journal of the Chinese Medical Association
+JournalDetail.aspx?y=2018&t=Dermatologic Therapy
+JournalDetail.aspx?y=2018&t=Molecular = Cellular Toxicology
+JournalDetail.aspx?y=2018&t=Advances in Neonatal Care
+JournalDetail.aspx?y=2018&t=Applied Neuropsychology-Child
+JournalDetail.aspx?y=2018&t=THORACIC AND CARDIOVASCULAR SURGEON
+JournalDetail.aspx?y=2018&t=Medicina Oral Patologia Oral y Cirugia Bucal
+JournalDetail.aspx?y=2018&t=Journal of Wound Ostomy and Continence Nursing
+JournalDetail.aspx?y=2018&t=Tumori J
+JournalDetail.aspx?y=2018&t=Seminars in Ophthalmology
+JournalDetail.aspx?y=2018&t=Psychogeriatrics
+JournalDetail.aspx?y=2018&t=Foot and Ankle Surgery
+JournalDetail.aspx?y=2018&t=Medical Molecular Morphology
+JournalDetail.aspx?y=2018&t=Canadian Journal of Emergency Medicine
+JournalDetail.aspx?y=2018&t=Head = Face Medicine
+JournalDetail.aspx?y=2018&t=SEMINARS IN CUTANEOUS MEDICINE AND SURGERY
+JournalDetail.aspx?y=2018&t=NETHERLANDS JOURNAL OF MEDICINE
+JournalDetail.aspx?y=2018&t=Journal of Vascular Access
+JournalDetail.aspx?y=2018&t=Journal of Psychiatric and Mental Health Nursing
+JournalDetail.aspx?y=2018&t=EUROPEAN SURGICAL RESEARCH
+JournalDetail.aspx?y=2018&t=Clinical and Experimental Optometry
+JournalDetail.aspx?y=2018&t=AESTHETIC PLASTIC SURGERY
+JournalDetail.aspx?y=2018&t=CTS-Clinical and Translational Science
+JournalDetail.aspx?y=2018&t=EMERGENCY MEDICINE CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=FOLIA PARASITOLOGICA
+JournalDetail.aspx?y=2018&t=Journal of Medical Imaging and Radiation Oncology
+JournalDetail.aspx?y=2018&t=Journal of Clinical Research in Pediatric Endocrinology
+JournalDetail.aspx?y=2018&t=JOURNAL OF NURSING ADMINISTRATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN PHARMACISTS ASSOCIATION
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF MEDICINAL MUSHROOMS
+JournalDetail.aspx?y=2018&t=Pediatrics and Neonatology
+JournalDetail.aspx?y=2018&t=CLINICAL AND EXPERIMENTAL HYPERTENSION
+JournalDetail.aspx?y=2018&t=CHEMOTHERAPY
+JournalDetail.aspx?y=2018&t=European Geriatric Medicine
+JournalDetail.aspx?y=2018&t=JOGNN-JOURNAL OF OBSTETRIC GYNECOLOGIC AND NEONATAL NURSING
+JournalDetail.aspx?y=2018&t=Brazilian Journal of Physical Therapy
+JournalDetail.aspx?y=2018&t=Journal of Infection in Developing Countries
+JournalDetail.aspx?y=2018&t=JOURNAL OF LAW MEDICINE = ETHICS
+JournalDetail.aspx?y=2018&t=CLINICAL NEUROPATHOLOGY
+JournalDetail.aspx?y=2018&t=PHYSICAL = OCCUPATIONAL THERAPY IN PEDIATRICS
+JournalDetail.aspx?y=2018&t=Cognitive Systems Research
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF NEUROLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Journal of Laparoendoscopic = Advanced Surgical Techniques
+JournalDetail.aspx?y=2018&t=UHOD-Uluslararasi Hematoloji-Onkoloji Dergisi
+JournalDetail.aspx?y=2018&t=CURRENT PROBLEMS IN CANCER
+JournalDetail.aspx?y=2018&t=Advances in Skin = Wound Care
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF PHARMACEUTICAL EDUCATION
+JournalDetail.aspx?y=2018&t=Medical Ultrasonography
+JournalDetail.aspx?y=2018&t=NUKLEARMEDIZIN-NUCLEAR MEDICINE
+JournalDetail.aspx?y=2018&t=CytoJournal
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF PSYCHIATRY IN CLINICAL PRACTICE
+JournalDetail.aspx?y=2018&t=Journal of Pediatric Oncology Nursing
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF TOXICOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF EVALUATION IN CLINICAL PRACTICE
+JournalDetail.aspx?y=2018&t=Accountability in Research-Policies and Quality Assurance
+JournalDetail.aspx?y=2018&t=Nursing in Critical Care
+JournalDetail.aspx?y=2018&t=JOURNAL OF INTERNATIONAL MEDICAL RESEARCH
+JournalDetail.aspx?y=2018&t=Cardiovascular Engineering and Technology
+JournalDetail.aspx?y=2018&t=SYSTEMATIC PARASITOLOGY
+JournalDetail.aspx?y=2018&t=Epidemiologia = Prevenzione
+JournalDetail.aspx?y=2018&t=Minerva Endocrinologica
+JournalDetail.aspx?y=2018&t=Canadian Journal of Occupational Therapy-Revue Canadienne d Ergotherapie
+JournalDetail.aspx?y=2018&t=Contributions to Nephrology
+JournalDetail.aspx?y=2018&t=REVUE NEUROLOGIQUE
+JournalDetail.aspx?y=2018&t=Nursing = Health Sciences
+JournalDetail.aspx?y=2018&t=Progress in Orthodontics
+JournalDetail.aspx?y=2018&t=LANGUAGE AND SPEECH
+JournalDetail.aspx?y=2018&t=Clinics
+JournalDetail.aspx?y=2018&t=CLINICAL PEDIATRICS
+JournalDetail.aspx?y=2018&t=ORTHOPEDICS
+JournalDetail.aspx?y=2018&t=BLOOD COAGULATION = FIBRINOLYSIS
+JournalDetail.aspx?y=2018&t=WESTERN JOURNAL OF NURSING RESEARCH
+JournalDetail.aspx?y=2018&t=Cardiology Journal
+JournalDetail.aspx?y=2018&t=Environmental Health and Preventive Medicine
+JournalDetail.aspx?y=2018&t=PERFUSION-UK
+JournalDetail.aspx?y=2018&t=Canadian Journal of Infectious Diseases = Medical Microbiology
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF THERAPEUTICS
+JournalDetail.aspx?y=2018&t=INTERNATIONAL DENTAL JOURNAL
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF ORAL = MAXILLOFACIAL SURGERY
+JournalDetail.aspx?y=2018&t=Traffic Injury Prevention
+JournalDetail.aspx?y=2018&t=Sexual Health
+JournalDetail.aspx?y=2018&t=LEARNING = BEHAVIOR
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF DERMATOPATHOLOGY
+JournalDetail.aspx?y=2018&t=Arquivos Brasileiros de Cardiologia
+JournalDetail.aspx?y=2018&t=Chinese Journal of Integrative Medicine
+JournalDetail.aspx?y=2018&t=GERIATRIC NURSING
+JournalDetail.aspx?y=2018&t=Endocrinologia Diabetes y Nutricion
+JournalDetail.aspx?y=2018&t=SPORT PSYCHOLOGIST
+JournalDetail.aspx?y=2018&t=Collegian
+JournalDetail.aspx?y=2018&t=FOLIA NEUROPATHOLOGICA
+JournalDetail.aspx?y=2018&t=CONGENITAL ANOMALIES
+JournalDetail.aspx?y=2018&t=PEDIATRIC SURGERY INTERNATIONAL
+JournalDetail.aspx?y=2018&t=Philosophy Ethics and Humanities in Medicine
+JournalDetail.aspx?y=2018&t=REVISTA DO INSTITUTO DE MEDICINA TROPICAL DE SAO PAULO
+JournalDetail.aspx?y=2018&t=JOURNAL OF INVESTIGATIVE SURGERY
+JournalDetail.aspx?y=2018&t=GIORNALE ITALIANO DI DERMATOLOGIA E VENEREOLOGIA
+JournalDetail.aspx?y=2018&t=Developing World Bioethics
+JournalDetail.aspx?y=2018&t=Journal of Vascular Surgery-Venous and Lymphatic Disorders
+JournalDetail.aspx?y=2018&t=Eating Disorders
+JournalDetail.aspx?y=2018&t=JOURNAL OF FORENSIC SCIENCES
+JournalDetail.aspx?y=2018&t=SCANDINAVIAN CARDIOVASCULAR JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL DE MYCOLOGIE MEDICALE
+JournalDetail.aspx?y=2018&t=Journal of Child Health Care
+JournalDetail.aspx?y=2018&t=Public Health Ethics
+JournalDetail.aspx?y=2018&t=CHEMICAL = PHARMACEUTICAL BULLETIN
+JournalDetail.aspx?y=2018&t=CHINESE MEDICAL JOURNAL
+JournalDetail.aspx?y=2018&t=Journal of Transcultural Nursing
+JournalDetail.aspx?y=2018&t=Revista Brasileira de Farmacognosia-Brazilian Journal of Pharmacognosy
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF DERMATOLOGY
+JournalDetail.aspx?y=2018&t=EPILEPTIC DISORDERS
+JournalDetail.aspx?y=2018&t=Nurse Educator
+JournalDetail.aspx?y=2018&t=International Journal of Speech-Language Pathology
+JournalDetail.aspx?y=2018&t=Anatolian Journal of Cardiology
+JournalDetail.aspx?y=2018&t=MAGNESIUM RESEARCH
+JournalDetail.aspx?y=2018&t=Clinical Pharmacology in Drug Development
+JournalDetail.aspx?y=2018&t=Families Systems = Health
+JournalDetail.aspx?y=2018&t=Nurse Education in Practice
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF PEDIATRIC OTORHINOLARYNGOLOGY
+JournalDetail.aspx?y=2018&t=ALTERNATIVE THERAPIES IN HEALTH AND MEDICINE
+JournalDetail.aspx?y=2018&t=FLUORIDE
+JournalDetail.aspx?y=2018&t=Annals of Surgical Treatment and Research
+JournalDetail.aspx?y=2018&t=Vasa-European Journal of Vascular Medicine
+JournalDetail.aspx?y=2018&t=ACTA PHARMACEUTICA
+JournalDetail.aspx?y=2018&t=Advances in Clinical and Experimental Medicine
+JournalDetail.aspx?y=2018&t=HYPERTENSION IN PREGNANCY
+JournalDetail.aspx?y=2018&t=ACTA HAEMATOLOGICA
+JournalDetail.aspx?y=2018&t=SEMINARS IN INTERVENTIONAL RADIOLOGY
+JournalDetail.aspx?y=2018&t=MEDICINA CLINICA
+JournalDetail.aspx?y=2018&t=Canadian Journal of Urology
+JournalDetail.aspx?y=2018&t=APPLIED NURSING RESEARCH
+JournalDetail.aspx?y=2018&t=BLOOD PRESSURE MONITORING
+JournalDetail.aspx?y=2018&t=NEFROLOGIA
+JournalDetail.aspx?y=2018&t=AURIS NASUS LARYNX
+JournalDetail.aspx?y=2018&t=ANNALS OF VASCULAR SURGERY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ORTHOPAEDIC SCIENCE
+JournalDetail.aspx?y=2018&t=ARCHIVES OF PSYCHIATRIC NURSING
+JournalDetail.aspx?y=2018&t=Mediterranean Journal of Hematology and Infectious Diseases
+JournalDetail.aspx?y=2018&t=Bundesgesundheitsblatt-Gesundheitsforschung-Gesundheitsschutz
+JournalDetail.aspx?y=2018&t=Regenerative Therapy
+JournalDetail.aspx?y=2018&t=Asia-Pacific Journal of Public Health
+JournalDetail.aspx?y=2018&t=Toxin Reviews
+JournalDetail.aspx?y=2018&t=JOURNAL OF NURSING CARE QUALITY
+JournalDetail.aspx?y=2018&t=International Journal of Dental Hygiene
+JournalDetail.aspx?y=2018&t=Human Fertility
+JournalDetail.aspx?y=2018&t=Journal of School Nursing
+JournalDetail.aspx?y=2018&t=OPHTHALMIC PLASTIC AND RECONSTRUCTIVE SURGERY
+JournalDetail.aspx?y=2018&t=Oral and Maxillofacial Surgery Clinics of North America
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL AGING RESEARCH
+JournalDetail.aspx?y=2018&t=Endokrynologia Polska
+JournalDetail.aspx?y=2018&t=SEMINARS IN ULTRASOUND CT AND MRI
+JournalDetail.aspx?y=2018&t=TEACHING AND LEARNING IN MEDICINE
+JournalDetail.aspx?y=2018&t=Neuroethics
+JournalDetail.aspx?y=2018&t=SUBSTANCE USE = MISUSE
+JournalDetail.aspx?y=2018&t=JOURNAL OF PROFESSIONAL NURSING
+JournalDetail.aspx?y=2018&t=Disaster Medicine and Public Health Preparedness
+JournalDetail.aspx?y=2018&t=ACTA PARASITOLOGICA
+JournalDetail.aspx?y=2018&t=CLINICAL NEPHROLOGY
+JournalDetail.aspx?y=2018&t=Arhiv za Higijenu Rada i Toksikologiju-Archives of Industrial Hygiene and Toxicology
+JournalDetail.aspx?y=2018&t=DM DISEASE-A-MONTH
+JournalDetail.aspx?y=2018&t=Revista da Sociedade Brasileira de Medicina Tropical
+JournalDetail.aspx?y=2018&t=LABORATORY MEDICINE
+JournalDetail.aspx?y=2018&t=JOURNAL OF EMERGENCY MEDICINE
+JournalDetail.aspx?y=2018&t=HEALTH PHYSICS
+JournalDetail.aspx?y=2018&t=HAND CLINICS
+JournalDetail.aspx?y=2018&t=PHARMACEUTICAL STATISTICS
+JournalDetail.aspx?y=2018&t=DRUGS OF TODAY
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED BIOMECHANICS
+JournalDetail.aspx?y=2018&t=Journal of Empirical Research on Human Research Ethics
+JournalDetail.aspx?y=2018&t=Clinical and Experimental Otorhinolaryngology
+JournalDetail.aspx?y=2018&t=JOURNAL OF SPORTS MEDICINE AND PHYSICAL FITNESS
+JournalDetail.aspx?y=2018&t=SCHMERZ
+JournalDetail.aspx?y=2018&t=CLEFT PALATE-CRANIOFACIAL JOURNAL
+JournalDetail.aspx?y=2018&t=Nursing Inquiry
+JournalDetail.aspx?y=2018&t=JOURNAL OF HEALTH POPULATION AND NUTRITION
+JournalDetail.aspx?y=2018&t=JOURNAL OF CONTINUING EDUCATION IN THE HEALTH PROFESSIONS
+JournalDetail.aspx?y=2018&t=Journal of Research in Medical Sciences
+JournalDetail.aspx?y=2018&t=KAOHSIUNG JOURNAL OF MEDICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Implant Dentistry
+JournalDetail.aspx?y=2018&t=Clinical Psychologist
+JournalDetail.aspx?y=2018&t=Kardiologia Polska
+JournalDetail.aspx?y=2018&t=Artery Research
+JournalDetail.aspx?y=2018&t=Cardiology Research and Practice
+JournalDetail.aspx?y=2018&t=JAPANESE JOURNAL OF INFECTIOUS DISEASES
+JournalDetail.aspx?y=2018&t=IRISH JOURNAL OF MEDICAL SCIENCE
+JournalDetail.aspx?y=2018&t=LANGUAGE SPEECH AND HEARING SERVICES IN SCHOOLS
+JournalDetail.aspx?y=2018&t=INTERNATIONAL ANGIOLOGY
+JournalDetail.aspx?y=2018&t=Pharmacognosy Magazine
+JournalDetail.aspx?y=2018&t=World Journal of Pediatrics
+JournalDetail.aspx?y=2018&t=Brazilian Oral Research
+JournalDetail.aspx?y=2018&t=Journal of Periodontal and Implant Science
+JournalDetail.aspx?y=2018&t=PHARMAZIE
+JournalDetail.aspx?y=2018&t=Actas Urologicas Espanolas
+JournalDetail.aspx?y=2018&t=ACTA OTO-LARYNGOLOGICA
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF PERIODONTICS = RESTORATIVE DENTISTRY
+JournalDetail.aspx?y=2018&t=Asian Pacific Journal of Tropical Medicine
+JournalDetail.aspx?y=2018&t=GEBURTSHILFE UND FRAUENHEILKUNDE
+JournalDetail.aspx?y=2018&t=CHILDS NERVOUS SYSTEM
+JournalDetail.aspx?y=2018&t=International Journal of Mental Health and Addiction
+JournalDetail.aspx?y=2018&t=Informatics for Health = Social Care
+JournalDetail.aspx?y=2018&t=Archives of Iranian Medicine
+JournalDetail.aspx?y=2018&t=Korean Circulation Journal
+JournalDetail.aspx?y=2018&t=PERCEPTION
+JournalDetail.aspx?y=2018&t=BIORHEOLOGY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=JSLS-Journal of the Society of Laparoendoscopic Surgeons
+JournalDetail.aspx?y=2018&t=Explore-The Journal of Science and Healing
+JournalDetail.aspx?y=2018&t=DENTAL MATERIALS JOURNAL
+JournalDetail.aspx?y=2018&t=International Emergency Nursing
+JournalDetail.aspx?y=2018&t=Primary Health Care Research and Development
+JournalDetail.aspx?y=2018&t=PEDIATRIC HEMATOLOGY AND ONCOLOGY
+JournalDetail.aspx?y=2018&t=MICROSCOPY RESEARCH AND TECHNIQUE
+JournalDetail.aspx?y=2018&t=Cancer Radiotherapie
+JournalDetail.aspx?y=2018&t=Journal of the American Association of Nurse Practitioners
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF NEUROSURGERY
+JournalDetail.aspx?y=2018&t=Diving and Hyperbaric Medicine
+JournalDetail.aspx?y=2018&t=CANADIAN ASSOCIATION OF RADIOLOGISTS JOURNAL-JOURNAL DE L ASSOCIATION CANADIENNE DES RADIOLOGISTES
+JournalDetail.aspx?y=2018&t=INDUSTRIAL HEALTH
+JournalDetail.aspx?y=2018&t=JOURNAL OF TROPICAL PEDIATRICS
+JournalDetail.aspx?y=2018&t=Annals of Transplantation
+JournalDetail.aspx?y=2018&t=Nursing Philosophy
+JournalDetail.aspx?y=2018&t=Australian Journal of Primary Health
+JournalDetail.aspx?y=2018&t=FAMILY MEDICINE
+JournalDetail.aspx?y=2018&t=MEDICAL HYPOTHESES
+JournalDetail.aspx?y=2018&t=American Journal of Audiology
+JournalDetail.aspx?y=2018&t=Facial Plastic Surgery Clinics of North America
+JournalDetail.aspx?y=2018&t=Journal of Arthropod-Borne Diseases
+JournalDetail.aspx?y=2018&t=Indian Journal of Medical Microbiology
+JournalDetail.aspx?y=2018&t=Ostomy Wound Management
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF ARTIFICIAL ORGANS
+JournalDetail.aspx?y=2018&t=Asia-Pacific Psychiatry
+JournalDetail.aspx?y=2018&t=Canadian Respiratory Journal
+JournalDetail.aspx?y=2018&t=JOURNAL OF CUTANEOUS MEDICINE AND SURGERY
+JournalDetail.aspx?y=2018&t=Journal of Innovative Optical Health Sciences
+JournalDetail.aspx?y=2018&t=Atencion Primaria
+JournalDetail.aspx?y=2018&t=International Journal of Ophthalmology
+JournalDetail.aspx?y=2018&t=JOURNAL OF PEDIATRIC HEMATOLOGY ONCOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF OBSTETRICS AND GYNAECOLOGY RESEARCH
+JournalDetail.aspx?y=2018&t=BRITISH DENTAL JOURNAL
+JournalDetail.aspx?y=2018&t=Journal of Childrens Orthopaedics
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF TECHNOLOGY ASSESSMENT IN HEALTH CARE
+JournalDetail.aspx?y=2018&t=INDIAN PEDIATRICS
+JournalDetail.aspx?y=2018&t=Journal of Medical Biochemistry
+JournalDetail.aspx?y=2018&t=International Journal of Immunogenetics
+JournalDetail.aspx?y=2018&t=CUTIS
+JournalDetail.aspx?y=2018&t=ASIAN PACIFIC JOURNAL OF ALLERGY AND IMMUNOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Cardiothoracic Surgery
+JournalDetail.aspx?y=2018&t=Journal of Cosmetic and Laser Therapy
+JournalDetail.aspx?y=2018&t=SURGICAL AND RADIOLOGIC ANATOMY
+JournalDetail.aspx?y=2018&t=Journal of Minimal Access Surgery
+JournalDetail.aspx?y=2018&t=Iranian Journal of Kidney Diseases
+JournalDetail.aspx?y=2018&t=Journal of the American Psychiatric Nurses Association
+JournalDetail.aspx?y=2018&t=ANNALES D ENDOCRINOLOGIE
+JournalDetail.aspx?y=2018&t=Journal of Neurological Surgery Part B-Skull Base
+JournalDetail.aspx?y=2018&t=Eklem Hastaliklari ve Cerrahisi-Joint Diseases and Related Surgery
+JournalDetail.aspx?y=2018&t=Scandinavian Journal of Occupational Therapy
+JournalDetail.aspx?y=2018&t=JOURNAL OF PEDIATRIC ENDOCRINOLOGY = METABOLISM
+JournalDetail.aspx?y=2018&t=ANALES DE PEDIATRIA
+JournalDetail.aspx?y=2018&t=THERAPIE
+JournalDetail.aspx?y=2018&t=CIN-COMPUTERS INFORMATICS NURSING
+JournalDetail.aspx?y=2018&t=HONG KONG MEDICAL JOURNAL
+JournalDetail.aspx?y=2018&t=Cutaneous and Ocular Toxicology
+JournalDetail.aspx?y=2018&t=Hip International
+JournalDetail.aspx?y=2018&t=PROSTHETICS AND ORTHOTICS INTERNATIONAL
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF HEALTH SERVICES
+JournalDetail.aspx?y=2018&t=Revista Brasileira De Reumatologia
+JournalDetail.aspx?y=2018&t=JOURNAL OF NURSING EDUCATION
+JournalDetail.aspx?y=2018&t=REVUE DE MEDECINE INTERNE
+JournalDetail.aspx?y=2018&t=Australian Health Review
+JournalDetail.aspx?y=2018&t=COMBINATORIAL CHEMISTRY = HIGH THROUGHPUT SCREENING
+JournalDetail.aspx?y=2018&t=Danish Medical Journal
+JournalDetail.aspx?y=2018&t=Operative Orthopadie und Traumatologie
+JournalDetail.aspx?y=2018&t=PEDIATRIC DERMATOLOGY
+JournalDetail.aspx?y=2018&t=Journal of X-Ray Science and Technology
+JournalDetail.aspx?y=2018&t=Medical Law Review
+JournalDetail.aspx?y=2018&t=European Journal of Dental Education
+JournalDetail.aspx?y=2018&t=Sports Biomechanics
+JournalDetail.aspx?y=2018&t=Health Information Management Journal
+JournalDetail.aspx?y=2018&t=JOURNAL OF ASIAN NATURAL PRODUCTS RESEARCH
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF CLINICAL PHARMACOLOGY AND THERAPEUTICS
+JournalDetail.aspx?y=2018&t=Seminars in Vascular Surgery
+JournalDetail.aspx?y=2018&t=ECOLOGY OF FOOD AND NUTRITION
+JournalDetail.aspx?y=2018&t=DIAGNOSTIC CYTOPATHOLOGY
+JournalDetail.aspx?y=2018&t=ANATOMICAL SCIENCE INTERNATIONAL
+JournalDetail.aspx?y=2018&t=Journal of Healthcare Engineering
+JournalDetail.aspx?y=2018&t=BIOMEDICAL RESEARCH-TOKYO
+JournalDetail.aspx?y=2018&t=PERSPECTIVES IN PSYCHIATRIC CARE
+JournalDetail.aspx?y=2018&t=International Journal of Nursing Practice
+JournalDetail.aspx?y=2018&t=Revista Espanola de Medicina Nuclear e Imagen Molecular
+JournalDetail.aspx?y=2018&t=NEUROCASE
+JournalDetail.aspx?y=2018&t=CUAJ-Canadian Urological Association Journal
+JournalDetail.aspx?y=2018&t=KOREAN JOURNAL OF PARASITOLOGY
+JournalDetail.aspx?y=2018&t=CIRUGIA ESPANOLA
+JournalDetail.aspx?y=2018&t=Cardiovascular Journal of Africa
+JournalDetail.aspx?y=2018&t=PEDIATRIC AND DEVELOPMENTAL PATHOLOGY
+JournalDetail.aspx?y=2018&t=NURSING ECONOMICS
+JournalDetail.aspx?y=2018&t=Journal of Foot = Ankle Surgery
+JournalDetail.aspx?y=2018&t=Analytical Cellular Pathology
+JournalDetail.aspx?y=2018&t=Journal of Forensic and Legal Medicine
+JournalDetail.aspx?y=2018&t=RENAL FAILURE
+JournalDetail.aspx?y=2018&t=NATIONAL MEDICAL JOURNAL OF INDIA
+JournalDetail.aspx?y=2018&t=PHYSIOTHERAPY THEORY AND PRACTICE
+JournalDetail.aspx?y=2018&t=Journal of Toxicologic Pathology
+JournalDetail.aspx?y=2018&t=POLISH JOURNAL OF PATHOLOGY
+JournalDetail.aspx?y=2018&t=Australian Endodontic Journal
+JournalDetail.aspx?y=2018&t=International Journal of Occupational Medicine and Environmental Health
+JournalDetail.aspx?y=2018&t=Psychiatria Polska
+JournalDetail.aspx?y=2018&t=Nutricion Hospitalaria
+JournalDetail.aspx?y=2018&t=European Annals of Otorhinolaryngology-Head and Neck Diseases
+JournalDetail.aspx?y=2018&t=Nutrition = Dietetics
+JournalDetail.aspx?y=2018&t=Hellenic Journal of Nuclear Medicine
+JournalDetail.aspx?y=2018&t=European Journal of Trauma and Emergency Surgery
+JournalDetail.aspx?y=2018&t=Letters in Drug Design = Discovery
+JournalDetail.aspx?y=2018&t=ORL-Journal for Oto-Rhino-Laryngology Head and Neck Surgery
+JournalDetail.aspx?y=2018&t=ETHNICITY = DISEASE
+JournalDetail.aspx?y=2018&t=Personalized Medicine
+JournalDetail.aspx?y=2018&t=Orthopaedic Surgery
+JournalDetail.aspx?y=2018&t=ACTAS ESPANOLAS DE PSIQUIATRIA
+JournalDetail.aspx?y=2018&t=SURGICAL LAPAROSCOPY ENDOSCOPY = PERCUTANEOUS TECHNIQUES
+JournalDetail.aspx?y=2018&t=Cadernos de Saude Publica
+JournalDetail.aspx?y=2018&t=PEDIATRIC EMERGENCY CARE
+JournalDetail.aspx?y=2018&t=WILDERNESS = ENVIRONMENTAL MEDICINE
+JournalDetail.aspx?y=2018&t=Journal of Advanced Prosthodontics
+JournalDetail.aspx?y=2018&t=WOUNDS-A COMPENDIUM OF CLINICAL RESEARCH AND PRACTICE
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF OTOLARYNGOLOGY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL FOR VITAMIN AND NUTRITION RESEARCH
+JournalDetail.aspx?y=2018&t=PRESSE MEDICALE
+JournalDetail.aspx?y=2018&t=ANAESTHESIST
+JournalDetail.aspx?y=2018&t=JOURNAL OF PEDIATRIC OPHTHALMOLOGY = STRABISMUS
+JournalDetail.aspx?y=2018&t=CLINICAL IMAGING
+JournalDetail.aspx?y=2018&t=Bosnian Journal of Basic Medical Sciences
+JournalDetail.aspx?y=2018&t=Applied Neuropsychology-Adult
+JournalDetail.aspx?y=2018&t=CAMBRIDGE QUARTERLY OF HEALTHCARE ETHICS
+JournalDetail.aspx?y=2018&t=Iranian Journal of Allergy Asthma and Immunology
+JournalDetail.aspx?y=2018&t=International Journal of Clinical and Experimental Medicine
+JournalDetail.aspx?y=2018&t=Minerva Urologica E Nefrologica
+JournalDetail.aspx?y=2018&t=JOURNAL OF AOAC INTERNATIONAL
+JournalDetail.aspx?y=2018&t=Future Virology
+JournalDetail.aspx?y=2018&t=Brazilian Journal of Otorhinolaryngology
+JournalDetail.aspx?y=2018&t=Clinical and Investigative Medicine
+JournalDetail.aspx?y=2018&t=CHINESE JOURNAL OF PHYSIOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF VECTOR BORNE DISEASES
+JournalDetail.aspx?y=2018&t=Sao Paulo Medical Journal
+JournalDetail.aspx?y=2018&t=NEUROLOGIA MEDICO-CHIRURGICA
+JournalDetail.aspx?y=2018&t=SEMINARS IN SPEECH AND LANGUAGE
+JournalDetail.aspx?y=2018&t=CONNECTION SCIENCE
+JournalDetail.aspx?y=2018&t=ACM Transactions on Reconfigurable Technology and Systems
+JournalDetail.aspx?y=2018&t=REVISTA CLINICA ESPANOLA
+JournalDetail.aspx?y=2018&t=Prehospital and Disaster Medicine
+JournalDetail.aspx?y=2018&t=BIOMEDICAL PAPERS-OLOMOUC
+JournalDetail.aspx?y=2018&t=Jundishapur Journal of Microbiology
+JournalDetail.aspx?y=2018&t=QUINTESSENCE INTERNATIONAL
+JournalDetail.aspx?y=2018&t=International Journal of Circumpolar Health
+JournalDetail.aspx?y=2018&t=IN VIVO
+JournalDetail.aspx?y=2018&t=Japanese Journal of Radiology
+JournalDetail.aspx?y=2018&t=International Journal of Performance Analysis in Sport
+JournalDetail.aspx?y=2018&t=ANNALI DELL ISTITUTO SUPERIORE DI SANITA
+JournalDetail.aspx?y=2018&t=Revista Portuguesa de Cardiologia
+JournalDetail.aspx?y=2018&t=Journal of Nursing Research
+JournalDetail.aspx?y=2018&t=AUSTRALASIAN PHYSICAL = ENGINEERING SCIENCES IN MEDICINE
+JournalDetail.aspx?y=2018&t=Journal of Postgraduate Medicine
+JournalDetail.aspx?y=2018&t=Central European Journal of Immunology
+JournalDetail.aspx?y=2018&t=SOMATOSENSORY AND MOTOR RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of Traditional Chinese Medicine
+JournalDetail.aspx?y=2018&t=Clinics in Colon and Rectal Surgery
+JournalDetail.aspx?y=2018&t=ENT-EAR NOSE = THROAT JOURNAL
+JournalDetail.aspx?y=2018&t=Progress in Transplantation
+JournalDetail.aspx?y=2018&t=JOURNAL OF DENTAL EDUCATION
+JournalDetail.aspx?y=2018&t=ARQUIVOS DE NEURO-PSIQUIATRIA
+JournalDetail.aspx?y=2018&t=Indian Journal of Psychiatry
+JournalDetail.aspx?y=2018&t=PUBLIC HEALTH NURSING
+JournalDetail.aspx?y=2018&t=JOURNAL OF BACK AND MUSCULOSKELETAL REHABILITATION
+JournalDetail.aspx?y=2018&t=Medical Dosimetry
+JournalDetail.aspx?y=2018&t=Pediatric Physical Therapy
+JournalDetail.aspx?y=2018&t=JOURNAL OF AAPOS
+JournalDetail.aspx?y=2018&t=Medicina-Lithuania
+JournalDetail.aspx?y=2018&t=ANNALS OF AGRICULTURAL AND ENVIRONMENTAL MEDICINE
+JournalDetail.aspx?y=2018&t=Journal of Bioethical Inquiry
+JournalDetail.aspx?y=2018&t=Clinics in Podiatric Medicine and Surgery
+JournalDetail.aspx?y=2018&t=Taiwanese Journal of Obstetrics = Gynecology
+JournalDetail.aspx?y=2018&t=FOLIA BIOLOGICA
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR GERONTOLOGIE UND GERIATRIE
+JournalDetail.aspx?y=2018&t=WIENER KLINISCHE WOCHENSCHRIFT
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF SURGICAL PATHOLOGY
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF PEDIATRICS
+JournalDetail.aspx?y=2018&t=Gastroenterologia y Hepatologia
+JournalDetail.aspx?y=2018&t=Journal of Plastic Surgery and Hand Surgery
+JournalDetail.aspx?y=2018&t=Journal for Specialists in Pediatric Nursing
+JournalDetail.aspx?y=2018&t=MCN-The American Journal of Maternal-Child Nursing
+JournalDetail.aspx?y=2018&t=Annals of Indian Academy of Neurology
+JournalDetail.aspx?y=2018&t=JOURNAL OF PSYCHOPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=Translational Neuroscience
+JournalDetail.aspx?y=2018&t=Journal of Huazhong University of Science and Technology-Medical Sciences
+JournalDetail.aspx?y=2018&t=Vascular and Endovascular Surgery
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLINICAL ULTRASOUND
+JournalDetail.aspx?y=2018&t=MOTOR CONTROL
+JournalDetail.aspx?y=2018&t=JOURNAL OF PERINATAL = NEONATAL NURSING
+JournalDetail.aspx?y=2018&t=ANAIS BRASILEIROS DE DERMATOLOGIA
+JournalDetail.aspx?y=2018&t=Journal of Human Kinetics
+JournalDetail.aspx?y=2018&t=VERHALTENSTHERAPIE
+JournalDetail.aspx?y=2018&t=ISRAEL MEDICAL ASSOCIATION JOURNAL
+JournalDetail.aspx?y=2018&t=Rural and Remote Health
+JournalDetail.aspx?y=2018&t=Postepy w Kardiologii Interwencyjnej
+JournalDetail.aspx?y=2018&t=Journal of Eye Movement Research
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF DENTISTRY
+JournalDetail.aspx?y=2018&t=Ultrasound Quarterly
+JournalDetail.aspx?y=2018&t=CRANIO-THE JOURNAL OF CRANIOMANDIBULAR PRACTICE
+JournalDetail.aspx?y=2018&t=CARDIOLOGY IN THE YOUNG
+JournalDetail.aspx?y=2018&t=CLINICAL LINGUISTICS = PHONETICS
+JournalDetail.aspx?y=2018&t=Issues in Mental Health Nursing
+JournalDetail.aspx?y=2018&t=SOUTHERN MEDICAL JOURNAL
+JournalDetail.aspx?y=2018&t=International Braz J Urol
+JournalDetail.aspx?y=2018&t=MILITARY MEDICINE
+JournalDetail.aspx?y=2018&t=Current Computer-Aided Drug Design
+JournalDetail.aspx?y=2018&t=Foot and Ankle Clinics
+JournalDetail.aspx?y=2018&t=MEDICAL LETTER ON DRUGS AND THERAPEUTICS
+JournalDetail.aspx?y=2018&t=Clinical Laboratory
+JournalDetail.aspx?y=2018&t=Australian Journal of Rural Health
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF OPHTHALMOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Agromedicine
+JournalDetail.aspx?y=2018&t=NEUROENDOCRINOLOGY LETTERS
+JournalDetail.aspx?y=2018&t=Logopedics Phoniatrics Vocology
+JournalDetail.aspx?y=2018&t=ACTA VIROLOGICA
+JournalDetail.aspx?y=2018&t=Acta Reumatologica Portuguesa
+JournalDetail.aspx?y=2018&t=TRANSPLANTATION PROCEEDINGS
+JournalDetail.aspx?y=2018&t=AUSTRALASIAN JOURNAL ON AGEING
+JournalDetail.aspx?y=2018&t=Malawi Medical Journal
+JournalDetail.aspx?y=2018&t=KLINISCHE PADIATRIE
+JournalDetail.aspx?y=2018&t=JOURNAL OF ETHNICITY IN SUBSTANCE ABUSE
+JournalDetail.aspx?y=2018&t=Australian Journal of Forensic Sciences
+JournalDetail.aspx?y=2018&t=PEDIATRICS INTERNATIONAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF LARYNGOLOGY AND OTOLOGY
+JournalDetail.aspx?y=2018&t=MINERVA CHIRURGICA
+JournalDetail.aspx?y=2018&t=COMMUNITY DENTAL HEALTH
+JournalDetail.aspx?y=2018&t=Asian Nursing Research
+JournalDetail.aspx?y=2018&t=Journal of Oral Science
+JournalDetail.aspx?y=2018&t=Proceedings of the Institution of Mechanical Engineers Part P-Journal of Sports Engineering and Technology
+JournalDetail.aspx?y=2018&t=Aerospace Medicine and Human Performance
+JournalDetail.aspx?y=2018&t=Reviews in Cardiovascular Medicine
+JournalDetail.aspx?y=2018&t=Journal of Gerontological Nursing
+JournalDetail.aspx?y=2018&t=JOURNAL OF NUTRITIONAL SCIENCE AND VITAMINOLOGY
+JournalDetail.aspx?y=2018&t=International Journal of Nursing Knowledge
+JournalDetail.aspx?y=2018&t=Journal of Biopharmaceutical Statistics
+JournalDetail.aspx?y=2018&t=Undersea and Hyperbaric Medicine
+JournalDetail.aspx?y=2018&t=Australasian Psychiatry
+JournalDetail.aspx?y=2018&t=Current Pharmaceutical Analysis
+JournalDetail.aspx?y=2018&t=Iranian Journal of Parasitology
+JournalDetail.aspx?y=2018&t=JOURNAL OF CARDIAC SURGERY
+JournalDetail.aspx?y=2018&t=ANNALS ACADEMY OF MEDICINE SINGAPORE
+JournalDetail.aspx?y=2018&t=Balkan Medical Journal
+JournalDetail.aspx?y=2018&t=Quality Management in Health Care
+JournalDetail.aspx?y=2018&t=HNO
+JournalDetail.aspx?y=2018&t=INTERNAL MEDICINE
+JournalDetail.aspx?y=2018&t=INTERVENTIONAL NEURORADIOLOGY
+JournalDetail.aspx?y=2018&t=HERZ
+JournalDetail.aspx?y=2018&t=Journal of Orofacial Orthopedics-Fortschritte der Kieferorthopadie
+JournalDetail.aspx?y=2018&t=Urology Journal
+JournalDetail.aspx?y=2018&t=Vascular
+JournalDetail.aspx?y=2018&t=Pediatric Allergy Immunology and Pulmonology
+JournalDetail.aspx?y=2018&t=LEPROSY REVIEW
+JournalDetail.aspx?y=2018&t=Neurologia i Neurochirurgia Polska
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF PSYCHIATRY IN MEDICINE
+JournalDetail.aspx?y=2018&t=COMPARATIVE MEDICINE
+JournalDetail.aspx?y=2018&t=Complementary Medicine Research
+JournalDetail.aspx?y=2018&t=NERVENARZT
+JournalDetail.aspx?y=2018&t=BRAZILIAN JOURNAL OF CARDIOVASCULAR SURGERY
+JournalDetail.aspx?y=2018&t=JOURNAL OF CONTINUING EDUCATION IN NURSING
+JournalDetail.aspx?y=2018&t=Indian Journal of Orthopaedics
+JournalDetail.aspx?y=2018&t=REVUE D EPIDEMIOLOGIE ET DE SANTE PUBLIQUE
+JournalDetail.aspx?y=2018&t=Australian Family Physician
+JournalDetail.aspx?y=2018&t=BULLETIN DU CANCER
+JournalDetail.aspx?y=2018&t=TEXAS HEART INSTITUTE JOURNAL
+JournalDetail.aspx?y=2018&t=Journal of Neurological Surgery Part A-Central European Neurosurgery
+JournalDetail.aspx?y=2018&t=Contemporary Nurse
+JournalDetail.aspx?y=2018&t=AJAR-African Journal of AIDS Research
+JournalDetail.aspx?y=2018&t=Clinical Nurse Specialist
+JournalDetail.aspx?y=2018&t=Gynecologie Obstetrique Fertilite = Senologie
+JournalDetail.aspx?y=2018&t=Physiotherapy Canada
+JournalDetail.aspx?y=2018&t=Iranian Journal of Immunology
+JournalDetail.aspx?y=2018&t=ANNALS OF CLINICAL AND LABORATORY SCIENCE
+JournalDetail.aspx?y=2018&t=Colombia Medica
+JournalDetail.aspx?y=2018&t=Revista Espanola de Quimioterapia
+JournalDetail.aspx?y=2018&t=Journal of Cancer Research and Therapeutics
+JournalDetail.aspx?y=2018&t=Turkish Journal of Gastroenterology
+JournalDetail.aspx?y=2018&t=Journal of Gynecology Obstetrics and Human Reproduction
+JournalDetail.aspx?y=2018&t=Journal of Orthopaedic Surgery
+JournalDetail.aspx?y=2018&t=Revista da Associacao Medica Brasileira
+JournalDetail.aspx?y=2018&t=Journal of Emergency Nursing
+JournalDetail.aspx?y=2018&t=Occupational Therapy International
+JournalDetail.aspx?y=2018&t=Iranian Red Crescent Medical Journal
+JournalDetail.aspx?y=2018&t=SAUDI MEDICAL JOURNAL
+JournalDetail.aspx?y=2018&t=SINGAPORE MEDICAL JOURNAL
+JournalDetail.aspx?y=2018&t=AORN JOURNAL
+JournalDetail.aspx?y=2018&t=Iranian Journal of Public Health
+JournalDetail.aspx?y=2018&t=REHABILITATION
+JournalDetail.aspx?y=2018&t=Journal of the Royal Army Medical Corps
+JournalDetail.aspx?y=2018&t=JOURNAL OF NEUROSCIENCE NURSING
+JournalDetail.aspx?y=2018&t=Oral Health = Preventive Dentistry
+JournalDetail.aspx?y=2018&t=IRBM
+JournalDetail.aspx?y=2018&t=British Journal of Occupational Therapy
+JournalDetail.aspx?y=2018&t=ACTA CARDIOLOGICA
+JournalDetail.aspx?y=2018&t=Kinesiology
+JournalDetail.aspx?y=2018&t=NEUROLOGIST
+JournalDetail.aspx?y=2018&t=ANNALES DE DERMATOLOGIE ET DE VENEREOLOGIE
+JournalDetail.aspx?y=2018&t=Annals of Thoracic and Cardiovascular Surgery
+JournalDetail.aspx?y=2018&t=Revista Brasileira de Anestesiologia
+JournalDetail.aspx?y=2018&t=European Journal of Integrative Medicine
+JournalDetail.aspx?y=2018&t=Videosurgery and Other Miniinvasive Techniques
+JournalDetail.aspx?y=2018&t=Clinical Journal of Oncology Nursing
+JournalDetail.aspx?y=2018&t=JOURNAL OF CRANIOFACIAL SURGERY
+JournalDetail.aspx?y=2018&t=ADVANCES IN NURSING SCIENCE
+JournalDetail.aspx?y=2018&t=OPHTHALMOLOGE
+JournalDetail.aspx?y=2018&t=Acta Dermatovenerologica Croatica
+JournalDetail.aspx?y=2018&t=SOUTHEAST ASIAN JOURNAL OF TROPICAL MEDICINE AND PUBLIC HEALTH
+JournalDetail.aspx?y=2018&t=MINERVA PEDIATRICA
+JournalDetail.aspx?y=2018&t=Acta Cirurgica Brasileira
+JournalDetail.aspx?y=2018&t=Postepy Higieny I Medycyny Doswiadczalnej
+JournalDetail.aspx?y=2018&t=TRANSFUSION CLINIQUE ET BIOLOGIQUE
+JournalDetail.aspx?y=2018&t=LARYNGO-RHINO-OTOLOGIE
+JournalDetail.aspx?y=2018&t=KLINISCHE MONATSBLATTER FUR AUGENHEILKUNDE
+JournalDetail.aspx?y=2018&t=ACTA CLINICA BELGICA
+JournalDetail.aspx?y=2018&t=YONAGO ACTA MEDICA
+JournalDetail.aspx?y=2018&t=Sleep and Biological Rhythms
+JournalDetail.aspx?y=2018&t=JOURNAL OF PALLIATIVE CARE
+JournalDetail.aspx?y=2018&t=WHO Technical Report Series
+JournalDetail.aspx?y=2018&t=FACIAL PLASTIC SURGERY
+JournalDetail.aspx?y=2018&t=Revista de Investigacion Clinica-Clinical and Translational Investigation
+JournalDetail.aspx?y=2018&t=Anales de Psicologia
+JournalDetail.aspx?y=2018&t=Journal of Clinical Pediatric Dentistry
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF BIOORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=European Journal of Inflammation
+JournalDetail.aspx?y=2018&t=ULTRASTRUCTURAL PATHOLOGY
+JournalDetail.aspx?y=2018&t=Journal of PeriAnesthesia Nursing
+JournalDetail.aspx?y=2018&t=PEDIATRIC ANNALS
+JournalDetail.aspx?y=2018&t=Journal of Korean Neurosurgical Society
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF SPORT PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=Research in Gerontological Nursing
+JournalDetail.aspx?y=2018&t=Turkish Journal of Hematology
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF PHARMACEUTICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Arab Journal of Gastroenterology
+JournalDetail.aspx?y=2018&t=ACTA POLONIAE PHARMACEUTICA
+JournalDetail.aspx?y=2018&t=Esophagus
+JournalDetail.aspx?y=2018&t=NEUROCHIRURGIE
+JournalDetail.aspx?y=2018&t=Brain Impairment
+JournalDetail.aspx?y=2018&t=JOURNAL OF REPRODUCTIVE MEDICINE
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF PHARMACOLOGY
+JournalDetail.aspx?y=2018&t=Nagoya Journal of Medical Science
+JournalDetail.aspx?y=2018&t=Medicina del Lavoro
+JournalDetail.aspx?y=2018&t=Iranian Journal of Pediatrics
+JournalDetail.aspx?y=2018&t=Seminars in Plastic Surgery
+JournalDetail.aspx?y=2018&t=TECHNOLOGY AND HEALTH CARE
+JournalDetail.aspx?y=2018&t=African Health Sciences
+JournalDetail.aspx?y=2018&t=Bangladesh Journal of Pharmacology
+JournalDetail.aspx?y=2018&t=Journal of Integrative Neuroscience
+JournalDetail.aspx?y=2018&t=COMPARATIVE PARASITOLOGY
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY
+JournalDetail.aspx?y=2018&t=Dermatologica Sinica
+JournalDetail.aspx?y=2018&t=ACUPUNCTURE = ELECTRO-THERAPEUTICS RESEARCH
+JournalDetail.aspx?y=2018&t=World Review of Nutrition and Dietetics
+JournalDetail.aspx?y=2018&t=AMERICAN SURGEON
+JournalDetail.aspx?y=2018&t=MEDICAL HISTORY
+JournalDetail.aspx?y=2018&t=Physiology International
+JournalDetail.aspx?y=2018&t=Japan Journal of Nursing Science
+JournalDetail.aspx?y=2018&t=Workplace Health = Safety
+JournalDetail.aspx?y=2018&t=NURSING CLINICS OF NORTH AMERICA
+JournalDetail.aspx?y=2018&t=ARQUIVOS BRASILEIROS DE OFTALMOLOGIA
+JournalDetail.aspx?y=2018&t=International Journal of Pharmacology
+JournalDetail.aspx?y=2018&t=BULLETIN OF THE HISTORY OF MEDICINE
+JournalDetail.aspx?y=2018&t=Journal of Medical Imaging and Health Informatics
+JournalDetail.aspx?y=2018&t=JOURNAL OF PSYCHOSOCIAL NURSING AND MENTAL HEALTH SERVICES
+JournalDetail.aspx?y=2018&t=Clinical Gerontologist
+JournalDetail.aspx?y=2018&t=Pakistan Journal of Pharmaceutical Sciences
+JournalDetail.aspx?y=2018&t=Revista Latino-Americana de Enfermagem
+JournalDetail.aspx?y=2018&t=Annales de Chirurgie Plastique Esthetique
+JournalDetail.aspx?y=2018&t=Anales del Sistema Sanitario De Navarra
+JournalDetail.aspx?y=2018&t=REVISTA DE NEUROLOGIA
+JournalDetail.aspx?y=2018&t=Neurosciences
+JournalDetail.aspx?y=2018&t=MINERVA CARDIOANGIOLOGICA
+JournalDetail.aspx?y=2018&t=ENCEPHALE-REVUE DE PSYCHIATRIE CLINIQUE BIOLOGIQUE ET THERAPEUTIQUE
+JournalDetail.aspx?y=2018&t=Nephrology Nursing Journal
+JournalDetail.aspx?y=2018&t=EASTERN MEDITERRANEAN HEALTH JOURNAL
+JournalDetail.aspx?y=2018&t=Central European Journal of Public Health
+JournalDetail.aspx?y=2018&t=Rivista di Psichiatria
+JournalDetail.aspx?y=2018&t=European Journal of Paediatric Dentistry
+JournalDetail.aspx?y=2018&t=Holistic Nursing Practice
+JournalDetail.aspx?y=2018&t=PROGRES EN UROLOGIE
+JournalDetail.aspx?y=2018&t=MEDICAL PROBLEMS OF PERFORMING ARTISTS
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR RHEUMATOLOGIE
+JournalDetail.aspx?y=2018&t=HEMOGLOBIN
+JournalDetail.aspx?y=2018&t=ACTA GASTRO-ENTEROLOGICA BELGICA
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR PSYCHOSOMATISCHE MEDIZIN UND PSYCHOTHERAPIE
+JournalDetail.aspx?y=2018&t=SOUTHERN AFRICAN JOURNAL OF HIV MEDICINE
+JournalDetail.aspx?y=2018&t=Pakistan Journal of Medical Sciences
+JournalDetail.aspx?y=2018&t=ACTA MEDICA OKAYAMA
+JournalDetail.aspx?y=2018&t=Acta Orthopaedica Belgica
+JournalDetail.aspx?y=2018&t=Malaysian Journal of Pathology
+JournalDetail.aspx?y=2018&t=CHIRURG
+JournalDetail.aspx?y=2018&t=Nephrologie = Therapeutique
+JournalDetail.aspx?y=2018&t=Biomedica
+JournalDetail.aspx?y=2018&t=SEMINARS IN ROENTGENOLOGY
+JournalDetail.aspx?y=2018&t=JOURNAL OF GENETIC PSYCHOLOGY
+JournalDetail.aspx?y=2018&t=FORTSCHRITTE DER NEUROLOGIE PSYCHIATRIE
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF DIETETIC PRACTICE AND RESEARCH
+JournalDetail.aspx?y=2018&t=Handchirurgie Mikrochirurgie Plastische Chirurgie
+JournalDetail.aspx?y=2018&t=Journal of Dental Sciences
+JournalDetail.aspx?y=2018&t=SCIENCE = SPORTS
+JournalDetail.aspx?y=2018&t=NURSING SCIENCE QUARTERLY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF GYNAECOLOGICAL ONCOLOGY
+JournalDetail.aspx?y=2018&t=Medizinische Klinik-Intensivmedizin und Notfallmedizin
+JournalDetail.aspx?y=2018&t=ISRAEL JOURNAL OF PSYCHIATRY AND RELATED SCIENCES
+JournalDetail.aspx?y=2018&t=Journal of Trauma Nursing
+JournalDetail.aspx?y=2018&t=Nigerian Journal of Clinical Practice
+JournalDetail.aspx?y=2018&t=JOURNAL OF FAMILY PRACTICE
+JournalDetail.aspx?y=2018&t=International Journal of Osteopathic Medicine
+JournalDetail.aspx?y=2018&t=MEDICINE SCIENCE AND THE LAW
+JournalDetail.aspx?y=2018&t=Turkish Neurosurgery
+JournalDetail.aspx?y=2018&t=Therapeutic Innovation = Regulatory Science
+JournalDetail.aspx?y=2018&t=HAUTARZT
+JournalDetail.aspx?y=2018&t=Experimental and Clinical Transplantation
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE PAKISTAN MEDICAL ASSOCIATION
+JournalDetail.aspx?y=2018&t=Ginekologia Polska
+JournalDetail.aspx?y=2018&t=Puerto Rico Health Sciences Journal
+JournalDetail.aspx?y=2018&t=Bratislava Medical Journal-Bratislavske Lekarske Listy
+JournalDetail.aspx?y=2018&t=TROPICAL BIOMEDICINE
+JournalDetail.aspx?y=2018&t=ARCHIVES ITALIENNES DE BIOLOGIE
+JournalDetail.aspx?y=2018&t=JOURNAL OF OBSTETRICS AND GYNAECOLOGY
+JournalDetail.aspx?y=2018&t=FOOD AND DRUG LAW JOURNAL
+JournalDetail.aspx?y=2018&t=SWEDISH DENTAL JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE CANADIAN DENTAL ASSOCIATION
+JournalDetail.aspx?y=2018&t=Analytical and Quantitative Cytopathology and Histopathology
+JournalDetail.aspx?y=2018&t=EUROPEAN HEART JOURNAL SUPPLEMENTS
+JournalDetail.aspx?y=2018&t=Diabetologie und Stoffwechsel
+JournalDetail.aspx?y=2018&t=Acta Chirurgiae Orthopaedicae et Traumatologiae Cechoslovaca
+JournalDetail.aspx?y=2018&t=Gastroenterology Nursing
+JournalDetail.aspx?y=2018&t=Revista da Escola de Enfermagem da USP
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE NATIONAL MEDICAL ASSOCIATION
+JournalDetail.aspx?y=2018&t=UNFALLCHIRURG
+JournalDetail.aspx?y=2018&t=Fetal and Pediatric Pathology
+JournalDetail.aspx?y=2018&t=NeuroQuantology
+JournalDetail.aspx?y=2018&t=Expert Opinion on Orphan Drugs
+JournalDetail.aspx?y=2018&t=Zeitschrift fur Orthopadie und Unfallchirurgie
+JournalDetail.aspx?y=2018&t=JOURNAL OF PEDIATRIC ORTHOPAEDICS-PART B
+JournalDetail.aspx?y=2018&t=REVUE DES MALADIES RESPIRATOIRES
+JournalDetail.aspx?y=2018&t=Journal of Medical Ultrasonics
+JournalDetail.aspx?y=2018&t=European Journal of Hospital Pharmacy-Science and Practice
+JournalDetail.aspx?y=2018&t=Acta Ortopedica Brasileira
+JournalDetail.aspx?y=2018&t=Turkish Journal Of Medical Sciences
+JournalDetail.aspx?y=2018&t=Indian Journal of Pathology and Microbiology
+JournalDetail.aspx?y=2018&t=FOLIA BIOLOGICA-KRAKOW
+JournalDetail.aspx?y=2018&t=Annali Italiani di Chirurgia
+JournalDetail.aspx?y=2018&t=Journal of Hospice = Palliative Nursing
+JournalDetail.aspx?y=2018&t=IEEE Pulse
+JournalDetail.aspx?y=2018&t=Hand Surgery = Rehabilitation
+JournalDetail.aspx?y=2018&t=INTERNATIONAL SURGERY
+JournalDetail.aspx?y=2018&t=ORTHOPADE
+JournalDetail.aspx?y=2018&t=Acta Orthopaedica et Traumatologica Turcica
+JournalDetail.aspx?y=2018&t=STRENGTH AND CONDITIONING JOURNAL
+JournalDetail.aspx?y=2018&t=Spanish Journal of Psychology
+JournalDetail.aspx?y=2018&t=ACSMS HEALTH = FITNESS JOURNAL
+JournalDetail.aspx?y=2018&t=Journal of Cytology
+JournalDetail.aspx?y=2018&t=PEDIATRIC NEUROSURGERY
+JournalDetail.aspx?y=2018&t=PATHOLOGE
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN PODIATRIC MEDICAL ASSOCIATION
+JournalDetail.aspx?y=2018&t=Journal of Addictions Nursing
+JournalDetail.aspx?y=2018&t=JOURNAL FRANCAIS D OPHTALMOLOGIE
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF CANCER
+JournalDetail.aspx?y=2018&t=PHARMACEUTICAL CHEMISTRY JOURNAL
+JournalDetail.aspx?y=2018&t=Journal of Forensic Nursing
+JournalDetail.aspx?y=2018&t=DEUTSCHE MEDIZINISCHE WOCHENSCHRIFT
+JournalDetail.aspx?y=2018&t=LUTS-Lower Urinary Tract Symptoms
+JournalDetail.aspx?y=2018&t=Archives of Clinical Psychiatry
+JournalDetail.aspx?y=2018&t=Emergency Medicine International
+JournalDetail.aspx?y=2018&t=TROPICAL JOURNAL OF PHARMACEUTICAL RESEARCH
+JournalDetail.aspx?y=2018&t=Journal of Exercise Science = Fitness
+JournalDetail.aspx?y=2018&t=Ethik in der Medizin
+JournalDetail.aspx?y=2018&t=DISSOLUTION TECHNOLOGIES
+JournalDetail.aspx?y=2018&t=Orthopaedic Nursing
+JournalDetail.aspx?y=2018&t=SCOTTISH MEDICAL JOURNAL
+JournalDetail.aspx?y=2018&t=Journal of Korean Academy of Nursing
+JournalDetail.aspx?y=2018&t=CLINICAL DYSMORPHOLOGY
+JournalDetail.aspx?y=2018&t=Iranian Journal of Radiology
+JournalDetail.aspx?y=2018&t=JOURNAL OF NIPPON MEDICAL SCHOOL
+JournalDetail.aspx?y=2018&t=ANNALS OF SAUDI MEDICINE
+JournalDetail.aspx?y=2018&t=ZENTRALBLATT FUR CHIRURGIE
+JournalDetail.aspx?y=2018&t=Rechtsmedizin
+JournalDetail.aspx?y=2018&t=Notfall = Rettungsmedizin
+JournalDetail.aspx?y=2018&t=M S-MEDECINE SCIENCES
+JournalDetail.aspx?y=2018&t=MEDICINA-BUENOS AIRES
+JournalDetail.aspx?y=2018&t=Acta Cardiologica Sinica
+JournalDetail.aspx?y=2018&t=Oral Radiology
+JournalDetail.aspx?y=2018&t=Ulusal Travma ve Acil Cerrahi Dergisi-Turkish Journal of Trauma = Emergency Surgery
+JournalDetail.aspx?y=2018&t=BULLETIN OF EXPERIMENTAL BIOLOGY AND MEDICINE
+JournalDetail.aspx?y=2018&t=Brazilian Journal of Pharmaceutical Sciences
+JournalDetail.aspx?y=2018&t=Revista Internacional de Medicina y Ciencias de la Actividad Fisica y del Deporte
+JournalDetail.aspx?y=2018&t=Hong Kong Journal of Occupational Therapy
+JournalDetail.aspx?y=2018&t=Hippokratia
+JournalDetail.aspx?y=2018&t=MEDYCYNA PRACY
+JournalDetail.aspx?y=2018&t=B-ENT
+JournalDetail.aspx?y=2018&t=REVISTA MEDICA DE CHILE
+JournalDetail.aspx?y=2018&t=Revista Chilena de Infectologia
+JournalDetail.aspx?y=2018&t=Journal of Mens Health
+JournalDetail.aspx?y=2018&t=Journal of Community Health Nursing
+JournalDetail.aspx?y=2018&t=Acta Medica Portuguesa
+JournalDetail.aspx?y=2018&t=TROPICAL DOCTOR
+JournalDetail.aspx?y=2018&t=FOLIA PHONIATRICA ET LOGOPAEDICA
+JournalDetail.aspx?y=2018&t=Archivos Argentinos de Pediatria
+JournalDetail.aspx?y=2018&t=ANNALES DE PATHOLOGIE
+JournalDetail.aspx?y=2018&t=ACTA CHIRURGICA BELGICA
+JournalDetail.aspx?y=2018&t=FOLIA MORPHOLOGICA
+JournalDetail.aspx?y=2018&t=Plastic Surgery
+JournalDetail.aspx?y=2018&t=Acta Clinica Croatica
+JournalDetail.aspx?y=2018&t=Journal of International Advanced Otology
+JournalDetail.aspx?y=2018&t=Australian Orthodontic Journal
+JournalDetail.aspx?y=2018&t=NEUROCIRUGIA
+JournalDetail.aspx?y=2018&t=Clinical and Experimental Obstetrics = Gynecology
+JournalDetail.aspx?y=2018&t=SPORTVERLETZUNG-SPORTSCHADEN
+JournalDetail.aspx?y=2018&t=Journal of Medical Devices-Transactions of the ASME
+JournalDetail.aspx?y=2018&t=Seminars in Orthodontics
+JournalDetail.aspx?y=2018&t=International Journal of Gerontology
+JournalDetail.aspx?y=2018&t=Revista de Nutricao-Brazilian Journal of Nutrition
+JournalDetail.aspx?y=2018&t=Current Medical Imaging Reviews
+JournalDetail.aspx?y=2018&t=INVESTIGACION CLINICA
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR GEBURTSHILFE UND NEONATOLOGIE
+JournalDetail.aspx?y=2018&t=Boletin Latinoamericano y del Caribe de Plantas Medicinales y Aromaticas
+JournalDetail.aspx?y=2018&t=Recht = Psychiatrie
+JournalDetail.aspx?y=2018&t=Research and Theory for Nursing Practice
+JournalDetail.aspx?y=2018&t=Acta Paulista de Enfermagem
+JournalDetail.aspx?y=2018&t=Psychiatry and Clinical Psychopharmacology
+JournalDetail.aspx?y=2018&t=INTERNIST
+JournalDetail.aspx?y=2018&t=Balkan Journal of Medical Genetics
+JournalDetail.aspx?y=2018&t=European Surgery-Acta Chirurgica Austriaca
+JournalDetail.aspx?y=2018&t=ISOKINETICS AND EXERCISE SCIENCE
+JournalDetail.aspx?y=2018&t=International Journal of Radiation Research
+JournalDetail.aspx?y=2018&t=Critical Care Nursing Clinics of North America
+JournalDetail.aspx?y=2018&t=JCPSP-Journal of the College of Physicians and Surgeons Pakistan
+JournalDetail.aspx?y=2018&t=Revista Argentina de Clinica Psicologica
+JournalDetail.aspx?y=2018&t=Bariatric Surgical Practice and Patient Care
+JournalDetail.aspx?y=2018&t=Australian Journal of Advanced Nursing
+JournalDetail.aspx?y=2018&t=Notarzt
+JournalDetail.aspx?y=2018&t=JNP-Journal for Nurse Practitioners
+JournalDetail.aspx?y=2018&t=Geriatrie et Psychologie Neuropsychiatrie de Vieillissement
+JournalDetail.aspx?y=2018&t=Vojnosanitetski Pregled
+JournalDetail.aspx?y=2018&t=INQUIRY-THE JOURNAL OF HEALTH CARE ORGANIZATION PROVISION AND FINANCING
+JournalDetail.aspx?y=2018&t=RADIOPROTECTION
+JournalDetail.aspx?y=2018&t=Indian Journal of Surgery
+JournalDetail.aspx?y=2018&t=PERSPECTIVES IN BIOLOGY AND MEDICINE
+JournalDetail.aspx?y=2018&t=Indian Journal of Hematology and Blood Transfusion
+JournalDetail.aspx?y=2018&t=Acta Medica Mediterranea
+JournalDetail.aspx?y=2018&t=ARCHIVOS ESPANOLES DE UROLOGIA
+JournalDetail.aspx?y=2018&t=International Journal of Diabetes in Developing Countries
+JournalDetail.aspx?y=2018&t=CESKA A SLOVENSKA NEUROLOGIE A NEUROCHIRURGIE
+JournalDetail.aspx?y=2018&t=UROLOGE
+JournalDetail.aspx?y=2018&t=ARCHIVES DE PEDIATRIE
+JournalDetail.aspx?y=2018&t=HEART SURGERY FORUM
+JournalDetail.aspx?y=2018&t=RADIOLOGE
+JournalDetail.aspx?y=2018&t=JAAPA-Journal of the American Academy of Physician Assistants
+JournalDetail.aspx?y=2018&t=ARCHIVOS LATINOAMERICANOS DE NUTRICION
+JournalDetail.aspx?y=2018&t=SOUTH AFRICAN JOURNAL OF SURGERY
+JournalDetail.aspx?y=2018&t=Neurochemical Journal
+JournalDetail.aspx?y=2018&t=BRITISH JOURNAL OF HOSPITAL MEDICINE
+JournalDetail.aspx?y=2018&t=Latin American Journal of Pharmacy
+JournalDetail.aspx?y=2018&t=Suchttherapie
+JournalDetail.aspx?y=2018&t=TURKISH JOURNAL OF PEDIATRICS
+JournalDetail.aspx?y=2018&t=Zeitschrift fur Neuropsychologie
+JournalDetail.aspx?y=2018&t=ERNAHRUNGS UMSCHAU
+JournalDetail.aspx?y=2018&t=ORVOSI HETILAP
+JournalDetail.aspx?y=2018&t=ANASTHESIOLOGIE INTENSIVMEDIZIN NOTFALLMEDIZIN SCHMERZTHERAPIE
+JournalDetail.aspx?y=2018&t=Ideggyogyaszati Szemle-Clinical Neuroscience
+JournalDetail.aspx?y=2018&t=Progress in Nutrition
+JournalDetail.aspx?y=2018&t=Ethiopian Journal of Health Development
+JournalDetail.aspx?y=2018&t=Revue de Stomatologie de Chirurgie Maxillo-faciale et de Chirurgie Orale
+JournalDetail.aspx?y=2018&t=Revue de Pneumologie Clinique
+JournalDetail.aspx?y=2018&t=Gaceta Medica de Mexico
+JournalDetail.aspx?y=2018&t=Pflege
+JournalDetail.aspx?y=2018&t=ANNALES DE BIOLOGIE CLINIQUE
+JournalDetail.aspx?y=2018&t=Acta Endocrinologica-Bucharest
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF MORPHOLOGY
+JournalDetail.aspx?y=2018&t=Nutrition Clinique et Metabolisme
+JournalDetail.aspx?y=2018&t=Revue Francaise d Allergologie
+JournalDetail.aspx?y=2018&t=MONATSSCHRIFT KINDERHEILKUNDE
+JournalDetail.aspx?y=2018&t=Revista Romana de Medicina de Laborator
+JournalDetail.aspx?y=2018&t=PHYSIKALISCHE MEDIZIN REHABILITATIONSMEDIZIN KURORTMEDIZIN
+JournalDetail.aspx?y=2018&t=Journal of Hematopathology
+JournalDetail.aspx?y=2018&t=Open Medicine
+JournalDetail.aspx?y=2018&t=BIOPHARM INTERNATIONAL
+JournalDetail.aspx?y=2018&t=Sante Publique
+JournalDetail.aspx?y=2018&t=Laeknabladid
+JournalDetail.aspx?y=2018&t=Cirugia y Cirujanos
+JournalDetail.aspx?y=2018&t=Srpski Arhiv za Celokupno Lekarstvo
+JournalDetail.aspx?y=2018&t=OPERATIVE TECHNIQUES IN SPORTS MEDICINE
+JournalDetail.aspx?y=2018&t=TOPICS IN CLINICAL NUTRITION
+JournalDetail.aspx?y=2018&t=Journal of the Belgian Society of Radiology
+JournalDetail.aspx?y=2018&t=YAKUGAKU ZASSHI-JOURNAL OF THE PHARMACEUTICAL SOCIETY OF JAPAN
+JournalDetail.aspx?y=2018&t=Anadolu Psikiyatri Dergisi-Anatolian Journal of Psychiatry
+JournalDetail.aspx?y=2018&t=NEUROPHYSIOLOGY
+JournalDetail.aspx?y=2018&t=South African Journal of Psychiatry
+JournalDetail.aspx?y=2018&t=GENETIC COUNSELING
+JournalDetail.aspx?y=2018&t=AKTUELLE UROLOGIE
+JournalDetail.aspx?y=2018&t=Revista Brasileira de Medicina do Esporte
+JournalDetail.aspx?y=2018&t=Noropsikiyatri Arsivi-Archives of Neuropsychiatry
+JournalDetail.aspx?y=2018&t=ZHURNAL VYSSHEI NERVNOI DEYATELNOSTI IMENI I P PAVLOVA
+JournalDetail.aspx?y=2018&t=Assistenza Infermieristica e Ricerca
+JournalDetail.aspx?y=2018&t=Indian Journal of Pharmaceutical Education and Research
+JournalDetail.aspx?y=2018&t=Archives of Rheumatology
+JournalDetail.aspx?y=2018&t=ANNALES MEDICO-PSYCHOLOGIQUES
+JournalDetail.aspx?y=2018&t=ALLERGOLOGIE
+JournalDetail.aspx?y=2018&t=TERAPEVTICHESKII ARKHIV
+JournalDetail.aspx?y=2018&t=Boletin de Malariologia y Salud Ambiental
+JournalDetail.aspx?y=2018&t=Revista Internacional de Andrologia
+JournalDetail.aspx?y=2018&t=Current Topics in Nutraceutical Research
+JournalDetail.aspx?y=2018&t=KARDIOLOGIYA
+JournalDetail.aspx?y=2018&t=Romanian Journal of Legal Medicine
+JournalDetail.aspx?y=2018&t=Archives des Maladies Professionnelles et de l Environnement
+JournalDetail.aspx?y=2018&t=Neurology Asia
+JournalDetail.aspx?y=2018&t=Turk Gogus Kalp Damar Cerrahisi Dergisi-Turkish Journal of Thoracic and Cardiovascular Surgery
+JournalDetail.aspx?y=2018&t=MEDICINA DELLO SPORT
+JournalDetail.aspx?y=2018&t=KLINISCHE NEUROPHYSIOLOGIE
+JournalDetail.aspx?y=2018&t=LaboratoriumsMedizin-Journal of Laboratory Medicine
+JournalDetail.aspx?y=2018&t=Asian Biomedicine
+JournalDetail.aspx?y=2018&t=Hong Kong Journal of Emergency Medicine
+JournalDetail.aspx?y=2018&t=VIROLOGIE
+JournalDetail.aspx?y=2018&t=Medecine Nucleaire-Imagerie Fonctionnelle et Metabolique
+JournalDetail.aspx?y=2018&t=Turkish Journal of Physical Medicine and Rehabilitation
+JournalDetail.aspx?y=2018&t=Acta Bioethica
+JournalDetail.aspx?y=2018&t=Hong Kong Journal of Paediatrics
+JournalDetail.aspx?y=2018&t=Journal of Nepal Medical Association
+JournalDetail.aspx?y=2018&t=Signa Vitae
+JournalDetail.aspx?y=2018&t=Turkish Journal of Geriatrics-Turk Geriatri Dergisi
+JournalDetail.aspx?y=2018&t=Psycho-Oncologie
+JournalDetail.aspx?y=2018&t=Journal of Neurological Sciences-Turkish
+JournalDetail.aspx?y=2018&t=Onkologe
+JournalDetail.aspx?y=2018&t=Diabetes Stoffwechsel und Herz
+JournalDetail.aspx?y=2018&t=Journal of Pediatric Infectious Diseases
+JournalDetail.aspx?y=2018&t=Diabetologe
+JournalDetail.aspx?y=2018&t=Journal of the Anatomical Society of India
+JournalDetail.aspx?y=2018&t=GEMATOLOGIYA I TRANSFUZIOLOGIYA
+JournalDetail.aspx?y=2018&t=AKTUELLE RHEUMATOLOGIE
+JournalDetail.aspx?y=2018&t=PSYCHIATRIE DE L ENFANT
+JournalDetail.aspx?y=2018&t=ACTA BIOQUIMICA CLINICA LATINOAMERICANA
+JournalDetail.aspx?y=2018&t=DRUGS OF THE FUTURE
+JournalDetail.aspx?y=2018&t=Kuwait Medical Journal
+JournalDetail.aspx?y=2018&t=Implantologie
+JournalDetail.aspx?y=2018&t=Hong Kong Journal of Dermatology = Venereology
+JournalDetail.aspx?y=2018&t=Oncologie
+JournalDetail.aspx?y=2018&t=BULLETIN DE L ACADEMIE NATIONALE DE MEDECINE
+JournalDetail.aspx?y=2018&t=Revista de Nefrologia Dialisis y Trasplante
+JournalDetail.aspx?y=2018&t=Correspondances en Metabolismes Hormones Diabetes et Nutrition
+JournalDetail.aspx?y=2018&t=Journal of Stomatology Oral and Maxillofacial Surgery

@@ -93,6 +93,18 @@ class _journalIDWorker(Process):
                         raise Exception("%s: retry_times=%d! This id is labeled as FAILED!" % (
                         cls_name, spiders.ids_max_retry_times))
 
+                    sub_list_file = os.path.join(BASE_DIR,'cofcoAPP/heplers/journal',spiders.journal_year+"-"+cls_name+'.txt')
+                    if os.path.exists(sub_list_file) and spiders.read_cached:
+                        with open(sub_list_file,'r',encoding='utf-8') as f:
+                            list_content = f.read()
+                        sub_list = re.split('\n',list_content)[:-1]
+
+                        for id_n,target_link in enumerate(sub_list):
+                            self.ids_queen.put({'id_n': id_n, 'target_link': target_link, 'retry_times': 0})
+                            self.manager.update_ids_qsize(1)
+                        self.manager.update_finished_page_Num()
+                        continue
+
                     currPage = 1
                     page_retried = 0
                     total_Num = 9999 #暂时的总期刊数目
@@ -141,13 +153,17 @@ class _journalIDWorker(Process):
                             # 获取本页所有链接
                             row_eles = re.findall(r'<tr>\s+<td>([\d]+)</td>[\s\S]*?href="([\s\S]+?)"',rsp_text)
                             id_n = -1
+                            fp = open(sub_list_file, 'a+', encoding='utf-8')
                             for ele in row_eles:
                                 id_n = int(ele[0]) # 编号
                                 target_link = ele[1] # 详情链接
                                 self.ids_queen.put({'id_n': id_n, 'target_link':target_link, 'retry_times': 0})
+                                fp.write(target_link+'\n')
                                 self.manager.update_ids_qsize(1)
                                 if int(id_n) == total_Num:
                                     is_get_last_journal = True
+                            fp.flush()
+                            fp.close()
                             logger.log(user=self.name, tag='INFO', info='%s-%d success! currPage:%d %d/%d' %(cls_name, currPage, currPage,id_n, total_Num), screen=True)
                             currPage += 1
                             page_retried = 0
@@ -156,9 +172,8 @@ class _journalIDWorker(Process):
                             logger.log(user=self.name, tag='ERROF', info='%s-%d failed! %s' % (cls_name, currPage, e), screen=True)
                             self.manager.auto_update_session(force=True)
                             self._init_data()
-                        time.sleep(0.5)
-
                     self.manager.update_finished_page_Num()
+
                 except Exception as e:
                     # 判断是否完成
                     finished_page_Num = self.manager.finished_page_Num.value
@@ -179,23 +194,23 @@ class _journalIDWorker(Process):
                             self.manager.update_failed_page_Num()
                         logger.log(user=self.name, tag='ERROR', info=e, screen=True)
                         self.manager.auto_update_session(force=True)
+                        self._init_data()
                     else:
                         pass
                         # logger.log(user=self.name, tag='INFO', info='Waiting...', screen=True)
-
-                    self._init_data()
+                time.sleep(1.0 * random.randrange(1, 1000) / 1000)  # 休息一下
 
     def run(self):
         # 获取类别列表
         cls_names = ['地学','地学天文','工程技术','管理科学','化学','环境科学与生态学','农林科学','社会科学','生物','数学','物理','医学','综合性期刊']
-        cls_names = ['工程技术']
+        # cls_names = ['工程技术']
         SPIDERS_STATUS[self.kw_id].page_Num.value = len(cls_names)
 
         for cls_name in cls_names:
             self.cls_queen.put({'cls_name': cls_name,'retry_times':0})
 
         # for i in range(self.thread_num):
-        for i in range(1):
+        for i in range(4):
             name = "%s %s-%02d" % (self.name, 'THREAD', i + 1)
             dt = self._worker(kw_id=self.kw_id, name=name, cls_queen=self.cls_queen)
             dt.start()
@@ -451,11 +466,10 @@ class SpiderManagerForJournal(object):
         id_worker = _journalIDWorker(kw_id=self.kw_id, name='%s JOURNAL_IDS_PROCESS-MAIN' % common_tag, thread_num=self.ids_thread_num)
         id_worker.start()
         self.id_process = id_worker
-        self.idsP_status.value =1
+        self.idsP_status.value = 1
 
         # 启动获取 content 的进程
-        # for i in range(self.content_process_num):
-        for i in range(1):
+        for i in range(self.content_process_num):
             name = '%s JOURNAL_CONTEND_PROCESS-%02d' % (common_tag, int(i + 1))
             content_worker = _journalContendWorker(kw_id=self.kw_id, name=name,thread_num=self.content_thread_num)
             content_worker.start()

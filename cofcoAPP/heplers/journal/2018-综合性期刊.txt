@@ -1,0 +1,54 @@
+JournalDetail.aspx?y=2018&t=NATURE
+JournalDetail.aspx?y=2018&t=SCIENCE
+JournalDetail.aspx?y=2018&t=Nature Communications
+JournalDetail.aspx?y=2018&t=Science Advances
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA
+JournalDetail.aspx?y=2018&t=National Science Review
+JournalDetail.aspx?y=2018&t=Scientific Data
+JournalDetail.aspx?y=2018&t=Scientific Reports
+JournalDetail.aspx?y=2018&t=Annals of the New York Academy of Sciences
+JournalDetail.aspx?y=2018&t=Journal of Advanced Research
+JournalDetail.aspx?y=2018&t=Journal of the Royal Society Interface
+JournalDetail.aspx?y=2018&t=Research Synthesis Methods
+JournalDetail.aspx?y=2018&t=Science Bulletin
+JournalDetail.aspx?y=2018&t=PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES
+JournalDetail.aspx?y=2018&t=Royal Society Open Science
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE JAPAN ACADEMY SERIES B-PHYSICAL AND BIOLOGICAL SCIENCES
+JournalDetail.aspx?y=2018&t=NPJ Microgravity
+JournalDetail.aspx?y=2018&t=Science of Nature
+JournalDetail.aspx?y=2018&t=Proceedings of the Romanian Academy Series A-Mathematics Physics Technical Sciences Information Science
+JournalDetail.aspx?y=2018&t=SCIENTIFIC AMERICAN
+JournalDetail.aspx?y=2018&t=Symmetry-Basel
+JournalDetail.aspx?y=2018&t=Jove-Journal of Visualized Experiments
+JournalDetail.aspx?y=2018&t=SCIENCE PROGRESS
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE ROYAL SOCIETY OF NEW ZEALAND
+JournalDetail.aspx?y=2018&t=SOUTH AFRICAN JOURNAL OF SCIENCE
+JournalDetail.aspx?y=2018&t=CURRENT SCIENCE
+JournalDetail.aspx?y=2018&t=ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING
+JournalDetail.aspx?y=2018&t=ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE INDIAN INSTITUTE OF SCIENCE
+JournalDetail.aspx?y=2018&t=Proceedings of the Estonian Academy of Sciences
+JournalDetail.aspx?y=2018&t=ANNALS OF CARNEGIE MUSEUM
+JournalDetail.aspx?y=2018&t=RENDICONTI LINCEI-SCIENZE FISICHE E NATURALI
+JournalDetail.aspx?y=2018&t=ADVANCES IN COMPLEX SYSTEMS
+JournalDetail.aspx?y=2018&t=AMERICAN SCIENTIST
+JournalDetail.aspx?y=2018&t=Kuwait Journal of Science
+JournalDetail.aspx?y=2018&t=TRANSACTIONS OF THE ROYAL SOCIETY OF SOUTH AUSTRALIA
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES INDIA SECTION A-PHYSICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Sains Malaysiana
+JournalDetail.aspx?y=2018&t=CIENCIA RURAL
+JournalDetail.aspx?y=2018&t=Chiang Mai Journal of Science
+JournalDetail.aspx?y=2018&t=NATIONAL ACADEMY SCIENCE LETTERS-INDIA
+JournalDetail.aspx?y=2018&t=SCIENTIST
+JournalDetail.aspx?y=2018&t=Maejo International Journal of Science and Technology
+JournalDetail.aspx?y=2018&t=Iranian Journal of Science and Technology Transaction A-Science
+JournalDetail.aspx?y=2018&t=INTERDISCIPLINARY SCIENCE REVIEWS
+JournalDetail.aspx?y=2018&t=NEW SCIENTIST
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE NATIONAL SCIENCE FOUNDATION OF SRI LANKA
+JournalDetail.aspx?y=2018&t=SCIENCEASIA
+JournalDetail.aspx?y=2018&t=ACTA SCIENTIARUM-TECHNOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Engineering Research
+JournalDetail.aspx?y=2018&t=COMPTES RENDUS DE L ACADEMIE BULGARE DES SCIENCES
+JournalDetail.aspx?y=2018&t=INTERCIENCIA
+JournalDetail.aspx?y=2018&t=R=D MAGAZINE

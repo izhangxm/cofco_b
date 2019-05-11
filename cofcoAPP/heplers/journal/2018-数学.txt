@@ -1,0 +1,513 @@
+JournalDetail.aspx?y=2018&t=ACTA NUMERICA
+JournalDetail.aspx?y=2018&t=SIAM REVIEW
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=ANNALS OF MATHEMATICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY
+JournalDetail.aspx?y=2018&t=COMMUNICATIONS ON PURE AND APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=STRUCTURAL EQUATION MODELING-A MULTIDISCIPLINARY JOURNAL
+JournalDetail.aspx?y=2018&t=Annual Review of Statistics and Its Application
+JournalDetail.aspx?y=2018&t=MATHEMATICAL MODELS = METHODS IN APPLIED SCIENCES
+JournalDetail.aspx?y=2018&t=Publications Mathematiques de l IHES
+JournalDetail.aspx?y=2018&t=ACTA MATHEMATICA
+JournalDetail.aspx?y=2018&t=Advances in Nonlinear Analysis
+JournalDetail.aspx?y=2018&t=INVENTIONES MATHEMATICAE
+JournalDetail.aspx?y=2018&t=ANNALS OF STATISTICS
+JournalDetail.aspx?y=2018&t=FOUNDATIONS OF COMPUTATIONAL MATHEMATICS
+JournalDetail.aspx?y=2018&t=MULTIVARIATE BEHAVIORAL RESEARCH
+JournalDetail.aspx?y=2018&t=RISK ANALYSIS
+JournalDetail.aspx?y=2018&t=APPLIED AND COMPUTATIONAL HARMONIC ANALYSIS
+JournalDetail.aspx?y=2018&t=FUZZY SETS AND SYSTEMS
+JournalDetail.aspx?y=2018&t=MATHEMATICAL FINANCE
+JournalDetail.aspx?y=2018&t=APPLIED MATHEMATICAL MODELLING
+JournalDetail.aspx?y=2018&t=MATHEMATICAL PROGRAMMING
+JournalDetail.aspx?y=2018&t=Fractional Calculus and Applied Analysis
+JournalDetail.aspx?y=2018&t=ANNALES DE L INSTITUT HENRI POINCARE-ANALYSE NON LINEAIRE
+JournalDetail.aspx?y=2018&t=DUKE MATHEMATICAL JOURNAL
+JournalDetail.aspx?y=2018&t=SIAM JOURNAL ON OPTIMIZATION
+JournalDetail.aspx?y=2018&t=STATISTICAL SCIENCE
+JournalDetail.aspx?y=2018&t=APPLIED MATHEMATICS LETTERS
+JournalDetail.aspx?y=2018&t=NUMERISCHE MATHEMATIK
+JournalDetail.aspx?y=2018&t=AMERICAN STATISTICIAN
+JournalDetail.aspx?y=2018&t=PROBABILITY THEORY AND RELATED FIELDS
+JournalDetail.aspx?y=2018&t=JOURNAL OF NONLINEAR SCIENCE
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION
+JournalDetail.aspx?y=2018&t=SIAM JOURNAL ON SCIENTIFIC COMPUTING
+JournalDetail.aspx?y=2018&t=PSYCHOMETRIKA
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES A-STATISTICS IN SOCIETY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE EUROPEAN MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=SIAM JOURNAL ON NUMERICAL ANALYSIS
+JournalDetail.aspx?y=2018&t=NONLINEAR ANALYSIS-REAL WORLD APPLICATIONS
+JournalDetail.aspx?y=2018&t=ANNALS OF PROBABILITY
+JournalDetail.aspx?y=2018&t=SIAM JOURNAL ON MATRIX ANALYSIS AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=MULTISCALE MODELING = SIMULATION
+JournalDetail.aspx?y=2018&t=STATISTICS AND COMPUTING
+JournalDetail.aspx?y=2018&t=Advances in Data Analysis and Classification
+JournalDetail.aspx?y=2018&t=JOURNAL OF SCIENTIFIC COMPUTING
+JournalDetail.aspx?y=2018&t=INTERNATIONAL STATISTICAL REVIEW
+JournalDetail.aspx?y=2018&t=BULLETIN OF THE AMERICAN MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=JOURNAL OF DIFFERENTIAL EQUATIONS
+JournalDetail.aspx?y=2018&t=ANNALES SCIENTIFIQUES DE L ECOLE NORMALE SUPERIEURE
+JournalDetail.aspx?y=2018&t=JOURNAL DE MATHEMATIQUES PURES ET APPLIQUEES
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLASSIFICATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF BUSINESS = ECONOMIC STATISTICS
+JournalDetail.aspx?y=2018&t=IMA JOURNAL OF NUMERICAL ANALYSIS
+JournalDetail.aspx?y=2018&t=APPLIED MATHEMATICS AND COMPUTATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS
+JournalDetail.aspx?y=2018&t=INVERSE PROBLEMS
+JournalDetail.aspx?y=2018&t=STUDIES IN APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=ESAIM-MATHEMATICAL MODELLING AND NUMERICAL ANALYSIS-MODELISATION MATHEMATIQUE ET ANALYSE NUMERIQUE
+JournalDetail.aspx?y=2018&t=ANNALS OF APPLIED PROBABILITY
+JournalDetail.aspx?y=2018&t=NONLINEARITY
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR ANGEWANDTE MATHEMATIK UND PHYSIK
+JournalDetail.aspx?y=2018&t=Bayesian Analysis
+JournalDetail.aspx?y=2018&t=SIAM JOURNAL ON APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=Communications in Applied Mathematics and Computational Science
+JournalDetail.aspx?y=2018&t=CALCULUS OF VARIATIONS AND PARTIAL DIFFERENTIAL EQUATIONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES C-APPLIED STATISTICS
+JournalDetail.aspx?y=2018&t=JOURNAL FUR DIE REINE UND ANGEWANDTE MATHEMATIK
+JournalDetail.aspx?y=2018&t=MATHEMATICS OF COMPUTATION
+JournalDetail.aspx?y=2018&t=GEOMETRIC AND FUNCTIONAL ANALYSIS
+JournalDetail.aspx?y=2018&t=SIAM JOURNAL ON MATHEMATICAL ANALYSIS
+JournalDetail.aspx?y=2018&t=Analysis = PDE
+JournalDetail.aspx?y=2018&t=FRACTALS-COMPLEX GEOMETRY PATTERNS AND SCALING IN NATURE AND SOCIETY
+JournalDetail.aspx?y=2018&t=Annals of Applied Statistics
+JournalDetail.aspx?y=2018&t=Stata Journal
+JournalDetail.aspx?y=2018&t=SIAM JOURNAL ON CONTROL AND OPTIMIZATION
+JournalDetail.aspx?y=2018&t=Scandinavian Actuarial Journal
+JournalDetail.aspx?y=2018&t=Extremes
+JournalDetail.aspx?y=2018&t=Analysis and Applications
+JournalDetail.aspx?y=2018&t=COMMUNICATIONS IN PARTIAL DIFFERENTIAL EQUATIONS
+JournalDetail.aspx?y=2018&t=Applied and Computational Mathematics
+JournalDetail.aspx?y=2018&t=COMPUTATIONAL OPTIMIZATION AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF GLOBAL OPTIMIZATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPUTATIONAL AND APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=BIT NUMERICAL MATHEMATICS
+JournalDetail.aspx?y=2018&t=BIOMETRIKA
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF BIFURCATION AND CHAOS
+JournalDetail.aspx?y=2018&t=ADVANCES IN MATHEMATICS
+JournalDetail.aspx?y=2018&t=NUMERICAL ALGORITHMS
+JournalDetail.aspx?y=2018&t=JOURNAL OF DIFFERENTIAL GEOMETRY
+JournalDetail.aspx?y=2018&t=TRANSACTIONS OF THE AMERICAN MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=ADVANCES IN COMPUTATIONAL MATHEMATICS
+JournalDetail.aspx?y=2018&t=Advances in Calculus of Variations
+JournalDetail.aspx?y=2018&t=Communications in Mathematical Sciences
+JournalDetail.aspx?y=2018&t=COMPUTATIONAL STATISTICS = DATA ANALYSIS
+JournalDetail.aspx?y=2018&t=NUMERICAL LINEAR ALGEBRA WITH APPLICATIONS
+JournalDetail.aspx?y=2018&t=INSURANCE MATHEMATICS = ECONOMICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF ALGEBRAIC GEOMETRY
+JournalDetail.aspx?y=2018&t=ZAMM-Zeitschrift fur Angewandte Mathematik und Mechanik
+JournalDetail.aspx?y=2018&t=MATHEMATISCHE ANNALEN
+JournalDetail.aspx?y=2018&t=ESAIM-CONTROL OPTIMISATION AND CALCULUS OF VARIATIONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF FUNCTIONAL ANALYSIS
+JournalDetail.aspx?y=2018&t=Kinetic and Related Models
+JournalDetail.aspx?y=2018&t=Journal of the Institute of Mathematics of Jussieu
+JournalDetail.aspx?y=2018&t=CALCOLO
+JournalDetail.aspx?y=2018&t=MATHEMATICS AND COMPUTERS IN SIMULATION
+JournalDetail.aspx?y=2018&t=Journal of Dynamics and Differential Equations
+JournalDetail.aspx?y=2018&t=BERNOULLI
+JournalDetail.aspx?y=2018&t=APPLIED MATHEMATICS AND OPTIMIZATION
+JournalDetail.aspx?y=2018&t=APPLIED NUMERICAL MATHEMATICS
+JournalDetail.aspx?y=2018&t=Selecta Mathematica-New Series
+JournalDetail.aspx?y=2018&t=Dynamic Games and Applications
+JournalDetail.aspx?y=2018&t=JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=APPLIED MATHEMATICS AND MECHANICS-ENGLISH EDITION
+JournalDetail.aspx?y=2018&t=Bulletin of Mathematical Sciences
+JournalDetail.aspx?y=2018&t=TEST
+JournalDetail.aspx?y=2018&t=MEMOIRS OF THE AMERICAN MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=IMA Journal of Management Mathematics
+JournalDetail.aspx?y=2018&t=GEOMETRY = TOPOLOGY
+JournalDetail.aspx?y=2018&t=COMPOSITIO MATHEMATICA
+JournalDetail.aspx?y=2018&t=NONLINEAR ANALYSIS-THEORY METHODS = APPLICATIONS
+JournalDetail.aspx?y=2018&t=Spatial Statistics
+JournalDetail.aspx?y=2018&t=AMERICAN JOURNAL OF MATHEMATICS
+JournalDetail.aspx?y=2018&t=Advances in Differential Equations
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE LONDON MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=JOURNAL OF FOURIER ANALYSIS AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=COMMUNICATIONS IN CONTEMPORARY MATHEMATICS
+JournalDetail.aspx?y=2018&t=Inverse Problems and Imaging
+JournalDetail.aspx?y=2018&t=STATISTICAL MODELLING
+JournalDetail.aspx?y=2018&t=Dissertationes Mathematicae
+JournalDetail.aspx?y=2018&t=DISCRETE AND CONTINUOUS DYNAMICAL SYSTEMS
+JournalDetail.aspx?y=2018&t=RUSSIAN MATHEMATICAL SURVEYS
+JournalDetail.aspx?y=2018&t=IMA JOURNAL OF APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=NUMERICAL METHODS FOR PARTIAL DIFFERENTIAL EQUATIONS
+JournalDetail.aspx?y=2018&t=Optimization Letters
+JournalDetail.aspx?y=2018&t=Networks and Heterogeneous Media
+JournalDetail.aspx?y=2018&t=STOCHASTIC PROCESSES AND THEIR APPLICATIONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMBINATORIAL OPTIMIZATION
+JournalDetail.aspx?y=2018&t=RANDOM STRUCTURES = ALGORITHMS
+JournalDetail.aspx?y=2018&t=Japanese Journal of Mathematics
+JournalDetail.aspx?y=2018&t=ADVANCED NONLINEAR STUDIES
+JournalDetail.aspx?y=2018&t=JOURNAL OF MATHEMATICAL ANALYSIS AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=Random Matrices-Theory and Applications
+JournalDetail.aspx?y=2018&t=MATHEMATICAL METHODS IN THE APPLIED SCIENCES
+JournalDetail.aspx?y=2018&t=DISCRETE AND CONTINUOUS DYNAMICAL SYSTEMS-SERIES B
+JournalDetail.aspx?y=2018&t=FINITE FIELDS AND THEIR APPLICATIONS
+JournalDetail.aspx?y=2018&t=COMBINATORICA
+JournalDetail.aspx?y=2018&t=Journal of Topology
+JournalDetail.aspx?y=2018&t=CONSTRUCTIVE APPROXIMATION
+JournalDetail.aspx?y=2018&t=ANNALES DE L INSTITUT HENRI POINCARE-PROBABILITES ET STATISTIQUES
+JournalDetail.aspx?y=2018&t=QUEUEING SYSTEMS
+JournalDetail.aspx?y=2018&t=INTERNATIONAL MATHEMATICS RESEARCH NOTICES
+JournalDetail.aspx?y=2018&t=INVERSE PROBLEMS IN SCIENCE AND ENGINEERING
+JournalDetail.aspx?y=2018&t=JOURNAL OF SYMBOLIC COMPUTATION
+JournalDetail.aspx?y=2018&t=OPTIMIZATION METHODS = SOFTWARE
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE ROYAL SOCIETY OF EDINBURGH SECTION A-MATHEMATICS
+JournalDetail.aspx?y=2018&t=REVISTA MATEMATICA IBEROAMERICANA
+JournalDetail.aspx?y=2018&t=JOURNAL OF GEOMETRIC ANALYSIS
+JournalDetail.aspx?y=2018&t=SIAM Journal on Financial Mathematics
+JournalDetail.aspx?y=2018&t=PUBLICACIONS MATEMATIQUES
+JournalDetail.aspx?y=2018&t=OPTIMIZATION
+JournalDetail.aspx?y=2018&t=Nonlinear Analysis-Modelling and Control
+JournalDetail.aspx?y=2018&t=Science China-Mathematics
+JournalDetail.aspx?y=2018&t=LINEAR ALGEBRA AND ITS APPLICATIONS
+JournalDetail.aspx?y=2018&t=DESIGNS CODES AND CRYPTOGRAPHY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=Journal of Mathematical Logic
+JournalDetail.aspx?y=2018&t=ERGODIC THEORY AND DYNAMICAL SYSTEMS
+JournalDetail.aspx?y=2018&t=Mathematical Modelling of Natural Phenomena
+JournalDetail.aspx?y=2018&t=International Journal of Biomathematics
+JournalDetail.aspx?y=2018&t=POTENTIAL ANALYSIS
+JournalDetail.aspx?y=2018&t=Revista Matematica Complutense
+JournalDetail.aspx?y=2018&t=COMMENTARII MATHEMATICI HELVETICI
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMBINATORIAL THEORY SERIES B
+JournalDetail.aspx?y=2018&t=JOURNAL OF TIME SERIES ANALYSIS
+JournalDetail.aspx?y=2018&t=JOURNAL OF EVOLUTION EQUATIONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPROXIMATION THEORY
+JournalDetail.aspx?y=2018&t=ANNALI DI MATEMATICA PURA ED APPLICATA
+JournalDetail.aspx?y=2018&t=INDIANA UNIVERSITY MATHEMATICS JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF MULTIVARIATE ANALYSIS
+JournalDetail.aspx?y=2018&t=ELECTRONIC TRANSACTIONS ON NUMERICAL ANALYSIS
+JournalDetail.aspx?y=2018&t=APPLIED STOCHASTIC MODELS IN BUSINESS AND INDUSTRY
+JournalDetail.aspx?y=2018&t=Algebra = Number Theory
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMBINATORIAL THEORY SERIES A
+JournalDetail.aspx?y=2018&t=Advances in Applied Clifford Algebras
+JournalDetail.aspx?y=2018&t=Astin Bulletin
+JournalDetail.aspx?y=2018&t=NODEA-NONLINEAR DIFFERENTIAL EQUATIONS AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=JOURNAL D ANALYSE MATHEMATIQUE
+JournalDetail.aspx?y=2018&t=Set-Valued and Variational Analysis
+JournalDetail.aspx?y=2018&t=SCANDINAVIAN JOURNAL OF STATISTICS
+JournalDetail.aspx?y=2018&t=Journal of Spectral Theory
+JournalDetail.aspx?y=2018&t=Journal of Inverse and Ill-Posed Problems
+JournalDetail.aspx?y=2018&t=Rendiconti Lincei-Matematica e Applicazioni
+JournalDetail.aspx?y=2018&t=APPLICABLE ANALYSIS
+JournalDetail.aspx?y=2018&t=Electronic Journal of Differential Equations
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE LONDON MATHEMATICAL SOCIETY-SECOND SERIES
+JournalDetail.aspx?y=2018&t=ELECTRONIC JOURNAL OF PROBABILITY
+JournalDetail.aspx?y=2018&t=ARS Mathematica Contemporanea
+JournalDetail.aspx?y=2018&t=LIFETIME DATA ANALYSIS
+JournalDetail.aspx?y=2018&t=METHODOLOGY AND COMPUTING IN APPLIED PROBABILITY
+JournalDetail.aspx?y=2018&t=ANNALES ACADEMIAE SCIENTIARUM FENNICAE-MATHEMATICA
+JournalDetail.aspx?y=2018&t=COMPUTATIONAL = APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=STATISTICA SINICA
+JournalDetail.aspx?y=2018&t=Boundary Value Problems
+JournalDetail.aspx?y=2018&t=COMMUNICATIONS ON PURE AND APPLIED ANALYSIS
+JournalDetail.aspx?y=2018&t=DISCRETE APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS
+JournalDetail.aspx?y=2018&t=Analysis and Mathematical Physics
+JournalDetail.aspx?y=2018&t=LINEAR = MULTILINEAR ALGEBRA
+JournalDetail.aspx?y=2018&t=ADVANCES IN APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=AStA-Advances in Statistical Analysis
+JournalDetail.aspx?y=2018&t=Qualitative Theory of Dynamical Systems
+JournalDetail.aspx?y=2018&t=ANNALS OF THE INSTITUTE OF STATISTICAL MATHEMATICS
+JournalDetail.aspx?y=2018&t=Electronic Journal of Qualitative Theory of Differential Equations
+JournalDetail.aspx?y=2018&t=Documenta Mathematica
+JournalDetail.aspx?y=2018&t=STATISTICAL PAPERS
+JournalDetail.aspx?y=2018&t=INTERFACES AND FREE BOUNDARIES
+JournalDetail.aspx?y=2018&t=ANNALI DELLA SCUOLA NORMALE SUPERIORE DI PISA-CLASSE DI SCIENZE
+JournalDetail.aspx?y=2018&t=Aequationes Mathematicae
+JournalDetail.aspx?y=2018&t=Mediterranean Journal of Mathematics
+JournalDetail.aspx?y=2018&t=ACTA APPLICANDAE MATHEMATICAE
+JournalDetail.aspx?y=2018&t=COMPUTATIONAL MATHEMATICS AND MATHEMATICAL PHYSICS
+JournalDetail.aspx?y=2018&t=Applicable Analysis and Discrete Mathematics
+JournalDetail.aspx?y=2018&t=Evolution Equations and Control Theory
+JournalDetail.aspx?y=2018&t=MATHEMATICAL PHYSICS ANALYSIS AND GEOMETRY
+JournalDetail.aspx?y=2018&t=Results in Mathematics
+JournalDetail.aspx?y=2018&t=Computational Methods in Applied Mathematics
+JournalDetail.aspx?y=2018&t=ANZIAM JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF STATISTICAL PLANNING AND INFERENCE
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPUTATIONAL MATHEMATICS
+JournalDetail.aspx?y=2018&t=Moscow Mathematical Journal
+JournalDetail.aspx?y=2018&t=Statistics and Its Interface
+JournalDetail.aspx?y=2018&t=JOURNAL OF INEQUALITIES AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF ALGEBRAIC COMBINATORICS
+JournalDetail.aspx?y=2018&t=INTEGRAL EQUATIONS AND OPERATOR THEORY
+JournalDetail.aspx?y=2018&t=JOURNAL OF STATISTICAL COMPUTATION AND SIMULATION
+JournalDetail.aspx?y=2018&t=Electronic Journal of Statistics
+JournalDetail.aspx?y=2018&t=Representation Theory
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF COMBINATORICS
+JournalDetail.aspx?y=2018&t=International Journal of Numerical Analysis and Modeling
+JournalDetail.aspx?y=2018&t=Journal of Applied Analysis and Computation
+JournalDetail.aspx?y=2018&t=NUMERICAL FUNCTIONAL ANALYSIS AND OPTIMIZATION
+JournalDetail.aspx?y=2018&t=ANNALS OF GLOBAL ANALYSIS AND GEOMETRY
+JournalDetail.aspx?y=2018&t=ADVANCES IN APPLIED PROBABILITY
+JournalDetail.aspx?y=2018&t=Collectanea Mathematica
+JournalDetail.aspx?y=2018&t=QUARTERLY OF APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=MATHEMATISCHE ZEITSCHRIFT
+JournalDetail.aspx?y=2018&t=JOURNAL OF GEOMETRY AND PHYSICS
+JournalDetail.aspx?y=2018&t=ISRAEL JOURNAL OF MATHEMATICS
+JournalDetail.aspx?y=2018&t=Carpathian Journal of Mathematics
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF MATHEMATICS-JOURNAL CANADIEN DE MATHEMATIQUES
+JournalDetail.aspx?y=2018&t=MATHEMATISCHE NACHRICHTEN
+JournalDetail.aspx?y=2018&t=FORUM MATHEMATICUM
+JournalDetail.aspx?y=2018&t=Statistical Analysis and Data Mining
+JournalDetail.aspx?y=2018&t=SIAM JOURNAL ON DISCRETE MATHEMATICS
+JournalDetail.aspx?y=2018&t=Journal of Mathematical Inequalities
+JournalDetail.aspx?y=2018&t=Asian Journal of Mathematics
+JournalDetail.aspx?y=2018&t=Banach Journal of Mathematical Analysis
+JournalDetail.aspx?y=2018&t=Review of Symbolic Logic
+JournalDetail.aspx?y=2018&t=BULLETIN OF THE LONDON MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=Revista de la Real Academia de Ciencias Exactas Fisicas y Naturales Serie A-Matematicas
+JournalDetail.aspx?y=2018&t=QUARTERLY JOURNAL OF MATHEMATICS
+JournalDetail.aspx?y=2018&t=ANNALS OF PURE AND APPLIED LOGIC
+JournalDetail.aspx?y=2018&t=INTEGRAL TRANSFORMS AND SPECIAL FUNCTIONS
+JournalDetail.aspx?y=2018&t=Mathematics and Financial Economics
+JournalDetail.aspx?y=2018&t=DISCRETE = COMPUTATIONAL GEOMETRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THEORETICAL PROBABILITY
+JournalDetail.aspx?y=2018&t=Journal of Integral Equations and Applications
+JournalDetail.aspx?y=2018&t=Bulletin of the Malaysian Mathematical Sciences Society
+JournalDetail.aspx?y=2018&t=Journal of Fixed Point Theory and Applications
+JournalDetail.aspx?y=2018&t=BULLETIN DES SCIENCES MATHEMATIQUES
+JournalDetail.aspx?y=2018&t=EXPOSITIONES MATHEMATICAE
+JournalDetail.aspx?y=2018&t=Journal of Hyperbolic Differential Equations
+JournalDetail.aspx?y=2018&t=METRIKA
+JournalDetail.aspx?y=2018&t=ASTERISQUE
+JournalDetail.aspx?y=2018&t=MATHEMATIKA
+JournalDetail.aspx?y=2018&t=COMBINATORICS PROBABILITY = COMPUTING
+JournalDetail.aspx?y=2018&t=TRANSFORMATION GROUPS
+JournalDetail.aspx?y=2018&t=IZVESTIYA MATHEMATICS
+JournalDetail.aspx?y=2018&t=BULLETIN DE LA SOCIETE MATHEMATIQUE DE FRANCE
+JournalDetail.aspx?y=2018&t=JOURNAL OF DIFFERENCE EQUATIONS AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE EDINBURGH MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMBINATORIAL DESIGNS
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED PROBABILITY
+JournalDetail.aspx?y=2018&t=Differential and Integral Equations
+JournalDetail.aspx?y=2018&t=MATHEMATICAL METHODS OF OPERATIONS RESEARCH
+JournalDetail.aspx?y=2018&t=JOURNAL OF NUMBER THEORY
+JournalDetail.aspx?y=2018&t=MONATSHEFTE FUR MATHEMATIK
+JournalDetail.aspx?y=2018&t=DISCRETE DYNAMICS IN NATURE AND SOCIETY
+JournalDetail.aspx?y=2018&t=SBORNIK MATHEMATICS
+JournalDetail.aspx?y=2018&t=ASYMPTOTIC ANALYSIS
+JournalDetail.aspx?y=2018&t=Milan Journal of Mathematics
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE AMERICAN MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=TAIWANESE JOURNAL OF MATHEMATICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF GRAPH THEORY
+JournalDetail.aspx?y=2018&t=Discrete and Continuous Dynamical Systems-Series S
+JournalDetail.aspx?y=2018&t=Groups Geometry and Dynamics
+JournalDetail.aspx?y=2018&t=Complex Analysis and Operator Theory
+JournalDetail.aspx?y=2018&t=POSITIVITY
+JournalDetail.aspx?y=2018&t=Journal of Topology and Analysis
+JournalDetail.aspx?y=2018&t=RAMANUJAN JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF PURE AND APPLIED ALGEBRA
+JournalDetail.aspx?y=2018&t=COMMUNICATIONS IN ANALYSIS AND GEOMETRY
+JournalDetail.aspx?y=2018&t=Topological Methods in Nonlinear Analysis
+JournalDetail.aspx?y=2018&t=Applications of Mathematics
+JournalDetail.aspx?y=2018&t=Journal of Geometric Mechanics
+JournalDetail.aspx?y=2018&t=International Journal of Biostatistics
+JournalDetail.aspx?y=2018&t=Dynamics of Partial Differential Equations
+JournalDetail.aspx?y=2018&t=DISCRETE MATHEMATICS
+JournalDetail.aspx?y=2018&t=Journal of Noncommutative Geometry
+JournalDetail.aspx?y=2018&t=Stochastics and Dynamics
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR ANALYSIS UND IHRE ANWENDUNGEN
+JournalDetail.aspx?y=2018&t=BULLETIN OF SYMBOLIC LOGIC
+JournalDetail.aspx?y=2018&t=JOURNAL OF ALGEBRA
+JournalDetail.aspx?y=2018&t=Stochastics-An International Journal of Probability and Stochastic Processes
+JournalDetail.aspx?y=2018&t=STATISTICS
+JournalDetail.aspx?y=2018&t=EXPERIMENTAL MATHEMATICS
+JournalDetail.aspx?y=2018&t=Filomat
+JournalDetail.aspx?y=2018&t=Mathematical Control and Related Fields
+JournalDetail.aspx?y=2018&t=INFINITE DIMENSIONAL ANALYSIS QUANTUM PROBABILITY AND RELATED TOPICS
+JournalDetail.aspx?y=2018&t=ELECTRONIC JOURNAL OF COMBINATORICS
+JournalDetail.aspx?y=2018&t=Complex Variables and Elliptic Equations
+JournalDetail.aspx?y=2018&t=JOURNAL OF CONVEX ANALYSIS
+JournalDetail.aspx?y=2018&t=Journal of Numerical Mathematics
+JournalDetail.aspx?y=2018&t=Open Mathematics
+JournalDetail.aspx?y=2018&t=PUBLICATIONS OF THE RESEARCH INSTITUTE FOR MATHEMATICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Journal of Nonlinear and Convex Analysis
+JournalDetail.aspx?y=2018&t=MATHEMATICAL RESEARCH LETTERS
+JournalDetail.aspx?y=2018&t=Statistical Methods and Applications
+JournalDetail.aspx?y=2018&t=MANUSCRIPTA MATHEMATICA
+JournalDetail.aspx?y=2018&t=Algebraic and Geometric Topology
+JournalDetail.aspx?y=2018&t=ARKIV FOR MATEMATIK
+JournalDetail.aspx?y=2018&t=ADVANCES IN GEOMETRY
+JournalDetail.aspx?y=2018&t=Numerical Mathematics-Theory Methods and Applications
+JournalDetail.aspx?y=2018&t=DIFFERENTIAL GEOMETRY AND ITS APPLICATIONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AUSTRALIAN MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=Portugaliae Mathematica
+JournalDetail.aspx?y=2018&t=GEOMETRIAE DEDICATA
+JournalDetail.aspx?y=2018&t=JOURNAL OF SYMBOLIC LOGIC
+JournalDetail.aspx?y=2018&t=ALGEBRAS AND REPRESENTATION THEORY
+JournalDetail.aspx?y=2018&t=Journal of Modern Dynamics
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF NUMERICAL ANALYSIS AND MATHEMATICAL MODELLING
+JournalDetail.aspx?y=2018&t=MATHEMATICAL INEQUALITIES = APPLICATIONS
+JournalDetail.aspx?y=2018&t=NAGOYA MATHEMATICAL JOURNAL
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF GAME THEORY
+JournalDetail.aspx?y=2018&t=COMPUTATIONAL STATISTICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED STATISTICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE MATHEMATICAL SOCIETY OF JAPAN
+JournalDetail.aspx?y=2018&t=STUDIA MATHEMATICA
+JournalDetail.aspx?y=2018&t=Journal of Grey System
+JournalDetail.aspx?y=2018&t=JOURNAL OF MATHEMATICAL SOCIOLOGY
+JournalDetail.aspx?y=2018&t=Studia Logica
+JournalDetail.aspx?y=2018&t=MATHEMATICAL PROCEEDINGS OF THE CAMBRIDGE PHILOSOPHICAL SOCIETY
+JournalDetail.aspx?y=2018&t=PROBABILITY IN THE ENGINEERING AND INFORMATIONAL SCIENCES
+JournalDetail.aspx?y=2018&t=STOCHASTIC ANALYSIS AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=MICHIGAN MATHEMATICAL JOURNAL
+JournalDetail.aspx?y=2018&t=PACIFIC JOURNAL OF MATHEMATICS
+JournalDetail.aspx?y=2018&t=FUNDAMENTA MATHEMATICAE
+JournalDetail.aspx?y=2018&t=Mathematical Modelling and Analysis
+JournalDetail.aspx?y=2018&t=COMPUTATIONAL GEOMETRY-THEORY AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=Journal of Symplectic Geometry
+JournalDetail.aspx?y=2018&t=ACTA MATHEMATICA SCIENTIA
+JournalDetail.aspx?y=2018&t=Advances in Difference Equations
+JournalDetail.aspx?y=2018&t=Funkcialaj Ekvacioj-Serio Internacia
+JournalDetail.aspx?y=2018&t=Homology Homotopy and Applications
+JournalDetail.aspx?y=2018&t=Electronic Journal of Linear Algebra
+JournalDetail.aspx?y=2018&t=Journal of the Korean Statistical Society
+JournalDetail.aspx?y=2018&t=SEMIGROUP FORUM
+JournalDetail.aspx?y=2018&t=Brazilian Journal of Probability and Statistics
+JournalDetail.aspx?y=2018&t=MATHEMATICAL AND COMPUTER MODELLING OF DYNAMICAL SYSTEMS
+JournalDetail.aspx?y=2018&t=ARCHIV DER MATHEMATIK
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF MATHEMATICS
+JournalDetail.aspx?y=2018&t=Quaestiones Mathematicae
+JournalDetail.aspx?y=2018&t=Journal of Systems Science = Complexity
+JournalDetail.aspx?y=2018&t=Journal of Pseudo-Differential Operators and Applications
+JournalDetail.aspx?y=2018&t=ACTA ARITHMETICA
+JournalDetail.aspx?y=2018&t=ANNALES DE L INSTITUT FOURIER
+JournalDetail.aspx?y=2018&t=BULLETIN OF THE AUSTRALIAN MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=East Asian Journal on Applied Mathematics
+JournalDetail.aspx?y=2018&t=ABHANDLUNGEN AUS DEM MATHEMATISCHEN SEMINAR DER UNIVERSITAT HAMBURG
+JournalDetail.aspx?y=2018&t=Fixed Point Theory
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF STATISTICS-REVUE CANADIENNE DE STATISTIQUE
+JournalDetail.aspx?y=2018&t=JOURNAL OF NONPARAMETRIC STATISTICS
+JournalDetail.aspx?y=2018&t=STATISTICS = PROBABILITY LETTERS
+JournalDetail.aspx?y=2018&t=Survey Methodology
+JournalDetail.aspx?y=2018&t=ALGEBRA UNIVERSALIS
+JournalDetail.aspx?y=2018&t=ALEA-Latin American Journal of Probability and Mathematical Statistics
+JournalDetail.aspx?y=2018&t=ESAIM-Probability and Statistics
+JournalDetail.aspx?y=2018&t=Electronic Research Announcements in Mathematical Sciences
+JournalDetail.aspx?y=2018&t=JOURNAL OF GROUP THEORY
+JournalDetail.aspx?y=2018&t=Journal of Function Spaces
+JournalDetail.aspx?y=2018&t=Journal of Official Statistics
+JournalDetail.aspx?y=2018&t=Operators and Matrices
+JournalDetail.aspx?y=2018&t=ACTA MATHEMATICA HUNGARICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF OPERATOR THEORY
+JournalDetail.aspx?y=2018&t=St Petersburg Mathematical Journal
+JournalDetail.aspx?y=2018&t=International Journal of Number Theory
+JournalDetail.aspx?y=2018&t=Proceedings of the Steklov Institute of Mathematics
+JournalDetail.aspx?y=2018&t=Annals of Combinatorics
+JournalDetail.aspx?y=2018&t=Journal of Homotopy and Related Structures
+JournalDetail.aspx?y=2018&t=FUNCTIONAL ANALYSIS AND ITS APPLICATIONS
+JournalDetail.aspx?y=2018&t=Theory and Applications of Categories
+JournalDetail.aspx?y=2018&t=MATHEMATICA SCANDINAVICA
+JournalDetail.aspx?y=2018&t=AUSTRALIAN = NEW ZEALAND JOURNAL OF STATISTICS
+JournalDetail.aspx?y=2018&t=MATHEMATICAL NOTES
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE KOREAN MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=LMS Journal of Computation and Mathematics
+JournalDetail.aspx?y=2018&t=Algebra and Logic
+JournalDetail.aspx?y=2018&t=Mathematical Communications
+JournalDetail.aspx?y=2018&t=LOGIC JOURNAL OF THE IGPL
+JournalDetail.aspx?y=2018&t=JOURNAL OF ALGEBRA AND ITS APPLICATIONS
+JournalDetail.aspx?y=2018&t=DOKLADY MATHEMATICS
+JournalDetail.aspx?y=2018&t=New York Journal of Mathematics
+JournalDetail.aspx?y=2018&t=JOURNAL OF LIE THEORY
+JournalDetail.aspx?y=2018&t=INDAGATIONES MATHEMATICAE-NEW SERIES
+JournalDetail.aspx?y=2018&t=JAPAN JOURNAL OF INDUSTRIAL AND APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=Annals of Functional Analysis
+JournalDetail.aspx?y=2018&t=TOHOKU MATHEMATICAL JOURNAL
+JournalDetail.aspx?y=2018&t=STATISTICA NEERLANDICA
+JournalDetail.aspx?y=2018&t=TOPOLOGY AND ITS APPLICATIONS
+JournalDetail.aspx?y=2018&t=ELECTRONIC COMMUNICATIONS IN PROBABILITY
+JournalDetail.aspx?y=2018&t=Kyoto Journal of Mathematics
+JournalDetail.aspx?y=2018&t=GRAPHS AND COMBINATORICS
+JournalDetail.aspx?y=2018&t=DIFFERENTIAL EQUATIONS
+JournalDetail.aspx?y=2018&t=PUBLICATIONES MATHEMATICAE-DEBRECEN
+JournalDetail.aspx?y=2018&t=Computational Methods and Function Theory
+JournalDetail.aspx?y=2018&t=MATHEMATICAL SOCIAL SCIENCES
+JournalDetail.aspx?y=2018&t=Turkish Journal of Mathematics
+JournalDetail.aspx?y=2018&t=CANADIAN MATHEMATICAL BULLETIN-BULLETIN CANADIEN DE MATHEMATIQUES
+JournalDetail.aspx?y=2018&t=ARCHIVE FOR MATHEMATICAL LOGIC
+JournalDetail.aspx?y=2018&t=SIBERIAN MATHEMATICAL JOURNAL
+JournalDetail.aspx?y=2018&t=ACTA MATHEMATICA SINICA-ENGLISH SERIES
+JournalDetail.aspx?y=2018&t=COMPTES RENDUS MATHEMATIQUE
+JournalDetail.aspx?y=2018&t=COMMUNICATIONS IN STATISTICS-SIMULATION AND COMPUTATION
+JournalDetail.aspx?y=2018&t=APPLIED CATEGORICAL STRUCTURES
+JournalDetail.aspx?y=2018&t=ORDER-A JOURNAL ON THE THEORY OF ORDERED SETS AND ITS APPLICATIONS
+JournalDetail.aspx?y=2018&t=REVSTAT-Statistical Journal
+JournalDetail.aspx?y=2018&t=GLASGOW MATHEMATICAL JOURNAL
+JournalDetail.aspx?y=2018&t=Philosophia Mathematica
+JournalDetail.aspx?y=2018&t=Revista de la Union Matematica Argentina
+JournalDetail.aspx?y=2018&t=Sequential Analysis-Design Methods and Applications
+JournalDetail.aspx?y=2018&t=Pacific Journal of Optimization
+JournalDetail.aspx?y=2018&t=AUTOMATION AND REMOTE CONTROL
+JournalDetail.aspx?y=2018&t=Periodica Mathematica Hungarica
+JournalDetail.aspx?y=2018&t=COLLOQUIUM MATHEMATICUM
+JournalDetail.aspx?y=2018&t=Miskolc Mathematical Notes
+JournalDetail.aspx?y=2018&t=OSAKA JOURNAL OF MATHEMATICS
+JournalDetail.aspx?y=2018&t=Journal of Commutative Algebra
+JournalDetail.aspx?y=2018&t=Lithuanian Mathematical Journal
+JournalDetail.aspx?y=2018&t=JOURNAL OF KNOT THEORY AND ITS RAMIFICATIONS
+JournalDetail.aspx?y=2018&t=Annales Polonici Mathematici
+JournalDetail.aspx?y=2018&t=Markov Processes and Related Fields
+JournalDetail.aspx?y=2018&t=COMMUNICATIONS IN ALGEBRA
+JournalDetail.aspx?y=2018&t=BULLETIN OF THE BELGIAN MATHEMATICAL SOCIETY-SIMON STEVIN
+JournalDetail.aspx?y=2018&t=COMPUTATIONAL COMPLEXITY
+JournalDetail.aspx?y=2018&t=RENDICONTI DEL SEMINARIO MATEMATICO DELLA UNIVERSITA DI PADOVA
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF ALGEBRA AND COMPUTATION
+JournalDetail.aspx?y=2018&t=THEORY OF PROBABILITY AND ITS APPLICATIONS
+JournalDetail.aspx?y=2018&t=Analele Stiintifice ale Universitatii Ovidius Constanta-Seria Matematica
+JournalDetail.aspx?y=2018&t=Discussiones Mathematicae Graph Theory
+JournalDetail.aspx?y=2018&t=Notre Dame Journal of Formal Logic
+JournalDetail.aspx?y=2018&t=Hacettepe Journal of Mathematics and Statistics
+JournalDetail.aspx?y=2018&t=Kyushu Journal of Mathematics
+JournalDetail.aspx?y=2018&t=CHINESE ANNALS OF MATHEMATICS SERIES B
+JournalDetail.aspx?y=2018&t=Georgian Mathematical Journal
+JournalDetail.aspx?y=2018&t=Frontiers of Mathematics in China
+JournalDetail.aspx?y=2018&t=Glasnik Matematicki
+JournalDetail.aspx?y=2018&t=Revue d Histoire des Mathematiques
+JournalDetail.aspx?y=2018&t=Contributions to Discrete Mathematics
+JournalDetail.aspx?y=2018&t=BULLETIN OF THE BRAZILIAN MATHEMATICAL SOCIETY
+JournalDetail.aspx?y=2018&t=Bulletin Mathematique de la Societe des Sciences Mathematiques de Roumanie
+JournalDetail.aspx?y=2018&t=University Politehnica of Bucharest Scientific Bulletin-Series A-Applied Mathematics and Physics
+JournalDetail.aspx?y=2018&t=Lecture Notes in Mathematics
+JournalDetail.aspx?y=2018&t=Kodai Mathematical Journal
+JournalDetail.aspx?y=2018&t=Hiroshima Mathematical Journal
+JournalDetail.aspx?y=2018&t=Bulletin of the Korean Mathematical Society
+JournalDetail.aspx?y=2018&t=STOCHASTIC MODELS
+JournalDetail.aspx?y=2018&t=Analysis Mathematica
+JournalDetail.aspx?y=2018&t=Mathematica Slovaca
+JournalDetail.aspx?y=2018&t=Journal of the Ramanujan Mathematical Society
+JournalDetail.aspx?y=2018&t=Mathematical Population Studies
+JournalDetail.aspx?y=2018&t=Applied Mathematics-A Journal of Chinese Universities Series B
+JournalDetail.aspx?y=2018&t=ALGEBRA COLLOQUIUM
+JournalDetail.aspx?y=2018&t=HISTORIA MATHEMATICA
+JournalDetail.aspx?y=2018&t=CZECHOSLOVAK MATHEMATICAL JOURNAL
+JournalDetail.aspx?y=2018&t=COMMUNICATIONS IN STATISTICS-THEORY AND METHODS
+JournalDetail.aspx?y=2018&t=Nexus Network Journal
+JournalDetail.aspx?y=2018&t=Journal of Mathematical Physics Analysis Geometry
+JournalDetail.aspx?y=2018&t=ROCKY MOUNTAIN JOURNAL OF MATHEMATICS
+JournalDetail.aspx?y=2018&t=Hokkaido Mathematical Journal
+JournalDetail.aspx?y=2018&t=MATHEMATICAL LOGIC QUARTERLY
+JournalDetail.aspx?y=2018&t=STUDIA SCIENTIARUM MATHEMATICARUM HUNGARICA
+JournalDetail.aspx?y=2018&t=AMERICAN MATHEMATICAL MONTHLY
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE INDIAN ACADEMY OF SCIENCES-MATHEMATICAL SCIENCES
+JournalDetail.aspx?y=2018&t=Journal of Mathematics and Music
+JournalDetail.aspx?y=2018&t=DYNAMIC SYSTEMS AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=Bulletin of the Iranian Mathematical Society
+JournalDetail.aspx?y=2018&t=Journal de Theorie des Nombres de Bordeaux
+JournalDetail.aspx?y=2018&t=PROCEEDINGS OF THE JAPAN ACADEMY SERIES A-MATHEMATICAL SCIENCES
+JournalDetail.aspx?y=2018&t=HISTORY AND PHILOSOPHY OF LOGIC
+JournalDetail.aspx?y=2018&t=HOUSTON JOURNAL OF MATHEMATICS
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF PURE = APPLIED MATHEMATICS
+JournalDetail.aspx?y=2018&t=UTILITAS MATHEMATICA
+JournalDetail.aspx?y=2018&t=Pure and Applied Mathematics Quarterly
+JournalDetail.aspx?y=2018&t=Acta Mathematicae Applicatae Sinica-English Series
+JournalDetail.aspx?y=2018&t=Ukrainian Mathematical Journal
+JournalDetail.aspx?y=2018&t=Probability and Mathematical Statistics-Poland
+JournalDetail.aspx?y=2018&t=Journal of Contemporary Mathematical Analysis-Armenian Academy of Sciences
+JournalDetail.aspx?y=2018&t=ARS COMBINATORIA
+JournalDetail.aspx?y=2018&t=MATHEMATICAL INTELLIGENCER
+JournalDetail.aspx?y=2018&t=Mathematical Reports
+JournalDetail.aspx?y=2018&t=Bollettino di Storia delle Scienze Matematiche
+JournalDetail.aspx?y=2018&t=Tokyo Journal of Mathematics
+JournalDetail.aspx?y=2018&t=Reports on Mathematical Logic

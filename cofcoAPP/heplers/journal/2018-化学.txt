@@ -1,0 +1,357 @@
+JournalDetail.aspx?y=2018&t=CHEMICAL REVIEWS
+JournalDetail.aspx?y=2018&t=CHEMICAL SOCIETY REVIEWS
+JournalDetail.aspx?y=2018&t=Energy = Environmental Science
+JournalDetail.aspx?y=2018&t=Nature Chemistry
+JournalDetail.aspx?y=2018&t=PROGRESS IN POLYMER SCIENCE
+JournalDetail.aspx?y=2018&t=ACCOUNTS OF CHEMICAL RESEARCH
+JournalDetail.aspx?y=2018&t=Chem
+JournalDetail.aspx?y=2018&t=Annual Review of Physical Chemistry
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+JournalDetail.aspx?y=2018&t=COORDINATION CHEMISTRY REVIEWS
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY C-PHOTOCHEMISTRY REVIEWS
+JournalDetail.aspx?y=2018&t=SURFACE SCIENCE REPORTS
+JournalDetail.aspx?y=2018&t=ANGEWANDTE CHEMIE-INTERNATIONAL EDITION
+JournalDetail.aspx?y=2018&t=NATURAL PRODUCT REPORTS
+JournalDetail.aspx?y=2018&t=ACS Catalysis
+JournalDetail.aspx?y=2018&t=ACS Central Science
+JournalDetail.aspx?y=2018&t=Chemical Science
+JournalDetail.aspx?y=2018&t=Journal of Physical Chemistry Letters
+JournalDetail.aspx?y=2018&t=GREEN CHEMISTRY
+JournalDetail.aspx?y=2018&t=ALDRICHIMICA ACTA
+JournalDetail.aspx?y=2018&t=ChemSusChem
+JournalDetail.aspx?y=2018&t=ORGANIC LETTERS
+JournalDetail.aspx?y=2018&t=CHEMICAL COMMUNICATIONS
+JournalDetail.aspx?y=2018&t=ANALYTICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=ACS Macro Letters
+JournalDetail.aspx?y=2018&t=Annual Review of Analytical Chemistry
+JournalDetail.aspx?y=2018&t=Advances in Organometallic Chemistry
+JournalDetail.aspx?y=2018&t=TRAC-TRENDS IN ANALYTICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=ADVANCES IN COLLOID AND INTERFACE SCIENCE
+JournalDetail.aspx?y=2018&t=CATALYSIS REVIEWS-SCIENCE AND ENGINEERING
+JournalDetail.aspx?y=2018&t=INTERNATIONAL REVIEWS IN PHYSICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=PROGRESS IN SOLID STATE CHEMISTRY
+JournalDetail.aspx?y=2018&t=Advances in Catalysis
+JournalDetail.aspx?y=2018&t=CURRENT OPINION IN COLLOID = INTERFACE SCIENCE
+JournalDetail.aspx?y=2018&t=IUCrJ
+JournalDetail.aspx?y=2018&t=ACS Sustainable Chemistry = Engineering
+JournalDetail.aspx?y=2018&t=MACROMOLECULES
+JournalDetail.aspx?y=2018&t=ADVANCED SYNTHESIS = CATALYSIS
+JournalDetail.aspx?y=2018&t=BIOMACROMOLECULES
+JournalDetail.aspx?y=2018&t=Catalysis Science = Technology
+JournalDetail.aspx?y=2018&t=CHEMISTRY-A EUROPEAN JOURNAL
+JournalDetail.aspx?y=2018&t=SEPARATION AND PURIFICATION REVIEWS
+JournalDetail.aspx?y=2018&t=Polymer Chemistry
+JournalDetail.aspx?y=2018&t=Acta Crystallographica A-Foundation and Advances
+JournalDetail.aspx?y=2018&t=Journal of Chemical Theory and Computation
+JournalDetail.aspx?y=2018&t=MICROCHIMICA ACTA
+JournalDetail.aspx?y=2018&t=Organic Chemistry Frontiers
+JournalDetail.aspx?y=2018&t=ULTRASONICS SONOCHEMISTRY
+JournalDetail.aspx?y=2018&t=ANALYTICA CHIMICA ACTA
+JournalDetail.aspx?y=2018&t=JOURNAL OF ORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=INORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=Topics in Current Chemistry
+JournalDetail.aspx?y=2018&t=ChemCatChem
+JournalDetail.aspx?y=2018&t=Reaction Chemistry = Engineering
+JournalDetail.aspx?y=2018&t=Inorganic Chemistry Frontiers
+JournalDetail.aspx?y=2018&t=CATALYSIS TODAY
+JournalDetail.aspx?y=2018&t=Journal of Physical Chemistry C
+JournalDetail.aspx?y=2018&t=Trends in Environmental Analytical Chemistry
+JournalDetail.aspx?y=2018&t=Acta Crystallographica Section C-Structural Chemistry
+JournalDetail.aspx?y=2018&t=JOURNAL OF COLLOID AND INTERFACE SCIENCE
+JournalDetail.aspx?y=2018&t=APPLIED CATALYSIS A-GENERAL
+JournalDetail.aspx?y=2018&t=Molecular Catalysis
+JournalDetail.aspx?y=2018&t=PHYSICAL CHEMISTRY CHEMICAL PHYSICS
+JournalDetail.aspx?y=2018&t=CRYSTAL GROWTH = DESIGN
+JournalDetail.aspx?y=2018&t=TALANTA
+JournalDetail.aspx?y=2018&t=Chemistry-An Asian Journal
+JournalDetail.aspx?y=2018&t=DALTON TRANSACTIONS
+JournalDetail.aspx?y=2018&t=Frontiers in Chemistry
+JournalDetail.aspx?y=2018&t=CHEMICAL RECORD
+JournalDetail.aspx?y=2018&t=ORGANOMETALLICS
+JournalDetail.aspx?y=2018&t=ChemElectroChem
+JournalDetail.aspx?y=2018&t=Journal of Cheminformatics
+JournalDetail.aspx?y=2018&t=ANALYST
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHROMATOGRAPHY A
+JournalDetail.aspx?y=2018&t=LANGMUIR
+JournalDetail.aspx?y=2018&t=Acta Crystallographica Section B-Structural Science Crystal Engineering and Materials
+JournalDetail.aspx?y=2018&t=Journal of Chemical Information and Modeling
+JournalDetail.aspx?y=2018&t=Arabian Journal of Chemistry
+JournalDetail.aspx?y=2018&t=Science China-Chemistry
+JournalDetail.aspx?y=2018&t=Topics in Organometallic Chemistry
+JournalDetail.aspx?y=2018&t=RUSSIAN CHEMICAL REVIEWS
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHYSICAL AND CHEMICAL REFERENCE DATA
+JournalDetail.aspx?y=2018&t=Reviews in Computational Chemistry
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR LIQUIDS
+JournalDetail.aspx?y=2018&t=EUROPEAN POLYMER JOURNAL
+JournalDetail.aspx?y=2018&t=POLYMER
+JournalDetail.aspx?y=2018&t=Advances in Heterocyclic Chemistry
+JournalDetail.aspx?y=2018&t=CRYSTENGCOMM
+JournalDetail.aspx?y=2018&t=JOURNAL OF ANALYTICAL AND APPLIED PYROLYSIS
+JournalDetail.aspx?y=2018&t=FARADAY DISCUSSIONS
+JournalDetail.aspx?y=2018&t=ORGANIC = BIOMOLECULAR CHEMISTRY
+JournalDetail.aspx?y=2018&t=PURE AND APPLIED CHEMISTRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF ANALYTICAL ATOMIC SPECTROMETRY
+JournalDetail.aspx?y=2018&t=CATALYSIS COMMUNICATIONS
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES
+JournalDetail.aspx?y=2018&t=JOURNAL OF COMPUTATIONAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=ACS Combinatorial Science
+JournalDetail.aspx?y=2018&t=CRITICAL REVIEWS IN ANALYTICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=ANALYTICAL AND BIOANALYTICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=NEW JOURNAL OF CHEMISTRY
+JournalDetail.aspx?y=2018&t=POLYMER DEGRADATION AND STABILITY
+JournalDetail.aspx?y=2018&t=Advances in Carbohydrate Chemistry and Biochemistry
+JournalDetail.aspx?y=2018&t=MATCH-COMMUNICATIONS IN MATHEMATICAL AND IN COMPUTER CHEMISTRY
+JournalDetail.aspx?y=2018&t=Catalysts
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHYSICAL CHEMISTRY B
+JournalDetail.aspx?y=2018&t=ORGANIC PROCESS RESEARCH = DEVELOPMENT
+JournalDetail.aspx?y=2018&t=RSC Advances
+JournalDetail.aspx?y=2018&t=ChemistryOpen
+JournalDetail.aspx?y=2018&t=MARINE CHEMISTRY
+JournalDetail.aspx?y=2018&t=CHEMPHYSCHEM
+JournalDetail.aspx?y=2018&t=JOURNAL OF ELECTROANALYTICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=Express Polymer Letters
+JournalDetail.aspx?y=2018&t=ChemPlusChem
+JournalDetail.aspx?y=2018&t=Journal of Energy Chemistry
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF ORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE AMERICAN SOCIETY FOR MASS SPECTROMETRY
+JournalDetail.aspx?y=2018&t=MICROCHEMICAL JOURNAL
+JournalDetail.aspx?y=2018&t=Advances in Inorganic Chemistry
+JournalDetail.aspx?y=2018&t=JOURNAL OF POLYMER SCIENCE PART A-POLYMER CHEMISTRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED CRYSTALLOGRAPHY
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHYSICAL CHEMISTRY A
+JournalDetail.aspx?y=2018&t=Asian Journal of Organic Chemistry
+JournalDetail.aspx?y=2018&t=MOLECULES
+JournalDetail.aspx?y=2018&t=APPLIED ORGANOMETALLIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF BIOLOGICAL INORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=CATALYSIS SURVEYS FROM ASIA
+JournalDetail.aspx?y=2018&t=COLLOIDS AND SURFACES A-PHYSICOCHEMICAL AND ENGINEERING ASPECTS
+JournalDetail.aspx?y=2018&t=ELECTROANALYSIS
+JournalDetail.aspx?y=2018&t=SYNTHESIS-STUTTGART
+JournalDetail.aspx?y=2018&t=CATALYSIS LETTERS
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY A-CHEMISTRY
+JournalDetail.aspx?y=2018&t=Advances in Polymer Science
+JournalDetail.aspx?y=2018&t=JOURNAL OF SEPARATION SCIENCE
+JournalDetail.aspx?y=2018&t=TETRAHEDRON
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY
+JournalDetail.aspx?y=2018&t=EUROPEAN JOURNAL OF INORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=Electrocatalysis
+JournalDetail.aspx?y=2018&t=LIQUID CRYSTALS
+JournalDetail.aspx?y=2018&t=ISRAEL JOURNAL OF CHEMISTRY
+JournalDetail.aspx?y=2018&t=MACROMOLECULAR CHEMISTRY AND PHYSICS
+JournalDetail.aspx?y=2018&t=Beilstein Journal of Organic Chemistry
+JournalDetail.aspx?y=2018&t=Journal of Saudi Chemical Society
+JournalDetail.aspx?y=2018&t=TOPICS IN CATALYSIS
+JournalDetail.aspx?y=2018&t=Chemistry Central Journal
+JournalDetail.aspx?y=2018&t=Methods and Applications in Fluorescence
+JournalDetail.aspx?y=2018&t=BULLETIN OF THE CHEMICAL SOCIETY OF JAPAN
+JournalDetail.aspx?y=2018&t=JOURNAL OF RARE EARTHS
+JournalDetail.aspx?y=2018&t=JOURNAL OF MASS SPECTROMETRY
+JournalDetail.aspx?y=2018&t=Zeitschrift fur Kristallographie-Crystalline Materials
+JournalDetail.aspx?y=2018&t=SYNLETT
+JournalDetail.aspx?y=2018&t=POLYMER INTERNATIONAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF SOLID STATE CHEMISTRY
+JournalDetail.aspx?y=2018&t=ACTA CHIMICA SINICA
+JournalDetail.aspx?y=2018&t=TETRAHEDRON LETTERS
+JournalDetail.aspx?y=2018&t=Green Chemistry Letters and Reviews
+JournalDetail.aspx?y=2018&t=IONICS
+JournalDetail.aspx?y=2018&t=CHINESE CHEMICAL LETTERS
+JournalDetail.aspx?y=2018&t=Structure and Bonding
+JournalDetail.aspx?y=2018&t=JOURNAL OF ORGANOMETALLIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=SOLVENT EXTRACTION AND ION EXCHANGE
+JournalDetail.aspx?y=2018&t=THERMOCHIMICA ACTA
+JournalDetail.aspx?y=2018&t=CURRENT ORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=Crystallography Reviews
+JournalDetail.aspx?y=2018&t=RAPID COMMUNICATIONS IN MASS SPECTROMETRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF FLUORINE CHEMISTRY
+JournalDetail.aspx?y=2018&t=INORGANICA CHIMICA ACTA
+JournalDetail.aspx?y=2018&t=CHINESE JOURNAL OF CHEMISTRY
+JournalDetail.aspx?y=2018&t=POLYHEDRON
+JournalDetail.aspx?y=2018&t=MOLECULAR DIVERSITY
+JournalDetail.aspx?y=2018&t=SURFACE SCIENCE
+JournalDetail.aspx?y=2018&t=CARBOHYDRATE RESEARCH
+JournalDetail.aspx?y=2018&t=POLYMER JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF THERMAL ANALYSIS AND CALORIMETRY
+JournalDetail.aspx?y=2018&t=CHIRALITY
+JournalDetail.aspx?y=2018&t=SOLID STATE SCIENCES
+JournalDetail.aspx?y=2018&t=CURRENT ORGANIC SYNTHESIS
+JournalDetail.aspx?y=2018&t=JOURNAL OF APPLIED POLYMER SCIENCE
+JournalDetail.aspx?y=2018&t=COLLOID AND POLYMER SCIENCE
+JournalDetail.aspx?y=2018&t=COMPTES RENDUS CHIMIE
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR STRUCTURE
+JournalDetail.aspx?y=2018&t=COMMENTS ON INORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=CHINESE JOURNAL OF POLYMER SCIENCE
+JournalDetail.aspx?y=2018&t=STRUCTURAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=REVIEWS IN ANALYTICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=BIOINORGANIC CHEMISTRY AND APPLICATIONS
+JournalDetail.aspx?y=2018&t=Journal of Flow Chemistry
+JournalDetail.aspx?y=2018&t=CHEMICAL PHYSICS LETTERS
+JournalDetail.aspx?y=2018&t=Chemistry Education Research and Practice
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHEMOMETRICS
+JournalDetail.aspx?y=2018&t=JOURNAL OF COORDINATION CHEMISTRY
+JournalDetail.aspx?y=2018&t=MENDELEEV COMMUNICATIONS
+JournalDetail.aspx?y=2018&t=THEORETICAL CHEMISTRY ACCOUNTS
+JournalDetail.aspx?y=2018&t=CHEMICAL PHYSICS
+JournalDetail.aspx?y=2018&t=INORGANIC CHEMISTRY COMMUNICATIONS
+JournalDetail.aspx?y=2018&t=REVIEWS IN INORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=ORGANIC PREPARATIONS AND PROCEDURES INTERNATIONAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF POLYMER RESEARCH
+JournalDetail.aspx?y=2018&t=CHEMISTRY LETTERS
+JournalDetail.aspx?y=2018&t=JOURNAL OF CRYSTAL GROWTH
+JournalDetail.aspx?y=2018&t=RESEARCH ON CHEMICAL INTERMEDIATES
+JournalDetail.aspx?y=2018&t=JOURNAL OF CLUSTER SCIENCE
+JournalDetail.aspx?y=2018&t=NATURAL PRODUCT RESEARCH
+JournalDetail.aspx?y=2018&t=VIBRATIONAL SPECTROSCOPY
+JournalDetail.aspx?y=2018&t=Heritage Science
+JournalDetail.aspx?y=2018&t=JOURNAL OF FLUORESCENCE
+JournalDetail.aspx?y=2018&t=Journal of Inorganic and Organometallic Polymers and Materials
+JournalDetail.aspx?y=2018&t=MAGNETIC RESONANCE IN CHEMISTRY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF CHEMICAL KINETICS
+JournalDetail.aspx?y=2018&t=International Journal of Electrochemical Science
+JournalDetail.aspx?y=2018&t=POLYCYCLIC AROMATIC COMPOUNDS
+JournalDetail.aspx?y=2018&t=ChemistrySelect
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHYSICAL ORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=Journal of Analytical Methods in Chemistry
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHEMICAL EDUCATION
+JournalDetail.aspx?y=2018&t=Computational and Theoretical Chemistry
+JournalDetail.aspx?y=2018&t=POLYMER BULLETIN
+JournalDetail.aspx?y=2018&t=IRANIAN POLYMER JOURNAL
+JournalDetail.aspx?y=2018&t=MOLECULAR SIMULATION
+JournalDetail.aspx?y=2018&t=JOURNAL OF MOLECULAR MODELING
+JournalDetail.aspx?y=2018&t=Johnson Matthey Technology Review
+JournalDetail.aspx?y=2018&t=Journal of the Iranian Chemical Society
+JournalDetail.aspx?y=2018&t=JOURNAL OF MATHEMATICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=SUPRAMOLECULAR CHEMISTRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF DISPERSION SCIENCE AND TECHNOLOGY
+JournalDetail.aspx?y=2018&t=CHROMATOGRAPHIA
+JournalDetail.aspx?y=2018&t=TRANSITION METAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=Reaction Kinetics Mechanisms and Catalysis
+JournalDetail.aspx?y=2018&t=Journal of Chemistry
+JournalDetail.aspx?y=2018&t=DESIGNED MONOMERS AND POLYMERS
+JournalDetail.aspx?y=2018&t=JOURNAL OF SOLUTION CHEMISTRY
+JournalDetail.aspx?y=2018&t=INTERNATIONAL JOURNAL OF ENVIRONMENTAL ANALYTICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=RADIATION PHYSICS AND CHEMISTRY
+JournalDetail.aspx?y=2018&t=Advances in Physical Organic Chemistry
+JournalDetail.aspx?y=2018&t=Open Chemistry
+JournalDetail.aspx?y=2018&t=TURKISH JOURNAL OF CHEMISTRY
+JournalDetail.aspx?y=2018&t=ANALYTICAL SCIENCES
+JournalDetail.aspx?y=2018&t=AUSTRALIAN JOURNAL OF CHEMISTRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE BRAZILIAN CHEMICAL SOCIETY
+JournalDetail.aspx?y=2018&t=MONATSHEFTE FUR CHEMIE
+JournalDetail.aspx?y=2018&t=JOURNAL OF INCLUSION PHENOMENA AND MACROCYCLIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=REVISTA DE CHIMIE
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR ANORGANISCHE UND ALLGEMEINE CHEMIE
+JournalDetail.aspx?y=2018&t=SYNTHETIC COMMUNICATIONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHEMICAL SCIENCES
+JournalDetail.aspx?y=2018&t=RADIOCHIMICA ACTA
+JournalDetail.aspx?y=2018&t=HETEROATOM CHEMISTRY
+JournalDetail.aspx?y=2018&t=CHEMICAL PAPERS
+JournalDetail.aspx?y=2018&t=Current Analytical Chemistry
+JournalDetail.aspx?y=2018&t=Journal of Sulfur Chemistry
+JournalDetail.aspx?y=2018&t=PHYSICS AND CHEMISTRY OF LIQUIDS
+JournalDetail.aspx?y=2018&t=JOURNAL OF RADIOANALYTICAL AND NUCLEAR CHEMISTRY
+JournalDetail.aspx?y=2018&t=ANALYTICAL LETTERS
+JournalDetail.aspx?y=2018&t=SURFACE AND INTERFACE ANALYSIS
+JournalDetail.aspx?y=2018&t=CHEMICAL RESEARCH IN CHINESE UNIVERSITIES
+JournalDetail.aspx?y=2018&t=JOURNAL OF PORPHYRINS AND PHTHALOCYANINES
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHROMATOGRAPHIC SCIENCE
+JournalDetail.aspx?y=2018&t=Advances in Quantum Chemistry
+JournalDetail.aspx?y=2018&t=HIGH PERFORMANCE POLYMERS
+JournalDetail.aspx?y=2018&t=ARKIVOC
+JournalDetail.aspx?y=2018&t=ACTA CHIMICA SLOVENICA
+JournalDetail.aspx?y=2018&t=HELVETICA CHIMICA ACTA
+JournalDetail.aspx?y=2018&t=MINI-REVIEWS IN ORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=CHIMIA
+JournalDetail.aspx?y=2018&t=CANADIAN JOURNAL OF CHEMISTRY
+JournalDetail.aspx?y=2018&t=International Journal of Analytical Chemistry
+JournalDetail.aspx?y=2018&t=CRYSTAL RESEARCH AND TECHNOLOGY
+JournalDetail.aspx?y=2018&t=Journal of Macromolecular Science Part A-Pure and Applied Chemistry
+JournalDetail.aspx?y=2018&t=Revista Mexicana de Ingenieria Quimica
+JournalDetail.aspx?y=2018&t=HETEROCYCLES
+JournalDetail.aspx?y=2018&t=Chemistry of Heterocyclic Compounds
+JournalDetail.aspx?y=2018&t=E-POLYMERS
+JournalDetail.aspx?y=2018&t=COLLOID JOURNAL
+JournalDetail.aspx?y=2018&t=JOURNAL OF HETEROCYCLIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE CHINESE CHEMICAL SOCIETY
+JournalDetail.aspx?y=2018&t=PROGRESS IN CHEMISTRY
+JournalDetail.aspx?y=2018&t=Macroheterocycles
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE SERBIAN CHEMICAL SOCIETY
+JournalDetail.aspx?y=2018&t=JOURNAL OF PHOTOPOLYMER SCIENCE AND TECHNOLOGY
+JournalDetail.aspx?y=2018&t=KINETICS AND CATALYSIS
+JournalDetail.aspx?y=2018&t=ACTA PHYSICO-CHIMICA SINICA
+JournalDetail.aspx?y=2018&t=JOURNAL OF ANALYTICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=BULLETIN OF THE CHEMICAL SOCIETY OF ETHIOPIA
+JournalDetail.aspx?y=2018&t=POLYMER SCIENCE SERIES A
+JournalDetail.aspx?y=2018&t=SOUTH AFRICAN JOURNAL OF CHEMISTRY-SUID-AFRIKAANSE TYDSKRIF VIR CHEMIE
+JournalDetail.aspx?y=2018&t=JOURNAL OF THEORETICAL = COMPUTATIONAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=PHOSPHORUS SULFUR AND SILICON AND THE RELATED ELEMENTS
+JournalDetail.aspx?y=2018&t=JOURNAL OF ADVANCED OXIDATION TECHNOLOGIES
+JournalDetail.aspx?y=2018&t=JOURNAL OF LIQUID CHROMATOGRAPHY = RELATED TECHNOLOGIES
+JournalDetail.aspx?y=2018&t=CHINESE JOURNAL OF ANALYTICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=CHEMICAL JOURNAL OF CHINESE UNIVERSITIES-CHINESE
+JournalDetail.aspx?y=2018&t=HIGH ENERGY CHEMISTRY
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF INORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=POLYMER SCIENCE SERIES B
+JournalDetail.aspx?y=2018&t=Advances in Chromatography
+JournalDetail.aspx?y=2018&t=ACTA CHROMATOGRAPHICA
+JournalDetail.aspx?y=2018&t=Journal of the Mexican Chemical Society
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES
+JournalDetail.aspx?y=2018&t=HETEROCYCLIC COMMUNICATIONS
+JournalDetail.aspx?y=2018&t=JOURNAL OF CARBOHYDRATE CHEMISTRY
+JournalDetail.aspx?y=2018&t=LETTERS IN ORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=CROATICA CHEMICA ACTA
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF ORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=Theoretical and Experimental Chemistry
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHEMICAL RESEARCH
+JournalDetail.aspx?y=2018&t=BULLETIN OF THE KOREAN CHEMICAL SOCIETY
+JournalDetail.aspx?y=2018&t=RUSSIAN CHEMICAL BULLETIN
+JournalDetail.aspx?y=2018&t=CRYSTALLOGRAPHY REPORTS
+JournalDetail.aspx?y=2018&t=QUIMICA NOVA
+JournalDetail.aspx?y=2018&t=JOURNAL OF CHEMICAL CRYSTALLOGRAPHY
+JournalDetail.aspx?y=2018&t=JPC-JOURNAL OF PLANAR CHROMATOGRAPHY-MODERN TLC
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF CHEMISTRY SECTION A-INORGANIC BIO-INORGANIC PHYSICAL THEORETICAL = ANALYTICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=CHINESE JOURNAL OF STRUCTURAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=Polimeros-Ciencia e Tecnologia
+JournalDetail.aspx?y=2018&t=LC GC EUROPE
+JournalDetail.aspx?y=2018&t=DOKLADY CHEMISTRY
+JournalDetail.aspx?y=2018&t=DOKLADY PHYSICAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=MOLECULAR CRYSTALS AND LIQUID CRYSTALS
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF COORDINATION CHEMISTRY
+JournalDetail.aspx?y=2018&t=Russian Journal of Physical Chemistry A
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF GENERAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=CHINESE JOURNAL OF INORGANIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=Science and Technology of Energetic Materials
+JournalDetail.aspx?y=2018&t=Inorganic and Nano-Metal Chemistry
+JournalDetail.aspx?y=2018&t=MAIN GROUP METAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=PROGRESS IN REACTION KINETICS AND MECHANISM
+JournalDetail.aspx?y=2018&t=HYLE
+JournalDetail.aspx?y=2018&t=ACTA POLYMERICA SINICA
+JournalDetail.aspx?y=2018&t=Russian Journal of Physical Chemistry B
+JournalDetail.aspx?y=2018&t=CHIMICA OGGI-CHEMISTRY TODAY
+JournalDetail.aspx?y=2018&t=JOURNAL OF STRUCTURAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=STUDIES IN CONSERVATION
+JournalDetail.aspx?y=2018&t=LC GC NORTH AMERICA
+JournalDetail.aspx?y=2018&t=Macedonian Journal of Chemistry and Chemical Engineering
+JournalDetail.aspx?y=2018&t=MAIN GROUP CHEMISTRY
+JournalDetail.aspx?y=2018&t=CHEMISTRY OF NATURAL COMPOUNDS
+JournalDetail.aspx?y=2018&t=POLYMER-KOREA
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF CHEMISTRY SECTION B-ORGANIC CHEMISTRY INCLUDING MEDICINAL CHEMISTRY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE CHILEAN CHEMICAL SOCIETY
+JournalDetail.aspx?y=2018&t=Chemija
+JournalDetail.aspx?y=2018&t=JOURNAL OF SYNTHETIC ORGANIC CHEMISTRY JAPAN
+JournalDetail.aspx?y=2018&t=CHEMIE IN UNSERER ZEIT
+JournalDetail.aspx?y=2018&t=RUSSIAN JOURNAL OF APPLIED CHEMISTRY
+JournalDetail.aspx?y=2018&t=Journal of Water Chemistry and Technology
+JournalDetail.aspx?y=2018&t=CHEMICKE LISTY
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE CHEMICAL SOCIETY OF PAKISTAN
+JournalDetail.aspx?y=2018&t=REVUE ROUMAINE DE CHIMIE
+JournalDetail.aspx?y=2018&t=KOBUNSHI RONBUNSHU
+JournalDetail.aspx?y=2018&t=AFINIDAD
+JournalDetail.aspx?y=2018&t=Bulgarian Chemical Communications
+JournalDetail.aspx?y=2018&t=Studia Universitatis Babes-Bolyai Chemia
+JournalDetail.aspx?y=2018&t=BUNSEKI KAGAKU
+JournalDetail.aspx?y=2018&t=Journal of Rubber Research
+JournalDetail.aspx?y=2018&t=ZEITSCHRIFT FUR KRISTALLOGRAPHIE-NEW CRYSTAL STRUCTURES
+JournalDetail.aspx?y=2018&t=JOURNAL OF THE INDIAN CHEMICAL SOCIETY
+JournalDetail.aspx?y=2018&t=CHEMISTRY = INDUSTRY
+JournalDetail.aspx?y=2018&t=INDIAN JOURNAL OF HETEROCYCLIC CHEMISTRY
+JournalDetail.aspx?y=2018&t=ACS Earth and Space Chemistry
