@@ -20,8 +20,10 @@ from django.http import JsonResponse
 from cofcoAPP.spiders import SPIDERS_STATUS
 from cofcoAPP.spiders.PubmedSpider import SpiderManagerForPubmed
 from cofcoAPP.spiders.ScienceDirectSpider import SpiderManagerForScience
+from cofcoAPP.spiders.JournalSpider import SpiderManagerForJournal
 from cofcoAPP import spiders
 from cofcoAPP.heplers import StatusHelper
+from cofcoAPP import heplers
 
 
 #获取进程运行状态，返回值为json
@@ -74,8 +76,10 @@ def controlSpider(request):
             content_process_num = int(request.POST.get('content_process_num', spiders.default_content_process_num))
             content_thread_num = int(request.POST.get('content_thread_num', spiders.default_content_thread_num))
 
-            if not kw_id or not uid or not uname:
-                raise Exception('kw_id, uid and uname is required')
+            if not uid or not uname:
+                raise Exception('uid and uname is required')
+            if spider_type != 3 and (not kw_id):
+                raise Exception('kw_id is required')
 
             if spider_type == 1:
                 sfp = SpiderManagerForPubmed(kw_id=kw_id,
@@ -92,6 +96,19 @@ def controlSpider(request):
                                               content_thread_num=content_thread_num,
                                               create_user_id=uid,
                                               create_user_name=uname)
+                sfp.start()
+            elif spider_type == 3:
+                raw_cookies = request.POST.get('raw_cookies')
+                if not raw_cookies:
+                    raise Exception('raw_cookies is required')
+
+                sfp = SpiderManagerForJournal(kw_id=spiders.journal_kw_id,
+                                              ids_thread_num=ids_thread_num,
+                                              content_process_num=content_process_num,
+                                              content_thread_num=content_thread_num,
+                                              create_user_id=uid,
+                                              create_user_name=uname)
+                sfp.update_cookies(heplers.parse_raw_cookies(raw_cookies))
                 sfp.start()
             else:
                 raise Exception('Unknown spider type. It must be 1 or 2.')
@@ -120,3 +137,20 @@ def controlSpider(request):
     return JsonResponse(resp_data)
 
 
+def update_cookies(request):
+    resp_data = {'status': 1, "code": '0', "info": "ok"}
+    try:
+        raw_cookies = request.POST.get('raw_cookies', None)
+        if raw_cookies is None:
+            raise Exception('raw_cookies is None')
+        if not SPIDERS_STATUS.get(spiders.journal_kw_id):
+            raise Exception('Journal spider is not running!')
+
+        SPIDERS_STATUS.get(spiders.journal_kw_id).update_cookies(heplers.parse_raw_cookies(raw_cookies))
+
+        resp_data['info'] = 'Update cookies successful'
+    except Exception as e:
+        resp_data['status'] = 0
+        resp_data['code'] = 25
+        resp_data['info'] = 'Failed: ' + str(e)
+    return JsonResponse(resp_data)

@@ -108,16 +108,38 @@ HEADER_SCIENCE = {
     'Upgrade-Insecure-Requests': '1'
 }
 
-HEADER_JOURNAL = {
-    'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+HEADER_JOURNAL_AJAX = {
+    'Accept': '*/*',
     'Accept-Encoding': 'gzip, deflate',
-    'Accept-Language': 'zh-CN,zh;q=0.9',
-    'Host': 'www.letpub.com.cn',
-    'Cache-Control': 'max-age=0',
-    'Upgrade-Insecure-Requests': '1',
-    'Proxy-Connection': 'keep-alive'
+    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive',
+    'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+    'Host': 'www.fenqubiao.com',
+    'Origin': 'http://www.fenqubiao.com',
+    'Pragma':'no-cache',
+    'Referer': 'http://www.fenqubiao.com/Core/CategoryList.aspx',
+    'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
+    'Upgrade-Insecure-Requests':'1',
+    'X-MicrosoftAjax': 'Delta=true',
+    'X-Requested-With': 'XMLHttpRequest'
 }
+
+
+HEADER_JOURNAL_PAGE_GET = {
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'Accept-Encoding': 'gzip, deflate',
+    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive',
+    'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+    'Host': 'www.fenqubiao.com',
+    'Pragma':'no-cache',
+    'Referer': 'http://www.fenqubiao.com/Default.aspx',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
+}
+
 
 def pubmed_ids_headers():
     HEADER["User-Agent"] = random.choice(USER_AGENTS)
@@ -138,9 +160,13 @@ def science_headers():
         HEADER[key] = value
     return HEADER_SCIENCE
 
-def get_header_jounal():
-    HEADER_JOURNAL["User-Agent"] = ua.random
-    return HEADER_JOURNAL
+def jounal_headers_page():
+    # HEADER_JOURNAL["User-Agent"] = ua.random
+    return HEADER_JOURNAL_PAGE_GET
+
+def jounal_headers_ajax():
+    # HEADER_JOURNAL["User-Agent"] = ua.random
+    return HEADER_JOURNAL_AJAX
 
 if __name__ == '__main__':
     pass

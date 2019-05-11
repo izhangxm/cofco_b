@@ -27,17 +27,21 @@ from cofcoAPP import spiders
 
 # 自动随机session生成
 class SessionHelper(object):
-    def __init__(self, header_fun=None, verify=spiders.default_verify, timeout=spiders.default_timeout):
+    def __init__(self, header_fun=None, try_proxy=True, cookies=None, verify=spiders.default_verify, timeout=spiders.default_timeout):
         self.proxyHelper = ProxyHelper()
         self.default_verify = verify
         self.default_timeout = timeout
         self.header_fun = header_fun
+        self.try_proxy = try_proxy
+        self.cookies = cookies # 标准格式的cookies
         self.lastQueryKey= None
         self.session = self.get_session()
 
     def get_session(self):
         session = requests.Session()
-        proxies = self.proxyHelper.get_proxy()
+        proxies = None
+        if self.try_proxy:
+            proxies = self.proxyHelper.get_proxy()
         headers = None
         if self.header_fun:
             headers = self.header_fun()
@@ -45,6 +49,8 @@ class SessionHelper(object):
             session.headers.update(headers)
         if proxies:
             session.proxies.update(proxies)
+        if self.cookies:
+            requests.utils.add_dict_to_cookiejar(session.cookies, self.cookies)
         return session
 
     def get(self,url, **kwargs):
@@ -54,6 +60,7 @@ class SessionHelper(object):
     def post(self,url, **kwargs):
         rsp = self.session.post(url, **kwargs, verify=self.default_verify, timeout=self.default_timeout)
         return rsp
+
 
 
 if __name__ == '__main__':

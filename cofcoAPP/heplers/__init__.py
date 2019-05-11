@@ -17,6 +17,9 @@
 # ==============================================================================
 from datetime import datetime
 import os
+import re
+import json
+
 # 获得标准时间
 def getFTime():
     return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -55,3 +58,27 @@ class Logger(object):
                 print(output_str)
             finally:
                 self.screen_locker.release()
+
+def parse_raw_cookies(raw_cookies):
+    try:
+        # 解析raw_cookies为标准格式
+        raw_cookies = re.sub(r'\s', '', raw_cookies).split(';')
+        cookies = {}
+        for ele in raw_cookies:
+            key, value = ele.split('=')
+            cookies[key] = value
+        cookies = json.loads(json.dumps(cookies))
+        return cookies
+    except Exception:
+        raise Exception('Parse the raw cookies failed!')
+
+
+# 检查用户输入的cookie是否有效，有效的话返回登录的用户名
+def check_cookies_valid(sessionHelper):
+    rsp= sessionHelper.get('http://www.fenqubiao.com/Core/CategoryList.aspx')
+    if rsp.status_code == 200:
+        r = re.search(r'<li><a href="../Core/ToDefault.ashx[\s\S]*?>([\S]+)[\s\S]+?</li>',rsp.text)
+        if r:
+            return r.group(1)
+        return False
+    raise Exception('Check_cookies_valid Connection Error')

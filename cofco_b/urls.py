@@ -21,4 +21,5 @@ urlpatterns = [
     url(r'^$', views.index),
     url(r'^api/v1/getthreadstatus/$', v1.getThreadStatus),
     url(r'^api/v1/controlspider/$', v1.controlSpider),
+    url(r'^api/v1/updatecookies/$', v1.update_cookies),
 ]

@@ -35,12 +35,12 @@
         }
     </style>
     <script language="JavaScript">
-        API_URL = ''
+        API_URL = '';
 
         function control_spider(kw_id, action, idsP, contentP) {
             var data = {kw_id: kw_id, action: action, idsP: idsP, contentP: contentP}
             $.post(API_URL + '/api/v1/controlspider/', data, function (resp) {
-                if (resp['status'] == 1) {
+                if (resp['status'] === 1) {
                     updateTipinfo(resp['info'])
                 } else {
                     updateTipinfo(resp['info'])
@@ -50,9 +50,23 @@
 
         function new_spider(spider_type) {
             var kw_id = $('#kw_input_id').val()
-            var data = {spider_type: spider_type, kw_id: kw_id, uid: '25', uname: 'izhangxm', action: 'new'}
+            var raw_cookies = $('#cookies_input_id').val()
+
+            var data = {spider_type: spider_type, kw_id: kw_id, uid: '25', uname: 'izhangxm', action: 'new',raw_cookies:raw_cookies}
             $.post(API_URL + '/api/v1/controlspider/', data, function (resp) {
-                if (resp['status'] == 1) {
+                if (resp['status'] === 1) {
+                    updateTipinfo(resp['info'])
+                } else {
+                    updateTipinfo(resp['info'])
+                }
+            })
+        }
+
+        function update_cookies() {
+            var raw_cookies = $('#cookies_input_id').val()
+            var data = {raw_cookies:raw_cookies}
+            $.post(API_URL + '/api/v1/updatecookies/', data, function (resp) {
+                if (resp['status'] === 1) {
                     updateTipinfo(resp['info'])
                 } else {
                     updateTipinfo(resp['info'])
@@ -115,8 +129,22 @@
                         </button>
                     </div>
                 </div>
-
             </div>
+            <div class="row">
+                <div class="col-md-10">
+                    <textarea type="text" class="form-control form-inline" value="" placeholder="原始Cookies" style="margin: 10px 20px 10px 0;" id='cookies_input_id'></textarea>
+                <div class="btn-group">
+                        <button type="button" class="btn btn-success new_pubmed_spider" onclick="new_spider('3')">
+                            新建Journal爬虫
+                        </button>
+                        <button type="button" class="btn btn-warning new_pubmed_spider" onclick="update_cookies()">
+                            更新cookies
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+
 
 
             <br>

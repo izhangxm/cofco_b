@@ -15,12 +15,15 @@ def get_json_model(object_s):
     return result
 
 class Journal(models.Model):
-    id = models.AutoField(max_length=11, primary_key=True, auto_created=True)
-    journal = models.CharField(max_length=300)
-    ojournal = models.TextField()
-    impact_factor = models.CharField(max_length=10)
-    journal_zone = models.TextField()
-
+    issn = models.TextField(primary_key=True)
+    full_name = models.TextField()
+    short_name = models.TextField()
+    subject = models.TextField()
+    journal_zone = models.IntegerField()
+    impact_factor = models.FloatField()
+    is_survey = models.TextField()
+    is_top = models.TextField()
+    total_cited = models.IntegerField()
     class Meta:
         db_table = 'cofco_admin_journal'
 
