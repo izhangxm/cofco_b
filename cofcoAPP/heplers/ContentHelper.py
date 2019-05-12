@@ -19,8 +19,8 @@
 import json
 import html
 import time
-from cofcoAPP.models import Content
-from cofcoAPP import models
+import re
+from cofcoAPP.models import Content, Journal
 
 try:
     import xml.etree.cElementTree as ET
@@ -29,8 +29,6 @@ except ImportError:
 
 # 解析science_direct 文章详情的json字符串为一个content model对象
 def format_scicent_details(detail_str):
-    # TODO 解析science_direct的文章详情的json字符串，用于下一步的数据库存贮和序列化
-    # TODO detail_str 为None时，构造一个失败结果对象
     content = []
     def analyze_json(jsons):
         if isinstance(jsons, dict):
@@ -139,6 +137,12 @@ def format_scicent_details(detail_str):
         content_model.issue = time.strftime('%Y-%m-%d',time.strptime(issue,'%d %B %Y'))
     except Exception:
         content_model.issue = issue
+
+    # 处理issn
+    r = re.search(r'issn-primary-formatted":"([\s\S]*?)"',detail_str)
+    if r:
+        content_model.issnl = r.group(1)
+
     content_model.doi = doi
     content_model.title = title
     content_model.keyword = keyword
@@ -148,15 +152,13 @@ def format_scicent_details(detail_str):
 
 # 解析pubmed的xml为一个content model对象
 def format_pubmed_xml(xml_str):
-    # TODO 解析pubmed的xml为一个model对象，用于下一步的数据库存贮和序列化
-    # TODO 当xml_str 为None时，构造一个失败结果对象
     #========= 预处理 ==================
     xml_str = html.unescape(xml_str)
     content_model = Content()
     root = ET.fromstring(xml_str)
 
     content = ['ELocationID', 'PMID', 'AbstractText', 'ArticleTitle','Title', 'ForeName', 'LastName', 'Year','Month','Day', 'Keyword', 'Country',
-               'Author','time']
+               'Author','time','ISSNLinking']
     value = []
     for list_ in content:
         keywords_ele = root.findall('.//' + list_)
@@ -187,12 +189,27 @@ def format_pubmed_xml(xml_str):
         content_model.issue = list_['time']
     content_model.abstract = list_['AbstractText']
     content_model.doi = list_['ELocationID']
+    if content_model.doi == '':
+        r = re.search(r'<ArticleId IdType="doi">([\s\S]*?)</ArticleId>',xml_str)
+        if r:
+            content_model.doi = r.group(1)
+    content_model.issnl = list_['ISSNLinking']
+
+    r = re.search(r'<ArticleId IdType="doi">([\s\S]*?)</ArticleId>', xml_str)
+    content_model.doi = r.group(1) if r else ''
+
+    r = re.search(r'ISSN IssnType="Electronic">([\s\S]*?)</ISSN>',xml_str)
+    content_model.issne = r.group(1) if r else ''
+
+    r = re.search(r'ISSN IssnType="Print">([\s\S]*?)</ISSN>', xml_str)
+    content_model.issnp = r.group(1) if r else ''
+
     content_model.keyword = list_['Keyword']
     content_model.title = list_['ArticleTitle']
     content_model.journal = list_['Title']
     return content_model
 
-def is_in_black_list(article_id):
+def is_in_black_list(art_id):
     #TODO 判断是否在黑名单
     return False
 
@@ -202,19 +219,38 @@ def is_need_update(art_id):
     # 原则上 1一个月内刚刚爬取的文章不应该更新
     return True
 
-
 # 保存或更新
 def content_save(content_model):
     content_model.ctime = int(time.time())
-    query_set = Content.objects.filter(art_id=content_model.art_id)
-    if (len(query_set) > 0):
-        kw_arg = models.get_json_model(content_model)
-        Content.objects.filter(art_id=content_model.art_id).update(**kw_arg)
-    else:
+    content_model.journal_zone = 0
+
+    # 寻找最可能的结果
+    result = None
+    try:
+        result = Journal.objects.filter(issn=content_model.issnl)
+        if result:
+            raise Exception('')
+        result = Journal.objects.filter(issn=content_model.issne)
+        if result:
+            raise Exception('')
+
+        result = Journal.objects.filter(issn=content_model.issnp)
+        if result:
+            raise Exception('')
+
+        result = Journal.objects.filter(full_name__icontains=content_model.journal)  # 通过期刊名称模糊查询
+        if result:
+            raise Exception('')
+
+    except Exception:
+        if result:
+            journal = result[0]
+            content_model.impact_factor = journal.impact_factor
+            content_model.journal_zone = journal.journal_zone
+    finally:
         content_model.save()
 
 def is_deleted(article_id):
-    #TODO 判断是否被删除
     return False
 
 

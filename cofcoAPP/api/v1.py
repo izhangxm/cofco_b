@@ -147,6 +147,7 @@ def update_cookies(request):
             raise Exception('Journal spider is not running!')
 
         SPIDERS_STATUS.get(spiders.journal_kw_id).update_cookies(heplers.parse_raw_cookies(raw_cookies))
+        SPIDERS_STATUS.get(spiders.journal_kw_id).resume()
 
         resp_data['info'] = 'Update cookies successful'
     except Exception as e:

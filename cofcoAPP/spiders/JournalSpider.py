@@ -13,9 +13,9 @@
 此爬虫应该定期更新，存到本地数据库，之后直接查询文章分区和影响因子即可
 """
 import os
-from multiprocessing import Process, Lock, Manager
+from multiprocessing import Process, Lock, Manager, Value
 from multiprocessing import Queue as ProcessQueen
-from multiprocessing.sharedctypes import Value
+from ctypes import c_char_p
 import threading
 import re
 import time
@@ -79,6 +79,11 @@ class _journalIDWorker(Process):
                     time.sleep(1)  # 歇息一秒，继续检查
                     continue
 
+                # 检查是否任务是否需要输入cookies
+                if self.manager.idsP_status.value == 6:
+                    time.sleep(1)  # 歇息一秒，继续检查
+                    continue
+
                 # 检查是否时被终止
                 if self.manager.idsP_status.value == 4:
                     break
@@ -117,6 +122,10 @@ class _journalIDWorker(Process):
                             continue
                         # 检查是否任务是否完成
                         if self.manager.idsP_status.value == 3:
+                            time.sleep(1)  # 歇息一秒，继续检查
+                            continue
+                        # 检查是否任务是否需要输入cookies
+                        if self.manager.idsP_status.value == 6:
                             time.sleep(1)  # 歇息一秒，继续检查
                             continue
 
@@ -253,6 +262,11 @@ class _journalContendWorker(Process):
                     time.sleep(1)  # 歇息一秒，继续检查
                     continue
 
+                # 检查是否任务是否需要输入cookies
+                if self.manager.contentP_status.value == 6:
+                    time.sleep(1)  # 歇息一秒，继续检查
+                    continue
+
                 # 检查是否时被终止
                 if self.manager.contentP_status.value == 4:
                     break
@@ -277,7 +291,6 @@ class _journalContendWorker(Process):
                     r = re.search(r'点击按钮开始智能验证', rsp_text)
                     if r:
                         raise Exception('Logged in Failed! Please re-loggin!')
-
                     try:
                         journal_model = Journal()
                         journal_model.issn = re.search(r'ISSN[\s\S]*?valueCss">([\s\S]*?)</td>',rsp_text).group(1)
@@ -339,12 +352,16 @@ class _journalContendWorker(Process):
 
 # 爬虫对象
 class SpiderManagerForJournal(object):
+
+    # 比较特殊，只能放到init 外部
+    kw_name = Manager().Value(c_char_p, '无')
+
     def __init__(self,ids_thread_num=4, content_process_num=2, content_thread_num=8, **kwargs):
+        manager = Manager()
         # 爬虫的状态信息
         self.kw_id = spiders.journal_kw_id
         if SPIDERS_STATUS.get(self.kw_id):
             raise Exception('Journal spider is running!')
-        self.kw_name = '无'
         self.TYPE = 'JOURNAL_SPIDER'
         self.id_process = None  # ID进程对象
         self.content_process = []  # Content进程对象
@@ -377,7 +394,6 @@ class SpiderManagerForJournal(object):
         self.create_user_name = kwargs['create_user_name']  # 创建人名称
         self.create_time = getFTime()  # 爬虫创建时间
         self.start_time = None  # 爬虫启动时间
-        manager = Manager()
         self.page_sessionHelper = None
         self.ajax_sessionHelper = None
         self.journal_user_name = None
@@ -414,7 +430,7 @@ class SpiderManagerForJournal(object):
                     self.journal_cookies['main'] = None   # 无效cookie置为空
                     self.page_sessionHelper = None # 无效cookie置为空
                     self.ajax_sessionHelper = None # 无效cookie置为空
-                    self.journal_user_name = None # 无效cookie置为空
+                    self.kw_name = '<span style="color:red">无效cookies，请重新输入</span>' # 无效cookie置为空
                     raise Exception('This cookies cant be used to login.')
 
                 self.page_sessionHelper = SessionHelper(header_fun=HeadersHelper.jounal_headers_page,
@@ -423,7 +439,7 @@ class SpiderManagerForJournal(object):
                 self.ajax_sessionHelper = SessionHelper(header_fun=HeadersHelper.jounal_headers_ajax, try_proxy=False,
                                                    cookies=self.journal_cookies['main'])
 
-                self.journal_user_name = user_name
+                self.kw_name = '<span style="color:green">'+user_name+'</span>'
                 logger.log(user=self.TYPE, tag='INFO', info='auto_update_session success!', screen=True)
                 break
             except Exception as e:
@@ -494,12 +510,12 @@ class SpiderManagerForJournal(object):
     def resume(self, idsP=True, contentP=True):
         error_ = []
         if idsP:
-            if self.idsP_status.value != 2:
+            if self.idsP_status.value != 2 and self.idsP_status.value != 6:
                 error_.append(Exception('IDS process status is invalided'))
             else:
                 self.idsP_status.value = 1
         if contentP:
-            if self.contentP_status.value != 2:
+            if self.contentP_status.value != 2 and self.contentP_status.value != 6:
                 error_.append(Exception('Content process status is invalided'))
             else:
                 self.contentP_status.value = 1
@@ -546,6 +562,17 @@ class SpiderManagerForJournal(object):
             error_.append(e)
         return error_
 
+    def __getattribute__(self,name):
+        if name == 'kw_name':
+            return object.__getattribute__(self, name).value
+        else:
+            return object.__getattribute__(self, name)
+
+    def __setattr__(self, key, value):
+        if key == 'kw_name':
+            object.__getattribute__(self, key).value = value
+        else:
+            object.__setattr__(self,key,value)
 
 if __name__ == '__main__':
     raw_cookies = '_uab_collina=155445267527536182817685; _umdata=GD8F42202B2EB11BCD37277697328EF9B09FBF7; ASP.NET_SessionId=wkadmyadz3ckvsmlhvieayth; Hm_lvt_0dae59e1f85da1153b28fb5a2671647f=1557330157,1557330220,1557330323,1557552986; __AntiXsrfToken=b72b2d5031cb48c8b0989e9c17efb202; Hm_lpvt_0dae59e1f85da1153b28fb5a2671647f=1557586795'
