@@ -75,7 +75,7 @@ def parse_raw_cookies(raw_cookies):
 
 # 检查用户输入的cookie是否有效，有效的话返回登录的用户名
 def check_cookies_valid(sessionHelper):
-    rsp= sessionHelper.get('http://www.fenqubiao.com/Core/CategoryList.aspx')
+    rsp= sessionHelper.get('https://www.fenqubiao.com/Core/CategoryList.aspx')
     if rsp.status_code == 200:
         r = re.search(r'<li><a href="../Core/ToDefault.ashx[\s\S]*?>([\S]+)[\s\S]+?</li>',rsp.text)
         if r:

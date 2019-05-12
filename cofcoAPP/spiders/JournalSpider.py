@@ -51,7 +51,7 @@ class _journalIDWorker(Process):
             self.data = {}
 
         def _init_data(self):
-            rsp = self.manager.page_sessionHelper.get('http://www.fenqubiao.com/Core/CategoryList.aspx')
+            rsp = self.manager.page_sessionHelper.get('https://www.fenqubiao.com/Core/CategoryList.aspx')
             re_result = re.findall(r'input type="hidden"\s+name="(\S+?)"[\s\S]*?value="([\s\S]*?)"', rsp.text)
             for ele in re_result:
                 self.data[ele[0]] = ele[1]
@@ -148,7 +148,7 @@ class _journalIDWorker(Process):
                             self.data['__EVENTARGUMENT'] = real_curr
                             self.data['ctl00$ContentPlaceHolder1$dplCategory'] = cls_name
 
-                            rsp = self.manager.ajax_sessionHelper.post('http://www.fenqubiao.com/Core/CategoryList.aspx',data=self.data)
+                            rsp = self.manager.ajax_sessionHelper.post('https://www.fenqubiao.com/Core/CategoryList.aspx',data=self.data)
                             if rsp.status_code != 200:
                                 raise Exception('Connection Failed!')
                             rsp_text = rsp.text
@@ -282,7 +282,7 @@ class _journalContendWorker(Process):
                     if (retry_times >= spiders.content_max_retry_times):
                         raise Exception('%s: retry_times>=%d! This id is labeled as FAILED!'%(id_n, spiders.content_max_retry_times))
 
-                    rsp = self.manager.page_sessionHelper.get('http://www.fenqubiao.com/Core/'+target_link)
+                    rsp = self.manager.page_sessionHelper.get('https://www.fenqubiao.com/Core/'+target_link)
 
                     if rsp.status_code != 200:
                         raise Exception('Connection Failed!')

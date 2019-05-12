@@ -93,7 +93,7 @@ HEADER = {
     "Upgrade-Insecure-Requests": "1",
     "Cache-Control": "no-cache",
     "Pragma": "max-age=0",
-    'Referer': 'http://www.ncbi.nlm.nih.gov',
+    'Referer': 'https://www.ncbi.nlm.nih.gov',
     "Host": "www.ncbi.nlm.nih.gov"
 }
 
@@ -116,9 +116,9 @@ HEADER_JOURNAL_AJAX = {
     'Connection': 'keep-alive',
     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
     'Host': 'www.fenqubiao.com',
-    'Origin': 'http://www.fenqubiao.com',
+    'Origin': 'https://www.fenqubiao.com',
     'Pragma':'no-cache',
-    'Referer': 'http://www.fenqubiao.com/Core/CategoryList.aspx',
+    'Referer': 'https://www.fenqubiao.com/Core/CategoryList.aspx',
     'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
     'Upgrade-Insecure-Requests':'1',
     'X-MicrosoftAjax': 'Delta=true',
@@ -135,7 +135,7 @@ HEADER_JOURNAL_PAGE_GET = {
     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
     'Host': 'www.fenqubiao.com',
     'Pragma':'no-cache',
-    'Referer': 'http://www.fenqubiao.com/Default.aspx',
+    'Referer': 'https://www.fenqubiao.com/Default.aspx',
     'Upgrade-Insecure-Requests': '1',
     'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
 }
