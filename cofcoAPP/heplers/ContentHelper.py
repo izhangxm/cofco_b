@@ -157,7 +157,7 @@ def format_pubmed_xml(xml_str):
     content_model = Content()
     root = ET.fromstring(xml_str)
 
-    content = ['ELocationID', 'PMID', 'AbstractText', 'ArticleTitle','Title', 'ForeName', 'LastName', 'Year','Month','Day', 'Keyword', 'Country',
+    content = ['ELocationID', 'PMID', 'AbstractText', 'ArticleTitle','Title', 'Initials', 'LastName', 'Year','Month','Day', 'Keyword', 'Country',
                'Author','time','ISSNLinking']
     value = []
     for list_ in content:
@@ -172,11 +172,11 @@ def format_pubmed_xml(xml_str):
         value.append(keywords[:-1])
 
     list_ = dict(map(lambda x, y: [x, y], content, value))
-    a = list_['ForeName'].split(';')
+    a = list_['Initials'].split(';')
     b = list_['LastName'].split(';')
     author = ''
     for p in range(len(a)):
-        author += a[p] + ' ' + b[p] + ';'
+        author += b[p] + ' ' + a[p] + ';'
     list_['Author'] = author[:-1]
     list_['time']=list_['Year']+list_['Month']+list_['Day']
 
