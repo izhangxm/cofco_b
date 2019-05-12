@@ -47,7 +47,6 @@ class Content(models.Model):
     abstract = models.TextField()
     keyword = models.TextField()
     institue = models.TextField()
-    irank = models.TextField()
     country = models.TextField()
     creater = models.TextField()
     tabstract = models.TextField(null=True)

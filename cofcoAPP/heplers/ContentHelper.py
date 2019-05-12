@@ -139,7 +139,7 @@ def format_scicent_details(detail_str):
         content_model.issue = issue
 
     # 处理issn
-    r = re.search(r'issn-primary-formatted":"([\s\S]*?)"',detail_str)
+    r = re.search(r'issn-primary-formatted":"([\s\S]*?)"', detail_str)
     if r:
         content_model.issnl = r.group(1)
 
@@ -176,7 +176,7 @@ def format_pubmed_xml(xml_str):
     b = list_['LastName'].split(';')
     author = ''
     for p in range(len(a)):
-        author += a[p] + b[p] + ','
+        author += a[p] + ' ' + b[p] + ';'
     list_['Author'] = author[:-1]
     list_['time']=list_['Year']+list_['Month']+list_['Day']
 
@@ -204,6 +204,11 @@ def format_pubmed_xml(xml_str):
     r = re.search(r'ISSN IssnType="Print">([\s\S]*?)</ISSN>', xml_str)
     content_model.issnp = r.group(1) if r else ''
 
+    r = re.findall(r'<Affiliation>([\s\S]*?)</Affiliation>', xml_str)
+    institue = ''
+    for ins in r:
+        institue += ins+';'
+    content_model.institue = institue
     content_model.keyword = list_['Keyword']
     content_model.title = list_['ArticleTitle']
     content_model.journal = list_['Title']
