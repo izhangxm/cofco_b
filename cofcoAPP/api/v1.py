@@ -102,14 +102,20 @@ def controlSpider(request):
                 if not raw_cookies:
                     raise Exception('raw_cookies is required')
 
-                sfp = SpiderManagerForJournal(kw_id=spiders.journal_kw_id,
-                                              ids_thread_num=ids_thread_num,
-                                              content_process_num=content_process_num,
-                                              content_thread_num=content_thread_num,
-                                              create_user_id=uid,
-                                              create_user_name=uname)
-                sfp.update_cookies(heplers.parse_raw_cookies(raw_cookies))
-                sfp.start()
+                try:
+                    sfp = SpiderManagerForJournal(kw_id=spiders.journal_kw_id,
+                                                  ids_thread_num=ids_thread_num,
+                                                  content_process_num=content_process_num,
+                                                  content_thread_num=content_thread_num,
+                                                  create_user_id=uid,
+                                                  create_user_name=uname)
+                    sfp.update_cookies(heplers.parse_raw_cookies(raw_cookies))
+                    sfp.start()
+                except Exception as e:
+                    spider_m = SPIDERS_STATUS.get(spiders.journal_kw_id)
+                    if spider_m:
+                        SPIDERS_STATUS.pop(spiders.journal_kw_id, None)
+                    raise e
             else:
                 raise Exception('Unknown spider type. It must be 1 or 2.')
 
