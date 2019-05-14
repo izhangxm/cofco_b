@@ -227,9 +227,8 @@ def is_need_update(art_id):
 # 保存或更新
 def content_save(content_model):
     content_model.ctime = int(time.time())
-    content_model.journal_zone = 0
-    content_model.impact_factor = 0
-
+    content_model.impact_factor = ''
+    content_model.journal_zone = ''
     # 寻找最可能的结果
     result = None
     try:
