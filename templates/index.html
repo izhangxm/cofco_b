@@ -276,6 +276,39 @@
         })
     });
 
+    $(function () {
+        var ws = new WebSocket('ws://127.0.0.1:9001/viewlog/');
+        ws.onerror = function (e) {
+            console.log(e);
+        };
+        ws.onmessage = function(event) {
+            console.log(event.data)
+        };
+        ws.onopen = function (e) {
+            console.log("connection opened!");
+            console.log(e);
+        }
+        ws.onclose = function (e) {
+            console.log("connection closed!");
+            //关闭连接
+            console.log('websocket 断开: ' + e.code + ' ' + e.reason + ' ' + e.wasClean);
+            console.log(e);
+            ws.close();
+        };
+
+        var x = 0
+
+        function send() {
+            x +=1
+            ws.send(x)
+
+        }
+
+        {#setInterval(send,1000);#}
+
+
+    });
+
 </script>
 </body>
 </html>

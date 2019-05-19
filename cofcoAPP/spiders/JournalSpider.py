@@ -29,7 +29,7 @@ from cofcoAPP.heplers import HeadersHelper
 from cofcoAPP.heplers import getFTime
 from cofcoAPP.models import Journal
 from cofcoAPP import spiders
-
+import asyncio
 # 任务生成爬虫
 class _journalIDWorker(Process):
     def __init__(self, kw_id, name=None, thread_num=4):
@@ -65,6 +65,7 @@ class _journalIDWorker(Process):
             self.data['__ASYNCPOST'] = 'true'
 
         def run(self):
+            asyncio.set_event_loop(asyncio.new_event_loop())
             self.manager.auto_update_session()
             self._init_data()
 
@@ -210,6 +211,7 @@ class _journalIDWorker(Process):
                 time.sleep(1.0 * random.randrange(1, 1000) / 1000)  # 休息一下
 
     def run(self):
+        asyncio.set_event_loop(asyncio.new_event_loop())
         # 获取类别列表
         cls_names = ['地学','地学天文','工程技术','管理科学','化学','环境科学与生态学','农林科学','社会科学','生物','数学','物理','医学','综合性期刊']
         # cls_names = ['工程技术']
@@ -250,6 +252,7 @@ class _journalContendWorker(Process):
                 self.ids_queen = self.manager.ids_queen
 
         def run(self):
+            asyncio.set_event_loop(asyncio.new_event_loop())
             self.manager.auto_update_session()
             while True:
                 # 检查是否被暂停
@@ -340,6 +343,7 @@ class _journalContendWorker(Process):
                         # logger.log(user=self.name, tag='INFO', info='Waiting...', screen=True)
                     time.sleep(1.0 * random.randrange(1, 1000) / 1000)  # 休息一下
     def run(self):
+        asyncio.set_event_loop(asyncio.new_event_loop())
         for i in range(self.thread_num):
             name = "%s %s-%02d" % (self.name, 'THREAD', i + 1)
             dt = self._worker(kw_id=self.kw_id, name=name)

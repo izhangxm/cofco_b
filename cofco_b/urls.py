@@ -14,6 +14,9 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.conf.urls import url
+from django.urls import path
+from channels.auth import AuthMiddlewareStack
+from channels.routing import ProtocolTypeRouter, URLRouter
 from cofcoAPP import views
 from cofcoAPP.api import v1
 
@@ -23,3 +26,13 @@ urlpatterns = [
     url(r'^api/v1/controlspider/$', v1.controlSpider),
     url(r'^api/v1/updatecookies/$', v1.update_cookies),
 ]
+
+websocket_urlpatterns = [ # 路由，指定 websocket 链接对应的 consumer
+    path('api/v1/viewlog/', v1.LogConsumer),
+]
+
+application = ProtocolTypeRouter({
+    'websocket': AuthMiddlewareStack(
+        URLRouter(websocket_urlpatterns )
+    ),
+})

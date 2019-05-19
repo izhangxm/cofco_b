@@ -15,11 +15,16 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-from datetime import datetime
 import os
 import re
 import json
-
+from datetime import datetime
+from asgiref.sync import async_to_sync
+from cofcoAPP import spiders
+from channels.layers import get_channel_layer
+from sys import stdout
+from asgiref.sync import AsyncToSync
+import asyncio
 # 获得标准时间
 def getFTime():
     return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -32,6 +37,7 @@ class Logger(object):
         if not os.path.exists(os.path.dirname(file_path)):
             os.makedirs(os.path.dirname(file_path))
         self.fp = open(file_path, 'a+',encoding='utf-8')
+        self.channel_layer = get_channel_layer()
 
     def log(self, tag, user, info, screen=False):
         '''
@@ -45,8 +51,8 @@ class Logger(object):
         try:
             self.fp_locker.acquire()
             self.fp.write(output_str + '\n')
-            self.fp.flush()
         finally:
+            self.fp.flush()
             self.fp_locker.release()
 
         if screen:
@@ -55,8 +61,12 @@ class Logger(object):
                 output_str = "\033[0;31m%s %s %s %s\033[0m" % (getFTime(), tag, user, info)
                 if tag == 'INFO':
                     output_str = '\033[0;32m%s %s %s %s\033[0m'% (getFTime(), tag, user, info)
+                loop = asyncio.get_event_loop()
+                coroutine = get_channel_layer().group_send(spiders.group_name, {'type': 'log_message', 'message': output_str})
+                loop.run_until_complete(coroutine)
                 print(output_str)
             finally:
+                stdout.flush()
                 self.screen_locker.release()
 
 def parse_raw_cookies(raw_cookies):

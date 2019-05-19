@@ -32,6 +32,8 @@ from cofcoAPP.heplers import ContentHelper, HeadersHelper
 from cofcoAPP.heplers import getFTime
 from cofcoAPP import spiders
 from cofcoAPP.models import SpiderKeyWord,Content
+import asyncio
+
 
 # 任务生成爬虫
 class _scienceIDWorker(Process):
@@ -103,6 +105,7 @@ class _scienceIDWorker(Process):
             return -1
 
         def run(self):
+            asyncio.set_event_loop(asyncio.new_event_loop())
             if not self.ids_sessionHelper:
                 self.ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
             while True:
@@ -169,6 +172,7 @@ class _scienceIDWorker(Process):
                     self.ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
 
     def run(self):
+        asyncio.set_event_loop(asyncio.new_event_loop())
         # 获取页码
         page_worker = self._worker(self.kw_id, name="%s %s" % (self.name, 'PAGE_THREAD'), page_size=self.page_size)
         page_Num = page_worker._get_page_Num()
@@ -278,7 +282,7 @@ class _scienceContendWorker(Process):
             raise Exception('Get %s raw content failed!' % (article_id))
 
         def run(self):
-
+            asyncio.set_event_loop(asyncio.new_event_loop())
             while True:
                 # 检查是否被暂停
                 if self.manager.contentP_status.value == 2:  # 任务被暂停
@@ -365,6 +369,7 @@ class _scienceContendWorker(Process):
                         # logger.log(user=self.name, tag='INFO', info='Waiting...', screen=True)
                     time.sleep(1.0 * random.randrange(1, 1000) / 1000)  # 休息一下
     def run(self):
+        asyncio.set_event_loop(asyncio.new_event_loop())
         for i in range(self.thread_num):
             name = "%s %s-%02d" % (self.name, 'THREAD', i + 1)
             dt = self._worker(kw_id=self.kw_id, name=name)

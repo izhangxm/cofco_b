@@ -31,11 +31,10 @@ from cofcoAPP.heplers.SessionHelper import SessionHelper
 from cofcoAPP.heplers import ContentHelper, HeadersHelper
 from cofcoAPP.heplers import getFTime
 from cofcoAPP import spiders
-import traceback
 import json
 from cofcoAPP.models import SpiderKeyWord, Content
 from urllib.parse import unquote
-
+import asyncio
 
 # 任务生成爬虫
 class _pubmedIDWorker(Process):
@@ -261,6 +260,7 @@ class _pubmedIDWorker(Process):
             return -1, None
 
         def run(self):
+            asyncio.set_event_loop(asyncio.new_event_loop())
             if not self.ids_sessionHelper:
                 self._updateSpiderInfo()  # 更换Helper
 
@@ -322,6 +322,7 @@ class _pubmedIDWorker(Process):
                     self._updateSpiderInfo()  # 更换Helper
 
     def run(self):
+        asyncio.set_event_loop(asyncio.new_event_loop())
         ids_sessionHelper = None
         for i in range(10):
             try:
@@ -411,6 +412,7 @@ class _pubmedContendWorker(Process):
             raise Exception('Get raw content failed!')
 
         def run(self):
+            asyncio.set_event_loop(asyncio.new_event_loop())
             while True:
                 # 检查是否被暂停
                 if self.manager.contentP_status.value == 2:  # 任务被暂停
@@ -490,6 +492,7 @@ class _pubmedContendWorker(Process):
                     time.sleep(1.0 * random.randrange(1, 1000) / 1000)  # 休息一下
 
     def run(self):
+        asyncio.set_event_loop(asyncio.new_event_loop())
         for i in range(self.thread_num):
             name = "%s %s-%02d" % (self.name, 'THREAD', i + 1)
             dt = self._worker(kw_id=self.kw_id, name=name)
@@ -512,7 +515,6 @@ class SpiderManagerForPubmed(object):
             self.kw_name = kw_json['name']
         except Exception as e:
             raise Exception('查询关键词名字失败'+str(e))
-
         self.TYPE = 'PUBMED_SPIDER'
         self.id_process = None  # ID进程对象
         self.content_process = []  # Content进程对象

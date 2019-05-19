@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'corsheaders',  # 解决跨域上传失败问题
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'cofcoAPP'
+    'cofcoAPP',
+    'channels',
 ]
 
 MIDDLEWARE = [
@@ -81,13 +82,22 @@ WSGI_APPLICATION = 'cofco_b.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'cofco_f',
+        'NAME': 'cofco_v2',
         'USER': 'root',
         'CONN_MAX_AGE': 3600,
         'PASSWORD': 'root',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     }
+}
+ASGI_APPLICATION = 'cofco_b.routing.application'
+CHANNEL_LAYERS = {
+    "default": {
+        'BACKEND': 'channels_redis.core.RedisChannelLayer',
+        "CONFIG": {
+            "hosts": [('127.0.0.1', 6379)],
+        },
+    },
 }
 
 # Password validation
@@ -129,7 +139,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, "static/"), ]
 STATIC_ROOT = os.path.join(BASE_DIR, "/static/")
-
 
 # 启动自动配置
 # from cofcoAPP.heplers.ConfigHelper import AutoUpdateConfig
