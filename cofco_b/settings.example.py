@@ -23,7 +23,7 @@ PROJECT_NAME = os.path.split(BASE_DIR)[-1]
 SECRET_KEY = 'm3(5ruwp+7tm9%6)p#8#_#img&$ctqpzk!u&2-r7nd^db9r-a1'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -73,9 +73,6 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'cofco_b.wsgi.application'
-
-
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
@@ -83,14 +80,14 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cofco_v2',
-        'USER': 'root',
+        'USER': 'cofco',
         'CONN_MAX_AGE': 3600,
-        'PASSWORD': 'root',
+        'PASSWORD': 'cofco',
         'HOST': '127.0.0.1',
-        'PORT': '3306',
+        'PORT': '3307',
     }
 }
-ASGI_APPLICATION = 'cofco_b.routing.application'
+ASGI_APPLICATION = 'cofco_b.urls.application'
 CHANNEL_LAYERS = {
     "default": {
         'BACKEND': 'channels_redis.core.RedisChannelLayer',
