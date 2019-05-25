@@ -28,7 +28,7 @@ SCREEN_PRINT_LOCK = Lock() # 屏幕输出锁
 LOG_FILE_LOCK = Lock()  # 日志写入锁
 logfile = os.path.join(settings.BASE_DIR,'cofcoAPP','logs','spiderlog.txt')
 
-logger = Logger(fp_locker=LOG_FILE_LOCK, file_path=logfile,screen_locker=SCREEN_PRINT_LOCK)
+logger = Logger(fp_locker=LOG_FILE_LOCK, file_path=logfile, screen_locker=SCREEN_PRINT_LOCK)
 # 定义状态名称
 STATUS_NAME = {-2:'失败', -1: '未初始化', 0: '未运行', 1: '运行中', 2: '已暂停', 3:'已完成', 4:'已终止', 5:'混合状态',6:'等待更新cookie'}
 

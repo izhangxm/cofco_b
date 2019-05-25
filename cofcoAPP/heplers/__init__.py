@@ -19,11 +19,8 @@ import os
 import re
 import json
 from datetime import datetime
-from asgiref.sync import async_to_sync
-from cofcoAPP import spiders
 from channels.layers import get_channel_layer
 from sys import stdout
-from asgiref.sync import AsyncToSync
 import asyncio
 # 获得标准时间
 def getFTime():
@@ -62,7 +59,7 @@ class Logger(object):
                 if tag == 'INFO':
                     output_str = '\033[0;32m%s %s %s %s\033[0m'% (getFTime(), tag, user, info)
                 loop = asyncio.get_event_loop()
-                coroutine = get_channel_layer().group_send(spiders.group_name, {'type': 'log_message', 'message': output_str})
+                coroutine = get_channel_layer().group_send('group_view_spider_log', {'type': 'log_message', 'message': output_str})
                 loop.run_until_complete(coroutine)
                 print(output_str)
             finally:

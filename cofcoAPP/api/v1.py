@@ -26,6 +26,8 @@ from cofcoAPP.heplers import StatusHelper
 from cofcoAPP import heplers
 from channels.generic.websocket import AsyncWebsocketConsumer
 from cofcoAPP import spiders
+from collections import deque
+from cofcoAPP.spiders import logfile
 
 #获取进程运行状态，返回值为json
 def getThreadStatus(request):
@@ -175,6 +177,24 @@ class LogConsumer(AsyncWebsocketConsumer):
 
         await self.accept()
         spiders.connected.value = True
+        logFile = open(logfile, 'r', encoding='utf-8')
+        output = deque(logFile, 128)
+        list1 = list(output)
+        for item in list1:
+            item = item.replace('\n', '')
+            type_ = item.split(' ')[2]
+            output_str = "\033[0;31m%s\033[0m" % (item)
+            if type_ == 'INFO':
+                output_str = '\033[0;32m%s\033[0m' % (item)
+            # Send message to room group
+            await self.channel_layer.group_send(
+                self.room_group_name,
+                {
+                    'type': 'log_message',
+                    'message': output_str
+                }
+            )
+        logFile.close()
 
     async def disconnect(self, close_code):
         # Leave room group

@@ -215,14 +215,10 @@ def format_pubmed_xml(xml_str):
     return content_model
 
 def is_in_black_list(art_id):
-    #TODO 判断是否在黑名单
+    ori_content = Content.objects.filter(art_id=art_id)
+    if (ori_content and ori_content[0].art_id == '-2'):
+        return True
     return False
-
-
-def is_need_update(art_id):
-    # 判断是否更新
-    # 原则上 1一个月内刚刚爬取的文章不应该更新
-    return True
 
 # 保存或更新
 def content_save(content_model):
@@ -253,11 +249,10 @@ def content_save(content_model):
             content_model.impact_factor = journal.impact_factor
             content_model.journal_zone = journal.journal_zone
     finally:
+        ori_content = Content.objects.filter(art_id=content_model.art_id)
+        if(ori_content):
+            content_model.__delattr__('status')
         content_model.save()
-
-def is_deleted(article_id):
-    return False
-
 
 if __name__ == '__main__':
     pass

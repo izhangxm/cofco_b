@@ -443,7 +443,7 @@ class _pubmedContendWorker(Process):
                     # =============================================================================================
                     try:
                         content_model = ContentHelper.format_pubmed_xml(details_str)
-                        content_model.status = 1
+                        content_model.status = 0
                         content_model.art_id = article_id
                         content_model.kw_id = int(self.kw_id)
                         content_model.creater = self.manager.create_user_id
@@ -477,14 +477,14 @@ class _pubmedContendWorker(Process):
                             self.ids_queen.put(task_info)
                         else:  # 该任务确认已经失败，进行一些后续操作
                             self.manager.update_failed()
-                            content_model = Content()
-                            content_model.status = -3
-                            content_model.pmid = str(task_info['id'])
-                            content_model.title = '该文章爬取失败'
-                            content_model.kw_id = int(self.kw_id)
-                            content_model.creater = self.manager.create_user_id
-                            content_model.project = self.manager.TYPE
-                            ContentHelper.content_save(content_model)
+                            # content_model = Content()
+                            # content_model.status = -3
+                            # content_model.art_id = str(task_info['id'])
+                            # content_model.title = '该文章爬取失败'
+                            # content_model.kw_id = int(self.kw_id)
+                            # content_model.creater = self.manager.create_user_id
+                            # content_model.project = self.manager.TYPE
+                            # ContentHelper.content_save(content_model)
                         logger.log(user=self.name, tag='ERROR', info=e, screen=True)
                     else:
                         pass
