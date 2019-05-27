@@ -85,12 +85,12 @@ class _scienceIDWorker(Process):
                         ids_sessionHelper = SessionHelper(header_fun=HeadersHelper.science_headers)
                     query_str = self.get_kw_query_str(self.kw_id)
                     offset = 0
-                    query_str = "%s&offset=%d&show=%d" % (query_str, offset, self.page_size)
+                    query_str = "%s&show=%d&sortBy=relevance&offset=%d" % (query_str, self.page_size, offset)
                     response = ids_sessionHelper.get('https://www.sciencedirect.com/search?' + query_str)
                     if response.status_code != 200:
                         raise Exception('Connection Failed')
                     content = response.text.encode().decode('unicode_escape')
-                    page_num_p = re.compile('<li>Page <!-- -->[\d]+<!-- -->\sof\s<!-- -->([\d]+)</li>', re.I | re.M)
+                    page_num_p = re.compile('Page\s[\d]+\sof\s(\d+)</li>', re.I | re.M)
                     r = re.search(page_num_p, content)
                     page_num = int(r.group(1)) if r else 0
                     self.manager.page_Num.value = page_num
