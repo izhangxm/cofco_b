@@ -355,6 +355,7 @@ class _scienceContendWorker(Process):
                             self.ids_queen.put(task_info)
                         else: # 该任务确认已经失败，进行一些后续操作
                             self.manager.update_failed()
+                            self.manager.failed_ids_queen.put(task_info)
                             # content_model = Content()
                             # content_model.status = -3
                             # content_model.art_id = str(task_info['id'])
@@ -400,7 +401,7 @@ class SpiderManagerForScience(object):
         self.content_thread_num = content_thread_num  # 每个Content进程的线程个数
 
         self.ids_queen = ProcessQueen(maxsize=-1)  # 待爬取的文章ID列表，是个队列
-        self.ids_queen = ProcessQueen(maxsize=-1)  # 待爬取的文章ID列表，是个队列
+        self.failed_ids_queen = ProcessQueen(maxsize=-1)  # 已失败的文章ID列表，是个队列
         self.page_Num = Value('i', -1, lock=True)  # 页数
         self.page_size = page_size  # 页面大小
         self.finished_page_Num = Value('i', 0, lock=True)  # 页数
@@ -460,18 +461,18 @@ class SpiderManagerForScience(object):
 
     def start(self):
         self.start_time = getFTime()
-        common_tag = "KWID=%03d uid=%s uname=%s" % (int(self.kw_id), self.create_user_id, self.create_user_name)
+        self.common_tag = "KWID=%03d uid=%s uname=%s" % (int(self.kw_id), self.create_user_id, self.create_user_name)
         self.status.value = 1  # 将状态置为开始
 
         # 启动获取pubmedID的进程
-        id_worker = _scienceIDWorker(kw_id=self.kw_id, name='%s SCIENCE_IDS_PROCESS-MAIN' % common_tag, thread_num=self.ids_thread_num, page_size=self.page_size)
+        id_worker = _scienceIDWorker(kw_id=self.kw_id, name='%s SCIENCE_IDS_PROCESS-MAIN' % self.common_tag, thread_num=self.ids_thread_num, page_size=self.page_size)
         id_worker.start()
         self.id_process = id_worker
         self.idsP_status.value =1
 
         # 启动获取 content 的进程
         for i in range(self.content_process_num):
-            name = '%s SCIENCE_CONTEND_PROCESS-%02d' % (common_tag, int(i + 1))
+            name = '%s SCIENCE_CONTEND_PROCESS-%02d' % (self.common_tag, int(i + 1))
             content_worker = _scienceContendWorker(kw_id=self.kw_id, name=name)
             content_worker.start()
             self.content_process.append(content_worker)
@@ -546,6 +547,30 @@ class SpiderManagerForScience(object):
         except Exception as e:
             error_.append(e)
         return error_
+
+    def retry(self):
+        try:
+            for i in range(self.failed_num.value):
+                task_info = self.failed_ids_queen.get(timeout=1)
+                task_info['retry_times'] = 0
+                self.ids_queen.put(task_info)
+            self.failed_num.value = 0
+
+            # step1: 先结束content 的进程
+            for c_process in self.content_process:
+                c_process.terminate()
+            self.content_process = []
+
+            # step2: 启动获取 content 的进程
+            for i in range(self.content_process_num):
+                name = '%s SCIENCE_CONTEND_PROCESS-%02d' % (self.common_tag, int(i + 1))
+                content_worker = _scienceContendWorker(kw_id=self.kw_id, name=name)
+                content_worker.start()
+                self.content_process.append(content_worker)
+            self.contentP_status.value = 1
+
+        except Exception as e:
+            raise e
 
 
 if __name__ == '__main__':

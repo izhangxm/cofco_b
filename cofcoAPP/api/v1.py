@@ -65,7 +65,7 @@ def controlSpider(request):
         kw_id = request.POST.get('kw_id')
         spider_m = SPIDERS_STATUS.get(kw_id)
         if not spider_m and action != 'new':
-            raise Exception('kw_id is invalided')
+            raise Exception('kw_id is invalided or process is not found')
         idsP = bool(int(request.POST.get('idsP',True)))
         contentP = bool(int(request.POST.get('contentP',True)))
 
@@ -135,6 +135,9 @@ def controlSpider(request):
         elif action == 'del':
             error_ = spider_m.delete()
             resp_data['info'] = 'del successful'
+        elif action == 'retry':
+            spider_m.retry()
+
         else:
             raise Exception('unknown action')
         # for err in error_:
@@ -178,7 +181,7 @@ class LogConsumer(AsyncWebsocketConsumer):
         await self.accept()
         spiders.connected.value = True
         logFile = open(logfile, 'r', encoding='utf-8')
-        output = deque(logFile, 128)
+        output = deque(logFile, 32)
         list1 = list(output)
         for item in list1:
             item = item.replace('\n', '')
@@ -195,6 +198,7 @@ class LogConsumer(AsyncWebsocketConsumer):
                 }
             )
         logFile.close()
+        await self.channel_layer.group_send( self.room_group_name, { 'type': 'log_message', 'message': "以上为历史消息....\n" })
 
     async def disconnect(self, close_code):
         # Leave room group
