@@ -25,19 +25,19 @@ import time
 import random
 import os
 from requests.exceptions import ConnectionError, ProxyError
-
 from cofco_b.settings import BASE_DIR
 from cofcoAPP.spiders import SPIDERS_STATUS, logger
 from cofcoAPP.heplers.SessionHelper import SessionHelper
 from cofcoAPP.heplers import ContentHelper, HeadersHelper
 from cofcoAPP.heplers import getFTime
+from cofcoAPP import heplers
 from cofcoAPP import spiders
 import json
 from cofcoAPP.models import SpiderKeyWord, Content
 from urllib.parse import unquote
 import asyncio
 from cofcoAPP.models import get_json_model
-
+from cofcoAPP.spiders import special_kw
 
 # 任务生成爬虫
 class _pubmedIDWorker(Process):
@@ -365,17 +365,19 @@ class _pubmedIDWorker(Process):
 
 # 根据pubmed_id爬取文章内容，每个进程有好几个线程
 class _pubmedContendWorker(Process):
-    def __init__(self, kw_id, name=None, thread_num=8):
+    def __init__(self, kw_id, name=None, project=None, thread_num=8):
         Process.__init__(self)
         self.kw_id = kw_id
         self.name = name
+        self.project = project
         self.thread_num = thread_num
         self.threads = []
 
     class _worker(threading.Thread):
-        def __init__(self, kw_id, name=None):
+        def __init__(self, kw_id, name=None, project=None):
             threading.Thread.__init__(self)
             self.name = name
+            self.project = project
             self.kw_id = kw_id
             if kw_id:
                 self.manager = SPIDERS_STATUS[kw_id]
@@ -459,7 +461,7 @@ class _pubmedContendWorker(Process):
                         content_model.art_id = article_id
                         content_model.kw_id = int(self.kw_id)
                         content_model.creater = self.manager.create_user_id
-                        content_model.project = self.manager.TYPE
+                        content_model.project = self.project if self.project else self.manager.TYPE
                         ContentHelper.content_save(content_model)
                     except Exception as e:
                         txt_path = os.path.join(BASE_DIR,'test/failed_pub',article_id+'.xml')
@@ -508,7 +510,7 @@ class _pubmedContendWorker(Process):
         asyncio.set_event_loop(asyncio.new_event_loop())
         for i in range(self.thread_num):
             name = "%s %s-%02d" % (self.name, 'THREAD', i + 1)
-            dt = self._worker(kw_id=self.kw_id, name=name)
+            dt = self._worker(kw_id=self.kw_id, name=name,project=self.project)
             dt.start()
             self.threads.append(dt)
         # 合并到父进程
@@ -518,14 +520,17 @@ class _pubmedContendWorker(Process):
 
 # 爬虫对象
 class SpiderManagerForPubmed(object):
-    def __init__(self, ids_thread_num=4, content_process_num=2, content_thread_num=8,page_size=spiders.default_pubmed_pagesize, **kwargs):
+    def __init__(self, ids_thread_num=4, project=None, content_process_num=2, content_thread_num=8,page_size=spiders.default_pubmed_pagesize, **kwargs):
         # 爬虫的状态信息
         self.kw_id = kwargs['kw_id']
-        if SPIDERS_STATUS.get(self.kw_id):
+        if SPIDERS_STATUS.get(self.kw_id) and (not self.kw_id in special_kw):
             raise Exception('current kw has been existed')
         try:
-            kw_json = SpiderKeyWord.objects.filter(id=self.kw_id).values()[0]
-            self.kw_name = kw_json['name']
+            if not self.kw_id in special_kw:
+                kw_json = SpiderKeyWord.objects.filter(id=self.kw_id).values()[0]
+                self.kw_name = kw_json['name']
+            else:
+                self.kw_name = special_kw.get(self.kw_id)
         except Exception as e:
             raise Exception('查询关键词名字失败'+str(e))
         self.TYPE = 'PUBMED_SPIDER'
@@ -561,6 +566,9 @@ class SpiderManagerForPubmed(object):
         self.create_user_name = kwargs['create_user_name']  # 创建人名称
         self.create_time = getFTime()  # 爬虫创建时间
         self.start_time = None  # 爬虫启动时间
+        self.project = project  # 是否固定project
+
+        self.common_tag = "KWID=%03d uid=%s uname=%s" % (int(self.kw_id), self.create_user_id, self.create_user_name)
 
         SPIDERS_STATUS[self.kw_id] = self
 
@@ -593,7 +601,6 @@ class SpiderManagerForPubmed(object):
 
     def start(self):
         self.start_time = getFTime()
-        self.common_tag = "KWID=%03d uid=%s uname=%s" % (int(self.kw_id), self.create_user_id, self.create_user_name)
         self.status.value = 1  # 将状态置为开始
 
         # 启动获取pubmedID的进程
@@ -607,6 +614,34 @@ class SpiderManagerForPubmed(object):
         for i in range(self.content_process_num):
             name = '%s PUBMED_CONTEND_PROCESS-%02d' % (self.common_tag, int(i + 1))
             content_worker = _pubmedContendWorker(kw_id=self.kw_id, name=name)
+            content_worker.start()
+            self.content_process.append(content_worker)
+        self.contentP_status.value = 1
+
+    def add_task(self, valid_urls):
+        for url in valid_urls:
+            if heplers.url_type(url) != 'pubmed':
+                continue
+            art_id = url.split('/')[-1]
+            self.ids_queen.put({'id': art_id, 'retry_times': 0})
+            self.update_ids_qsize(1)
+        self.page_Num.value = 0
+        self.idsP_status.value = 3
+
+    # 启动该类型的辅助输入进程
+    def start_assist(self):
+        if self.contentP_status.value == 1:
+            return
+        self.start_time = getFTime()
+        # step1: 先结束content 的进程
+        for c_process in self.content_process:
+            c_process.terminate()
+        self.content_process = []
+
+        # step2: 启动获取 content 的进程
+        for i in range(self.content_process_num):
+            name = '%s PUBMED_ASSIST_CONTEND_PROCESS-%02d' % (self.common_tag, int(i + 1))
+            content_worker = _pubmedContendWorker(kw_id=self.kw_id, name=name,project=self.project)
             content_worker.start()
             self.content_process.append(content_worker)
         self.contentP_status.value = 1
@@ -711,6 +746,7 @@ if __name__ == '__main__':
     # print(sfp)
     # sfp.start()
     # print('start successful')
+
     worker = _pubmedContendWorker._worker(kw_id=None)
     xml_str = worker.get_raw_content('31038666')
     content_model = ContentHelper.format_pubmed_xml(xml_str=xml_str)

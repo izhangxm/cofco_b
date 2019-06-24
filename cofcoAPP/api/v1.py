@@ -28,6 +28,7 @@ from cofcoAPP import spiders
 from collections import deque
 from cofcoAPP.spiders import logfile
 from cofcoAPP.models import get_json_model
+from cofcoAPP.spiders import special_kw
 
 #获取进程运行状态，返回值为json
 def getThreadStatus(request):
@@ -168,16 +169,19 @@ def update_cookies(request):
         resp_data['info'] = 'Failed: ' + str(e)
     return JsonResponse(resp_data)
 
-
 def assist(request):
     resp_data = {'status': 1, "code": '0', "info": "ok"}
     try:
         urls = request.POST.get('urls', None)
+        utype = request.POST.get('utype', 'multi') # 多个模式还是单个模式
         if urls is None:
             raise Exception('urls is None')
-        urls = urls.replace(' ', '').split('\n')
-        if len(urls) == 1:
-            url_type = heplers.url_type(urls[0])
+        valid_urls, pubmed_urls, science_urls, invalided_urls = heplers.get_valid_urls(urls)
+
+        if len(valid_urls) == 0:
+            raise Exception('No valid urls are found!')
+        if len(valid_urls) == 1 and utype == 'single':
+            url_type = heplers.url_type(valid_urls[0])
             if url_type == 'pubmed':
                 worker = _pubmedContendWorker._worker(kw_id=None)
             elif url_type == 'sciencedirect':
@@ -186,17 +190,49 @@ def assist(request):
                 raise Exception('Invalided url. Please read the tips on this page!')
             data_dict = worker.get_dict_data_from_link(urls[0])
             resp_data['data'] = data_dict
+            resp_data['info'] = 'ok'
         else:
-            pubmed_urls = []
-            science_urls = []
-            for url in urls:
-                url_type = heplers.url_type(url)
-                if url_type == 'pubmed':
-                    pubmed_urls.append(url)
-                elif url_type == 'sciencedirect':
-                    science_urls.append(url)
+            uid = request.POST.get('uid')
+            uname = request.POST.get('uname')
+            ids_thread_num = int(request.POST.get('ids_thread_num', spiders.default_ids_thread_num))
+            content_process_num = int(request.POST.get('content_process_num', spiders.default_content_process_num))
+            content_thread_num = int(request.POST.get('content_thread_num', spiders.default_content_thread_num))
+            if not uid or not uname:
+                raise Exception('uid and uname is required')
 
-        resp_data['info'] = 'ok'
+            # 新建或增加任务到现有辅助输入爬虫任务进程
+            spider_m_pubmed = SPIDERS_STATUS.get('-1992')
+            spider_m_science = SPIDERS_STATUS.get('-1991')
+
+            if len(pubmed_urls) > 0:
+                if spider_m_pubmed:
+                    spider_m_pubmed.add_task(pubmed_urls)
+                    spider_m_pubmed.start_assist()
+                else:
+                    spider_m_pubmed = SpiderManagerForPubmed(kw_id='-1992',
+                                                             project='ASSIST',
+                                                 ids_thread_num=ids_thread_num,
+                                                 content_process_num=content_process_num,
+                                                 content_thread_num=content_thread_num,
+                                                 create_user_id=uid,
+                                                 create_user_name=uname)
+                    spider_m_pubmed.add_task(pubmed_urls)
+                    spider_m_pubmed.start_assist()
+            elif len(science_urls) > 0:
+                if spider_m_science:
+                    spider_m_science.add_task(pubmed_urls)
+                    spider_m_science.start_assist()
+                else:
+                    spider_m_science = SpiderManagerForScience(kw_id='-1991',
+                                                               project='ASSIST',
+                                                 ids_thread_num=ids_thread_num,
+                                                 content_process_num=content_process_num,
+                                                 content_thread_num=content_thread_num,
+                                                 create_user_id=uid,
+                                                 create_user_name=uname)
+                    spider_m_science.add_task(pubmed_urls)
+                    spider_m_science.start_assist()
+            resp_data['info'] = '已添加到爬虫任务，请到爬虫任务界面查看进度'
 
     except Exception as e:
         resp_data['status'] = 0
@@ -209,30 +245,9 @@ def check_urls(request):
     resp_data = {'status': 1, "code": '0', "info": "ok"}
     try:
         urls = request.POST.get('urls', None)
-        if urls is None:
-            raise Exception('urls is None')
-        urls = urls.replace(' ', '').split('\n')
-
-        # 利用set集合对url自动去重
-        urls = set(urls)
-
-        pubmed_urls = []
-        science_urls = []
-        invalided_urls = []
-
-
-        for url in urls:
-            if len(url)==0:
-                continue
-            url_type, reason = heplers.check_url(url)
-            if reason:
-                invalided_urls.append([url, reason])
-            elif url_type == 'pubmed':
-                pubmed_urls.append(url)
-            elif url_type == 'sciencedirect':
-                science_urls.append(url)
-
-        info = 'Pubmed urls: %d<br/>' % len(pubmed_urls)
+        valid_urls, pubmed_urls, science_urls,invalided_urls = heplers.get_valid_urls(urls)
+        info = 'Valid urls: %d<br/>' % len(valid_urls)
+        info += 'Pubmed urls: %d<br/>' % len(pubmed_urls)
         info += 'ScienceDirect urls: %d<br/>' % len(science_urls)
         info += 'Invalided urls: %d<br/>' % len(invalided_urls)
         if len(invalided_urls) > 0:
@@ -242,6 +257,12 @@ def check_urls(request):
                 in_valided_url_string += '%d/%d. %s[<span style="color:red">%s</span>]<br/>' % (index+1,len(invalided_urls), inva_url[0],inva_url[1])
             info += in_valided_url_string
         resp_data['info'] = info
+        rdata = {}
+        rdata ['valid_urls_len'] = len(valid_urls)
+        rdata ['pubmed_urls_len'] = len(pubmed_urls)
+        rdata ['science_urls_len'] = len(science_urls)
+        rdata ['invalided_urls_len'] = len(invalided_urls)
+        resp_data['data'] = rdata
 
     except Exception as e:
         resp_data['status'] = 0

@@ -119,6 +119,32 @@ def check_url(url):
             reason = 'Existed'
     return type_, reason
 
+
+def get_valid_urls(urls_string):
+    if urls_string is None:
+        raise Exception('urls is None')
+    urls = urls_string.replace(' ', '').split('\n')
+    # 利用set集合对url自动去重
+    urls = set(urls)
+    pubmed_urls = []
+    science_urls = []
+    invalided_urls = []
+    valid_urls = []
+    for url in urls:
+        if len(url) == 0:
+            continue
+        if url[-1] == '/':
+            url = url[:-1]
+        url_type, reason = check_url(url)
+        if reason:
+            invalided_urls.append([url, reason])
+        elif url_type == 'pubmed':
+            pubmed_urls.append(url)
+        elif url_type == 'sciencedirect':
+            science_urls.append(url)
+    valid_urls = pubmed_urls + science_urls
+    return valid_urls, pubmed_urls, science_urls,invalided_urls
+
 if __name__ == '__main__':
     pass
     print(url_type('https://www.sciencedirect.com/science/article/pii/S0020025514000358'))

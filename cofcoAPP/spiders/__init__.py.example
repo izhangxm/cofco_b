@@ -61,3 +61,6 @@ read_cached = True
 connected = Value('i',0)
 channel_name = 'view_spider_log'
 group_name = 'group_%s' % channel_name
+
+#特殊kw_id
+special_kw = {'-1992':'PUBMED_ASSIST', '-1991':'SCIENCE_ASSIST'}
