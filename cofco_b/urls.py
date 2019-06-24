@@ -25,6 +25,8 @@ urlpatterns = [
     url(r'^api/v1/getthreadstatus/$', v1.getThreadStatus),
     url(r'^api/v1/controlspider/$', v1.controlSpider),
     url(r'^api/v1/updatecookies/$', v1.update_cookies),
+    url(r'^api/v1/assist/$', v1.assist),
+    url(r'^api/v1/check_urls/$', v1.check_urls),
 ]
 
 websocket_urlpatterns = [ # 路由，指定 websocket 链接对应的 consumer

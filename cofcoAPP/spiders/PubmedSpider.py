@@ -15,6 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
+from cofcoAPP.heplers import __initDjangoEnvironment
 from multiprocessing import Process, Lock
 from multiprocessing import Queue as ProcessQueen
 from multiprocessing.sharedctypes import Value
@@ -25,7 +26,7 @@ import random
 import os
 from requests.exceptions import ConnectionError, ProxyError
 
-from  cofco_b.settings import BASE_DIR
+from cofco_b.settings import BASE_DIR
 from cofcoAPP.spiders import SPIDERS_STATUS, logger
 from cofcoAPP.heplers.SessionHelper import SessionHelper
 from cofcoAPP.heplers import ContentHelper, HeadersHelper
@@ -35,6 +36,8 @@ import json
 from cofcoAPP.models import SpiderKeyWord, Content
 from urllib.parse import unquote
 import asyncio
+from cofcoAPP.models import get_json_model
+
 
 # 任务生成爬虫
 class _pubmedIDWorker(Process):
@@ -391,6 +394,15 @@ class _pubmedContendWorker(Process):
                         retry_times += 1
             raise Exception('Update the session failed!')
 
+        def get_dict_data_from_link(self,url):
+            if(url[-1] == '/'):
+                url = url[:-1]
+            article_id = url.split('/')[-1]
+            xml_str = self.get_raw_content(article_id)
+            content_model = ContentHelper.format_pubmed_xml(xml_str=xml_str)
+            data_dict = get_json_model(content_model)
+            data_dict['art_id'] = article_id
+            return data_dict
 
         def get_raw_content(self, article_id, content_sessionHelper=None, max_retry_times=3):
             sessionHelper = content_sessionHelper
@@ -694,8 +706,14 @@ class SpiderManagerForPubmed(object):
             raise e
 
 if __name__ == '__main__':
-    sfp = SpiderManagerForPubmed(kw_id='23', content_process_num=2, content_thread_num=16, update_times='12',
-                                 create_user_id='uid', create_user_name='uname')
-    print(sfp)
-    sfp.start()
-    print('start successful')
+    # sfp = SpiderManagerForPubmed(kw_id='23', content_process_num=2, content_thread_num=16, update_times='12',
+    #                              create_user_id='uid', create_user_name='uname')
+    # print(sfp)
+    # sfp.start()
+    # print('start successful')
+    worker = _pubmedContendWorker._worker(kw_id=None)
+    xml_str = worker.get_raw_content('31038666')
+    content_model = ContentHelper.format_pubmed_xml(xml_str=xml_str)
+    get_json_model(content_model)
+
+

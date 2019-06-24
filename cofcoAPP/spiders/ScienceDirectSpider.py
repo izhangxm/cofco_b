@@ -33,7 +33,7 @@ from cofcoAPP.heplers import getFTime
 from cofcoAPP import spiders
 from cofcoAPP.models import SpiderKeyWord,Content
 import asyncio
-
+from cofcoAPP.models import get_json_model
 
 # 任务生成爬虫
 class _scienceIDWorker(Process):
@@ -263,6 +263,17 @@ class _scienceContendWorker(Process):
             detail_str_p = re.compile('<script type="application/json" data-iso-key="_0">(\{[\s\S]*?\}\})</script>')
             r = re.search(detail_str_p, rsp_text)
             return r.group(1)
+
+        def get_dict_data_from_link(self,url):
+            if(url[-1] == '/'):
+                url = url[:-1]
+            article_id = url.split('/')[-1]
+            rsp_text = self.get_raw_content(article_id=article_id,max_retry_times=3)
+            details_str = self._find_details_str(rsp_text)
+            content_model = ContentHelper.format_scicent_details(details_str)
+            data_dict = get_json_model(content_model)
+            data_dict['art_id'] = article_id
+            return data_dict
 
         def get_raw_content(self, article_id, content_sessionHelper=None, max_retry_times=3):
             sessionHelper = content_sessionHelper

@@ -4,15 +4,15 @@ from django.db.models import QuerySet
 import json
 
 def get_json_model(object_s):
-    result = {}
-    if isinstance(object_s,QuerySet):
+    results = {}
+    if isinstance(object_s, QuerySet):
         query_set = json.loads(serializers.serialize('json', object_s))
         result = []
         for mode_r in query_set:
             result.append(mode_r['fields'])
     elif str(object_s.__class__.__bases__[0].__name__) == 'Model':
-        result = json.loads(serializers.serialize('json',[object_s]))[0]['fields']
-    return result
+        results = json.loads(serializers.serialize('json',[object_s]))[0]['fields']
+    return results
 
 class Journal(models.Model):
     issn = models.TextField(primary_key=True)

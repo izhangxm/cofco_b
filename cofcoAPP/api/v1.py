@@ -18,16 +18,16 @@
 
 from django.http import JsonResponse
 from cofcoAPP.spiders import SPIDERS_STATUS
-from cofcoAPP.spiders.PubmedSpider import SpiderManagerForPubmed
-from cofcoAPP.spiders.ScienceDirectSpider import SpiderManagerForScience
+from cofcoAPP.spiders.PubmedSpider import SpiderManagerForPubmed,_pubmedContendWorker
+from cofcoAPP.spiders.ScienceDirectSpider import SpiderManagerForScience,_scienceContendWorker
 from cofcoAPP.spiders.JournalSpider import SpiderManagerForJournal
-from cofcoAPP import spiders
-from cofcoAPP.heplers import StatusHelper
+from cofcoAPP.heplers import StatusHelper,ContentHelper
 from cofcoAPP import heplers
 from channels.generic.websocket import AsyncWebsocketConsumer
 from cofcoAPP import spiders
 from collections import deque
 from cofcoAPP.spiders import logfile
+from cofcoAPP.models import get_json_model
 
 #获取进程运行状态，返回值为json
 def getThreadStatus(request):
@@ -167,6 +167,88 @@ def update_cookies(request):
         resp_data['code'] = 25
         resp_data['info'] = 'Failed: ' + str(e)
     return JsonResponse(resp_data)
+
+
+def assist(request):
+    resp_data = {'status': 1, "code": '0', "info": "ok"}
+    try:
+        urls = request.POST.get('urls', None)
+        if urls is None:
+            raise Exception('urls is None')
+        urls = urls.replace(' ', '').split('\n')
+        if len(urls) == 1:
+            url_type = heplers.url_type(urls[0])
+            if url_type == 'pubmed':
+                worker = _pubmedContendWorker._worker(kw_id=None)
+            elif url_type == 'sciencedirect':
+                worker = _scienceContendWorker._worker(kw_id=None)
+            else:
+                raise Exception('Invalided url. Please read the tips on this page!')
+            data_dict = worker.get_dict_data_from_link(urls[0])
+            resp_data['data'] = data_dict
+        else:
+            pubmed_urls = []
+            science_urls = []
+            for url in urls:
+                url_type = heplers.url_type(url)
+                if url_type == 'pubmed':
+                    pubmed_urls.append(url)
+                elif url_type == 'sciencedirect':
+                    science_urls.append(url)
+
+        resp_data['info'] = 'ok'
+
+    except Exception as e:
+        resp_data['status'] = 0
+        resp_data['code'] = 25
+        resp_data['info'] = 'Failed: ' + str(e)
+    return JsonResponse(resp_data)
+
+# 检查用户的url是否合法
+def check_urls(request):
+    resp_data = {'status': 1, "code": '0', "info": "ok"}
+    try:
+        urls = request.POST.get('urls', None)
+        if urls is None:
+            raise Exception('urls is None')
+        urls = urls.replace(' ', '').split('\n')
+
+        # 利用set集合对url自动去重
+        urls = set(urls)
+
+        pubmed_urls = []
+        science_urls = []
+        invalided_urls = []
+
+
+        for url in urls:
+            if len(url)==0:
+                continue
+            url_type, reason = heplers.check_url(url)
+            if reason:
+                invalided_urls.append([url, reason])
+            elif url_type == 'pubmed':
+                pubmed_urls.append(url)
+            elif url_type == 'sciencedirect':
+                science_urls.append(url)
+
+        info = 'Pubmed urls: %d<br/>' % len(pubmed_urls)
+        info += 'ScienceDirect urls: %d<br/>' % len(science_urls)
+        info += 'Invalided urls: %d<br/>' % len(invalided_urls)
+        if len(invalided_urls) > 0:
+            info += 'Invalided urls are listed as follows, please check and confirm their format.<br/>'
+            in_valided_url_string = ""
+            for index, inva_url in enumerate(invalided_urls):
+                in_valided_url_string += '%d/%d. %s[<span style="color:red">%s</span>]<br/>' % (index+1,len(invalided_urls), inva_url[0],inva_url[1])
+            info += in_valided_url_string
+        resp_data['info'] = info
+
+    except Exception as e:
+        resp_data['status'] = 0
+        resp_data['code'] = 25
+        resp_data['info'] = 'Failed: ' + str(e)
+    return JsonResponse(resp_data)
+
 
 class LogConsumer(AsyncWebsocketConsumer):
     async def connect(self):

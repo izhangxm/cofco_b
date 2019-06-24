@@ -21,6 +21,7 @@ import json
 from datetime import datetime
 from channels.layers import get_channel_layer
 from sys import stdout
+from cofcoAPP.models import Content
 import asyncio
 # 获得标准时间
 def getFTime():
@@ -89,3 +90,37 @@ def check_cookies_valid(sessionHelper):
             return r.group(1)
         return False
     raise Exception('Check_cookies_valid Connection Error')
+
+# 判断是Pubmed还是ScienceDirect的网址
+def url_type(url):
+    result = re.match(r'https://www\.sciencedirect\.com/science/article/pii/[\w]+', url)
+    if result:
+        return 'sciencedirect'
+    result = re.match(r'https://www\.ncbi\.nlm\.nih\.gov/pubmed/[\w]+', url)
+    if result:
+        return 'pubmed'
+    return None
+
+
+# 返回url类型和不合法的原因
+def check_url(url):
+    if len(url) == 0:
+        return False, 'Bad Format'
+    if (url[-1] == '/'):
+        url = url[:-1]
+    type_ = url_type(url)
+    reason = None
+    if not type_:
+        reason = 'Bad Format'
+    else:
+        article_id = url.split('/')[-1]
+        ori_content = Content.objects.filter(art_id=article_id)
+        if ori_content:
+            reason = 'Existed'
+    return type_, reason
+
+if __name__ == '__main__':
+    pass
+    print(url_type('https://www.sciencedirect.com/science/article/pii/S0020025514000358'))
+    print(url_type('https://www.ncbi.nlm.nih.gov/pubmed/31038666'))
+    print(url_type('https://www.ncbi.nlm.nih.gov/pubmdddded/31038666'))

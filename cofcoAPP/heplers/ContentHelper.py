@@ -212,6 +212,33 @@ def format_pubmed_xml(xml_str):
     content_model.keyword = list_['Keyword']
     content_model.title = list_['ArticleTitle']
     content_model.journal = list_['Title']
+
+    # 处理期刊信息
+    content_model.impact_factor = None
+    content_model.journal_zone = None
+    # 寻找最可能的结果
+    result = None
+    try:
+        result = Journal.objects.filter(issn=content_model.issnl)
+        if result:
+            raise Exception('')
+        result = Journal.objects.filter(issn=content_model.issne)
+        if result:
+            raise Exception('')
+
+        result = Journal.objects.filter(issn=content_model.issnp)
+        if result:
+            raise Exception('')
+
+        result = Journal.objects.filter(full_name__icontains=content_model.journal)  # 通过期刊名称模糊查询
+        if result:
+            raise Exception('')
+
+    except Exception:
+        if result:
+            journal = result[0]
+            content_model.impact_factor = journal.impact_factor
+            content_model.journal_zone = journal.journal_zone
     return content_model
 
 def is_in_black_list(art_id):
