@@ -218,9 +218,10 @@ def assist(request):
                                                  create_user_name=uname)
                     spider_m_pubmed.add_task(pubmed_urls)
                     spider_m_pubmed.start_assist()
-            elif len(science_urls) > 0:
+
+            if len(science_urls) > 0:
                 if spider_m_science:
-                    spider_m_science.add_task(pubmed_urls)
+                    spider_m_science.add_task(science_urls)
                     spider_m_science.start_assist()
                 else:
                     spider_m_science = SpiderManagerForScience(kw_id='-1991',
@@ -230,7 +231,7 @@ def assist(request):
                                                  content_thread_num=content_thread_num,
                                                  create_user_id=uid,
                                                  create_user_name=uname)
-                    spider_m_science.add_task(pubmed_urls)
+                    spider_m_science.add_task(science_urls)
                     spider_m_science.start_assist()
             resp_data['info'] = '已添加到爬虫任务，请到爬虫任务界面查看进度'
 

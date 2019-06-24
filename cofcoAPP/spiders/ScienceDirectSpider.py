@@ -63,16 +63,19 @@ class _scienceIDWorker(Process):
         # 获得查询字符串
         def get_kw_query_str(self, kw_id):
             try:
-                kw_ = SpiderKeyWord.objects.filter(id=kw_id).values()[0]
-                query_str = ""
-                for key,value in json.loads(kw_['value']).items():
-                    if value == '':
-                        continue
-                    if len(query_str) > 0:
-                        query_str += '&'
-                    if key == 'articleTypes':
-                        value = " ".join(value.keys())
-                    query_str += "%s=%s" %(key,value)
+                if kw_id in special_kw:
+                    query_str = "qs=hash"
+                else:
+                    kw_ = SpiderKeyWord.objects.filter(id=kw_id).values()[0]
+                    query_str = ""
+                    for key,value in json.loads(kw_['value']).items():
+                        if value == '':
+                            continue
+                        if len(query_str) > 0:
+                            query_str += '&'
+                        if key == 'articleTypes':
+                            value = " ".join(value.keys())
+                        query_str += "%s=%s" %(key,value)
                 logger.log(user=self.name, tag='INFO', info="query_str:%s !" % query_str, screen=True)
                 return query_str
             except Exception as e:
