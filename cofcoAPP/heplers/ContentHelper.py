@@ -252,6 +252,7 @@ def content_save(content_model):
     content_model.ctime = int(time.time())
     content_model.impact_factor = None
     content_model.journal_zone = None
+
     # 寻找最可能的结果
     result = None
     try:

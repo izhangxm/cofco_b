@@ -188,7 +188,7 @@ def assist(request):
                 worker = _scienceContendWorker._worker(kw_id=None)
             else:
                 raise Exception('Invalided url. Please read the tips on this page!')
-            data_dict = worker.get_dict_data_from_link(urls[0])
+            data_dict = worker.get_dict_data_from_link(valid_urls[0])
             resp_data['data'] = data_dict
             resp_data['info'] = 'ok'
         else:

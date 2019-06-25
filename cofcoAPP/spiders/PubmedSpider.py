@@ -383,19 +383,6 @@ class _pubmedContendWorker(Process):
                 self.manager = SPIDERS_STATUS[kw_id]
                 self.ids_queen = self.manager.ids_queen
 
-        # 当前的内容获取线程应当基于搜索得到的session
-        # 并设置好头信息
-        def _updateSession(self):
-            retry_times = 1
-            while retry_times <= spiders.ids_max_retry_times:  # 最多重试次数
-                try:
-                    return
-                except Exception as e:
-                    logger.log(user=self.name, tag='ERROR', info=e, screen=True)
-                    if not isinstance(e, ProxyError):
-                        retry_times += 1
-            raise Exception('Update the session failed!')
-
         def get_dict_data_from_link(self,url):
             if(url[-1] == '/'):
                 url = url[:-1]
@@ -413,8 +400,7 @@ class _pubmedContendWorker(Process):
                 try:
                     if not content_sessionHelper:
                         sessionHelper = SessionHelper(header_fun=HeadersHelper.pubmed_content_headers)
-                    xml_rsp = sessionHelper.get(
-                        'https://www.ncbi.nlm.nih.gov/pubmed/' + str(article_id) + '?report=xml&format=text')
+                    xml_rsp = sessionHelper.get('https://www.ncbi.nlm.nih.gov/pubmed/' + str(article_id) + '?report=xml&format=text')
                     if xml_rsp.status_code != 200:
                         raise Exception('Connection Failed')
                     xml_str = xml_rsp.text
