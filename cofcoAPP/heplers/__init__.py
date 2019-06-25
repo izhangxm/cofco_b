@@ -21,7 +21,6 @@ import json
 from datetime import datetime
 from channels.layers import get_channel_layer
 from sys import stdout
-from cofcoAPP.models import Content
 import asyncio
 # 获得标准时间
 def getFTime():
@@ -104,6 +103,7 @@ def url_type(url):
 
 # 返回url类型和不合法的原因
 def check_url(url):
+    from cofcoAPP.models import Content
     if len(url) == 0:
         return False, 'Bad Format'
     if (url[-1] == '/'):

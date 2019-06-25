@@ -21,10 +21,9 @@ import time
 import re
 import html
 import json
-import inspect
-import traceback
 from cofcoAPP import spiders
 from cofcoAPP.spiders import logger
+import asyncio
 
 
 class AutoUpdateConfig(Thread):
@@ -63,8 +62,9 @@ class AutoUpdateConfig(Thread):
         setattr(spiders, key, value)
 
     def run(self):
+        asyncio.set_event_loop(asyncio.new_event_loop())
         self.waiting_for_app_ready() # 只有等到django准备好之后 才能导入相应的包
-        time.sleep(2)
+        time.sleep(3)
         while True:
             try:
                 self.load_all_config()
@@ -87,6 +87,6 @@ class AutoUpdateConfig(Thread):
             except Exception as e:
                 time.sleep(10)
                 logger.log(user='AutoUpdateConfig', tag='ERROR', info=e, screen=True)
-            time.sleep(30)
+            time.sleep(3)
 
 

@@ -84,4 +84,4 @@ class AdminConfig(models.Model):
     mtime = models.IntegerField()
 
     class Meta:
-        db_table = 'hisi_admin_config'
+        db_table = 'hisi_system_config'

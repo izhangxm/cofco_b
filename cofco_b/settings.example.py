@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cofco_v2',
         'USER': 'cofco',
-        'CONN_MAX_AGE': 3600,
+        'CONN_MAX_AGE': 0,
         'PASSWORD': 'cofco',
         'HOST': '127.0.0.1',
         'PORT': '3307',
