@@ -24,7 +24,7 @@ import json
 from cofcoAPP import spiders
 from cofcoAPP.spiders import logger
 import asyncio
-
+from . import close_old_connections
 
 class AutoUpdateConfig(Thread):
     def __init__(self):
@@ -37,6 +37,7 @@ class AutoUpdateConfig(Thread):
 
     def load_all_config(self):
         from cofcoAPP.models import AdminConfig
+        close_old_connections()
         configs = AdminConfig.objects.filter(group='spider')
         for conf_obj in configs:
             key_name = conf_obj.name

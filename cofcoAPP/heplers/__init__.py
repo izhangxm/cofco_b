@@ -22,6 +22,12 @@ from datetime import datetime
 from channels.layers import get_channel_layer
 from sys import stdout
 import asyncio
+from django.db import connections
+
+def close_old_connections():
+    for conn in connections.all():
+        conn.close_if_unusable_or_obsolete()
+
 # 获得标准时间
 def getFTime():
     return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
