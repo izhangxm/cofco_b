@@ -61,6 +61,22 @@ class AutoUpdateConfig(Thread):
         elif type == str:
             value = str(value)
         setattr(spiders, key, value)
+    def update_once(self):
+        self.load_all_config()
+
+        self.set_spiders_value('default_ids_thread_num', int)
+        self.set_spiders_value('default_content_process_num', int)
+        self.set_spiders_value('default_content_thread_num', int)
+
+        self.set_spiders_value('ids_max_retry_times', int)
+        self.set_spiders_value('content_max_retry_times', int)
+        self.set_spiders_value('default_timeout', int)
+        self.set_spiders_value('default_verify', bool)
+
+        self.set_spiders_value('default_use_proxy', bool)
+        self.set_spiders_value('default_proxy_ips_list', list)
+        self.set_spiders_value('opt_headers', dict)
+        self.set_spiders_value('default_proxy_pool_url', str)
 
     def run(self):
         asyncio.set_event_loop(asyncio.new_event_loop())
@@ -68,26 +84,11 @@ class AutoUpdateConfig(Thread):
         time.sleep(3)
         while True:
             try:
-                self.load_all_config()
-
-                self.set_spiders_value('default_ids_thread_num',int)
-                self.set_spiders_value('default_content_process_num', int)
-                self.set_spiders_value('default_content_thread_num', int)
-
-                self.set_spiders_value('ids_max_retry_times', int)
-                self.set_spiders_value('content_max_retry_times', int)
-                self.set_spiders_value('default_timeout', int)
-                self.set_spiders_value('default_verify', bool)
-
-                self.set_spiders_value('default_use_proxy', bool)
-                self.set_spiders_value('default_proxy_ips_list', list)
-                self.set_spiders_value('opt_headers',  dict)
-                self.set_spiders_value('default_proxy_pool_url', str)
-
-                logger.log(user='AutoUpdateConfig', tag='INFO', info='Spider configs have been updated automatically!', screen=True)
+                self.update_once()
+                # logger.log(user='AutoUpdateConfig', tag='INFO', info='Spider configs have been updated automatically!', screen=True)
             except Exception as e:
                 time.sleep(10)
                 logger.log(user='AutoUpdateConfig', tag='ERROR', info=e, screen=True)
-            time.sleep(3)
+            time.sleep(5)
 
 

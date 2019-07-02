@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cofco_v2',
         'USER': 'cofco',
-        'CONN_MAX_AGE': 10368000,
+        'CONN_MAX_AGE': 3600,
         'PASSWORD': 'cofco',
         'HOST': '127.0.0.1',
         'PORT': '3307',
@@ -136,7 +136,3 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, "static/"), ]
 STATIC_ROOT = os.path.join(BASE_DIR, "/static/")
-
-# 启动自动配置
-from cofcoAPP.heplers.ConfigHelper import AutoUpdateConfig
-AutoUpdateConfig().start()

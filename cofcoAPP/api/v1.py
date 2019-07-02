@@ -29,6 +29,7 @@ from collections import deque
 from cofcoAPP.spiders import logfile
 from cofcoAPP.models import get_json_model
 from cofcoAPP.spiders import special_kw
+from cofcoAPP.heplers.ConfigHelper import AutoUpdateConfig
 
 #获取进程运行状态，返回值为json
 def getThreadStatus(request):
@@ -62,6 +63,7 @@ def getThreadStatus(request):
 def controlSpider(request):
     resp_data = {'status': 1, "code": '0', "info": "ok"}
     try:
+        AutoUpdateConfig().update_once()
         action = request.POST.get('action')
         kw_id = request.POST.get('kw_id')
         spider_m = SPIDERS_STATUS.get(kw_id)
@@ -172,6 +174,7 @@ def update_cookies(request):
 def assist(request):
     resp_data = {'status': 1, "code": '0', "info": "ok"}
     try:
+
         urls = request.POST.get('urls', None)
         utype = request.POST.get('utype', 'multi') # 多个模式还是单个模式
         if urls is None:
@@ -192,6 +195,7 @@ def assist(request):
             resp_data['data'] = data_dict
             resp_data['info'] = 'ok'
         else:
+            AutoUpdateConfig().update_once()
             uid = request.POST.get('uid')
             uname = request.POST.get('uname')
             ids_thread_num = int(request.POST.get('ids_thread_num', spiders.default_ids_thread_num))

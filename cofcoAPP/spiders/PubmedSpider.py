@@ -696,8 +696,8 @@ class SpiderManagerForPubmed(object):
     def delete(self):
         error_ = []
         try:
-            SPIDERS_STATUS.pop(self.kw_id, None)
             self.terminate(idsP=True, contentP=True)
+            SPIDERS_STATUS.pop(self.kw_id, None)
         except Exception as e:
             error_.append(e)
         return error_
